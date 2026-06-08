@@ -1,0 +1,38 @@
+{
+  "id": "worldschoolers-kuala-lumpur",
+  "name": "Worldschoolers in Kuala Lumpur",
+  "type": "base_city",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Year round"
+  },
+  "ages": {
+    "min": 5,
+    "note": "5+"
+  },
+  "price": "Free",
+  "educational": "Varies",
+  "description": "An organic community — every family is responsible for themselves; all are welcome. Not a business.",
+  "links": {
+    "facebook": "https://www.facebook.com/WorldschoolersinKualaLumpur"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "southeast-asia",
+    "community",
+    "base-city"
+  ]
+}

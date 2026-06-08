@@ -1,0 +1,24 @@
+{
+  "id": "the-hub-online",
+  "name": "The Hub",
+  "host": "Luba Vangelova",
+  "type": "online_community",
+  "status": "active",
+  "audience": "children",
+  "location": { "online": true, "note": "Online" },
+  "schedule": {
+    "note": "Aug/Sept through Nov/Dec, and Jan/Feb through May/June"
+  },
+  "ages": { "min": 9, "max": 16, "note": "9 to 16+" },
+  "price": "Varies; scholarships available if needed",
+  "length": "Three to five months per term",
+  "educational": "Project-based group work — games, puzzles, collaborative storytelling and art, research and presenting, video production; jointly selected by participants and facilitators",
+  "description": "For tweens and teens who want a consistent but part-time cohort experience, with a community they can belong to longer term (before, during and after travels).",
+  "reviews": "Testimonials in the overview video on the website",
+  "links": { "website": "https://thehub.community", "facebook": "https://www.facebook.com/TheHubCommunityGroup" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["online", "teens", "cohort"]
+}

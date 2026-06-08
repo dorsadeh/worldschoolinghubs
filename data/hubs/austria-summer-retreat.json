@@ -1,0 +1,38 @@
+{
+  "id": "austria-summer-retreat",
+  "name": "Worldschooling Austria Mountain Retreat",
+  "host": "Worldschooling Journeys",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "Austria",
+    "region": "Salzburg",
+    "city": "Bad Gastein",
+    "lat": 47.1136,
+    "lng": 13.1342
+  },
+  "schedule": {
+    "note": "May 31 – July 12 2026 (three 2-week sessions)"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "Starting at €3,500 (14 nights lodging, resort amenities, group activities, retreat leaders)",
+  "length": "2-week sessions",
+  "educational": "Explore the Austrian mountains and local culture as a group — hiking, lakes, eating, local trains and buses",
+  "links": {
+    "website": "https://trips.everyavenue.com/trips#land-trips"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "mountains",
+    "retreat"
+  ]
+}

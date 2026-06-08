@@ -1,0 +1,26 @@
+{
+  "id": "uganda-worldschooling-hub",
+  "name": "Uganda Worldschooling Hub",
+  "host": "Jacqueline & Shafiki Sseggayi-Blankenstein",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "children",
+  "location": {
+    "country": "Uganda",
+    "region": "Wakiso",
+    "city": "Bwerenga, Entebbe",
+    "lat": 0.0463,
+    "lng": 32.4621
+  },
+  "schedule": { "recurring": "summer", "note": "Every summer for 4 weeks" },
+  "ages": { "min": 4, "max": 10 },
+  "price": "$500 per week per child for the 3 hub weeks; accommodation and safari paid separately",
+  "length": "4 weeks (3 weeks hub + safari)",
+  "educational": "Week 1 culture and arts, week 2 nature and agriculture, week 3 animals, birdwatching, swamp eco system and reptile village. Hub runs mornings; afternoons free for families.",
+  "links": { "facebook": "https://www.facebook.com/JacquelineSseggayi" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["africa", "nature", "summer"]
+}

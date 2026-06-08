@@ -1,0 +1,27 @@
+{
+  "id": "inside-romania",
+  "name": "Inside Romania",
+  "host": "Dumitrescu Family",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Romania",
+    "region": "Transylvania",
+    "city": "Măgura",
+    "lat": 45.4833,
+    "lng": 25.25
+  },
+  "schedule": { "note": "June & July 2026" },
+  "ages": { "min": 9, "note": "Teens & tweens 9+ (younger siblings accepted)" },
+  "price": "Varies depending on size of family",
+  "length": "1 month per program",
+  "educational": "Traditional Romanian culture, community and connection",
+  "description": "Located in a traditional Romanian mountain village; a cultural experience for families.",
+  "links": { "website": "https://insideromania.ro/worldschool", "facebook": "https://www.facebook.com/InsideRomania" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["europe", "cultural-immersion", "mountains"]
+}

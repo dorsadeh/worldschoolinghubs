@@ -1,0 +1,37 @@
+{
+  "id": "wander-and-wonder",
+  "name": "Wander & Wonder — The Traveling Adventure School",
+  "host": "Mel Bembers",
+  "type": "recurring_event",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Greece",
+    "region": "Crete",
+    "city": "Crete",
+    "lat": 35.2401,
+    "lng": 24.8093,
+    "note": "Multiple locations: Crete, Sicily, Montenegro, Albania; summer BC Canada; 2027 Vietnam, Okinawa, Lombok"
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Multiple offerings, year round"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "$300 – $600 USD",
+  "length": "3 weeks – 4 months",
+  "educational": "Nature school / field trips",
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "multi-location",
+    "nature"
+  ]
+}

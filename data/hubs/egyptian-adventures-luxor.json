@@ -1,0 +1,28 @@
+{
+  "id": "egyptian-adventures-luxor",
+  "name": "Egyptian Adventures",
+  "host": "Liana Zanin",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "children",
+  "location": {
+    "country": "Egypt",
+    "region": "Luxor",
+    "city": "Luxor",
+    "lat": 25.6872,
+    "lng": 32.6396
+  },
+  "schedule": { "note": "October 25 – April 26; monthly cycles" },
+  "ages": { "min": 3, "max": 17 },
+  "price": "EUR500 / EUR520",
+  "length": "7 months, monthly cycles",
+  "educational": "Montessori-based, child-led, immersive; art & crafts, music, history, culture, nature, excursions, workshops, projects; also for disabled children in wheelchairs",
+  "safety": "1st Responder certified",
+  "reviews": "https://wshluxor.com/testimonials",
+  "links": { "website": "https://egyptianadventures.world", "facebook": "https://www.facebook.com/egyptianadventure" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["africa", "montessori", "accessible"]
+}

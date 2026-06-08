@@ -1,0 +1,29 @@
+{
+  "id": "valencia-forest-school",
+  "name": "Valencia Forest School",
+  "host": "Alison Marchant",
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Spain",
+    "region": "Valencia",
+    "city": "Valencia",
+    "lat": 39.4699,
+    "lng": -0.3763
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "September to July; full-time short-term and long-term places available"
+  },
+  "ages": { "min": 3, "max": 12 },
+  "price": "Short term places €850/month; part time and long term places available at a reduced rate",
+  "length": "Monthly",
+  "educational": "Forest School methodology",
+  "links": { "website": "https://valenciaforestschool.es" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["forest-school", "europe"]
+}

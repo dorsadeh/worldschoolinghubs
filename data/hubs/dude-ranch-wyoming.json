@@ -1,0 +1,44 @@
+{
+  "id": "dude-ranch-wyoming",
+  "name": "Worldschooling Dude Ranch Experience",
+  "host": "Worldschooling Journeys",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "United States",
+    "region": "Wyoming",
+    "lat": 43.076,
+    "lng": -107.29
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-09-06",
+        "end": "2026-09-12",
+        "label": "Dude ranch"
+      }
+    ],
+    "note": "September 6–12 2026"
+  },
+  "ages": {
+    "note": "6+ for horseback riding"
+  },
+  "price": "$3,300 per person",
+  "length": "6 days",
+  "educational": "Exclusive curated dude-ranch experience — horseback riding, cattle driving, farm life, Western history, hands-on learning",
+  "links": {
+    "website": "https://trips.everyavenue.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "north-america",
+    "ranch",
+    "retreat"
+  ]
+}

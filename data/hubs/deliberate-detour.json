@@ -1,0 +1,30 @@
+{
+  "id": "deliberate-detour",
+  "name": "Deliberate Detour",
+  "host": "Stephanie Tolk",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "children",
+  "location": {
+    "country": "Peru",
+    "region": "Cusco",
+    "city": "Cusco",
+    "lat": -13.5319,
+    "lng": -71.9675,
+    "note": "Also runs hubs in Oaxaca, Mexico"
+  },
+  "schedule": {
+    "note": "Cusco: Mar–Aug 2026 (2–3 week sessions). Oaxaca: May–Jul 2026, plus Guelaguetza Festival and Día de los Muertos add-ons"
+  },
+  "ages": { "min": 7, "max": 16 },
+  "price": "Two weeks: $795–$875/child · Three weeks: $1,205–$1,310/child",
+  "length": "Two or three weeks",
+  "educational": "Experiential education",
+  "links": { "website": "https://www.deliberatedetour.com", "facebook": "https://www.facebook.com/deliberatedetour" },
+  "reviews": "https://deliberatedetour.com/testimonials",
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["experiential", "south-america", "multi-location"]
+}

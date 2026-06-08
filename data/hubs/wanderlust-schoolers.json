@@ -1,0 +1,43 @@
+{
+  "id": "wanderlust-schoolers",
+  "name": "Wanderlust Schoolers",
+  "host": "Marcy (Warman) Bond",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "Japan",
+    "city": "Tokyo",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "note": "Cruise around Japan"
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-10-02",
+        "end": "2026-10-28",
+        "label": "Japan cruise"
+      }
+    ],
+    "note": "October 2–28 2026"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "Varies",
+  "length": "17 nights and 9 nights — choose 1 or both cruises",
+  "links": {
+    "facebook": "https://www.facebook.com/groups/wanderlustschoolers"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "asia",
+    "cruise"
+  ]
+}

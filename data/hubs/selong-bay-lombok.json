@@ -1,0 +1,30 @@
+{
+  "id": "selong-bay-lombok",
+  "name": "Selong Bay WorldSchooling Hub",
+  "host": "Elizabeth Berryman",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Indonesia",
+    "region": "Lombok",
+    "city": "Selong Belanak",
+    "lat": -8.8556,
+    "lng": 116.1283
+  },
+  "schedule": {
+    "note": "Jan 19 – 27th March; April 13 – 20th June; 20th July – 26th Sept; 5th Oct – 12th Dec; from 18th Jan 2027"
+  },
+  "ages": { "min": 2, "max": 18 },
+  "price": "$720 USD per month (minimum 1 month, full year available)",
+  "length": "Minimum 1 month",
+  "educational": "Cambridge curriculum, Australian National Curriculum and Indonesia's Curriculum Merdeka; supervision of students' own homeschooling or online programme",
+  "safety": "Activities focus on surfing, skateboarding, permaculture, fishing, waterfall trekking, nature and outdoor focus",
+  "reviews": "Can contact families to speak to directly",
+  "links": { "website": "https://www.selongbayschool.com" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["southeast-asia", "surf", "outdoors"]
+}

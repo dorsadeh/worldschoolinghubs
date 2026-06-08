@@ -1,0 +1,35 @@
+{
+  "id": "wild-hearts-collective",
+  "name": "Wild Hearts Collective",
+  "host": "Kay Choma and Joshua Macias",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Indonesia",
+    "region": "Bali",
+    "city": "Sanur",
+    "lat": -8.6881,
+    "lng": 115.2625
+  },
+  "schedule": {
+    "note": "May, June, July and August 2026"
+  },
+  "ages": {
+    "min": 4,
+    "max": 12
+  },
+  "price": "$750 USD",
+  "length": "3 weeks",
+  "educational": "Cultural enrichment and play-based learning",
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "southeast-asia",
+    "play-based"
+  ]
+}

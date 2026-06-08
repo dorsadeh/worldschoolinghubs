@@ -1,0 +1,31 @@
+{
+  "id": "guanacaste-childrens-center",
+  "name": "Guanacaste Children's Community Center",
+  "host": "Katherine & Roxana",
+  "aliases": ["GCCC Hub"],
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Costa Rica",
+    "region": "Guanacaste",
+    "city": "Huacas",
+    "lat": 10.3686,
+    "lng": -85.7406
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Year round except for the last 2 weeks in August"
+  },
+  "ages": { "note": "18 months – 14 years" },
+  "price": "$250 weekly / $600 monthly (1 week minimum)",
+  "length": "1 week minimum",
+  "educational": "Montessori-inspired academics, bilingual instruction, nature-based hands-on learning, life skills, community volunteering and events",
+  "reviews": "Google",
+  "links": { "website": "https://www.gccckids.com" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["central-america", "montessori", "bilingual"]
+}

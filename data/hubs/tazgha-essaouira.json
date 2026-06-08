@@ -1,0 +1,38 @@
+{
+  "id": "tazgha-essaouira",
+  "name": "Tazgha Resort (Essaouira)",
+  "host": "Mai Karfawi",
+  "type": "permanent",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Morocco",
+    "region": "Marrakech-Safi",
+    "city": "Essaouira",
+    "lat": 31.5085,
+    "lng": -9.7595
+  },
+  "schedule": {
+    "note": "June – December"
+  },
+  "ages": {
+    "min": 4,
+    "max": 18
+  },
+  "price": "£1,200 per month per family",
+  "length": "One month",
+  "educational": "Private program",
+  "links": {
+    "website": "https://www.tazgha.com"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "africa",
+    "coast"
+  ]
+}

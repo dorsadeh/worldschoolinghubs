@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "learn-to-sail-greece",
+    "name": "\"Learn to Sail\" Family Adventure (Greece / Balkans)",
+    "host": "Every Avenue Travel",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Greece",
+      "city": "Greek Islands",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "online": false,
+      "note": "Greek Islands or the Balkans (Croatia, Albania, Montenegro)"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "May – Greece; early June – Greek Islands or the Balkans"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "$1,475 per person",
+    "length": "7 days",
+    "educational": "Sailing basics, water adventures, snorkelling, paddleboarding, secluded beaches and cave exploration",
+    "links": {
+      "instagram": "https://instagram.com/ourlittlevoyages"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "sailing",
+      "europe",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "amani-light-tanzania",
+    "name": "Amani Light Worldschool Hub Tanzania",
+    "host": "Marissa Lipovsky",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Tanzania",
+      "region": "Kilimanjaro",
+      "city": "Moshi",
+      "lat": -3.3349,
+      "lng": 37.3404,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Sept 15 – Oct 10 2025; Feb 2–27 2026; June 1–26 2026"
+    },
+    "ages": {
+      "note": "Any age welcome; children under 4 supervised by a parent during safari activities"
+    },
+    "price": "Family of 2 = $3,000 up to Family of 5 = $3,900 (optional 4th week of safari)",
+    "length": "3 weeks (with optional 4th safari week)",
+    "educational": "Natural building practices and methods, cultural immersion, nature, and the arts",
+    "safety": "Safety matters discussed; distance to hospital, first aid measures; intro video call before joining",
+    "reviews": "https://g.co/kgs/HFnh8xU",
+    "links": {
+      "website": "https://worldschooly.com/hub/worldschooling-tanzania",
+      "facebook": "https://www.facebook.com/groups/956996229464143"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "africa",
+      "nature",
+      "safari"
+    ]
+  },
+  {
+    "id": "andalusia-nomad-mums",
+    "name": "Andalusia Nomad Mums (co-living for mums and kids)",
+    "host": "Claudia Bellante",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Spain",
+      "region": "Andalusia",
+      "city": "Chiclana de la Frontera",
+      "lat": 36.4193,
+      "lng": -6.1462,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "1–29 Oct 2025; 1–29 Apr, 1–29 May, 1–15 Jun, 1–29 Oct 2026"
+    },
+    "ages": {
+      "min": 2,
+      "max": 12
+    },
+    "price": "From €2,940 per month (co-living, private room, shared bathroom)",
+    "length": "One month or 2 weeks",
+    "educational": "Forest/beach school in pine forest and on the beach; bilingual Spanish/English educators, mornings 9am–2pm",
+    "reviews": "Instagram; contacts of mothers who participated available",
+    "links": {
+      "instagram": "https://instagram.com/andalucia_nomad_mums"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "co-living",
+      "mums"
+    ]
+  },
+  {
+    "id": "antigua-guatemala-global-explorers",
+    "name": "Antigua Guatemala Global Explorers",
+    "host": "Gabriela Alfaro",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Guatemala",
+      "region": "Sacatepéquez",
+      "city": "Antigua Guatemala",
+      "lat": 14.5586,
+      "lng": -90.7295,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "permanent",
+      "sessions": [],
+      "note": "4-week program; shorter or longer participation permitted"
+    },
+    "ages": {
+      "min": 3,
+      "max": 17
+    },
+    "price": "$650–$850 for the 4-week program",
+    "length": "4 weeks",
+    "educational": "Guatemalan-owned and led cultural exchange program; safe, healthy, creative environment immersing in culture, traditions and language of Guatemala",
+    "links": {
+      "website": "https://www.antiguaworldschool.com",
+      "facebook": "https://www.facebook.com/share/g/12LvQG7Whr8"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "cultural-immersion",
+      "central-america",
+      "locally-led"
+    ]
+  },
+  {
+    "id": "artsville-valenciana",
+    "name": "ArtsVille Valenciana",
+    "host": "Shirin, Nina, Christian",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Spain",
+      "region": "Alicante",
+      "city": "Tibi",
+      "lat": 38.5258,
+      "lng": -0.5892,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Whole year round"
+    },
+    "ages": {
+      "min": 1,
+      "max": 19,
+      "note": "Kids academy, teens academy"
+    },
+    "price": "Medium to high",
+    "length": "From 3 weeks to 3 months to 3 years",
+    "educational": "Kids academy, teens academy; co-founding programs for entrepreneurs available",
+    "links": {
+      "website": "https://www.virtuosity.art"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "arts"
+    ]
+  },
+  {
+    "id": "cacao-coast-classroom",
+    "name": "Cacao Coast Classroom",
+    "host": "Claire and Sam",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Caribbean Coast",
+      "city": "Puerto Viejo",
+      "lat": 9.6553,
+      "lng": -82.7541,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Seasonal 'Seeds & Stories' and 'Roots & Rhythms' terms across 2026–2027 (Summer, Autumn, Spring, Late Spring)"
+    },
+    "ages": {
+      "min": 7,
+      "note": "7+"
+    },
+    "price": "$2,800",
+    "length": "3 weeks",
+    "educational": "Cooking, conservation, community, culture",
+    "reviews": "https://www.trustpilot.com/review/cacaocoastcr.com",
+    "links": {
+      "website": "https://www.cacaocoastcr.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "central-america",
+      "nature",
+      "culture"
+    ]
+  },
+  {
+    "id": "deliberate-detour",
+    "name": "Deliberate Detour",
+    "host": "Stephanie Tolk",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "children",
+    "location": {
+      "country": "Peru",
+      "region": "Cusco",
+      "city": "Cusco",
+      "lat": -13.5319,
+      "lng": -71.9675,
+      "online": false,
+      "note": "Also runs hubs in Oaxaca, Mexico"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Cusco: Mar–Aug 2026 (2–3 week sessions). Oaxaca: May–Jul 2026, plus Guelaguetza Festival and Día de los Muertos add-ons"
+    },
+    "ages": {
+      "min": 7,
+      "max": 16
+    },
+    "price": "Two weeks: $795–$875/child · Three weeks: $1,205–$1,310/child",
+    "length": "Two or three weeks",
+    "educational": "Experiential education",
+    "reviews": "https://deliberatedetour.com/testimonials",
+    "links": {
+      "website": "https://www.deliberatedetour.com",
+      "facebook": "https://www.facebook.com/deliberatedetour"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "experiential",
+      "south-america",
+      "multi-location"
+    ]
+  },
+  {
+    "id": "egyptian-adventures-luxor",
+    "name": "Egyptian Adventures",
+    "host": "Liana Zanin",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "children",
+    "location": {
+      "country": "Egypt",
+      "region": "Luxor",
+      "city": "Luxor",
+      "lat": 25.6872,
+      "lng": 32.6396,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "October 25 – April 26; monthly cycles"
+    },
+    "ages": {
+      "min": 3,
+      "max": 17
+    },
+    "price": "EUR500 / EUR520",
+    "length": "7 months, monthly cycles",
+    "educational": "Montessori-based, child-led, immersive; art & crafts, music, history, culture, nature, excursions, workshops, projects; also for disabled children in wheelchairs",
+    "safety": "1st Responder certified",
+    "reviews": "https://wshluxor.com/testimonials",
+    "links": {
+      "website": "https://egyptianadventures.world",
+      "facebook": "https://www.facebook.com/egyptianadventure"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "africa",
+      "montessori",
+      "accessible"
+    ]
+  },
+  {
+    "id": "espionage-engineers",
+    "name": "Espionage Engineers",
+    "host": "Lise Whitfield",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Estonia",
+      "region": "Harju",
+      "city": "Tallinn",
+      "lat": 59.437,
+      "lng": 24.7536,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-08-17",
+          "end": "2026-09-10",
+          "label": "Summer term"
+        }
+      ],
+      "note": "Aug 17 – Sep 10 2026"
+    },
+    "ages": {
+      "min": 12,
+      "max": 15
+    },
+    "price": "$2,650",
+    "length": "4 weeks",
+    "educational": "4 academic learning days/week with US-licensed teacher: math, history, science, engineering",
+    "links": {
+      "website": "https://www.worldwiselearningadventures.org/"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "academic",
+      "teens"
+    ]
+  },
+  {
+    "id": "folkortation",
+    "name": "Folkortation",
+    "host": "Coordination Rebecca Wegmann",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Thailand",
+      "region": "Ubon Ratchathani",
+      "city": "Mekong River",
+      "lat": 15.2448,
+      "lng": 104.8473,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Contact for dates — 2025 & 2026"
+    },
+    "ages": {
+      "min": 3,
+      "max": 60,
+      "note": "Whole family"
+    },
+    "price": "Contact for brochure",
+    "length": "4 days, 3 nights",
+    "educational": "Live with locals along the Mekong — fishing, farming, cooking and traditional practices; English–Thai-speaking guide included",
+    "links": {
+      "facebook": "https://www.facebook.com/folkortationthailand"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "cultural-immersion"
+    ]
+  },
+  {
+    "id": "future-human-school-bali",
+    "name": "Future Human School Bali",
+    "host": "Richard Flanagan",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Indonesia",
+      "region": "Bali",
+      "city": "Ubud",
+      "lat": -8.5069,
+      "lng": 115.2625,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "All year; 8–10 weeks dependent on national holidays"
+    },
+    "ages": {
+      "note": "9–10, 11–16"
+    },
+    "price": "$2,200 – $3,000",
+    "length": "8–10 weeks",
+    "educational": "Project-based learning",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "project-based"
+    ]
+  },
+  {
+    "id": "galactic-gazers",
+    "name": "Galactic Gazers",
+    "host": "Lise Whitfield",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "France",
+      "region": "Provence",
+      "city": "Aix-en-Provence",
+      "lat": 43.5297,
+      "lng": 5.4474,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-09-14",
+          "end": "2026-10-08",
+          "label": "Autumn term"
+        }
+      ],
+      "note": "Sep 14 – Oct 8 2026"
+    },
+    "ages": {
+      "min": 9,
+      "max": 12
+    },
+    "price": "$3,250",
+    "length": "4 weeks",
+    "educational": "4 academic learning days/week with US-licensed teacher: math tutorials, French language, science, literacy, movement",
+    "links": {
+      "website": "https://www.worldwiselearningadventures.org/"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "academic"
+    ]
+  },
+  {
+    "id": "guanacaste-childrens-center",
+    "name": "Guanacaste Children's Community Center",
+    "host": "Katherine & Roxana",
+    "aliases": [
+      "GCCC Hub"
+    ],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste",
+      "city": "Huacas",
+      "lat": 10.3686,
+      "lng": -85.7406,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Year round except for the last 2 weeks in August"
+    },
+    "ages": {
+      "note": "18 months – 14 years"
+    },
+    "price": "$250 weekly / $600 monthly (1 week minimum)",
+    "length": "1 week minimum",
+    "educational": "Montessori-inspired academics, bilingual instruction, nature-based hands-on learning, life skills, community volunteering and events",
+    "reviews": "Google",
+    "links": {
+      "website": "https://www.gccckids.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "central-america",
+      "montessori",
+      "bilingual"
+    ]
+  },
+  {
+    "id": "inside-romania",
+    "name": "Inside Romania",
+    "host": "Dumitrescu Family",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Romania",
+      "region": "Transylvania",
+      "city": "Măgura",
+      "lat": 45.4833,
+      "lng": 25.25,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "June & July 2026"
+    },
+    "ages": {
+      "min": 9,
+      "note": "Teens & tweens 9+ (younger siblings accepted)"
+    },
+    "price": "Varies depending on size of family",
+    "length": "1 month per program",
+    "educational": "Traditional Romanian culture, community and connection",
+    "description": "Located in a traditional Romanian mountain village; a cultural experience for families.",
+    "links": {
+      "website": "https://insideromania.ro/worldschool",
+      "facebook": "https://www.facebook.com/InsideRomania"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "cultural-immersion",
+      "mountains"
+    ]
+  },
+  {
+    "id": "iyari-play",
+    "name": "Iyari Play Family Learning Retreat",
+    "host": "Nicole Marie Majewski",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Mexico",
+      "region": "Nayarit",
+      "city": "Lo de Marcos",
+      "lat": 20.9203,
+      "lng": -105.3631,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-04-06",
+          "label": "Spring retreat"
+        }
+      ],
+      "note": "March 30 – April 6 2026"
+    },
+    "ages": {
+      "min": 3,
+      "max": 12
+    },
+    "price": "$450 USD/child, $400 USD/adult",
+    "length": "7 days 6 nights",
+    "educational": "Nature immersion, bilingual learning, local flora and fauna, community outreach, natural sciences",
+    "reviews": "On website or via email",
+    "links": {
+      "website": "https://www.iyariplay.org"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "latin-america",
+      "nature"
+    ]
+  },
+  {
+    "id": "jewish-worldschoolers",
+    "name": "Jewish Worldschoolers",
+    "host": "Rachael Love Cohen",
+    "aliases": [],
+    "type": "online_community",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "online": true,
+      "note": "Location TBD"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "2026 date TBD"
+    },
+    "ages": {
+      "min": 0,
+      "max": 100
+    },
+    "description": "Due to the nature of antisemitism in the world today, this group carefully monitors participants.",
+    "links": {
+      "facebook": "https://www.facebook.com/groups/JewishWorldschoolers"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "online",
+      "community",
+      "affinity-group"
+    ]
+  },
+  {
+    "id": "krabi-family-fun",
+    "name": "Krabi Family Fun!",
+    "host": "Hadas Korn",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Thailand",
+      "region": "Krabi",
+      "city": "Ao Nang",
+      "lat": 8.0322,
+      "lng": 98.8211,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "June 14–18, and every month"
+    },
+    "ages": {
+      "min": 0,
+      "max": 99
+    },
+    "price": "Free",
+    "length": "5 days",
+    "educational": "Economic, nature loving, music",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "meetup",
+      "southeast-asia",
+      "free"
+    ]
+  },
+  {
+    "id": "northern-spain-immersion",
+    "name": "Language and Cultural Immersion Northern Spain",
+    "host": "Alexandra Castro",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Spain",
+      "region": "Northern Spain",
+      "lat": 43.4623,
+      "lng": -3.8099,
+      "online": false,
+      "note": "Northern rural Spain"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "July, August, September, October 2026 sessions"
+    },
+    "ages": {
+      "min": 3,
+      "max": 12
+    },
+    "price": "Per month",
+    "length": "One month",
+    "educational": "Montessori and Reggio-inspired program (IB PYP / US Reggio-inspired certified teacher)",
+    "reviews": "References from previous parents available",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "montessori",
+      "language"
+    ]
+  },
+  {
+    "id": "languaventure-fethiye",
+    "name": "Languaventure International Learning Centre & Camps",
+    "host": "Sean Paul",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Turkey",
+      "region": "Muğla",
+      "city": "Fethiye",
+      "lat": 36.6213,
+      "lng": 29.1164,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Throughout the academic year and school holidays"
+    },
+    "ages": {
+      "min": 4,
+      "max": 11
+    },
+    "price": "Depending on the programme; weekly, monthly or termly payment schedules",
+    "length": "Year round",
+    "educational": "Thematic learning following the English National Curriculum, face to face with UK teachers",
+    "description": "Full and part-time learning for worldschooling, nomadic and home-school families in a relaxed alternative.",
+    "links": {
+      "website": "https://languaventure.com/services/international-learning-centre"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "learning-centre",
+      "english-curriculum"
+    ]
+  },
+  {
+    "id": "las-semillitas",
+    "name": "Las Semillitas",
+    "host": "Belle Hiffmann",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Spain",
+      "region": "Valencia",
+      "lat": 39.1,
+      "lng": -0.4,
+      "online": false,
+      "note": "40km south of Valencia"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "From January 2025 onwards"
+    },
+    "ages": {
+      "min": 3,
+      "max": 99
+    },
+    "price": "To be agreed upon",
+    "length": "4 hours a day",
+    "educational": "Worldschooling, nature, forest-school, Montessori-oriented; social worker / theatre teacher in charge",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "forest-school"
+    ]
+  },
+  {
+    "id": "lumina-academy",
+    "name": "Lumina Academy",
+    "host": "María Nordwind",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Spain",
+      "region": "Cádiz",
+      "city": "El Puerto de Santa María",
+      "lat": 36.5939,
+      "lng": -6.2331,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "All year except August and Spanish public holidays"
+    },
+    "ages": {
+      "min": 3,
+      "max": 12,
+      "note": "After-school family events 6–12"
+    },
+    "price": "€150–€480 per month (longer stays discounted)",
+    "length": "Month (weeks also possible)",
+    "educational": "Waldorf-inspired",
+    "reviews": "Google",
+    "links": {
+      "website": "https://www.luminaedu.org"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "waldorf"
+    ]
+  },
+  {
+    "id": "madrasa-dunya-morocco",
+    "name": "Madrasa Dunya Worldschool Morocco",
+    "host": "Jenna Maria Pedersen",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Morocco",
+      "region": "Marrakech-Safi",
+      "city": "Ourika river, High Atlas mountains",
+      "lat": 31.3597,
+      "lng": -7.7436,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Open full time all year besides seasonal holidays; open since 01-01-2023"
+    },
+    "ages": {
+      "note": "All ages + special teen hub"
+    },
+    "price": "From ~2000 MAD per week per child (long term ~2600 MAD/week all inclusive); meals, field trips and facilities included",
+    "length": "2, 4, 6 weeks; long term",
+    "educational": "Sociocratic/democratic, forest/nature, Waldorf own curriculum guided by natural daily rhythm; neurodivergent friendly",
+    "links": {
+      "website": "https://www.md-worldschoolmorocco.com",
+      "facebook": "https://www.facebook.com/groups/956900099"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "africa",
+      "nature",
+      "neurodivergent-friendly"
+    ]
+  },
+  {
+    "id": "nyskool",
+    "name": "NYsKOOL",
+    "host": "Andrei",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Spain",
+      "region": "Catalonia",
+      "city": "Barcelona",
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "online": false,
+      "note": "Also Lisbon, Portugal"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "08/09/25 – 31/07/26 (11 months)"
+    },
+    "ages": {
+      "min": 5,
+      "max": 15
+    },
+    "price": "€600–€850 per month",
+    "length": "11 months",
+    "educational": "American curriculum and Finnish methodology; hybrid in-person and online",
+    "reviews": "Internal surveys only",
+    "links": {
+      "website": "https://www.nyskool.org"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "hybrid"
+    ]
+  },
+  {
+    "id": "pop-up-hub-warsaw",
+    "name": "Pop Up Hub Warsaw",
+    "host": "Ewa Waslicka",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Poland",
+      "region": "Masovia",
+      "city": "Warsaw",
+      "lat": 52.2297,
+      "lng": 21.0122,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-06-28",
+          "end": "2026-07-04",
+          "label": "Warsaw pop-up"
+        }
+      ],
+      "note": "28.06–04.07.2026"
+    },
+    "ages": {
+      "min": 1,
+      "max": 99
+    },
+    "price": "180 USD",
+    "length": "7 days",
+    "educational": "Sightseeing",
+    "links": {
+      "website": "https://www.worldschoolpopuphub.com/events/warsaw-poland-june-2026",
+      "facebook": "https://www.facebook.com/groups/warsawpopup2026"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "pop-up",
+      "city"
+    ]
+  },
+  {
+    "id": "sacred-roots-hub",
+    "name": "Sacred Roots Hub",
+    "host": "Alexey and Issa",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Peru",
+      "region": "Sacred Valley, Cusco",
+      "city": "Between Calca and Urubamba",
+      "lat": -13.3089,
+      "lng": -72.0997,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Starts November 7th 2025 and continues all year round — families can join anytime"
+    },
+    "ages": {
+      "min": 3,
+      "max": 16
+    },
+    "price": "Education program: $500/child/month per 2 children · Accommodation: $800/family/month",
+    "length": "Year round",
+    "educational": "Holistic — nature, art, music, movement, hands-on science; multiple intelligences, emotional awareness, mindfulness; inclusive for neurodivergent children",
+    "description": "A safe, peaceful region surrounded by mountains, rivers and local communities; close-knit, family-centered environment.",
+    "links": {
+      "website": "https://sacred-roots.lovable.app"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "south-america",
+      "nature",
+      "neurodivergent-friendly"
+    ]
+  },
+  {
+    "id": "sas-academy",
+    "name": "Sas Academy",
+    "host": "Renata Kecskés",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "children",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo",
+      "city": "Playa del Carmen",
+      "lat": 20.6296,
+      "lng": -87.0739,
+      "online": false,
+      "note": "Also dates in Cancún"
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-07-28",
+          "end": "2026-08-01",
+          "label": "Playa del Carmen"
+        }
+      ],
+      "note": "28 July–1 Aug; more dates in Cancún"
+    },
+    "ages": {
+      "min": 12,
+      "max": 18
+    },
+    "length": "08:30–16:00 for the week",
+    "educational": "AI for kids and community building",
+    "links": {
+      "website": "https://www.sas.ac"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "latin-america",
+      "ai",
+      "teens"
+    ]
+  },
+  {
+    "id": "selong-bay-lombok",
+    "name": "Selong Bay WorldSchooling Hub",
+    "host": "Elizabeth Berryman",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Indonesia",
+      "region": "Lombok",
+      "city": "Selong Belanak",
+      "lat": -8.8556,
+      "lng": 116.1283,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Jan 19 – 27th March; April 13 – 20th June; 20th July – 26th Sept; 5th Oct – 12th Dec; from 18th Jan 2027"
+    },
+    "ages": {
+      "min": 2,
+      "max": 18
+    },
+    "price": "$720 USD per month (minimum 1 month, full year available)",
+    "length": "Minimum 1 month",
+    "educational": "Cambridge curriculum, Australian National Curriculum and Indonesia's Curriculum Merdeka; supervision of students' own homeschooling or online programme",
+    "safety": "Activities focus on surfing, skateboarding, permaculture, fishing, waterfall trekking, nature and outdoor focus",
+    "reviews": "Can contact families to speak to directly",
+    "links": {
+      "website": "https://www.selongbayschool.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "surf",
+      "outdoors"
+    ]
+  },
+  {
+    "id": "semillitas-spanish-nature",
+    "name": "Semillitas Spanish in Nature",
+    "host": "Alejandra Jiménez",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Mexico",
+      "region": "Morelos",
+      "city": "Cuernavaca",
+      "lat": 18.9242,
+      "lng": -99.2216,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-07-27",
+          "end": "2026-08-01",
+          "label": "Summer immersion"
+        }
+      ],
+      "note": "July 27th – August 1st 2026"
+    },
+    "ages": {
+      "min": 6,
+      "note": "6+ and parents"
+    },
+    "price": "$1,470 all inclusive",
+    "length": "1 week",
+    "educational": "Language immersion, environmental education and cultural learning; entrances, guided tours, local transport, 3 meals a day",
+    "reviews": "Facebook page",
+    "links": {
+      "website": "https://www.semillitasspanishinnature.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "latin-america",
+      "language",
+      "nature"
+    ]
+  },
+  {
+    "id": "tazgha-essaouira",
+    "name": "Tazgha Resort (Essaouira)",
+    "host": "Mai Karfawi",
+    "aliases": [],
+    "type": "permanent",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Morocco",
+      "region": "Marrakech-Safi",
+      "city": "Essaouira",
+      "lat": 31.5085,
+      "lng": -9.7595,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "June – December"
+    },
+    "ages": {
+      "min": 4,
+      "max": 18
+    },
+    "price": "£1,200 per month per family",
+    "length": "One month",
+    "educational": "Private program",
+    "links": {
+      "website": "https://www.tazgha.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "africa",
+      "coast"
+    ]
+  },
+  {
+    "id": "the-hive-dominican",
+    "name": "The Hive",
+    "host": "Kate Maccallister",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Dominican Republic",
+      "city": "Various",
+      "lat": 18.4861,
+      "lng": -69.9312,
+      "online": false,
+      "note": "Various locations on website"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Various dates and locations — see website"
+    },
+    "ages": {
+      "note": "All ages welcome"
+    },
+    "price": "Varies — check website",
+    "length": "From 2 weeks, stays up to 6 weeks",
+    "educational": "Micro projects, community engagement, regeneration projects, nature walks, beaches, learning through doing",
+    "safety": "Safe and secure",
+    "links": {
+      "website": "https://www.thehiveadventure.com"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "caribbean",
+      "nature"
+    ]
+  },
+  {
+    "id": "the-hub-online",
+    "name": "The Hub",
+    "host": "Luba Vangelova",
+    "aliases": [],
+    "type": "online_community",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "online": true,
+      "note": "Online"
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Aug/Sept through Nov/Dec, and Jan/Feb through May/June"
+    },
+    "ages": {
+      "min": 9,
+      "max": 16,
+      "note": "9 to 16+"
+    },
+    "price": "Varies; scholarships available if needed",
+    "length": "Three to five months per term",
+    "educational": "Project-based group work — games, puzzles, collaborative storytelling and art, research and presenting, video production; jointly selected by participants and facilitators",
+    "description": "For tweens and teens who want a consistent but part-time cohort experience, with a community they can belong to longer term (before, during and after travels).",
+    "reviews": "Testimonials in the overview video on the website",
+    "links": {
+      "website": "https://thehub.community",
+      "facebook": "https://www.facebook.com/TheHubCommunityGroup"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "online",
+      "teens",
+      "cohort"
+    ]
+  },
+  {
+    "id": "uganda-worldschooling-hub",
+    "name": "Uganda Worldschooling Hub",
+    "host": "Jacqueline & Shafiki Sseggayi-Blankenstein",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "children",
+    "location": {
+      "country": "Uganda",
+      "region": "Wakiso",
+      "city": "Bwerenga, Entebbe",
+      "lat": 0.0463,
+      "lng": 32.4621,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "summer",
+      "sessions": [],
+      "note": "Every summer for 4 weeks"
+    },
+    "ages": {
+      "min": 4,
+      "max": 10
+    },
+    "price": "$500 per week per child for the 3 hub weeks; accommodation and safari paid separately",
+    "length": "4 weeks (3 weeks hub + safari)",
+    "educational": "Week 1 culture and arts, week 2 nature and agriculture, week 3 animals, birdwatching, swamp eco system and reptile village. Hub runs mornings; afternoons free for families.",
+    "links": {
+      "facebook": "https://www.facebook.com/JacquelineSseggayi"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "africa",
+      "nature",
+      "summer"
+    ]
+  },
+  {
+    "id": "valencia-forest-school",
+    "name": "Valencia Forest School",
+    "host": "Alison Marchant",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "country": "Spain",
+      "region": "Valencia",
+      "city": "Valencia",
+      "lat": 39.4699,
+      "lng": -0.3763,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "September to July; full-time short-term and long-term places available"
+    },
+    "ages": {
+      "min": 3,
+      "max": 12
+    },
+    "price": "Short term places €850/month; part time and long term places available at a reduced rate",
+    "length": "Monthly",
+    "educational": "Forest School methodology",
+    "links": {
+      "website": "https://valenciaforestschool.es"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "forest-school",
+      "europe"
+    ]
+  },
+  {
+    "id": "wander-and-wonder",
+    "name": "Wander & Wonder — The Traveling Adventure School",
+    "host": "Mel Bembers",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Greece",
+      "region": "Crete",
+      "city": "Crete",
+      "lat": 35.2401,
+      "lng": 24.8093,
+      "online": false,
+      "note": "Multiple locations: Crete, Sicily, Montenegro, Albania; summer BC Canada; 2027 Vietnam, Okinawa, Lombok"
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Multiple offerings, year round"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "$300 – $600 USD",
+    "length": "3 weeks – 4 months",
+    "educational": "Nature school / field trips",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "multi-location",
+      "nature"
+    ]
+  },
+  {
+    "id": "wanderlust-schoolers",
+    "name": "Wanderlust Schoolers",
+    "host": "Marcy (Warman) Bond",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "online": false,
+      "note": "Cruise around Japan"
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-10-02",
+          "end": "2026-10-28",
+          "label": "Japan cruise"
+        }
+      ],
+      "note": "October 2–28 2026"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "Varies",
+    "length": "17 nights and 9 nights — choose 1 or both cruises",
+    "links": {
+      "facebook": "https://www.facebook.com/groups/wanderlustschoolers"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "asia",
+      "cruise"
+    ]
+  },
+  {
+    "id": "wild-hearts-collective",
+    "name": "Wild Hearts Collective",
+    "host": "Kay Choma and Joshua Macias",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "families",
+    "location": {
+      "country": "Indonesia",
+      "region": "Bali",
+      "city": "Sanur",
+      "lat": -8.6881,
+      "lng": 115.2625,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "May, June, July and August 2026"
+    },
+    "ages": {
+      "min": 4,
+      "max": 12
+    },
+    "price": "$750 USD",
+    "length": "3 weeks",
+    "educational": "Cultural enrichment and play-based learning",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "play-based"
+    ]
+  },
+  {
+    "id": "world-school-popup-el-salvador",
+    "name": "World School Pop Up El Salvador",
+    "host": "Shannon Falkenstein / Acton Academy El Salvador",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "children",
+    "location": {
+      "country": "El Salvador",
+      "region": "La Libertad",
+      "city": "Antiguo Cuscatlán",
+      "lat": 13.6731,
+      "lng": -89.2442,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-07-06",
+          "end": "2026-07-25",
+          "label": "Pilot pop-up"
+        }
+      ],
+      "note": "6–25 July 2026"
+    },
+    "ages": {
+      "min": 3,
+      "max": 16,
+      "note": "3 – 16+"
+    },
+    "price": "$800",
+    "length": "3+ weeks",
+    "educational": "Spanish immersion and Montessori cultural camp; for 7–16s a Business Builders Camp culminating in a Children's Business Fair",
+    "links": {
+      "website": "http://www.actonacademyelsalvador.com/worldschool-hub"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "central-america",
+      "language",
+      "entrepreneurship"
+    ]
+  },
+  {
+    "id": "worldly-teens",
+    "name": "Worldly Teens",
+    "host": "Sophie Morris",
+    "aliases": [],
+    "type": "online_community",
+    "status": "active",
+    "audience": "children",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "online": true,
+      "note": "Online and in-person TBC"
+    },
+    "schedule": {
+      "recurring": "ongoing",
+      "sessions": []
+    },
+    "ages": {
+      "min": 13,
+      "max": 17
+    },
+    "price": "Free chat on Discord; in-person event TBC",
+    "educational": "Connection",
+    "safety": "Server moderated by Sophie",
+    "links": {},
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "online",
+      "teens"
+    ]
+  },
+  {
+    "id": "worldschool-antigua-guatemala",
+    "name": "Worldschool Antigua Guatemala",
+    "host": "Alana O'Donohue",
+    "aliases": [
+      "Worldschool Antigua Guatemala"
+    ],
+    "type": "recurring_event",
+    "status": "seasonal",
+    "audience": "children",
+    "location": {
+      "country": "Guatemala",
+      "region": "Sacatepéquez",
+      "city": "Antigua Guatemala",
+      "lat": 14.5567,
+      "lng": -90.7339,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "Multiple 3-week programs across 2025–2026 (Sept, Oct, Nov, Jan, Feb, Jun, Jul)"
+    },
+    "ages": {
+      "min": 4,
+      "max": 12
+    },
+    "price": "2025: ~$700 / 2026: ~$770 USD for the 3-week program per child",
+    "length": "3 weeks",
+    "educational": "Not traditional schooling — cultural learning, crafts, physical learning and emotional learning",
+    "reviews": "Yes — see reviews on the Facebook group",
+    "links": {
+      "facebook": "https://www.facebook.com/groups/1242934149733237"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "cultural-immersion",
+      "central-america"
+    ]
+  },
+  {
+    "id": "worldschool-popup-hub",
+    "name": "Worldschool Pop-Up Hub",
+    "host": "Rachel Carlson (local hosts vary)",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": null,
+      "lat": null,
+      "lng": null,
+      "online": false,
+      "note": "Worldwide"
+    },
+    "schedule": {
+      "recurring": "ongoing",
+      "sessions": [],
+      "note": "Ongoing pop-ups worldwide"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "Max $180/family, discounts available",
+    "length": "1 week",
+    "educational": "No structured program; visit museums, historic places and nature areas to explore local history & culture",
+    "links": {
+      "website": "https://www.worldschoolpopuphub.com/"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "pop-up",
+      "global"
+    ]
+  },
+  {
+    "id": "worldschoolers-kuala-lumpur",
+    "name": "Worldschoolers in Kuala Lumpur",
+    "aliases": [],
+    "type": "base_city",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "lat": 3.139,
+      "lng": 101.6869,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Year round"
+    },
+    "ages": {
+      "min": 5,
+      "note": "5+"
+    },
+    "price": "Free",
+    "educational": "Varies",
+    "description": "An organic community — every family is responsible for themselves; all are welcome. Not a business.",
+    "links": {
+      "facebook": "https://www.facebook.com/WorldschoolersinKualaLumpur"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "community",
+      "base-city"
+    ]
+  },
+  {
+    "id": "worldschoolers-hoi-an",
+    "name": "Worldschoolers of Hoi An",
+    "host": "Liessl",
+    "aliases": [],
+    "type": "base_city",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Vietnam",
+      "city": "Hoi An",
+      "lat": 15.8801,
+      "lng": 108.338,
+      "online": false
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "All year ongoing; minimum 1-month stay"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "Free",
+    "educational": "Daily excursions; community-run schedule of events for families and teens",
+    "description": "Not a hub per se but a community that runs a weekly schedule of events families and teens help plan and support.",
+    "links": {
+      "facebook": "https://m.facebook.com/groups/1137478175223942"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "southeast-asia",
+      "community",
+      "base-city"
+    ]
+  },
+  {
+    "id": "austria-summer-retreat",
+    "name": "Worldschooling Austria Mountain Retreat",
+    "host": "Worldschooling Journeys",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Austria",
+      "region": "Salzburg",
+      "city": "Bad Gastein",
+      "lat": 47.1136,
+      "lng": 13.1342,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [],
+      "note": "May 31 – July 12 2026 (three 2-week sessions)"
+    },
+    "ages": {
+      "note": "All ages"
+    },
+    "price": "Starting at €3,500 (14 nights lodging, resort amenities, group activities, retreat leaders)",
+    "length": "2-week sessions",
+    "educational": "Explore the Austrian mountains and local culture as a group — hiking, lakes, eating, local trains and buses",
+    "links": {
+      "website": "https://trips.everyavenue.com/trips#land-trips"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "mountains",
+      "retreat"
+    ]
+  },
+  {
+    "id": "austria-winter-retreat",
+    "name": "Worldschooling Austria Winter Mountain Retreat",
+    "host": "Worldschooling Journeys",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "Austria",
+      "region": "Salzburg",
+      "city": "Bad Gastein",
+      "lat": 47.1136,
+      "lng": 13.1342,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-12-04",
+          "end": "2026-12-18",
+          "label": "Winter retreat"
+        }
+      ],
+      "note": "December 4–18 2026"
+    },
+    "ages": {
+      "note": "Families"
+    },
+    "price": "1 adult + 1 child from €2,600 (14 nights lodging, ski retreat, co-working room, retreat fees)",
+    "length": "14 nights",
+    "educational": "Alpine ski retreat — ski lessons, Christmas markets, sauna, snow play; connection and adventure for worldschooling families",
+    "links": {
+      "website": "https://trips.everyavenue.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "europe",
+      "ski",
+      "retreat"
+    ]
+  },
+  {
+    "id": "dude-ranch-wyoming",
+    "name": "Worldschooling Dude Ranch Experience",
+    "host": "Worldschooling Journeys",
+    "aliases": [],
+    "type": "recurring_event",
+    "status": "upcoming",
+    "audience": "families",
+    "location": {
+      "country": "United States",
+      "region": "Wyoming",
+      "lat": 43.076,
+      "lng": -107.29,
+      "online": false
+    },
+    "schedule": {
+      "sessions": [
+        {
+          "start": "2026-09-06",
+          "end": "2026-09-12",
+          "label": "Dude ranch"
+        }
+      ],
+      "note": "September 6–12 2026"
+    },
+    "ages": {
+      "note": "6+ for horseback riding"
+    },
+    "price": "$3,300 per person",
+    "length": "6 days",
+    "educational": "Exclusive curated dude-ranch experience — horseback riding, cattle driving, farm life, Western history, hands-on learning",
+    "links": {
+      "website": "https://trips.everyavenue.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "north-america",
+      "ranch",
+      "retreat"
+    ]
+  },
+  {
+    "id": "worldschooling-life",
+    "name": "Worldschooling Life",
+    "host": "Zulema Fernandez",
+    "aliases": [],
+    "type": "permanent",
+    "status": "active",
+    "audience": "families",
+    "location": {
+      "country": "Mexico",
+      "lat": null,
+      "lng": null,
+      "online": false,
+      "note": "Mainly in Mexico"
+    },
+    "schedule": {
+      "recurring": "year round",
+      "sessions": [],
+      "note": "Ongoing (4 seasons)"
+    },
+    "ages": {
+      "min": 6,
+      "max": 18
+    },
+    "price": "Varies depending on duration",
+    "length": "From 1 week to continuous learning",
+    "links": {
+      "website": "https://worldschooling.life/"
+    },
+    "sources": [
+      {
+        "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+        "retrieved": "2026-06-08"
+      }
+    ],
+    "verified": false,
+    "lastVerified": null,
+    "tags": [
+      "latin-america"
+    ]
+  }
+]

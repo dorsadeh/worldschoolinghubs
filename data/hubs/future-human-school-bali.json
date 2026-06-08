@@ -1,0 +1,35 @@
+{
+  "id": "future-human-school-bali",
+  "name": "Future Human School Bali",
+  "host": "Richard Flanagan",
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Indonesia",
+    "region": "Bali",
+    "city": "Ubud",
+    "lat": -8.5069,
+    "lng": 115.2625
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "All year; 8–10 weeks dependent on national holidays"
+  },
+  "ages": {
+    "note": "9–10, 11–16"
+  },
+  "price": "$2,200 – $3,000",
+  "length": "8–10 weeks",
+  "educational": "Project-based learning",
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "southeast-asia",
+    "project-based"
+  ]
+}

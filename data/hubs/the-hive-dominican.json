@@ -1,0 +1,38 @@
+{
+  "id": "the-hive-dominican",
+  "name": "The Hive",
+  "host": "Kate Maccallister",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Dominican Republic",
+    "city": "Various",
+    "lat": 18.4861,
+    "lng": -69.9312,
+    "note": "Various locations on website"
+  },
+  "schedule": {
+    "note": "Various dates and locations — see website"
+  },
+  "ages": {
+    "note": "All ages welcome"
+  },
+  "price": "Varies — check website",
+  "length": "From 2 weeks, stays up to 6 weeks",
+  "educational": "Micro projects, community engagement, regeneration projects, nature walks, beaches, learning through doing",
+  "safety": "Safe and secure",
+  "links": {
+    "website": "https://www.thehiveadventure.com"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "caribbean",
+    "nature"
+  ]
+}

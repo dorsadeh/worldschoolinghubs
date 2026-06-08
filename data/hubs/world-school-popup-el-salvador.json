@@ -1,0 +1,47 @@
+{
+  "id": "world-school-popup-el-salvador",
+  "name": "World School Pop Up El Salvador",
+  "host": "Shannon Falkenstein / Acton Academy El Salvador",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "children",
+  "location": {
+    "country": "El Salvador",
+    "region": "La Libertad",
+    "city": "Antiguo Cuscatlán",
+    "lat": 13.6731,
+    "lng": -89.2442
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-07-06",
+        "end": "2026-07-25",
+        "label": "Pilot pop-up"
+      }
+    ],
+    "note": "6–25 July 2026"
+  },
+  "ages": {
+    "min": 3,
+    "max": 16,
+    "note": "3 – 16+"
+  },
+  "price": "$800",
+  "length": "3+ weeks",
+  "educational": "Spanish immersion and Montessori cultural camp; for 7–16s a Business Builders Camp culminating in a Children's Business Fair",
+  "links": {
+    "website": "http://www.actonacademyelsalvador.com/worldschool-hub"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "central-america",
+    "language",
+    "entrepreneurship"
+  ]
+}

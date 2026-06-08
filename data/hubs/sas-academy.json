@@ -1,0 +1,46 @@
+{
+  "id": "sas-academy",
+  "name": "Sas Academy",
+  "host": "Renata Kecskés",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "children",
+  "location": {
+    "country": "Mexico",
+    "region": "Quintana Roo",
+    "city": "Playa del Carmen",
+    "lat": 20.6296,
+    "lng": -87.0739,
+    "note": "Also dates in Cancún"
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-07-28",
+        "end": "2026-08-01",
+        "label": "Playa del Carmen"
+      }
+    ],
+    "note": "28 July–1 Aug; more dates in Cancún"
+  },
+  "ages": {
+    "min": 12,
+    "max": 18
+  },
+  "length": "08:30–16:00 for the week",
+  "educational": "AI for kids and community building",
+  "links": {
+    "website": "https://www.sas.ac"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "latin-america",
+    "ai",
+    "teens"
+  ]
+}

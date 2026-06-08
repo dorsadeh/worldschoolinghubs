@@ -1,0 +1,30 @@
+{
+  "id": "sacred-roots-hub",
+  "name": "Sacred Roots Hub",
+  "host": "Alexey and Issa",
+  "type": "permanent",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Peru",
+    "region": "Sacred Valley, Cusco",
+    "city": "Between Calca and Urubamba",
+    "lat": -13.3089,
+    "lng": -72.0997
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Starts November 7th 2025 and continues all year round — families can join anytime"
+  },
+  "ages": { "min": 3, "max": 16 },
+  "price": "Education program: $500/child/month per 2 children · Accommodation: $800/family/month",
+  "length": "Year round",
+  "educational": "Holistic — nature, art, music, movement, hands-on science; multiple intelligences, emotional awareness, mindfulness; inclusive for neurodivergent children",
+  "description": "A safe, peaceful region surrounded by mountains, rivers and local communities; close-knit, family-centered environment.",
+  "links": { "website": "https://sacred-roots.lovable.app" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["south-america", "nature", "neurodivergent-friendly"]
+}

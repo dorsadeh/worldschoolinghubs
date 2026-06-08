@@ -1,0 +1,41 @@
+{
+  "id": "lumina-academy",
+  "name": "Lumina Academy",
+  "host": "María Nordwind",
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Spain",
+    "region": "Cádiz",
+    "city": "El Puerto de Santa María",
+    "lat": 36.5939,
+    "lng": -6.2331
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "All year except August and Spanish public holidays"
+  },
+  "ages": {
+    "min": 3,
+    "max": 12,
+    "note": "After-school family events 6–12"
+  },
+  "price": "€150–€480 per month (longer stays discounted)",
+  "length": "Month (weeks also possible)",
+  "educational": "Waldorf-inspired",
+  "reviews": "Google",
+  "links": {
+    "website": "https://www.luminaedu.org"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "waldorf"
+  ]
+}

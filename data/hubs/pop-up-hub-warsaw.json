@@ -1,0 +1,29 @@
+{
+  "id": "pop-up-hub-warsaw",
+  "name": "Pop Up Hub Warsaw",
+  "host": "Ewa Waslicka",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "Poland",
+    "region": "Masovia",
+    "city": "Warsaw",
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  "schedule": {
+    "sessions": [{ "start": "2026-06-28", "end": "2026-07-04", "label": "Warsaw pop-up" }],
+    "note": "28.06–04.07.2026"
+  },
+  "ages": { "min": 1, "max": 99 },
+  "price": "180 USD",
+  "length": "7 days",
+  "educational": "Sightseeing",
+  "links": { "website": "https://www.worldschoolpopuphub.com/events/warsaw-poland-june-2026", "facebook": "https://www.facebook.com/groups/warsawpopup2026" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["europe", "pop-up", "city"]
+}

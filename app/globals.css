@@ -24,3 +24,20 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Leaflet divIcon reset so our SVG pins render without the default white box. */
+.ws-pin {
+  background: none;
+  border: none;
+}
+
+/* Keep map panes/controls below the detail slide-over (z-[1000]). */
+.leaflet-pane,
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 400;
+}
+
+.leaflet-container {
+  font-family: inherit;
+}

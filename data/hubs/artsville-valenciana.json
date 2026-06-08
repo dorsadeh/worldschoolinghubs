@@ -1,0 +1,40 @@
+{
+  "id": "artsville-valenciana",
+  "name": "ArtsVille Valenciana",
+  "host": "Shirin, Nina, Christian",
+  "type": "permanent",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Spain",
+    "region": "Alicante",
+    "city": "Tibi",
+    "lat": 38.5258,
+    "lng": -0.5892
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Whole year round"
+  },
+  "ages": {
+    "min": 1,
+    "max": 19,
+    "note": "Kids academy, teens academy"
+  },
+  "price": "Medium to high",
+  "length": "From 3 weeks to 3 months to 3 years",
+  "educational": "Kids academy, teens academy; co-founding programs for entrepreneurs available",
+  "links": {
+    "website": "https://www.virtuosity.art"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "arts"
+  ]
+}

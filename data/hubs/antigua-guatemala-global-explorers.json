@@ -1,0 +1,29 @@
+{
+  "id": "antigua-guatemala-global-explorers",
+  "name": "Antigua Guatemala Global Explorers",
+  "host": "Gabriela Alfaro",
+  "type": "recurring_event",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Guatemala",
+    "region": "Sacatepéquez",
+    "city": "Antigua Guatemala",
+    "lat": 14.5586,
+    "lng": -90.7295
+  },
+  "schedule": {
+    "recurring": "permanent",
+    "note": "4-week program; shorter or longer participation permitted"
+  },
+  "ages": { "min": 3, "max": 17 },
+  "price": "$650–$850 for the 4-week program",
+  "length": "4 weeks",
+  "educational": "Guatemalan-owned and led cultural exchange program; safe, healthy, creative environment immersing in culture, traditions and language of Guatemala",
+  "links": { "website": "https://www.antiguaworldschool.com", "facebook": "https://www.facebook.com/share/g/12LvQG7Whr8" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["cultural-immersion", "central-america", "locally-led"]
+}

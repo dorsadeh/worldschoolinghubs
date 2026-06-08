@@ -1,0 +1,30 @@
+{
+  "id": "languaventure-fethiye",
+  "name": "Languaventure International Learning Centre & Camps",
+  "host": "Sean Paul",
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Turkey",
+    "region": "Muğla",
+    "city": "Fethiye",
+    "lat": 36.6213,
+    "lng": 29.1164
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Throughout the academic year and school holidays"
+  },
+  "ages": { "min": 4, "max": 11 },
+  "price": "Depending on the programme; weekly, monthly or termly payment schedules",
+  "length": "Year round",
+  "educational": "Thematic learning following the English National Curriculum, face to face with UK teachers",
+  "description": "Full and part-time learning for worldschooling, nomadic and home-school families in a relaxed alternative.",
+  "links": { "website": "https://languaventure.com/services/international-learning-centre" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["learning-centre", "english-curriculum"]
+}

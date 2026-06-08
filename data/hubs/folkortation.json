@@ -1,0 +1,39 @@
+{
+  "id": "folkortation",
+  "name": "Folkortation",
+  "host": "Coordination Rebecca Wegmann",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Thailand",
+    "region": "Ubon Ratchathani",
+    "city": "Mekong River",
+    "lat": 15.2448,
+    "lng": 104.8473
+  },
+  "schedule": {
+    "note": "Contact for dates — 2025 & 2026"
+  },
+  "ages": {
+    "min": 3,
+    "max": 60,
+    "note": "Whole family"
+  },
+  "price": "Contact for brochure",
+  "length": "4 days, 3 nights",
+  "educational": "Live with locals along the Mekong — fishing, farming, cooking and traditional practices; English–Thai-speaking guide included",
+  "links": {
+    "facebook": "https://www.facebook.com/folkortationthailand"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "southeast-asia",
+    "cultural-immersion"
+  ]
+}

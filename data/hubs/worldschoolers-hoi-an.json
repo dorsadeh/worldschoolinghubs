@@ -1,0 +1,38 @@
+{
+  "id": "worldschoolers-hoi-an",
+  "name": "Worldschoolers of Hoi An",
+  "host": "Liessl",
+  "type": "base_city",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "lat": 15.8801,
+    "lng": 108.338
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "All year ongoing; minimum 1-month stay"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "Free",
+  "educational": "Daily excursions; community-run schedule of events for families and teens",
+  "description": "Not a hub per se but a community that runs a weekly schedule of events families and teens help plan and support.",
+  "links": {
+    "facebook": "https://m.facebook.com/groups/1137478175223942"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "southeast-asia",
+    "community",
+    "base-city"
+  ]
+}

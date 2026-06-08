@@ -1,0 +1,37 @@
+{
+  "id": "worldschool-popup-hub",
+  "name": "Worldschool Pop-Up Hub",
+  "host": "Rachel Carlson (local hosts vary)",
+  "type": "recurring_event",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": null,
+    "lat": null,
+    "lng": null,
+    "note": "Worldwide"
+  },
+  "schedule": {
+    "recurring": "ongoing",
+    "note": "Ongoing pop-ups worldwide"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "Max $180/family, discounts available",
+  "length": "1 week",
+  "educational": "No structured program; visit museums, historic places and nature areas to explore local history & culture",
+  "links": {
+    "website": "https://www.worldschoolpopuphub.com/"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "pop-up",
+    "global"
+  ]
+}

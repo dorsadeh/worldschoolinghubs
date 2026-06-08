@@ -1,0 +1,47 @@
+{
+  "id": "semillitas-spanish-nature",
+  "name": "Semillitas Spanish in Nature",
+  "host": "Alejandra Jiménez",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "Mexico",
+    "region": "Morelos",
+    "city": "Cuernavaca",
+    "lat": 18.9242,
+    "lng": -99.2216
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-07-27",
+        "end": "2026-08-01",
+        "label": "Summer immersion"
+      }
+    ],
+    "note": "July 27th – August 1st 2026"
+  },
+  "ages": {
+    "min": 6,
+    "note": "6+ and parents"
+  },
+  "price": "$1,470 all inclusive",
+  "length": "1 week",
+  "educational": "Language immersion, environmental education and cultural learning; entrances, guided tours, local transport, 3 meals a day",
+  "reviews": "Facebook page",
+  "links": {
+    "website": "https://www.semillitasspanishinnature.com"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "latin-america",
+    "language",
+    "nature"
+  ]
+}

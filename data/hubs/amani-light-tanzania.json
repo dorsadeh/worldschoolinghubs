@@ -1,0 +1,30 @@
+{
+  "id": "amani-light-tanzania",
+  "name": "Amani Light Worldschool Hub Tanzania",
+  "host": "Marissa Lipovsky",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Tanzania",
+    "region": "Kilimanjaro",
+    "city": "Moshi",
+    "lat": -3.3349,
+    "lng": 37.3404
+  },
+  "schedule": {
+    "note": "Sept 15 – Oct 10 2025; Feb 2–27 2026; June 1–26 2026"
+  },
+  "ages": { "note": "Any age welcome; children under 4 supervised by a parent during safari activities" },
+  "price": "Family of 2 = $3,000 up to Family of 5 = $3,900 (optional 4th week of safari)",
+  "length": "3 weeks (with optional 4th safari week)",
+  "educational": "Natural building practices and methods, cultural immersion, nature, and the arts",
+  "safety": "Safety matters discussed; distance to hospital, first aid measures; intro video call before joining",
+  "reviews": "https://g.co/kgs/HFnh8xU",
+  "links": { "website": "https://worldschooly.com/hub/worldschooling-tanzania", "facebook": "https://www.facebook.com/groups/956996229464143" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["africa", "nature", "safari"]
+}

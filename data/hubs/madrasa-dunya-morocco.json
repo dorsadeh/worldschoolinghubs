@@ -1,0 +1,29 @@
+{
+  "id": "madrasa-dunya-morocco",
+  "name": "Madrasa Dunya Worldschool Morocco",
+  "host": "Jenna Maria Pedersen",
+  "type": "permanent",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Morocco",
+    "region": "Marrakech-Safi",
+    "city": "Ourika river, High Atlas mountains",
+    "lat": 31.3597,
+    "lng": -7.7436
+  },
+  "schedule": {
+    "recurring": "year round",
+    "note": "Open full time all year besides seasonal holidays; open since 01-01-2023"
+  },
+  "ages": { "note": "All ages + special teen hub" },
+  "price": "From ~2000 MAD per week per child (long term ~2600 MAD/week all inclusive); meals, field trips and facilities included",
+  "length": "2, 4, 6 weeks; long term",
+  "educational": "Sociocratic/democratic, forest/nature, Waldorf own curriculum guided by natural daily rhythm; neurodivergent friendly",
+  "links": { "website": "https://www.md-worldschoolmorocco.com", "facebook": "https://www.facebook.com/groups/956900099" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["africa", "nature", "neurodivergent-friendly"]
+}

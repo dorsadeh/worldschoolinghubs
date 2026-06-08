@@ -1,0 +1,32 @@
+{
+  "id": "worldly-teens",
+  "name": "Worldly Teens",
+  "host": "Sophie Morris",
+  "type": "online_community",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "online": true,
+    "note": "Online and in-person TBC"
+  },
+  "schedule": {
+    "recurring": "ongoing"
+  },
+  "ages": {
+    "min": 13,
+    "max": 17
+  },
+  "price": "Free chat on Discord; in-person event TBC",
+  "educational": "Connection",
+  "safety": "Server moderated by Sophie",
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "online",
+    "teens"
+  ]
+}

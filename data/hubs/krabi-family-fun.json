@@ -1,0 +1,25 @@
+{
+  "id": "krabi-family-fun",
+  "name": "Krabi Family Fun!",
+  "host": "Hadas Korn",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Thailand",
+    "region": "Krabi",
+    "city": "Ao Nang",
+    "lat": 8.0322,
+    "lng": 98.8211
+  },
+  "schedule": { "note": "June 14–18, and every month" },
+  "ages": { "min": 0, "max": 99 },
+  "price": "Free",
+  "length": "5 days",
+  "educational": "Economic, nature loving, music",
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["meetup", "southeast-asia", "free"]
+}

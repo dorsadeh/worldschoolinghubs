@@ -1,0 +1,29 @@
+{
+  "id": "cacao-coast-classroom",
+  "name": "Cacao Coast Classroom",
+  "host": "Claire and Sam",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Costa Rica",
+    "region": "Caribbean Coast",
+    "city": "Puerto Viejo",
+    "lat": 9.6553,
+    "lng": -82.7541
+  },
+  "schedule": {
+    "note": "Seasonal 'Seeds & Stories' and 'Roots & Rhythms' terms across 2026–2027 (Summer, Autumn, Spring, Late Spring)"
+  },
+  "ages": { "min": 7, "note": "7+" },
+  "price": "$2,800",
+  "length": "3 weeks",
+  "educational": "Cooking, conservation, community, culture",
+  "reviews": "https://www.trustpilot.com/review/cacaocoastcr.com",
+  "links": { "website": "https://www.cacaocoastcr.com" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["central-america", "nature", "culture"]
+}

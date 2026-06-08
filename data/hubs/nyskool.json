@@ -1,0 +1,40 @@
+{
+  "id": "nyskool",
+  "name": "NYsKOOL",
+  "host": "Andrei",
+  "type": "permanent",
+  "status": "active",
+  "audience": "children",
+  "location": {
+    "country": "Spain",
+    "region": "Catalonia",
+    "city": "Barcelona",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "note": "Also Lisbon, Portugal"
+  },
+  "schedule": {
+    "note": "08/09/25 – 31/07/26 (11 months)"
+  },
+  "ages": {
+    "min": 5,
+    "max": 15
+  },
+  "price": "€600–€850 per month",
+  "length": "11 months",
+  "educational": "American curriculum and Finnish methodology; hybrid in-person and online",
+  "reviews": "Internal surveys only",
+  "links": {
+    "website": "https://www.nyskool.org"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "hybrid"
+  ]
+}

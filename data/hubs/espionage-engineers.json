@@ -1,0 +1,46 @@
+{
+  "id": "espionage-engineers",
+  "name": "Espionage Engineers",
+  "host": "Lise Whitfield",
+  "type": "recurring_event",
+  "status": "upcoming",
+  "audience": "families",
+  "location": {
+    "country": "Estonia",
+    "region": "Harju",
+    "city": "Tallinn",
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "schedule": {
+    "sessions": [
+      {
+        "start": "2026-08-17",
+        "end": "2026-09-10",
+        "label": "Summer term"
+      }
+    ],
+    "note": "Aug 17 – Sep 10 2026"
+  },
+  "ages": {
+    "min": 12,
+    "max": 15
+  },
+  "price": "$2,650",
+  "length": "4 weeks",
+  "educational": "4 academic learning days/week with US-licensed teacher: math, history, science, engineering",
+  "links": {
+    "website": "https://www.worldwiselearningadventures.org/"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "academic",
+    "teens"
+  ]
+}

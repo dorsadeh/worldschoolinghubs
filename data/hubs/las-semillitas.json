@@ -1,0 +1,35 @@
+{
+  "id": "las-semillitas",
+  "name": "Las Semillitas",
+  "host": "Belle Hiffmann",
+  "type": "recurring_event",
+  "status": "active",
+  "audience": "families",
+  "location": {
+    "country": "Spain",
+    "region": "Valencia",
+    "lat": 39.1,
+    "lng": -0.4,
+    "note": "40km south of Valencia"
+  },
+  "schedule": {
+    "note": "From January 2025 onwards"
+  },
+  "ages": {
+    "min": 3,
+    "max": 99
+  },
+  "price": "To be agreed upon",
+  "length": "4 hours a day",
+  "educational": "Worldschooling, nature, forest-school, Montessori-oriented; social worker / theatre teacher in charge",
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "europe",
+    "forest-school"
+  ]
+}

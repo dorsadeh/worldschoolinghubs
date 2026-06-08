@@ -1,0 +1,38 @@
+{
+  "id": "learn-to-sail-greece",
+  "name": "\"Learn to Sail\" Family Adventure (Greece / Balkans)",
+  "host": "Every Avenue Travel",
+  "type": "recurring_event",
+  "status": "seasonal",
+  "audience": "families",
+  "location": {
+    "country": "Greece",
+    "city": "Greek Islands",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "note": "Greek Islands or the Balkans (Croatia, Albania, Montenegro)"
+  },
+  "schedule": {
+    "note": "May – Greece; early June – Greek Islands or the Balkans"
+  },
+  "ages": {
+    "note": "All ages"
+  },
+  "price": "$1,475 per person",
+  "length": "7 days",
+  "educational": "Sailing basics, water adventures, snorkelling, paddleboarding, secluded beaches and cave exploration",
+  "links": {
+    "instagram": "https://instagram.com/ourlittlevoyages"
+  },
+  "sources": [
+    {
+      "name": "Worldschooling Hubs Worldwide (Listing) — June 2026",
+      "retrieved": "2026-06-08"
+    }
+  ],
+  "tags": [
+    "sailing",
+    "europe",
+    "mediterranean"
+  ]
+}

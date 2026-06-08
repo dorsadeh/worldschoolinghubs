@@ -1,0 +1,18 @@
+{
+  "id": "jewish-worldschoolers",
+  "name": "Jewish Worldschoolers",
+  "host": "Rachael Love Cohen",
+  "type": "online_community",
+  "status": "upcoming",
+  "audience": "families",
+  "location": { "online": true, "note": "Location TBD" },
+  "schedule": { "note": "2026 date TBD" },
+  "ages": { "min": 0, "max": 100 },
+  "description": "Due to the nature of antisemitism in the world today, this group carefully monitors participants.",
+  "links": { "facebook": "https://www.facebook.com/groups/JewishWorldschoolers" },
+  "sources": [
+    { "name": "Worldschooling Hubs Worldwide (Listing) — June 2026", "retrieved": "2026-06-08" }
+  ],
+  "verified": false,
+  "tags": ["online", "community", "affinity-group"]
+}
