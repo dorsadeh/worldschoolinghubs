@@ -1,6 +1,6 @@
 "use client";
 
-import { TYPE_META, type Hub } from "@/lib/hub";
+import { TYPE_META, TIMING_TONE, hubTiming, type Hub } from "@/lib/hub";
 
 interface HubDetailProps {
   hub: Hub;
@@ -25,18 +25,24 @@ function locationLine(hub: Hub): string {
 
 export default function HubDetail({ hub, onClose }: HubDetailProps) {
   const meta = TYPE_META[hub.type];
+  const timing = hubTiming(hub);
   const links = Object.entries(hub.links).filter(([, v]) => v) as [string, string][];
 
   return (
     <div className="flex h-full flex-col overflow-y-auto">
       <div className="sticky top-0 flex items-start justify-between gap-2 border-b border-zinc-200 bg-white/95 p-4 backdrop-blur dark:border-zinc-800 dark:bg-zinc-950/95">
         <div className="flex flex-col gap-1">
-          <span
-            className="inline-flex w-fit items-center gap-1.5 rounded-full px-2 py-0.5 text-[11px] font-medium text-white"
-            style={{ backgroundColor: meta.color }}
-          >
-            {meta.label}
-          </span>
+          <div className="flex flex-wrap items-center gap-1.5">
+            <span
+              className="inline-flex w-fit items-center gap-1.5 rounded-full px-2 py-0.5 text-[11px] font-medium text-white"
+              style={{ backgroundColor: meta.color }}
+            >
+              {meta.label}
+            </span>
+            <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${TIMING_TONE[timing.tone]}`}>
+              {timing.label}
+            </span>
+          </div>
           <h2 className="text-lg font-semibold leading-tight text-zinc-900 dark:text-zinc-50">{hub.name}</h2>
           {hub.host && <span className="text-sm text-zinc-500">Hosted by {hub.host}</span>}
           {!hub.verified && (

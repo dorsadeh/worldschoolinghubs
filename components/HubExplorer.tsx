@@ -1,8 +1,9 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
 import { filterHubs, uniqueCountries, type Hub, type HubType } from "@/lib/hub";
+import { hubsToCsv } from "@/lib/csv";
 import Filters from "./Filters";
 import HubList from "./HubList";
 import HubDetail from "./HubDetail";
@@ -23,7 +24,7 @@ export default function HubExplorer({ hubs }: { hubs: Hub[] }) {
   const [query, setQuery] = useState("");
   const [selectedTypes, setSelectedTypes] = useState<HubType[]>([]);
   const [selectedCountry, setSelectedCountry] = useState("");
-  const [activeOnly, setActiveOnly] = useState(false);
+  const [hidePast, setHidePast] = useState(false);
   const [selectedId, setSelectedId] = useState<string | null>(null);
 
   const countries = useMemo(() => uniqueCountries(hubs), [hubs]);
@@ -34,9 +35,9 @@ export default function HubExplorer({ hubs }: { hubs: Hub[] }) {
         query,
         types: selectedTypes,
         countries: selectedCountry ? [selectedCountry] : undefined,
-        activeOnly,
+        hidePast,
       }),
-    [hubs, query, selectedTypes, selectedCountry, activeOnly],
+    [hubs, query, selectedTypes, selectedCountry, hidePast],
   );
 
   const selectedHub = useMemo(
@@ -49,14 +50,24 @@ export default function HubExplorer({ hubs }: { hubs: Hub[] }) {
   }
 
   const hasActiveFilters =
-    query.trim() !== "" || selectedTypes.length > 0 || selectedCountry !== "" || activeOnly;
+    query.trim() !== "" || selectedTypes.length > 0 || selectedCountry !== "" || hidePast;
 
   function resetFilters() {
     setQuery("");
     setSelectedTypes([]);
     setSelectedCountry("");
-    setActiveOnly(false);
+    setHidePast(false);
   }
+
+  const exportCsv = useCallback(() => {
+    const blob = new Blob([hubsToCsv(filtered)], { type: "text/csv;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `worldschooling-hubs-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }, [filtered]);
 
   return (
     <div className="flex h-full min-h-0 flex-col md:flex-row">
@@ -70,11 +81,12 @@ export default function HubExplorer({ hubs }: { hubs: Hub[] }) {
           countries={countries}
           selectedCountry={selectedCountry}
           onCountry={setSelectedCountry}
-          activeOnly={activeOnly}
-          onActiveOnly={setActiveOnly}
+          hidePast={hidePast}
+          onHidePast={setHidePast}
           resultCount={filtered.length}
           hasActiveFilters={hasActiveFilters}
           onReset={resetFilters}
+          onExport={exportCsv}
         />
         <div className="min-h-0 flex-1 overflow-y-auto">
           <HubList hubs={filtered} selectedId={selectedId} onSelect={setSelectedId} />

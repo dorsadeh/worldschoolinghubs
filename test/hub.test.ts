@@ -1,5 +1,6 @@
 import { describe, it, expect } from "vitest";
-import { HubSchema, filterHubs, uniqueCountries, hasCoordinates, type Hub } from "../lib/hub";
+import { HubSchema, filterHubs, uniqueCountries, hasCoordinates, hubTiming, type Hub } from "../lib/hub";
+import { hubsToCsv } from "../lib/csv";
 import { normalizeName, haversineKm, findDuplicateWarnings } from "../lib/dedup";
 
 function makeHub(overrides: Partial<Hub> & { id: string; name: string }): Hub {
@@ -55,8 +56,8 @@ describe("filterHubs", () => {
   it("filters by country", () => {
     expect(filterHubs(hubs, { countries: ["Indonesia"] }).map((h) => h.id)).toEqual(["b"]);
   });
-  it("hides inactive when activeOnly", () => {
-    expect(filterHubs(hubs, { activeOnly: true }).map((h) => h.id)).toEqual(["a", "c"]);
+  it("hides past events when hidePast", () => {
+    expect(filterHubs(hubs, { hidePast: true }).map((h) => h.id)).toEqual(["a", "c"]);
   });
   it("searches name and location text", () => {
     expect(filterHubs(hubs, { query: "lagos" }).map((h) => h.id)).toEqual(["a"]);
@@ -74,6 +75,41 @@ describe("uniqueCountries", () => {
       makeHub({ id: "c", name: "C", location: { country: "Portugal" } }),
     ];
     expect(uniqueCountries(hubs)).toEqual(["Indonesia", "Portugal"]);
+  });
+});
+
+describe("hubTiming", () => {
+  const today = "2026-06-08";
+  it("treats non-events as ongoing", () => {
+    expect(hubTiming(makeHub({ id: "p", name: "P", type: "permanent" }), today).tone).toBe("ongoing");
+    expect(hubTiming(makeHub({ id: "o", name: "O", type: "online_community", location: { online: true } }), today).tone).toBe("ongoing");
+  });
+  it("detects happening-now, upcoming, and past sessions", () => {
+    const now = makeHub({ id: "n", name: "N", type: "recurring_event", schedule: { sessions: [{ start: "2026-06-01", end: "2026-06-20" }] } });
+    const soon = makeHub({ id: "s", name: "S", type: "recurring_event", schedule: { sessions: [{ start: "2026-08-01", end: "2026-08-10" }] } });
+    const old = makeHub({ id: "x", name: "X", type: "recurring_event", schedule: { sessions: [{ start: "2026-01-01", end: "2026-01-10" }] } });
+    expect(hubTiming(now, today).tone).toBe("now");
+    expect(hubTiming(soon, today).tone).toBe("upcoming");
+    const pastT = hubTiming(old, today);
+    expect(pastT.tone).toBe("past");
+    expect(pastT.isPast).toBe(true);
+  });
+  it("falls back to status when no dated sessions", () => {
+    expect(hubTiming(makeHub({ id: "u", name: "U", type: "recurring_event", status: "upcoming" }), today).tone).toBe("upcoming");
+    expect(hubTiming(makeHub({ id: "se", name: "Se", type: "recurring_event", status: "seasonal" }), today).isPast).toBe(false);
+  });
+});
+
+describe("hubsToCsv", () => {
+  it("emits a header plus one row per hub and escapes commas/quotes", () => {
+    const csv = hubsToCsv([
+      makeHub({ id: "a", name: "Hub, with comma", location: { country: "Spain" }, price: 'say "hi"' }),
+    ]);
+    const lines = csv.trim().split("\n");
+    expect(lines[0]).toContain("Name");
+    expect(lines).toHaveLength(2);
+    expect(lines[1]).toContain('"Hub, with comma"');
+    expect(lines[1]).toContain('"say ""hi"""');
   });
 });
 

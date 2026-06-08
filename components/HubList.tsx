@@ -1,6 +1,6 @@
 "use client";
 
-import { TYPE_META, hasCoordinates, type Hub } from "@/lib/hub";
+import { TYPE_META, TIMING_TONE, hasCoordinates, hubTiming, type Hub } from "@/lib/hub";
 
 interface HubListProps {
   hubs: Hub[];
@@ -22,6 +22,7 @@ export default function HubList({ hubs, selectedId, onSelect }: HubListProps) {
     <ul className="divide-y divide-zinc-100 dark:divide-zinc-800">
       {hubs.map((hub) => {
         const meta = TYPE_META[hub.type];
+        const timing = hubTiming(hub);
         const selected = hub.id === selectedId;
         return (
           <li key={hub.id}>
@@ -45,9 +46,12 @@ export default function HubList({ hubs, selectedId, onSelect }: HubListProps) {
                 )}
               </div>
               <span className="text-xs text-zinc-500">{locationLine(hub)}</span>
-              {(hub.schedule.note || hub.schedule.recurring) && (
-                <span className="text-xs text-zinc-400">{hub.schedule.recurring ?? hub.schedule.note}</span>
-              )}
+              <div className="flex flex-wrap items-center gap-1.5">
+                <span className={`rounded px-1.5 py-0.5 text-[10px] font-medium ${TIMING_TONE[timing.tone]}`}>
+                  {timing.label}
+                </span>
+                {hub.price && <span className="text-[11px] text-zinc-400">{hub.price.length > 28 ? hub.price.slice(0, 28) + "…" : hub.price}</span>}
+              </div>
               {!hasCoordinates(hub) && !hub.location.online && (
                 <span className="text-[10px] text-zinc-400">not pinned on map</span>
               )}

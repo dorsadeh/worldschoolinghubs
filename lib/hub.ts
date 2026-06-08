@@ -115,7 +115,69 @@ export interface HubFilter {
   types?: HubType[];
   countries?: string[];
   query?: string;
-  activeOnly?: boolean; // hide inactive
+  hidePast?: boolean; // hide events whose sessions are all in the past
+  today?: string; // ISO date, for deterministic testing
+}
+
+export type TimingTone = "now" | "upcoming" | "ongoing" | "seasonal" | "past" | "unknown";
+export interface Timing {
+  label: string;
+  tone: TimingTone;
+  isPast: boolean;
+}
+
+/** Tailwind classes per timing tone, shared by the list and detail badges. */
+export const TIMING_TONE: Record<TimingTone, string> = {
+  now: "bg-green-100 text-green-700 dark:bg-green-950 dark:text-green-300",
+  upcoming: "bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-300",
+  ongoing: "bg-zinc-100 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300",
+  seasonal: "bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-300",
+  past: "bg-zinc-100 text-zinc-400 line-through dark:bg-zinc-800",
+  unknown: "bg-zinc-100 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400",
+};
+
+export function todayISO(): string {
+  return new Date().toISOString().slice(0, 10);
+}
+
+/**
+ * Derive a human timing label from a hub's type, sessions, and status.
+ * `isPast` is only true when we can *positively* tell the hub is over (all dated
+ * sessions ended, or status is inactive) — so the "hide past" filter is conservative.
+ */
+export function hubTiming(hub: Hub, today: string = todayISO()): Timing {
+  if (hub.type !== "recurring_event") {
+    return { label: "Ongoing", tone: "ongoing", isPast: false };
+  }
+
+  const dated = hub.schedule.sessions.filter((s) => s.start || s.end);
+  if (dated.length > 0) {
+    const happeningNow = dated.find(
+      (s) => (s.start ?? "0000-00-00") <= today && today <= (s.end ?? s.start ?? "9999-99-99"),
+    );
+    if (happeningNow) return { label: "Happening now", tone: "now", isPast: false };
+
+    const upcoming = dated
+      .filter((s) => (s.start ?? s.end ?? "9999") > today)
+      .sort((a, b) => (a.start ?? a.end ?? "").localeCompare(b.start ?? b.end ?? ""));
+    if (upcoming.length > 0) {
+      return { label: `Upcoming · ${upcoming[0].start ?? upcoming[0].end}`, tone: "upcoming", isPast: false };
+    }
+    return { label: "Past", tone: "past", isPast: true };
+  }
+
+  switch (hub.status) {
+    case "upcoming":
+      return { label: "Upcoming", tone: "upcoming", isPast: false };
+    case "seasonal":
+      return { label: "Seasonal", tone: "seasonal", isPast: false };
+    case "active":
+      return { label: "Ongoing", tone: "ongoing", isPast: false };
+    case "inactive":
+      return { label: "Past", tone: "past", isPast: true };
+    default:
+      return { label: "Dates vary", tone: "unknown", isPast: false };
+  }
 }
 
 /** A hub renders as a map marker only if it has real coordinates and isn't online-only. */
@@ -155,7 +217,7 @@ export function filterHubs(hubs: Hub[], filter: HubFilter): Hub[] {
     ) {
       return false;
     }
-    if (filter.activeOnly && hub.status === "inactive") {
+    if (filter.hidePast && hubTiming(hub, filter.today).isPast) {
       return false;
     }
     if (q && !SEARCH_FIELDS(hub).includes(q)) {

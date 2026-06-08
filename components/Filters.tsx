@@ -10,11 +10,12 @@ interface FiltersProps {
   countries: string[];
   selectedCountry: string;
   onCountry: (c: string) => void;
-  activeOnly: boolean;
-  onActiveOnly: (v: boolean) => void;
+  hidePast: boolean;
+  onHidePast: (v: boolean) => void;
   resultCount: number;
   hasActiveFilters: boolean;
   onReset: () => void;
+  onExport: () => void;
 }
 
 export default function Filters({
@@ -25,11 +26,12 @@ export default function Filters({
   countries,
   selectedCountry,
   onCountry,
-  activeOnly,
-  onActiveOnly,
+  hidePast,
+  onHidePast,
   resultCount,
   hasActiveFilters,
   onReset,
+  onExport,
 }: FiltersProps) {
   return (
     <div className="flex flex-col gap-4 border-b border-zinc-200 p-4 dark:border-zinc-800">
@@ -81,26 +83,36 @@ export default function Filters({
             </option>
           ))}
         </select>
-        <label className="flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-300">
+        <label className="flex items-center gap-1.5 whitespace-nowrap text-sm text-zinc-600 dark:text-zinc-300">
           <input
             type="checkbox"
-            checked={activeOnly}
-            onChange={(e) => onActiveOnly(e.target.checked)}
+            checked={hidePast}
+            onChange={(e) => onHidePast(e.target.checked)}
           />
-          Active
+          Hide past
         </label>
       </div>
 
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between gap-2">
         <span className="text-xs text-zinc-500">{resultCount} hub(s)</span>
-        {hasActiveFilters && (
+        <div className="flex items-center gap-3">
+          {hasActiveFilters && (
+            <button
+              onClick={onReset}
+              className="text-xs font-medium text-blue-600 hover:underline dark:text-blue-400"
+            >
+              Clear filters
+            </button>
+          )}
           <button
-            onClick={onReset}
-            className="text-xs font-medium text-blue-600 hover:underline dark:text-blue-400"
+            onClick={onExport}
+            disabled={resultCount === 0}
+            className="text-xs font-medium text-zinc-600 hover:underline disabled:opacity-40 dark:text-zinc-300"
+            title="Download the current list as a CSV spreadsheet"
           >
-            Clear filters
+            Export CSV
           </button>
-        )}
+        </div>
       </div>
     </div>
   );
