@@ -33,7 +33,7 @@ export interface DirectoryFilter {
   months?: number[];
   costs?: CostBucket[];
   categories?: HubCategory[];
-  participation?: Participation[];
+  participation?: Exclude<Participation, "">[]; // only "family" | "dropoff" are selectable
   spanishOnly?: boolean;
   countries?: string[];
   query?: string;
