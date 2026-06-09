@@ -8,7 +8,7 @@ import type { CostBucket } from "./directory";
 export function costBucket(price: string): CostBucket {
   const s = (price || "").toLowerCase().trim();
   if (!s) return "unlisted";
-  if (/\bvaries\b|tbd|to be |depends|inquire|contact|n\/a/.test(s)) return "unlisted";
+  if (/\bvaries\b|\btbd\b|to be |depends|inquire|contact|n\/a/.test(s)) return "unlisted";
   if (/\bfree\b|no cost|no charge/.test(s)) return "free";
 
   const nums = [...s.matchAll(/[$€£]\s?([\d,]+(?:\.\d+)?)|([\d,]+)\s?(?:usd|eur|gbp)/g)]
