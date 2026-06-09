@@ -13,8 +13,12 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
         onClick={(e) => e.stopPropagation()}
       >
         <div className="relative h-[180px] w-full overflow-hidden rounded-t-[19px]">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" style={!hub.image ? { background: meta.color } : undefined} />
+          {hub.image ? (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" />
+          ) : (
+            <div className="h-full w-full" style={{ background: meta.color }} />
+          )}
           <button type="button" onClick={onClose}
             className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full border-2 border-[#20140d] bg-white text-[16px]">✕</button>
           <span className="absolute bottom-3 left-3 -rotate-2 rounded-[9px] border-2 border-[#20140d] px-[10px] py-[3px] text-[12px] font-semibold"

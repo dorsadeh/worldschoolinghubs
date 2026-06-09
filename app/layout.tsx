@@ -25,8 +25,8 @@ const hankenBody = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Worldschooling Hubs Map",
-  description: "A curated, deduplicated map of worldschooling hubs, pop-ups, and communities for traveling families.",
+  title: "Worldschool Atlas — directory of worldschooling hubs",
+  description: "A browsable directory of worldschooling hubs, pop-ups, communities, and traveling programs for families, with filters by season, cost, and hub type.",
 };
 
 export default function RootLayout({
