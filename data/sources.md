@@ -21,13 +21,46 @@ with `verified: false` and full `sources[]` → review/confirm → set `verified
 
 ## Online directories to ingest (higher signal, structured-ish)
 
-- The Worldschool Atlas — https://theworldschoolatlas.com/
-- Worldschooly hub directory — https://worldschooly.com/hubs/
-- Worldly Tribe directory — https://worldlytribe.com/worldschooling-hubs-directory/
-- WorldSchool Hubs blog/directory — https://blog.worldschoolhubs.com/worldschooling-hubs/
-- Worldschooling Pop-Ups events map — https://www.worldschoolingpopups.com/events/map
-- Passport Explorers list — https://passportexplorers.com/worldschooling-communities/
-- Naturally Richer hubs (Algarve, Slovakia, Sardinia) — https://www.naturallyricher.com
+- The Worldschool Atlas — https://theworldschoolatlas.com/ ✅ mined 2026-06-08
+- Worldschooly hub directory — https://worldschooly.com/hubs/ ✅ mined 2026-06-08 (70+ listings, paginated — only p1 captured so far)
+- Worldly Tribe directory — https://worldlytribe.com/worldschooling-hubs-directory/ ✅ mined 2026-06-08 (richest single source)
+- WorldSchool Hubs blog/directory — https://blog.worldschoolhubs.com/worldschooling-hubs/ ✅ mined 2026-06-08
+- World School Pop-Up Hub events — https://worldschoolpopuphub.com/upcoming-events ✅ mined 2026-06-08 (17 dated 2026 cities)
+- Worldschooling Pop-Ups events map — https://www.worldschoolingpopups.com/events/map (JS map — not yet mined)
+- Passport Explorers list — https://passportexplorers.com/worldschooling-communities/ ✅ mined 2026-06-08
+- Naturally Richer hubs (Algarve, Slovakia, Sardinia) — https://www.naturallyricher.com (Algarve hub captured via blog; direct page 404'd)
+- Remote Family worldschooling database — https://remotefamily.com (filterable DB — not yet mined directly)
+- WorldSchool Collective — https://worldschoolcollective.com (directory — not yet mined)
+
+## Research queue (drafted, awaiting review)
+
+- **`data/research/candidate-hubs-2026-06-08.csv`** — ~97 new candidates deduplicated
+  against the existing 46, each with a confidence rating and dedup status. See
+  `data/research/README.md` for the legend and open modeling decisions. Approve rows →
+  ingest into `data/hubs/`.
+- **`data/research/family-gathering-places-2026-06-08.md`** — a *different* signal:
+  places where traveling/"nesting" families cluster (not necessarily formal hubs), mined
+  from personal/family blogs in **English + Hebrew**, ranked by # of independent family
+  references (key **R1–R101**; ~54 read/extracted, ~47 catalogued [lead] journals to mine).
+  Keeps **digital-nomad signal separate from family signal** (see
+  [[nomads-vs-families-distinction]]) and now carries a **Season (family-hub)** column +
+  validation notes ([[hub-seasonality-and-validation]]) — e.g. Bansko is a *summer* family
+  hub (Jul–Aug), Pai empties Feb–May (burning season). Includes **Section B: Israeli
+  intentional / nesting communities** (Narnia/Koh Phangan, Naorma/Greece, Sentira/Italy,
+  Spirala/Portugal, a Bulgaria co-op, the "משפחות מטיילות" conference). Gathering spots
+  with no formal hub yet: Koh Phangan, Sri Lanka (Ahangama/Weligama), San Cristóbal.
+
+## Hub candidates backlog (found via blog research, NOT yet in candidate-hubs CSV)
+
+Surfaced 2026-06-09 via the Purely Pacha worldschool directory (R63) + others; need the
+same draft→review→ingest workflow as the main CSV:
+- Worldschooling Andalusia (S. Spain) · CADÍ Community (Spanish Pyrenees) · A Cielo Aperto
+  (S. Italy) · Tribodar & Unter den Kiwis (Portugal eco-communities) · Die Lernwerkstatt
+  Berlin (Germany) · Manitoulin Worldschooling Community (Canada, warm months) · Abraxas
+  Fun & Devela World School (Mexico — Yucatán / Guanajuato) · Anahata (Yucatán, **Jun–Aug**)
+  · Altos Eco Village (Colonia del Sacramento, Uruguay) · Lombok Learning Village (Indonesia)
+  · Be Wild and Free (location-independent). Plus festivals: Schulfreifestival (Brandenburg,
+  Sep), European Unschooling Conference (NL).
 
 ## Facebook groups & searches (discovery channel)
 
