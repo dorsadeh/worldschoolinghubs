@@ -29,7 +29,7 @@ export function parseMonths(season: string): number[] {
     result.add(found[i].mon);
     if (i < found.length - 1) {
       const between = s.slice(found[i].end, found[i + 1].idx);
-      if (/[-–—]|to|through|until|till|thru/.test(between)) {
+      if (/[-–—]|\bto\b|\bthrough\b|\buntil\b|\btill\b|\bthru\b/.test(between)) {
         let cur = found[i].mon;
         const to = found[i + 1].mon;
         while (cur !== to) {

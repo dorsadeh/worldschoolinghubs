@@ -23,4 +23,7 @@ describe("parseMonths", () => {
   it("expands Nov–Mar", () => {
     expect(parseMonths("Nov–Mar")).toEqual([1, 2, 3, 11, 12]);
   });
+  it("does not treat 'to' inside another word as a range connector", () => {
+    expect(parseMonths("Jan (photos show) Sep")).toEqual([1, 9]);
+  });
 });
