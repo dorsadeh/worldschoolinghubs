@@ -67,7 +67,9 @@ export function filterDirectory(hubs: DirectoryHub[], f: DirectoryFilter): Direc
     }
     if (f.costs && f.costs.length > 0 && !f.costs.includes(h.costBucket)) return false;
     if (f.categories && f.categories.length > 0 && !f.categories.includes(h.category)) return false;
-    if (f.participation && f.participation.length > 0 && !f.participation.includes(h.participation)) return false;
+    if (f.participation && f.participation.length > 0) {
+      if (h.participation === "" || !f.participation.includes(h.participation)) return false;
+    }
     if (f.spanishOnly && !h.spanish) return false;
     if (f.countries && f.countries.length > 0 && !f.countries.includes(h.country)) return false;
     if (q && !searchText(h).includes(q)) return false;

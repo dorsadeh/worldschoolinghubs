@@ -3,7 +3,7 @@ import { filterDirectory, uniqueDirectoryCountries, type DirectoryHub } from "..
 
 function hub(overrides: Partial<DirectoryHub> & { id: string }): DirectoryHub {
   return {
-    id: overrides.id, name: overrides.id, host: "", category: "organic",
+    name: overrides.id, host: "", category: "organic",
     spanish: false, participation: "", country: "Spain", region: "",
     season: "", months: [], price: "", costBucket: "unlisted", ages: "",
     nationality: "", validity: "", website: "", facebook: "", summary: "",
