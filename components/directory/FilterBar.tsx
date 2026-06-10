@@ -29,6 +29,10 @@ interface Props {
 
 export default function FilterBar({ filter, onChange, countries, resultCount, onReset }: Props) {
   const set = (patch: Partial<DirectoryFilter>) => onChange({ ...filter, ...patch });
+  // The two pickers define a wrap-aware range. Choosing one end defaults the
+  // other to the same month so the range is always valid; "Any month" clears it.
+  const setFrom = (v: string) => set({ monthRange: v ? [Number(v), filter.monthRange?.[1] ?? Number(v)] : undefined });
+  const setTo = (v: string) => set({ monthRange: v ? [filter.monthRange?.[0] ?? Number(v), Number(v)] : undefined });
   const display = { fontFamily: "var(--font-display)" };
   const active = (on: boolean, bg: string) => (on ? { background: bg } : undefined);
 
@@ -52,10 +56,23 @@ export default function FilterBar({ filter, onChange, countries, resultCount, on
 
       <div className="flex flex-wrap items-center gap-x-2 gap-y-2">
         <span className="text-[12px] opacity-70" style={display}>When</span>
-        {MONTHS.map((m) => (
-          <button key={m.n} type="button" className={PILL} style={{ ...display, ...active((filter.months ?? []).includes(m.n), "#caffbf") }}
-            onClick={() => set({ months: toggle(filter.months, m.n) })}>{m.label}</button>
-        ))}
+        <select
+          aria-label="From month"
+          value={filter.monthRange?.[0] ?? ""}
+          onChange={(e) => setFrom(e.target.value)}
+          className="rounded-full border-2 border-[#20140d] bg-white px-[11px] py-[5px] text-[12.5px]" style={display}>
+          <option value="">Any month</option>
+          {MONTHS.map((m) => <option key={m.n} value={m.n}>{m.label}</option>)}
+        </select>
+        <span className="text-[12px] opacity-70" style={display}>to</span>
+        <select
+          aria-label="To month"
+          value={filter.monthRange?.[1] ?? ""}
+          onChange={(e) => setTo(e.target.value)}
+          className="rounded-full border-2 border-[#20140d] bg-white px-[11px] py-[5px] text-[12.5px]" style={display}>
+          <option value="">Any month</option>
+          {MONTHS.map((m) => <option key={m.n} value={m.n}>{m.label}</option>)}
+        </select>
 
         <span className="mx-1 h-[22px] w-px bg-[#20140d22]" />
         <span className="text-[12px] opacity-70" style={display}>Cost</span>

@@ -36,6 +36,14 @@ describe("filterDirectory", () => {
     expect(filterDirectory(multi, { categories: ["popup"] }).map((h) => h.id)).toEqual(["m"]);
     expect(filterDirectory(multi, { categories: ["organic"] }).map((h) => h.id)).toEqual([]);
   });
+  it("monthRange matches within a normal range and keeps flexible hubs", () => {
+    // a: Dec/Jan/Feb, b: flexible ([]), c: Jun/Jul
+    expect(filterDirectory(hubs, { monthRange: [6, 8] }).map((h) => h.id)).toEqual(["b", "c"]);
+  });
+  it("monthRange wraps the year-end when from > to", () => {
+    // Nov–Mar should catch a (Dec/Jan/Feb) and flexible b, but not c (Jun/Jul)
+    expect(filterDirectory(hubs, { monthRange: [11, 3] }).map((h) => h.id)).toEqual(["a", "b"]);
+  });
   it("participation filter hides blank-participation entries", () => {
     expect(filterDirectory(hubs, { participation: ["family"] }).map((h) => h.id)).toEqual(["a"]);
   });

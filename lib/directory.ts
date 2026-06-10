@@ -32,6 +32,7 @@ export interface DirectoryHub {
 
 export interface DirectoryFilter {
   months?: number[];
+  monthRange?: [number, number]; // [from, to] inclusive, 1-12; wraps the year-end when from > to (e.g. [11, 3] = Nov–Mar)
   costs?: CostBucket[];
   categories?: HubCategory[];
   participation?: Exclude<Participation, "">[]; // only "family" | "dropoff" are selectable
@@ -69,6 +70,12 @@ export function filterDirectory(hubs: DirectoryHub[], f: DirectoryFilter): Direc
     if (f.months && f.months.length > 0) {
       const flexible = h.months.length === 0;
       if (!flexible && !f.months.some((m) => h.months.includes(m))) return false;
+    }
+    if (f.monthRange) {
+      const [s, e] = f.monthRange;
+      const inRange = (m: number) => (s <= e ? m >= s && m <= e : m >= s || m <= e); // wrap when s > e
+      const flexible = h.months.length === 0; // year-round / flexible hubs always pass
+      if (!flexible && !h.months.some(inRange)) return false;
     }
     if (f.costs && f.costs.length > 0 && !f.costs.includes(h.costBucket)) return false;
     if (f.categories && f.categories.length > 0) {
