@@ -3,7 +3,7 @@
 
 import { useMemo, useState } from "react";
 import dynamic from "next/dynamic";
-import { filterDirectory, uniqueDirectoryCountries, type DirectoryFilter, type DirectoryHub } from "@/lib/directory";
+import { filterDirectory, type DirectoryFilter, type DirectoryHub } from "@/lib/directory";
 import HubCard from "./HubCard";
 import FilterBar from "./FilterBar";
 import HubModal from "./HubModal";
@@ -31,7 +31,6 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
   const [bounds, setBounds] = useState<MapBounds | null>(null);
   const [anywhereOpen, setAnywhereOpen] = useState(false);
 
-  const countries = useMemo(() => uniqueDirectoryCountries(hubs), [hubs]);
   // The map plots every filter-matched hub; the list splits into place-based hubs
   // (shown only when in the current viewport) and location-less "anywhere" hubs.
   const filtered = useMemo(() => filterDirectory(hubs, filter), [hubs, filter]);
@@ -44,7 +43,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
 
   return (
     <div className="flex h-full min-h-0 flex-col bg-[#fff4e6]">
-      <FilterBar filter={filter} onChange={setFilter} countries={countries} resultCount={gridHubs.length + anywhereHubs.length} onReset={() => setFilter({})} />
+      <FilterBar filter={filter} onChange={setFilter} resultCount={gridHubs.length + anywhereHubs.length} onReset={() => setFilter({})} />
 
       <div className="grid min-h-0 flex-1 grid-cols-1 md:grid-cols-[1.35fr_1fr]">
         <div className="min-h-0 overflow-y-auto p-4">

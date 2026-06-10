@@ -22,12 +22,11 @@ function toggle<T>(arr: T[] | undefined, v: T): T[] {
 interface Props {
   filter: DirectoryFilter;
   onChange: (next: DirectoryFilter) => void;
-  countries: string[];
   resultCount: number;
   onReset: () => void;
 }
 
-export default function FilterBar({ filter, onChange, countries, resultCount, onReset }: Props) {
+export default function FilterBar({ filter, onChange, resultCount, onReset }: Props) {
   const set = (patch: Partial<DirectoryFilter>) => onChange({ ...filter, ...patch });
   // The two pickers define a wrap-aware range. Choosing one end defaults the
   // other to the same month so the range is always valid; "Any month" clears it.
@@ -96,15 +95,6 @@ export default function FilterBar({ filter, onChange, countries, resultCount, on
         ))}
         <button type="button" className={PILL} style={{ ...display, ...active(Boolean(filter.spanishOnly), "#ffca3a") }}
           onClick={() => set({ spanishOnly: !filter.spanishOnly })}>🗣 Spanish</button>
-
-        <span className="mx-1 h-[22px] w-px bg-[#20140d22]" />
-        <select
-          value={(filter.countries ?? [])[0] ?? ""}
-          onChange={(e) => set({ countries: e.target.value ? [e.target.value] : [] })}
-          className="rounded-full border-2 border-[#20140d] bg-white px-[12px] py-[5px] text-[12.5px]" style={display}>
-          <option value="">All countries</option>
-          {countries.map((c) => <option key={c} value={c}>{c}</option>)}
-        </select>
       </div>
     </div>
   );
