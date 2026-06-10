@@ -98,3 +98,23 @@ export function uniqueDirectoryCountries(hubs: DirectoryHub[]): string[] {
   for (const h of hubs) if (h.country) set.add(h.country);
   return [...set].sort((a, b) => a.localeCompare(b));
 }
+
+const MONTH_NUMS: Record<string, number> = {
+  jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6,
+  jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12,
+};
+
+/**
+ * Returns true only when the season string contains an explicit end date that
+ * has already passed — e.g. "March 30 – April 6 2026". Conservative: returns
+ * false for ambiguous strings like "Nov–Apr" (no year) or "Year-round".
+ */
+export function isDirectoryHubPast(h: DirectoryHub, today = new Date()): boolean {
+  // Match the trailing end date: "– Month DD YYYY" or "– Month DDth YYYY"
+  const m = h.season.match(/[–-]\s*([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?\s+(\d{4})\s*$/);
+  if (!m) return false;
+  const mon = MONTH_NUMS[m[1].toLowerCase().slice(0, 3)];
+  if (!mon) return false;
+  const end = new Date(parseInt(m[3]), mon - 1, parseInt(m[2]));
+  return end < today;
+}

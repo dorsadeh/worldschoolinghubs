@@ -151,44 +151,6 @@
     ]
   },
   {
-    "id": "hakuba-international-term-year",
-    "name": "Hakuba International (term/year)",
-    "host": "",
-    "category": "organic",
-    "categories": [
-      "organic"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Japan",
-    "region": "Hakuba Mura, Nagano",
-    "season": "Short or long term; ski season",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "School-age",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/hakuba-japan...",
-    "facebook": "",
-    "summary": "Homeschool families join an international school for a term/year. Mountain town.",
-    "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/hakuba-japan..."
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ]
-    ],
-    "image": "/directory-images/hakuba-international-term-year.jpg",
-    "coords": [
-      36.6981042,
-      137.862068
-    ]
-  },
-  {
     "id": "kuala-lumpur",
     "name": "Kuala Lumpur",
     "host": "",
@@ -1298,44 +1260,6 @@
     "coords": [
       -8.5069,
       115.2625
-    ]
-  },
-  {
-    "id": "wonder-intercultural-school",
-    "name": "Wonder Intercultural School",
-    "host": "Wonder School",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Indonesia",
-    "region": "Lombok",
-    "season": "Term enrollment",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "All",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "wonderschool.cc",
-    "facebook": "",
-    "summary": "Bilingual nature-based intercultural school for travelling families.",
-    "references": [
-      [
-        "Website",
-        "https://wonderschool.cc"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ]
-    ],
-    "image": "/directory-images/wonder-intercultural-school.jpg",
-    "coords": [
-      -8.5835637,
-      116.3580819
     ]
   },
   {
@@ -2829,41 +2753,6 @@
     ]
   },
   {
-    "id": "the-world-school",
-    "name": "The World School",
-    "host": "The World School",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "dropoff",
-    "country": "travelling community",
-    "region": "n/a",
-    "season": "Travelling",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "All",
-    "nationality": "",
-    "validity": "web candidate (Low)",
-    "website": "theworld.school",
-    "facebook": "",
-    "summary": "A drop-off commercial worldschool hub in n/a.",
-    "references": [
-      [
-        "Website",
-        "https://theworld.school"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ]
-    ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EThe%20World%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
-    "coords": null
-  },
-  {
     "id": "kiriwi-forest-school",
     "name": "KiRIWi Forest School",
     "host": "",
@@ -3037,48 +2926,6 @@
     ]
   },
   {
-    "id": "noma-collective-family-hub",
-    "name": "Noma Collective (Family Hub)",
-    "host": "Noma Collective",
-    "category": "permanent_community",
-    "categories": [
-      "permanent_community"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Honduras",
-    "region": "(coliving/coworking)",
-    "season": "Family Hub launching 2026",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Families",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "noma-collective.com",
-    "facebook": "",
-    "summary": "Coliving/coworking for nomadic families; family hub new for 2026.",
-    "references": [
-      [
-        "Website",
-        "https://noma-collective.com"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "RemoteFamily directory",
-        "https://remotefamily.com/"
-      ]
-    ],
-    "image": "/directory-images/noma-collective-family-hub.jpg",
-    "coords": [
-      15.2572432,
-      -86.0755145
-    ]
-  },
-  {
     "id": "selong-bay-worldschooling-hub",
     "name": "Selong Bay WorldSchooling Hub",
     "host": "Elizabeth Berryman",
@@ -3127,44 +2974,6 @@
     "coords": [
       -8.8832436,
       116.1662714
-    ]
-  },
-  {
-    "id": "the-creative-world",
-    "name": "The Creative World",
-    "host": "",
-    "category": "permanent_community",
-    "categories": [
-      "permanent_community"
-    ],
-    "spanish": false,
-    "participation": "dropoff",
-    "country": "Indonesia",
-    "region": "Ubud, Bali",
-    "season": "Long-term",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Mixed",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/the-creative-world/",
-    "facebook": "",
-    "summary": "Self-driven hub / alternative school community in Ubud.",
-    "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/the-creative-world/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ]
-    ],
-    "image": "/directory-images/the-creative-world.jpg",
-    "coords": [
-      -8.5170195,
-      115.2550507
     ]
   },
   {
@@ -3585,48 +3394,6 @@
     ]
   },
   {
-    "id": "mama-adama",
-    "name": "Mama Adama",
-    "host": "",
-    "category": "permanent_community",
-    "categories": [
-      "permanent_community"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Portugal",
-    "region": "Alentejo",
-    "season": "Year-round",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "",
-    "costBucket": "unlisted",
-    "ages": "",
-    "nationality": "Israeli",
-    "validity": "Med",
-    "website": "",
-    "facebook": "",
-    "summary": "Israeli-founded eco-village network (founder Yariv Paz) helping families relocate to rural Portuguese natural-farming communes.",
-    "references": [],
-    "image": "/directory-images/mama-adama.jpg",
-    "coords": [
-      38.0551003,
-      -7.8605799
-    ]
-  },
-  {
     "id": "spirala-eco-village",
     "name": "Spirala Eco Village",
     "host": "",
@@ -3977,69 +3744,6 @@
       ]
     ],
     "image": "/directory-images/treehouse-summit.jpg",
-    "coords": [
-      41.8344086,
-      23.4841698
-    ]
-  },
-  {
-    "id": "worldschooling-bansko",
-    "name": "Worldschooling Bansko",
-    "host": "",
-    "category": "popup",
-    "categories": [
-      "popup"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Bulgaria",
-    "region": "Bansko",
-    "season": "Jan 4-Feb 14 & Feb 22-Apr 4 (winter/ski season)",
-    "months": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Families",
-    "nationality": "UK / Dutch / Israeli",
-    "validity": "High",
-    "website": "worldschooly.com/hub/worldschooling-bansko/",
-    "facebook": "facebook.com/groups/1458088764967558 (Home/World Schooling Families Bansko)",
-    "summary": "Bansko = the 'worldschooling capital'. Israeli families explicitly present.",
-    "references": [
-      [
-        "Website",
-        "https://worldschooly.com/hub/worldschooling-bansko/"
-      ],
-      [
-        "Facebook / Instagram",
-        "https://facebook.com/groups/1458088764967558 (Home/World Schooling Families Bansko)"
-      ],
-      [
-        "Worldschooly directory",
-        "https://worldschooly.com/hubs/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "Parenting&Passports — Bansko (R8)",
-        "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/"
-      ],
-      [
-        "Education Next — Bansko (R12)",
-        "https://www.educationnext.in/posts/bansko-the-world-schooling-capital-of-the-world"
-      ],
-      [
-        "TRVbox (HE) — Bansko with kids (R94)",
-        "https://www.trvbox.co.il/bansko-with-kids/"
-      ]
-    ],
-    "image": "/directory-images/worldschooling-bansko.jpg",
     "coords": [
       41.8344086,
       23.4841698
@@ -4653,44 +4357,6 @@
     ]
   },
   {
-    "id": "better-together-hubs",
-    "name": "Better Together Hubs",
-    "host": "Better Together",
-    "category": "popup",
-    "categories": [
-      "popup"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Japan",
-    "region": "Osaka",
-    "season": "Organised hub sessions",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "All",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "bettertogetherhubs.com",
-    "facebook": "",
-    "summary": "Community hub for worldschooling families in Osaka.",
-    "references": [
-      [
-        "Website",
-        "https://bettertogetherhubs.com"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ]
-    ],
-    "image": "/directory-images/better-together-hubs.jpg",
-    "coords": [
-      34.6937569,
-      135.5014539
-    ]
-  },
-  {
     "id": "arcticterns-playa-del-carmen",
     "name": "ArcticTerns - Playa del Carmen",
     "host": "Arctic Terns",
@@ -5013,53 +4679,6 @@
     ]
   },
   {
-    "id": "andalusia-nomad-mums-co-living-for-mums-an",
-    "name": "Andalusia Nomad Mums (co-living for mums and kids)",
-    "host": "Claudia Bellante",
-    "category": "popup",
-    "categories": [
-      "popup"
-    ],
-    "spanish": true,
-    "participation": "family",
-    "country": "Spain",
-    "region": "Chiclana de la Frontera",
-    "season": "1–29 Oct 2025; 1–29 Apr, 1–29 May, 1–15 Jun, 1–29 Oct 2026",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "From €2,940 per month (co-living, private room, shared bathroom)",
-    "costBucket": "high",
-    "ages": "{\"min\": 2, \"max\": 12}",
-    "nationality": "",
-    "validity": "from PDF",
-    "website": "",
-    "facebook": "",
-    "summary": "Forest/beach school in pine forest and on the beach; bilingual Spanish/English educators, mornings 9am–2pm",
-    "references": [
-      [
-        "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
-        ""
-      ]
-    ],
-    "image": "/directory-images/andalusia-nomad-mums-co-living-for-mums-an.jpg",
-    "coords": [
-      36.4191096,
-      -6.1460683
-    ]
-  },
-  {
     "id": "el-aula-azul",
     "name": "El Aula Azul",
     "host": "El Aula Azul",
@@ -5228,44 +4847,6 @@
     "coords": [
       8.0322,
       98.8211
-    ]
-  },
-  {
-    "id": "languaventure-international-learning-centr",
-    "name": "Languaventure International Learning Centre & Camps",
-    "host": "Sean Paul",
-    "category": "popup",
-    "categories": [
-      "popup"
-    ],
-    "spanish": false,
-    "participation": "dropoff",
-    "country": "Turkey",
-    "region": "Fethiye",
-    "season": "Throughout the academic year and school holidays",
-    "months": [],
-    "price": "Depending on the programme; weekly, monthly or termly payment schedules",
-    "costBucket": "unlisted",
-    "ages": "{\"min\": 4, \"max\": 11}",
-    "nationality": "British + intl",
-    "validity": "from PDF",
-    "website": "https://languaventure.com/services/international-learning-centre",
-    "facebook": "",
-    "summary": "Thematic learning following the English National Curriculum, face to face with UK teachers",
-    "references": [
-      [
-        "Website",
-        "https://languaventure.com/services/international-learning-centre"
-      ],
-      [
-        "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
-        ""
-      ]
-    ],
-    "image": "/directory-images/languaventure-international-learning-centr.jpg",
-    "coords": [
-      36.6221154,
-      29.1153384
     ]
   },
   {
@@ -5618,90 +5199,6 @@
     ],
     "image": "/directory-images/exploring-families.jpg",
     "coords": null
-  },
-  {
-    "id": "learn-to-sail-family-adventure-greece-balk",
-    "name": "\"Learn to Sail\" Family Adventure (Greece / Balkans)",
-    "host": "Every Avenue Travel",
-    "category": "traveling",
-    "categories": [
-      "traveling"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Greece",
-    "region": "Greek Islands",
-    "season": "May – Greece; early June – Greek Islands or the Balkans",
-    "months": [
-      5,
-      6
-    ],
-    "price": "$1,475 per person",
-    "costBucket": "mid",
-    "ages": "{\"note\": \"All ages\"}",
-    "nationality": "",
-    "validity": "from PDF",
-    "website": "",
-    "facebook": "",
-    "summary": "Sailing basics, water adventures, snorkelling, paddleboarding, secluded beaches and cave exploration",
-    "references": [
-      [
-        "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
-        ""
-      ]
-    ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3E%26quot%3BLearn%20to%20Sail%26quot%3B%20Family%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EAdventure%20%28Greece%20/%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGreek%20Islands%3C/text%3E%3C/svg%3E",
-    "coords": [
-      39.1856681,
-      20.172817
-    ]
-  },
-  {
-    "id": "wander-wonder-the-traveling-adventure-scho",
-    "name": "Wander & Wonder — The Traveling Adventure School",
-    "host": "Mel Bembers",
-    "category": "traveling",
-    "categories": [
-      "traveling"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Greece",
-    "region": "Crete",
-    "season": "Multiple offerings, year round",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "$300 – $600 USD",
-    "costBucket": "low",
-    "ages": "{\"note\": \"All ages\"}",
-    "nationality": "",
-    "validity": "from PDF",
-    "website": "",
-    "facebook": "",
-    "summary": "Nature school / field trips",
-    "references": [
-      [
-        "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
-        ""
-      ]
-    ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWander%20%26amp%3B%20Wonder%20%E2%80%94%20The%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ETraveling%20Adventure%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECrete%3C/text%3E%3C/svg%3E",
-    "coords": [
-      35.3084952,
-      24.4633423
-    ]
   },
   {
     "id": "deliberate-detour-guatemala",
@@ -7224,158 +6721,6 @@
     ]
   },
   {
-    "id": "porto-grana-worldschoolers-hub",
-    "name": "Porto Grana Worldschoolers Hub",
-    "host": "Porto Grana",
-    "category": "online",
-    "categories": [
-      "online"
-    ],
-    "spanish": false,
-    "participation": "dropoff",
-    "country": "Portugal",
-    "region": "Porto Grana",
-    "season": "Community studio",
-    "months": [],
-    "price": "Free",
-    "costBucket": "free",
-    "ages": "All",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "portograna.wixsite.com",
-    "facebook": "",
-    "summary": "Community studio hub in Portugal.",
-    "references": [
-      [
-        "Website",
-        "https://portograna.wixsite.com"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ]
-    ],
-    "image": "/directory-images/porto-grana-worldschoolers-hub.jpg",
-    "coords": [
-      39.4,
-      -8.2
-    ]
-  },
-  {
-    "id": "fuerteventura-worldschool-hub",
-    "name": "Fuerteventura Worldschool Hub",
-    "host": "",
-    "category": "online",
-    "categories": [
-      "online"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Spain",
-    "region": "Fuerteventura, Canary Islands",
-    "season": "Short-term",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Mixed",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/",
-    "facebook": "",
-    "summary": "Self-driven family hub, Canary Islands.",
-    "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ]
-    ],
-    "image": "/directory-images/fuerteventura-worldschool-hub.jpg",
-    "coords": [
-      28.4003769,
-      -14.0048697
-    ]
-  },
-  {
-    "id": "gran-canaria-worldschool-hub",
-    "name": "Gran Canaria Worldschool Hub",
-    "host": "",
-    "category": "online",
-    "categories": [
-      "online"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Spain",
-    "region": "Gran Canaria, Canary Islands",
-    "season": "Pop-up/event",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Mixed",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/",
-    "facebook": "",
-    "summary": "Self-driven family hub, Canary Islands.",
-    "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ]
-    ],
-    "image": "/directory-images/gran-canaria-worldschool-hub.jpg",
-    "coords": [
-      27.9580004,
-      -15.6062305
-    ]
-  },
-  {
-    "id": "tenerife-worldschool-hub",
-    "name": "Tenerife Worldschool Hub",
-    "host": "",
-    "category": "online",
-    "categories": [
-      "online"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "Spain",
-    "region": "Tenerife, Canary Islands",
-    "season": "Varies",
-    "months": [],
-    "price": "Varies",
-    "costBucket": "unlisted",
-    "ages": "Mixed",
-    "nationality": "",
-    "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/tenerife-worldschool-hub/",
-    "facebook": "",
-    "summary": "Self-driven family hub, Canary Islands.",
-    "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ]
-    ],
-    "image": "/directory-images/tenerife-worldschool-hub.jpg",
-    "coords": [
-      28.2935785,
-      -16.6214471
-    ]
-  },
-  {
     "id": "bliss-hubs-koh-lanta",
     "name": "Bliss Hubs Koh Lanta",
     "host": "Bliss Investor",
@@ -7533,41 +6878,6 @@
       19.1213076,
       98.9433838
     ]
-  },
-  {
-    "id": "remote-family-database-directory",
-    "name": "Remote Family Database (directory)",
-    "host": "Remote Family",
-    "category": "online",
-    "categories": [
-      "online"
-    ],
-    "spanish": false,
-    "participation": "family",
-    "country": "global (online)",
-    "region": "n/a",
-    "season": "n/a",
-    "months": [],
-    "price": "Free",
-    "costBucket": "free",
-    "ages": "All",
-    "nationality": "",
-    "validity": "web candidate (Low)",
-    "website": "remotefamily.com",
-    "facebook": "",
-    "summary": "Filterable worldschooling DB. Add to sources.md rather than as a hub.",
-    "references": [
-      [
-        "Website",
-        "https://remotefamily.com"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ]
-    ],
-    "image": "/directory-images/remote-family-database-directory.jpg",
-    "coords": null
   },
   {
     "id": "we-are-worldschoolers-online",
