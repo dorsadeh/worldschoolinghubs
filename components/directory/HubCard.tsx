@@ -26,13 +26,17 @@ function monthLabel(months: number[]): string {
 }
 
 export default function HubCard({
-  hub, onOpen,
-}: { hub: DirectoryHub; onOpen: (id: string) => void }) {
+  hub, onOpen, onHover,
+}: { hub: DirectoryHub; onOpen: (id: string) => void; onHover?: (id: string | null) => void }) {
   const meta = CATEGORY_META[hub.category];
   return (
     <button
       type="button"
       onClick={() => onOpen(hub.id)}
+      onMouseEnter={() => onHover?.(hub.id)}
+      onMouseLeave={() => onHover?.(null)}
+      onFocus={() => onHover?.(hub.id)}
+      onBlur={() => onHover?.(null)}
       className="group block w-full overflow-hidden rounded-[20px] border-[2.5px] border-[#20140d] bg-white text-left shadow-[5px_6px_0_#20140d] transition-transform duration-150 hover:-translate-y-[3px] hover:shadow-[8px_10px_0_#20140d]"
     >
       <div className="relative h-[120px] w-full">

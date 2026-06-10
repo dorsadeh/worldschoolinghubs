@@ -31,6 +31,22 @@ body {
   border: none;
 }
 
+/* A pin lit up by hovering its card in the list — a quick playful pop.
+ * The animation lives on an inner wrapper, NOT the marker root: Leaflet
+ * positions the root with an inline `transform: translate3d(...)`, and a CSS
+ * transform animation there would override it and fling the pin to 0,0. */
+.ws-pin-inner {
+  transform-origin: center bottom;
+}
+.ws-pin-pop {
+  animation: ws-pin-pop 0.22s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@keyframes ws-pin-pop {
+  0% { transform: scale(0.6); }
+  60% { transform: scale(1.12); }
+  100% { transform: scale(1); }
+}
+
 /* Keep map panes/controls below the detail slide-over (z-[1000]). */
 .leaflet-pane,
 .leaflet-top,
