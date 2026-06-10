@@ -1,9 +1,11 @@
 // scripts/build-explorer-data.ts
 /**
  * Enrich the consolidated worldschooling directory into a client-ready
- * public/directory.json: derive months[] + costBucket, resolve coords from a
- * country-centroid table (reusing precise coords from data/hubs/*.json when an id
- * matches), and copy referenced local images into public/directory-images/.
+ * public/directory.json: derive months[] + costBucket, resolve coords from:
+ *   1. data/hubs/*.json precise coords (when id matches)
+ *   2. data/research/geocoded-coords.json (Nominatim city-level geocoding)
+ *   3. country-centroid table as last resort
+ * and copy referenced local images into public/directory-images/.
  *
  * Usage: npm run build:explorer
  */
@@ -17,6 +19,7 @@ const ROOT = process.cwd();
 const RESEARCH = join(ROOT, "data", "research");
 const SRC = join(RESEARCH, "directory-consolidated-2026-06-09.json");
 const CENTROIDS = join(RESEARCH, "country-centroids.json");
+const GEOCODED = join(RESEARCH, "geocoded-coords.json");
 const HUBS_JSON = join(ROOT, "public", "hubs.json");
 const IMG_OUT = join(ROOT, "public", "directory-images");
 const OUT = join(ROOT, "public", "directory.json");
@@ -33,6 +36,9 @@ function primaryCountry(raw: string): string {
 function main() {
   const raw = JSON.parse(readFileSync(SRC, "utf8")) as Record<string, unknown>[];
   const centroids = JSON.parse(readFileSync(CENTROIDS, "utf8")) as Record<string, [number, number]>;
+  const geocoded: Record<string, [number, number] | null> = existsSync(GEOCODED)
+    ? JSON.parse(readFileSync(GEOCODED, "utf8"))
+    : {};
   const hubs = JSON.parse(readFileSync(HUBS_JSON, "utf8")) as {
     id: string; location: { lat: number | null; lng: number | null };
   }[];
@@ -52,9 +58,12 @@ function main() {
     const category = (VALID_CATEGORIES.includes(e.category as HubCategory)
       ? e.category : "organic") as HubCategory;
 
-    let coords: [number, number] | null = hubCoords.get(id) ?? null;
+    let coords: [number, number] | null =
+      hubCoords.get(id) ??          // 1. precise coords from curated hubs.json
+      geocoded[id] ??               // 2. city-level from Nominatim geocoding
+      null;
     if (!coords) {
-      const c = centroids[primaryCountry(country)];
+      const c = centroids[primaryCountry(country)]; // 3. country centroid last resort
       if (c) coords = c;
     }
     if (coords) placed++;
