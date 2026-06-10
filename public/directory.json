@@ -6454,9 +6454,9 @@
     "id": "bliss-hubs-siem-reap",
     "name": "Bliss Hubs Siem Reap",
     "host": "Bliss Hubs",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "",
@@ -6492,9 +6492,9 @@
     "id": "shanti-shanti",
     "name": "Shanti Shanti",
     "host": "Shanti Shanti",
-    "category": "online",
+    "category": "permanent_community",
     "categories": [
-      "online"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "family",
@@ -6572,9 +6572,9 @@
     "id": "bliss-hubs-bali",
     "name": "Bliss Hubs Bali",
     "host": "Bliss Investor",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "",
@@ -6623,9 +6623,9 @@
     "id": "bliss-hubs-kuala-lumpur",
     "name": "Bliss Hubs Kuala Lumpur",
     "host": "Bliss Investor",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "",
@@ -6678,9 +6678,9 @@
     "id": "algarve-worldschooling-hub-naturally-riche",
     "name": "Algarve Worldschooling Hub (Naturally Richer)",
     "host": "Katarina Garnett",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -6724,9 +6724,9 @@
     "id": "bliss-hubs-koh-lanta",
     "name": "Bliss Hubs Koh Lanta",
     "host": "Bliss Investor",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "family",
@@ -6781,9 +6781,9 @@
     "id": "bliss-hubs-krabi",
     "name": "Bliss Hubs Krabi",
     "host": "Bliss Investor",
-    "category": "online",
+    "category": "organic",
     "categories": [
-      "online"
+      "organic"
     ],
     "spanish": false,
     "participation": "family",
@@ -6832,9 +6832,9 @@
     "id": "panya-forest",
     "name": "Panya Forest",
     "host": "Panya",
-    "category": "online",
+    "category": "permanent_community",
     "categories": [
-      "online"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "",

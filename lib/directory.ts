@@ -60,6 +60,15 @@ export const COST_META: Record<CostBucket, string> = {
 export const hubCategories = (h: DirectoryHub): HubCategory[] =>
   h.categories && h.categories.length > 0 ? h.categories : [h.category];
 
+/**
+ * "Available anywhere" = no fixed place on the map. True when a hub has no
+ * coordinates OR is an online program (some online hubs carry a country
+ * centroid, but pinning them confuses people scanning for real locations).
+ * Drives the Map vs. Online & Anywhere tab split in the explorer.
+ */
+export const isAnywhereHub = (h: DirectoryHub): boolean =>
+  h.coords === null || hubCategories(h).includes("online");
+
 const searchText = (h: DirectoryHub) =>
   [h.name, h.host, h.summary, h.country, h.region].filter(Boolean).join(" ").toLowerCase();
 
