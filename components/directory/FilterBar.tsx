@@ -93,8 +93,6 @@ export default function FilterBar({ filter, onChange, resultCount, onReset }: Pr
           <button key={p} type="button" className={PILL} style={{ ...display, ...active((filter.participation ?? []).includes(p), "#a0c4ff") }}
             onClick={() => set({ participation: toggle(filter.participation, p) })}>{p === "dropoff" ? "🎒 Drop-off" : "👪 Family"}</button>
         ))}
-        <button type="button" className={PILL} style={{ ...display, ...active(Boolean(filter.spanishOnly), "#ffca3a") }}
-          onClick={() => set({ spanishOnly: !filter.spanishOnly })}>🗣 Spanish</button>
       </div>
     </div>
   );
