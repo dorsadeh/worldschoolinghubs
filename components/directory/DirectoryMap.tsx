@@ -59,6 +59,7 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
   const onBoundsChangeRef = useRef(onBoundsChange);
   const selectedRef = useRef<string | null>(selectedId);
   const hoveredRef = useRef<string | null>(hoveredId);
+  const didInitialFitRef = useRef(false);
 
   useEffect(() => { onSelectRef.current = onSelect; }, [onSelect]);
   useEffect(() => { onBoundsChangeRef.current = onBoundsChange; }, [onBoundsChange]);
@@ -99,9 +100,13 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
       cluster.addLayer(marker);
       markersRef.current.set(hub.id, marker);
     }
-    // fitBounds only runs here — i.e. when the plotted (filter-matched) set changes,
-    // never on a plain pan — so it won't fight the user's panning.
-    if (located.length > 0) map.fitBounds(cluster.getBounds(), { padding: [48, 48], maxZoom: 8 });
+    // Fit the world to the pins once, on first load only. Re-fitting on every
+    // filter change would yank the map out from under the user as they browse;
+    // they keep whatever view they've panned/zoomed to.
+    if (!didInitialFitRef.current && located.length > 0) {
+      map.fitBounds(cluster.getBounds(), { padding: [48, 48], maxZoom: 8 });
+      didInitialFitRef.current = true;
+    }
   }, [hubs]);
 
   useEffect(() => {
