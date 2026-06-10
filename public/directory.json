@@ -2225,7 +2225,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Portugal",
     "region": "Sintra",
     "season": "Year-round; join 1-12 months",
@@ -2292,7 +2292,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Greece",
     "region": "Syros (Ermoupoli)",
     "season": "Year-round; join 1-12 months",
@@ -2359,7 +2359,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Italy",
     "region": "Pelago, Tuscany",
     "season": "Year-round; join 1-12 months",
@@ -2426,7 +2426,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Spain",
     "region": "Estepona",
     "season": "Year-round; join 1-12 months",
@@ -2493,7 +2493,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Montenegro",
     "region": "Kotor",
     "season": "Year-round; join 1-12 months",
@@ -2560,7 +2560,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Indonesia",
     "region": "Sanur, Bali",
     "season": "Year-round; join 1-12 months",
@@ -2627,7 +2627,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Uruguay",
     "region": "La Barra, Maldonado",
     "season": "Year-round; join 1-12 months",
@@ -2694,7 +2694,7 @@
       "permanent_commercial"
     ],
     "spanish": false,
-    "participation": "",
+    "participation": "dropoff",
     "country": "Japan",
     "region": "Kamakura",
     "season": "Year-round; join 1-12 months",
