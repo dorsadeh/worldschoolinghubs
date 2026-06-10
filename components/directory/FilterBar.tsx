@@ -12,6 +12,29 @@ const COSTS: CostBucket[] = ["free", "low", "mid", "high", "unlisted"];
 const CATEGORIES = Object.keys(CATEGORY_META) as HubCategory[];
 const PARTICIPATION: ("family" | "dropoff")[] = ["dropoff", "family"];
 
+const COST_TIPS: Record<CostBucket, string> = {
+  free: "Free or donation-based — no tuition required",
+  low: "Budget-friendly, typically under $1,000/month",
+  mid: "Mid-range, typically $1,000–$3,000/month",
+  high: "Premium programs, usually $3,000+/month",
+  unlisted: "Price not listed — contact the host directly",
+};
+
+const CATEGORY_TIPS: Record<HubCategory, string> = {
+  organic: "Informal, parent-led gatherings that emerged naturally from the worldschooling community",
+  permanent_commercial: "Professionally run hubs with a structured curriculum and tuition",
+  permanent_community: "Established community hubs co-run by worldschooling families with shared costs",
+  popup: "Temporary gatherings organized for a specific trip or season",
+  traveling: "Mobile programs that move between multiple locations",
+  spanish_immersion: "Hubs in Spanish-speaking countries with a focus on language immersion",
+  online: "Virtual programs and communities with no fixed physical location",
+};
+
+const PARTICIPATION_TIPS: Record<"dropoff" | "family", string> = {
+  dropoff: "Staffed programs — parents can work or travel independently while kids are cared for",
+  family: "Co-op style — parents participate alongside their children throughout the program",
+};
+
 const PILL = "rounded-full border-2 border-[#20140d] bg-white px-[11px] py-[4px] text-[12.5px] font-medium cursor-pointer transition-colors";
 
 function toggle<T>(arr: T[] | undefined, v: T): T[] {
@@ -54,11 +77,12 @@ export default function FilterBar({ filter, onChange, resultCount, onReset }: Pr
       </div>
 
       <div className="flex flex-wrap items-center gap-x-2 gap-y-2">
-        <span className="text-[12px] opacity-70" style={display}>When</span>
+        <span className="text-[12px] opacity-70" style={display} data-tip="Show hubs that are active from this month onward">When</span>
         <select
           aria-label="From month"
           value={filter.monthRange?.[0] ?? ""}
           onChange={(e) => setFrom(e.target.value)}
+          title="Show hubs active from this month"
           className="rounded-full border-2 border-[#20140d] bg-white px-[11px] py-[5px] text-[12.5px]" style={display}>
           <option value="">Any month</option>
           {MONTHS.map((m) => <option key={m.n} value={m.n}>{m.label}</option>)}
@@ -68,6 +92,7 @@ export default function FilterBar({ filter, onChange, resultCount, onReset }: Pr
           aria-label="To month"
           value={filter.monthRange?.[1] ?? ""}
           onChange={(e) => setTo(e.target.value)}
+          title="Show hubs still active through this month"
           className="rounded-full border-2 border-[#20140d] bg-white px-[11px] py-[5px] text-[12.5px]" style={display}>
           <option value="">Any month</option>
           {MONTHS.map((m) => <option key={m.n} value={m.n}>{m.label}</option>)}
@@ -76,21 +101,23 @@ export default function FilterBar({ filter, onChange, resultCount, onReset }: Pr
         <span className="mx-1 h-[22px] w-px bg-[#20140d22]" />
         <span className="text-[12px] opacity-70" style={display}>Cost</span>
         {COSTS.map((c) => (
-          <button key={c} type="button" className={PILL} style={{ ...display, ...active((filter.costs ?? []).includes(c), "#ffd6a5") }}
+          <button key={c} type="button" className={PILL} data-tip={COST_TIPS[c]}
+            style={{ ...display, ...active((filter.costs ?? []).includes(c), "#ffd6a5") }}
             onClick={() => set({ costs: toggle(filter.costs, c) })}>{COST_META[c]}</button>
         ))}
 
         <span className="mx-1 h-[22px] w-px bg-[#20140d22]" />
         <span className="text-[12px] opacity-70" style={display}>Type</span>
         {CATEGORIES.map((c) => (
-          <button key={c} type="button" className={PILL}
+          <button key={c} type="button" className={PILL} data-tip={CATEGORY_TIPS[c]}
             style={{ ...display, ...active((filter.categories ?? []).includes(c), CATEGORY_META[c].color), color: (filter.categories ?? []).includes(c) ? "#fff" : "#20140d" }}
             onClick={() => set({ categories: toggle(filter.categories, c) })}>{CATEGORY_META[c].label}</button>
         ))}
 
         <span className="mx-1 h-[22px] w-px bg-[#20140d22]" />
         {PARTICIPATION.map((p) => (
-          <button key={p} type="button" className={PILL} style={{ ...display, ...active((filter.participation ?? []).includes(p), "#a0c4ff") }}
+          <button key={p} type="button" className={PILL} data-tip={PARTICIPATION_TIPS[p]}
+            style={{ ...display, ...active((filter.participation ?? []).includes(p), "#a0c4ff") }}
             onClick={() => set({ participation: toggle(filter.participation, p) })}>{p === "dropoff" ? "🎒 Drop-off" : "👪 Family"}</button>
         ))}
       </div>

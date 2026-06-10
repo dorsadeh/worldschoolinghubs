@@ -28,18 +28,19 @@ interface Props {
 }
 
 function pinIcon(hub: DirectoryHub, state: PinState): L.DivIcon {
-  const color = CATEGORY_META[hub.category].color;
+  const { color, emoji } = CATEGORY_META[hub.category];
   const emphasised = state !== "normal";
   const size = state === "selected" ? 40 : state === "hovered" ? 38 : 30;
-  // The pop animation goes on this inner wrapper, never the Leaflet-positioned root.
   const innerClass = state === "hovered" ? "ws-pin-inner ws-pin-pop" : "ws-pin-inner";
+  const emojiSize = Math.round(size * 0.38);
+  // Emoji is positioned at ~42% from top (where the pin body is widest)
   const html = `
-    <div class="${innerClass}">
+    <div class="${innerClass}" style="position:relative;display:inline-block;">
       <svg width="${size}" height="${size}" viewBox="0 0 24 24" style="display:block;filter:drop-shadow(0 1px 2px rgba(0,0,0,.4))">
         <path d="M12 0C6.5 0 2 4.5 2 10c0 7 10 14 10 14s10-7 10-14C22 4.5 17.5 0 12 0z"
           fill="${color}" stroke="#20140d" stroke-width="${emphasised ? 2.5 : 2}"/>
-        <circle cx="12" cy="10" r="3.4" fill="#fff"/>
       </svg>
+      <span style="position:absolute;top:42%;left:50%;transform:translate(-50%,-50%);font-size:${emojiSize}px;line-height:1;user-select:none;pointer-events:none;">${emoji}</span>
     </div>`;
   return L.divIcon({
     html,
@@ -140,5 +141,23 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
     }
   }, [hoveredId, hubs]);
 
-  return <div ref={containerRef} className="absolute inset-0 h-full w-full" />;
+  return (
+    <>
+      <div ref={containerRef} className="absolute inset-0 h-full w-full" />
+      <div
+        className="absolute bottom-5 left-3 z-[1000] rounded-xl border border-[#20140d]/15 bg-white/90 p-3 shadow-md"
+        style={{ backdropFilter: "blur(6px)", fontFamily: "var(--font-body)" }}
+      >
+        <p className="mb-2 text-[9.5px] font-semibold uppercase tracking-widest text-[#20140d]/45" style={{ fontFamily: "var(--font-display)" }}>
+          Hub type
+        </p>
+        {(Object.entries(CATEGORY_META) as [string, { label: string; color: string; emoji: string }][]).map(([, meta]) => (
+          <div key={meta.label} className="mb-1 flex items-center gap-2 last:mb-0">
+            <span className="inline-block h-3 w-3 flex-shrink-0 rounded-full border border-[#20140d]/20" style={{ background: meta.color }} />
+            <span className="text-[11px] text-[#20140d]">{meta.emoji} {meta.label}</span>
+          </div>
+        ))}
+      </div>
+    </>
+  );
 }

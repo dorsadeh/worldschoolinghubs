@@ -1,7 +1,21 @@
 // components/directory/HubCard.tsx
 "use client";
 
+import { useState } from "react";
 import { CATEGORY_META, COST_META, hubCategories, type DirectoryHub } from "@/lib/directory";
+
+function FallbackImage({ color, emoji }: { color: string; emoji: string }) {
+  return (
+    <div
+      className="h-full w-full flex items-center justify-center"
+      style={{ background: `linear-gradient(145deg, ${color}28 0%, ${color}60 100%)` }}
+    >
+      <span style={{ fontSize: "2.8rem", filter: "drop-shadow(0 2px 8px rgba(0,0,0,0.18))", userSelect: "none", lineHeight: 1 }}>
+        {emoji}
+      </span>
+    </div>
+  );
+}
 
 const MONTH_ABBR = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
@@ -28,6 +42,7 @@ function monthLabel(months: number[]): string {
 export default function HubCard({
   hub, onOpen, onHover,
 }: { hub: DirectoryHub; onOpen: (id: string) => void; onHover?: (id: string | null) => void }) {
+  const [imgError, setImgError] = useState(false);
   const meta = CATEGORY_META[hub.category];
   const cats = hubCategories(hub);
   return (
@@ -38,14 +53,14 @@ export default function HubCard({
       onMouseLeave={() => onHover?.(null)}
       onFocus={() => onHover?.(hub.id)}
       onBlur={() => onHover?.(null)}
-      className="group block w-full overflow-hidden rounded-[20px] border-[2.5px] border-[#20140d] bg-white text-left shadow-[5px_6px_0_#20140d] transition-transform duration-150 hover:-translate-y-[3px] hover:shadow-[8px_10px_0_#20140d]"
+      className="group block w-full overflow-hidden rounded-[20px] border border-[#20140d]/20 bg-white text-left shadow-[0_2px_10px_rgba(32,20,13,0.09),0_1px_3px_rgba(32,20,13,0.06)] transition-all duration-150 hover:-translate-y-[3px] hover:shadow-[0_10px_28px_rgba(32,20,13,0.15),0_2px_6px_rgba(32,20,13,0.07)]"
     >
       <div className="relative h-[120px] w-full">
-        {hub.image ? (
+        {hub.image && !imgError ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" />
+          <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" onError={() => setImgError(true)} />
         ) : (
-          <div className="h-full w-full" style={{ background: meta.color }} />
+          <FallbackImage color={meta.color} emoji={meta.emoji} />
         )}
         <div className="absolute left-[10px] top-[10px] flex flex-wrap gap-[5px]">
           {cats.map((c) => {
