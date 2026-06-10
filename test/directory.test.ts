@@ -30,6 +30,12 @@ describe("filterDirectory", () => {
   it("category filter is OR within the facet", () => {
     expect(filterDirectory(hubs, { categories: ["organic", "popup"] }).map((h) => h.id)).toEqual(["a", "b"]);
   });
+  it("matches a hub on any of its categories when it spans more than one", () => {
+    const multi = [hub({ id: "m", category: "popup", categories: ["popup", "permanent_commercial"] })];
+    expect(filterDirectory(multi, { categories: ["permanent_commercial"] }).map((h) => h.id)).toEqual(["m"]);
+    expect(filterDirectory(multi, { categories: ["popup"] }).map((h) => h.id)).toEqual(["m"]);
+    expect(filterDirectory(multi, { categories: ["organic"] }).map((h) => h.id)).toEqual([]);
+  });
   it("participation filter hides blank-participation entries", () => {
     expect(filterDirectory(hubs, { participation: ["family"] }).map((h) => h.id)).toEqual(["a"]);
   });

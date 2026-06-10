@@ -57,6 +57,11 @@ function main() {
     const country = String(e.country ?? "");
     const category = (VALID_CATEGORIES.includes(e.category as HubCategory)
       ? e.category : "organic") as HubCategory;
+    // Optional source `categories` lets a hub span more than one type (e.g. a
+    // commercial pop-up). Always includes the primary first, de-duplicated.
+    const extra = (Array.isArray(e.categories) ? e.categories : [])
+      .filter((c): c is HubCategory => VALID_CATEGORIES.includes(c as HubCategory));
+    const categories = [...new Set<HubCategory>([category, ...extra])];
 
     let coords: [number, number] | null =
       hubCoords.get(id) ??          // 1. precise coords from curated hubs.json
@@ -89,6 +94,7 @@ function main() {
       name: String(e.name ?? ""),
       host: String(e.host ?? ""),
       category,
+      categories,
       spanish: Boolean(e.spanish),
       participation: (e.participation as DirectoryHub["participation"]) ?? "",
       country,

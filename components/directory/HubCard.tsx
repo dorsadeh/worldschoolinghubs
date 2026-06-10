@@ -1,7 +1,7 @@
 // components/directory/HubCard.tsx
 "use client";
 
-import { CATEGORY_META, COST_META, type DirectoryHub } from "@/lib/directory";
+import { CATEGORY_META, COST_META, hubCategories, type DirectoryHub } from "@/lib/directory";
 
 const MONTH_ABBR = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
@@ -29,6 +29,7 @@ export default function HubCard({
   hub, onOpen, onHover,
 }: { hub: DirectoryHub; onOpen: (id: string) => void; onHover?: (id: string | null) => void }) {
   const meta = CATEGORY_META[hub.category];
+  const cats = hubCategories(hub);
   return (
     <button
       type="button"
@@ -46,12 +47,20 @@ export default function HubCard({
         ) : (
           <div className="h-full w-full" style={{ background: meta.color }} />
         )}
-        <span
-          className="absolute left-[10px] top-[10px] -rotate-3 rounded-[9px] border-2 border-[#20140d] px-[9px] py-[2px] text-[11px] font-semibold"
-          style={{ background: meta.color, color: "#fff", fontFamily: "var(--font-display)" }}
-        >
-          {meta.emoji} {meta.label}
-        </span>
+        <div className="absolute left-[10px] top-[10px] flex flex-wrap gap-[5px]">
+          {cats.map((c) => {
+            const cm = CATEGORY_META[c];
+            return (
+              <span
+                key={c}
+                className="-rotate-3 rounded-[9px] border-2 border-[#20140d] px-[9px] py-[2px] text-[11px] font-semibold"
+                style={{ background: cm.color, color: "#fff", fontFamily: "var(--font-display)" }}
+              >
+                {cm.emoji} {cm.label}
+              </span>
+            );
+          })}
+        </div>
         {hub.participation && (
           <span className="absolute right-[10px] top-[10px] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#20140d] bg-white text-[13px]">
             {hub.participation === "dropoff" ? "🎒" : "👪"}

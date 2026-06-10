@@ -9,7 +9,8 @@ export interface DirectoryHub {
   id: string;
   name: string;
   host: string;
-  category: HubCategory;
+  category: HubCategory; // primary category — drives the pin colour and first badge
+  categories?: HubCategory[]; // full set incl. primary, for hubs that span more than one (e.g. commercial pop-up)
   spanish: boolean;
   participation: Participation;
   country: string;
@@ -54,6 +55,10 @@ export const COST_META: Record<CostBucket, string> = {
   free: "Free", low: "$", mid: "$$", high: "$$$", unlisted: "Not listed",
 };
 
+/** A hub's category list, falling back to just the primary when none is set. */
+export const hubCategories = (h: DirectoryHub): HubCategory[] =>
+  h.categories && h.categories.length > 0 ? h.categories : [h.category];
+
 const searchText = (h: DirectoryHub) =>
   [h.name, h.host, h.summary, h.country, h.region].filter(Boolean).join(" ").toLowerCase();
 
@@ -66,7 +71,10 @@ export function filterDirectory(hubs: DirectoryHub[], f: DirectoryFilter): Direc
       if (!flexible && !f.months.some((m) => h.months.includes(m))) return false;
     }
     if (f.costs && f.costs.length > 0 && !f.costs.includes(h.costBucket)) return false;
-    if (f.categories && f.categories.length > 0 && !f.categories.includes(h.category)) return false;
+    if (f.categories && f.categories.length > 0) {
+      const cats = h.categories && h.categories.length > 0 ? h.categories : [h.category];
+      if (!cats.some((c) => f.categories!.includes(c))) return false;
+    }
     if (f.participation && f.participation.length > 0) {
       if (h.participation === "" || !f.participation.includes(h.participation)) return false;
     }
