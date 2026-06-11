@@ -136,12 +136,12 @@ export interface DirectoryFilter {
 
 /** Label, accent colour, and emoji per hub type — used by cards, pins, legend, filter pills. */
 export const CATEGORY_META: Record<HubCategory, { label: string; color: string; emoji: string }> = {
-  organic: { label: "Organic", color: "#3f9e57", emoji: "🌳" },
-  permanent_commercial: { label: "Commercial", color: "#7b4dff", emoji: "🏫" },
-  permanent_community: { label: "Community", color: "#1aa18c", emoji: "🌿" },
-  popup: { label: "Pop-up", color: "#ff4d6d", emoji: "🎪" },
-  traveling: { label: "Traveling", color: "#4d7dff", emoji: "⛰️" },
-  spanish_immersion: { label: "Spanish", color: "#f0a500", emoji: "🗣️" },
+  organic: { label: "Organic", color: "#16a34a", emoji: "🌳" },
+  permanent_commercial: { label: "Commercial", color: "#7c3aed", emoji: "🏫" },
+  permanent_community: { label: "Community", color: "#0d9488", emoji: "🌿" },
+  popup: { label: "Pop-up", color: "#e11d48", emoji: "🎪" },
+  traveling: { label: "Traveling", color: "#2563eb", emoji: "⛰️" },
+  spanish_immersion: { label: "Spanish", color: "#d97706", emoji: "🗣️" },
   // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
   online_communities: { label: "Online community", color: "#7a8699", emoji: "💬" },
   junk: { label: "Junk", color: "#9aa0a6", emoji: "🗑️" },
@@ -164,7 +164,7 @@ export const isHiddenHub = (h: DirectoryHub): boolean =>
   hubCategories(h).every((c) => HIDDEN_CATEGORIES.has(c));
 
 export const COST_META: Record<CostBucket, string> = {
-  free: "Free", low: "$", mid: "$$", high: "$$$", unlisted: "Not listed",
+  free: "Free", low: "$ budget", mid: "$$ mid", high: "$$$ premium", unlisted: "Price unlisted",
 };
 
 /** A hub's category list, falling back to just the primary when none is set. */
