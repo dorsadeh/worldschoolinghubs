@@ -5,6 +5,94 @@ export type HubCategory =
 export type CostBucket = "free" | "low" | "mid" | "high" | "unlisted";
 export type Participation = "family" | "dropoff" | "";
 
+export type Confidence = "high" | "med" | "low";
+
+/** A dated cohort/session/gathering for a hub. Window: now → end of 2027. */
+export interface HubEvent {
+  title: string;
+  type: string; // cohort | session | retreat | popup | festival | conference | meetup | recurring-gathering
+  startDate: string | null; // ISO 8601, or null when only a month/season is known
+  endDate: string | null;
+  recurrence?: string; // "annual" | "one-time"
+  ageFocus?: string;
+  price?: string;
+  url?: string;
+  confidence?: Confidence;
+  asOf?: string;
+}
+
+/** Best / avoid seasonal windows — for hubs with no formal calendar. */
+export interface HubTiming {
+  bestWindow?: string;
+  avoidWindow?: string;
+  note?: string;
+  source?: string;
+  confidence?: Confidence;
+}
+
+export interface HubAgeRange {
+  value?: string;
+  minAge?: number | null;
+  maxAge?: number | null;
+  audience?: string; // kids | teens | all-ages | adults-too
+  source?: string;
+  confidence?: Confidence;
+}
+
+export interface HubPriceRange {
+  value?: string;
+  amount?: string | number | null;
+  currency?: string;
+  basis?: string; // per-family-per-month | per-child-per-program | cost-of-living | free
+  source?: string;
+  confidence?: Confidence;
+}
+
+export interface HubExactLocation {
+  address?: string;
+  locality?: string;
+  region?: string;
+  country?: string;
+  coords?: [number, number] | null;
+  source?: string;
+  confidence?: Confidence;
+}
+
+export interface HubExtras {
+  officialWebsite?: string | null;
+  bookingUrl?: string | null;
+  nationalitySkew?: string;
+  participation?: string;
+  languageOfInstruction?: string;
+  communitySize?: string;
+  legalVisaRisk?: string;
+  otherNotes?: string;
+}
+
+/** A directory value the research contradicts — surfaced for human review, never auto-applied. */
+export interface HubFlag {
+  field: string;
+  currentValue?: string;
+  suggestedValue?: string;
+  evidence?: string;
+  confidence?: Confidence;
+  note?: string;
+}
+
+/** Deep-research enrichment attached to a hub by id at build time. Purely additive. */
+export interface HubEnrichment {
+  events?: HubEvent[];
+  timing?: HubTiming | null;
+  ageRange?: HubAgeRange | null;
+  priceRange?: HubPriceRange | null;
+  exactLocation?: HubExactLocation | null;
+  extras?: HubExtras | null;
+  flags?: HubFlag[];
+  researchStatus?: string; // researched | not-found | ambiguous
+  sourcesRead?: string[];
+  sources?: string[]; // which research run(s) produced this — e.g. ["gemini"]
+}
+
 export interface DirectoryHub {
   id: string;
   name: string;
@@ -28,6 +116,7 @@ export interface DirectoryHub {
   references: [string, string][];
   image: string;
   coords: [number, number] | null;
+  enrichment?: HubEnrichment; // deep-research overlay, attached by id at build time
 }
 
 export interface DirectoryFilter {

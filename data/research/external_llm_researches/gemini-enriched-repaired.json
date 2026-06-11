@@ -1,0 +1,240 @@
+[
+  {
+    "id": "bansko-town-base-city",
+    "name": "Bansko Town (base city)",
+    "country": "Bulgaria",
+    "events": [],
+    "timing": {
+      "bestWindow": "December–March (Skiing) / July–August (Summer mountain nesting)",
+      "avoidWindow": "April–May and October–November (Transition shoulder seasons; cold, wet, and many local establishments shut down)",
+      "note": "The peak summer family nesting cluster runs from July to August to take advantage of warm mountain weather, hiking, and natural hot springs, whereas winter hosts active ski-nesting cohorts.",
+      "source": "https://nomadearthcatalog.com/digital-nomad-bansko/",
+      "confidence": "high"
+    },
+    "ageRange": {
+      "value": "All ages (highly popular for infants, toddlers, and school-age children due to walkability and outdoor focus)",
+      "minAge": null,
+      "maxAge": null,
+      "audience": "all-ages",
+      "source": "https://theworldschoolatlas.com/listing/bansko-town/",
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "€150–€250 / month (Summer apartment rentals); €300–€500 / month (Winter apartment rentals plus utilities)",
+      "amount": 250,
+      "currency": "EUR",
+      "basis": "cost-of-living",
+      "source": "https://www.novo-monde.com/en/bansko-bulgaria-digital-nomad/",
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "Bansko Town, Blagoevgrad Province, Bulgaria",
+      "locality": "Bansko",
+      "region": "Blagoevgrad",
+      "country": "Bulgaria",
+      "coords": [
+        41.83,
+        23.48
+      ],
+      "source": "https://sofiaexpats.com/blog/bansko-nomad-fest-2026-practical-guide",
+      "confidence": "high"
+    },
+    "extras": {
+      "officialWebsite": "https://theworldschoolatlas.com/listing/bansko-town/",
+      "bookingUrl": null,
+      "nationalitySkew": "UK / Dutch / Israeli",
+      "participation": "whole-family",
+      "languageOfInstruction": "English (informal homeschooling clusters and community-led classes)",
+      "communitySize": "300+ remote workers/families in any given peak month",
+      "legalVisaRisk": "Bulgaria's Schengen membership enforces a strict 90-day limit within a 180-day period for non-EU/EEA passport holders (such as Israelis, UK, and US families); newly introduced digital nomad visa in 2025 offers longer-stay options.",
+      "otherNotes": "Tap water is fresh and completely drinkable. Features highly popular community-run spaces like Altspace Coworking, local organic farmer markets, and hot spring pools in nearby Banya village."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": [
+      "https://theworldschoolatlas.com/listing/bansko-town/",
+      "https://banskonomadfest.com/",
+      "https://sofiaexpats.com/blog/bansko-nomad-fest-2026-practical-guide",
+      "https://nomadearthcatalog.com/digital-nomad-bansko/",
+      "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/"
+    ]
+  },
+  {
+    "id": "cyprus-limassol-larnaca",
+    "name": "Cyprus (Limassol/Larnaca)",
+    "country": "Cyprus",
+    "events": [],
+    "timing": {
+      "bestWindow": "Year-round (Relocation-grade hub with structured academic calendars)",
+      "avoidWindow": "July–August (Extreme Mediterranean heat often exceeding 40°C, causing many families to temporarily leave)",
+      "note": "Most international families operate on a year-round basis due to school enrollments. The best beach and outdoor windows are April–June and September–November.",
+      "source": "https://www.drwerner.com/en/nach-zypern-auswandern-mit-kindern-der-komplette-leitfaden-fuer-familien/",
+      "confidence": "high"
+    },
+    "ageRange": {
+      "value": "Ages 3-18 (Highly structured school systems from pre-school through secondary graduation)",
+      "minAge": 3,
+      "maxAge": 18,
+      "audience": "all-ages",
+      "source": "https://cyprussunset.com/blog/public-vs-private-schools-in-cyprus/",
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "€4,000–€6,000 / family of 4 / month (Includes mid-range rent and private school tuition)",
+      "amount": 4000,
+      "currency": "EUR",
+      "basis": "cost-of-living",
+      "source": "https://koufettaslaw.com/cost-of-relocating-to-cyprus/",
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "Limassol, Cyprus",
+      "locality": "Limassol",
+      "region": "Limassol District",
+      "country": "Cyprus",
+      "coords": [
+        34.67,
+        33.04
+      ],
+      "source": "https://www.drwerner.com/en/nach-zypern-auswandern-mit-kindern-der-komplette-leitfaden-fuer-familien/",
+      "confidence": "high"
+    },
+    "extras": {
+      "officialWebsite": "https://privateschools.cy/relocation/schools-in-cyprus-for-israeli-families",
+      "bookingUrl": null,
+      "nationalitySkew": "Israeli / British / Russian",
+      "participation": "whole-family",
+      "languageOfInstruction": "English (British standard curriculum) with extensive Greek and Russian options",
+      "communitySize": "800-900 Israeli families in Limassol, 300-350 families in Larnaca",
+      "legalVisaRisk": "EU citizens have immediate residency rights. Third-Country Nationals (including Israelis, British, and Americans) must acquire structured temporary residence permits (Pink Slips) with strict proof of stable foreign income, bank deposits, and medical insurance.",
+      "otherNotes": "Rapidly growing Jewish/Israeli nesting infrastructure supported by six regional Chabad houses, Hebrew-speaking kindergartens, and the island's first Jewish private school scheduled to open in Limassol in 2027. All resident children qualify for the low-cost national healthcare system (GESY) once registered."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": [
+      "https://privateschools.cy/relocation/schools-in-cyprus-for-israeli-families",
+      "https://www.drwerner.com/en/nach-zypern-auswandern-mit-kindern-der-komplette-leitfaden-fuer-familien/",
+      "https://koufettaslaw.com/cost-of-relocating-to-cyprus/",
+      "https://cyprussunset.com/blog/public-vs-private-schools-in-cyprus/"
+    ]
+  },
+  {
+    "id": "goa-arambol-mandrem",
+    "name": "Goa (Arambol/Mandrem)",
+    "country": "India",
+    "events": [],
+    "timing": {
+      "bestWindow": "November–March (Dry winter season with fully operating beach infrastructure)",
+      "avoidWindow": "June–September (Monsoon season; torrential rains, structural beach closures, systemic power outages, and high risk of mosquito-borne illnesses such as Chikungunya)",
+      "note": "Nesting families leave Goa almost entirely outside the November–March window, as beach shacks are dismantled and the landscape transitions to heavy rainfall.",
+      "source": "https://parentingandpassports.com/moving-to-goa-tips/",
+      "confidence": "high"
+    },
+    "ageRange": {
+      "value": "Ages 3-16 (Pre-school through Lower/Upper Secondary levels)",
+      "minAge": 3,
+      "maxAge": 16,
+      "audience": "all-ages",
+      "source": "https://riverhouseacademy.com/fees",
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "≈ ₹40,000 / month (Accommodation rent); ₹230,000–₹375,000 / year (Private international school tuition)",
+      "amount": 40000,
+      "currency": "INR",
+      "basis": "cost-of-living",
+      "source": "https://parentingandpassports.com/moving-to-goa-tips/",
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "Arambol Beach Road, Pernem, North Goa, India, 403524",
+      "locality": "Arambol",
+      "region": "North Goa",
+      "country": "India",
+      "coords": [
+        15.686,
+        73.7018
+      ],
+      "source": "https://holisticyellowschool.com/about/",
+      "confidence": "high"
+    },
+    "extras": {
+      "officialWebsite": null,
+      "bookingUrl": null,
+      "nationalitySkew": "Israeli (Arambol) / Russian (Morjim) / Western European & Scandinavian (Patnem/Anjuna)",
+      "participation": "both",
+      "languageOfInstruction": "English (with Hebrew and Russian spoken inside specialized community enclaves)",
+      "communitySize": "Thousands of long-term nesting families and returnees each high season",
+      "legalVisaRisk": "Indian tourist visas impose strict maximum stay restrictions (often 90 consecutive days for many western nationals), necessitating flight runs. Foreign-owned businesses run under local nominee schemes face heavy legal penalties under the Foreign Exchange Management Act (FEMA).",
+      "otherNotes": "Arambol features bohemian beach playgroups, yoga centers, and a relaxed, child-led environment. Morjim beach is heavily Russian-skewed and is a federally protected nesting site for endangered Olive Ridley sea turtles. Patnem (South Goa) hosts structured alternative facilities like Vidya Aranya and River House Academy; Anjuna hosts the Holistic Yellow School."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": [
+      "https://parentingandpassports.com/moving-to-goa-tips/",
+      "https://riverhouseacademy.com/fees",
+      "https://holisticyellowschool.com/about/",
+      "https://en.wikipedia.org/wiki/Morjim"
+    ]
+  },
+  {
+    "id": "hakuba-international-term-year",
+    "name": "Hakuba International (term/year)",
+    "country": "Japan",
+    "events": [],
+    "timing": {
+      "bestWindow": "December–March (World-class winter ski season) / July–August (Summer green and adventure season)",
+      "avoidWindow": "April–May (Transition mud season; snowmelt makes outdoor hiking trails muddy and many local hotels and restaurants close)",
+      "note": "The school operates on three academic trimesters (Fall, Winter, Spring). Short-term exchange terms are available through specific institutional partnerships (such as the US Whitfield School).",
+      "source": "https://www.eltschool.jp/en/column/hakuba-international-school-review",
+      "confidence": "high"
+    },
+    "ageRange": {
+      "value": "Ages 12-18 (Grades 7-12 for full-time middle and high school); Ages 11-15 for the summer camp program",
+      "minAge": 11,
+      "maxAge": 18,
+      "audience": "teens",
+      "source": "https://www.doris.school/schools/japan/hakuba-international-school",
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "JPY 3,930,000–4,450,000 / year (Tuition); JPY 2,150,000 / year (Boarding)",
+      "amount": 3930000,
+      "currency": "JPY",
+      "basis": "per-child-per-program",
+      "source": "https://www.hakuba-is.jp/admissions-process",
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "11290−1 Hokujo, Hakuba Village, Kitaazumi District, Nagano Prefecture, Japan, 399-9301",
+      "locality": "Hakuba Village",
+      "region": "Nagano Prefecture",
+      "country": "Japan",
+      "coords": [
+        36.7,
+        137.86
+      ],
+      "source": "https://www.international-schools-database.com/in/nagano/hakuba-international-school-nagano",
+      "confidence": "high"
+    },
+    "extras": {
+      "officialWebsite": "https://www.hakuba-is.jp/",
+      "bookingUrl": "https://www.hakuba-is.jp/admissions-process",
+      "nationalitySkew": "Japanese / Western Expats / Mixed International",
+      "participation": "drop-off",
+      "languageOfInstruction": "English (with compulsory Japanese classes based on proficiency levels)",
+      "communitySize": "Approx. 60 students and 25 faculty members, with small class sizes capped at a 2.4:1 student-to-teacher ratio",
+      "legalVisaRisk": "Long-term international students must secure a school-sponsored Japanese student visa. Parents accompanying children on non-student visas are subject to standard tourist limits (typically 90 days).",
+      "otherNotes": "Opened in August 2022. The boarding campus is situated at the base of Mount Iwatake (Nagano). Employs a unique 'Human Flourishing' curriculum that combines Project-Based Learning (PBL), Social-Emotional Learning (SEL), and outdoor excursions. The school is currently in the WASC accreditation process."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": [
+      "https://www.hakuba-is.jp/summer-program",
+      "https://www.hakuba-is.jp/admissions-process",
+      "https://www.doris.school/schools/japan/hakuba-international-school",
+      "https://www.eltschool.jp/en/column/hakuba-international-school-review",
+      "https://www.international-schools-database.com/in/nagano/hakuba-international-school-nagano"
+    ]
+  }
+]

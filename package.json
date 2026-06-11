@@ -11,7 +11,8 @@
     "test:watch": "vitest",
     "validate": "tsx scripts/validate.ts",
     "build:data": "tsx scripts/build-data.ts",
-    "build:explorer": "tsx scripts/build-explorer-data.ts",
+    "build:enrichment": "tsx scripts/build-enrichment.ts",
+    "build:explorer": "npm run build:enrichment && tsx scripts/build-explorer-data.ts",
     "geocode": "tsx scripts/geocode-directory.ts"
   },
   "dependencies": {

@@ -1,0 +1,2323 @@
+[
+  {
+    "id": "worldschool-pop-up-hub",
+    "events": [
+      {
+        "title": "Pop-Up Hub — Medellín (week-long)",
+        "type": "popup",
+        "startDate": "2026-06-07",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — San Francisco (week-long)",
+        "type": "popup",
+        "startDate": "2026-06-15",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Sibiu (week-long)",
+        "type": "popup",
+        "startDate": "2026-06-17",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Mendocino (week-long)",
+        "type": "popup",
+        "startDate": "2026-06-24",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Warsaw (week-long)",
+        "type": "popup",
+        "startDate": "2026-06-28",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Austin (week-long)",
+        "type": "popup",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Vienna (week-long)",
+        "type": "popup",
+        "startDate": "2026-07-20",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Dresden (week-long)",
+        "type": "popup",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Luang Prabang (week-long)",
+        "type": "popup",
+        "startDate": "2026-08-10",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Liverpool (week-long)",
+        "type": "popup",
+        "startDate": "2026-09-02",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Cuenca (week-long)",
+        "type": "popup",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — London (week-long)",
+        "type": "popup",
+        "startDate": "2026-09-16",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Osaka (week-long)",
+        "type": "popup",
+        "startDate": "2026-10-11",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Cape Town (week-long)",
+        "type": "popup",
+        "startDate": "2026-10-21",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — San Miguel de Allende (week-long)",
+        "type": "popup",
+        "startDate": "2026-10-25",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Taipei (week-long)",
+        "type": "popup",
+        "startDate": "2026-11-09",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Oaxaca (week-long)",
+        "type": "popup",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Pop-Up Hub — Santiago (week-long)",
+        "type": "popup",
+        "startDate": "2026-11-22",
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "All ages",
+      "minAge": null,
+      "maxAge": null,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "otherNotes": "Week-long mobile gatherings for worldschooling families, not formal school terms."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "worldwise-learning",
+    "events": [
+      {
+        "title": "Mountain to Ocean (Argentina/Peru/Ecuador)",
+        "type": "session",
+        "startDate": "2026-02-09",
+        "endDate": "2026-06-05",
+        "recurrence": "one-time",
+        "ageFocus": "4-13",
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Alpine Apothecaries (Switzerland)",
+        "type": "session",
+        "startDate": "2026-07-13",
+        "endDate": "2026-08-07",
+        "recurrence": "one-time",
+        "ageFocus": "12-15",
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Espionage Engineers (Tallinn)",
+        "type": "session",
+        "startDate": "2026-08-17",
+        "endDate": "2026-09-10",
+        "recurrence": "one-time",
+        "ageFocus": "12-15",
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Galactic Gazers (Provence)",
+        "type": "session",
+        "startDate": "2026-09-14",
+        "endDate": "2026-10-08",
+        "recurrence": "one-time",
+        "ageFocus": "9-12 (page also says 8-15 — internal conflict)",
+        "price": null,
+        "url": null,
+        "confidence": "med",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Varies by program, roughly 4-15",
+      "minAge": 4,
+      "maxAge": 15,
+      "audience": "kids",
+      "source": null,
+      "confidence": "med"
+    },
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": null,
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "worldschooling-journeys-every-avenue",
+    "events": [
+      {
+        "title": "Xcaret Parks Family Adventure",
+        "type": "retreat",
+        "startDate": "2026-04-26",
+        "endDate": "2026-05-03",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Austrian Mountain Summer Retreat",
+        "type": "retreat",
+        "startDate": null,
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "med",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Galapagos Island Hopping Tour",
+        "type": "retreat",
+        "startDate": "2026-08-24",
+        "endDate": "2026-08-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Horseback Riding Dude Ranch Experience",
+        "type": "retreat",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-12",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Austrian Mountain Fall Retreat",
+        "type": "retreat",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Austrian Skiing & Christmas Markets Retreat",
+        "type": "retreat",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-18",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Egypt & Jordan Adventure",
+        "type": "retreat",
+        "startDate": "2027-01-25",
+        "endDate": "2027-02-08",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Japan & Korea",
+        "type": "retreat",
+        "startDate": "2026-03-17",
+        "endDate": "2026-03-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Alaska from Vancouver",
+        "type": "retreat",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-16",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Transatlantic Florida to Barcelona",
+        "type": "retreat",
+        "startDate": "2026-08-18",
+        "endDate": "2026-09-01",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Japan Roundtrip",
+        "type": "retreat",
+        "startDate": "2026-08-26",
+        "endDate": "2026-09-05",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Icon of the Seas Caribbean",
+        "type": "retreat",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-26",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Mediterranean & Atlantic",
+        "type": "retreat",
+        "startDate": "2026-10-15",
+        "endDate": "2026-11-13",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Singapore to Bali",
+        "type": "retreat",
+        "startDate": "2026-11-26",
+        "endDate": "2026-12-09",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Panama Canal",
+        "type": "retreat",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Cruise: Caribbean for neurodivergent families",
+        "type": "retreat",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-13",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "2027 land-trip placeholders: Morocco, Austria summer/fall, Austrian Christmas-market skiing",
+        "type": "retreat",
+        "startDate": null,
+        "endDate": null,
+        "recurrence": "annual",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "low",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": null,
+    "priceRange": {
+      "value": "Per-trip; homepage routes families to dedicated trip pages for final pricing",
+      "amount": null,
+      "currency": null,
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": null,
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "leo-worldschool",
+    "events": [
+      {
+        "title": "Fall '26 cohort (arrival from Aug 29)",
+        "type": "cohort",
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Winter '27 cohort (arrival from Jan 2)",
+        "type": "cohort",
+        "startDate": "2027-01-04",
+        "endDate": "2027-04-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Spring '27 cohort (arrival from Apr 10)",
+        "type": "cohort",
+        "startDate": "2027-04-12",
+        "endDate": "2027-07-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Flexible December '26 stay window",
+        "type": "cohort",
+        "startDate": "2026-12-03",
+        "endDate": "2027-01-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1 — Marine Life",
+        "type": "session",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-16",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "med",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2 — Creativity",
+        "type": "session",
+        "startDate": "2026-08-16",
+        "endDate": "2026-08-27",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "med",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": null,
+    "priceRange": {
+      "value": "Full Immersion bundle (housing, community, airport pickup); $250 one-time registration/child; optional $300/child/month meal plan",
+      "amount": null,
+      "currency": "USD",
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": null,
+      "locality": "Willemstad",
+      "region": "Curaçao",
+      "country": "Curaçao",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": {
+      "communitySize": "Cohorts capped at 6-10 families",
+      "participation": "whole-family",
+      "otherNotes": "Presented as a family ecosystem rather than a stand-alone school."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "nyskool",
+    "events": [
+      {
+        "title": "Smart Camp 2026 (Barcelona, Lisbon, online; Mon-Fri 9:00-16:00)",
+        "type": "session",
+        "startDate": "2026-06-29",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": "6-9 and 10-13",
+        "price": "€250/week (10% off all 5 weeks)",
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "School accepts ages 5-17 (join any time); camp 6-13",
+      "minAge": 5,
+      "maxAge": 17,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "€1,000 enrollment; €900/mo full-time in-person; €750 part-time; €600 hub-only; €450 online",
+      "amount": 900,
+      "currency": "EUR",
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "Carrer d'Espronceda 181, Poblenou",
+      "locality": "Barcelona",
+      "region": "Barcelona",
+      "country": "Spain",
+      "coords": null,
+      "source": null,
+      "confidence": "med"
+    },
+    "extras": {
+      "otherNotes": "Poblenou (Barcelona) + Campolide (Lisbon) hubs operating; by Sep 2026 expanding to Castelldefels, Colares, Algarve, Estoril."
+    },
+    "flags": [
+      {
+        "field": "ages",
+        "currentValue": "{\"min\": 5, \"max\": 15}",
+        "suggestedValue": "5-17",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Official site accepts applications for ages 5-17."
+      },
+      {
+        "field": "price",
+        "currentValue": "€600–€850 per month",
+        "suggestedValue": "€900 FT / €750 PT / €600 hub / €450 online + €1,000 enrollment",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Current school-fees page is more specific; old range incomplete."
+      },
+      {
+        "field": "season",
+        "currentValue": "08/09/25 – 31/07/26 (11 months)",
+        "suggestedValue": "Enrollment year-round; Smart Camp Jun 29-Jul 31 2026; expansion after Sep 2026",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Site says learners can join any time and publishes dated camp + expansion milestones."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "worldschooling-life",
+    "events": [
+      {
+        "title": "Inicio de ciclo 2026-2027",
+        "type": "cohort",
+        "startDate": "2026-09-01",
+        "endDate": null,
+        "recurrence": "annual",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Young people ages 12-18",
+      "minAge": 12,
+      "maxAge": 18,
+      "audience": "teens",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "MXN 5,440 registration; MXN 4,290/month (×12); MXN 49,450 annual; optional US accreditation USD 250",
+      "amount": 4290,
+      "currency": "MXN",
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "high"
+    },
+    "exactLocation": {
+      "address": "Parque Juan Diego 550, Zapopan, Jalisco 45040",
+      "locality": "Zapopan",
+      "region": "Jalisco",
+      "country": "México",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": null,
+    "flags": [
+      {
+        "field": "ages",
+        "currentValue": "{\"min\": 6, \"max\": 18}",
+        "suggestedValue": "12-18",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Official site explicitly says the program is for young people 12-18."
+      },
+      {
+        "field": "season",
+        "currentValue": "Ongoing (4 seasons)",
+        "suggestedValue": "2026-27 cycle start Sept 1, 2026; year-round with formal fee schedule",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Live site publishes a concrete cycle start + year-round monthly pricing."
+      },
+      {
+        "field": "price",
+        "currentValue": "Varies depending on duration",
+        "suggestedValue": "MXN 5,440 reg; MXN 4,290/mo; MXN 49,450/yr; USD 250 accreditation",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Public pricing page now exposes specific fees."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-sintra",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2",
+        "type": "session",
+        "startDate": "2026-08-06",
+        "endDate": "2026-09-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 1",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 2",
+        "type": "session",
+        "startDate": "2027-07-27",
+        "endDate": "2027-08-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 2100,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-syros",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2",
+        "type": "session",
+        "startDate": "2026-08-06",
+        "endDate": "2026-09-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 1",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 2",
+        "type": "session",
+        "startDate": "2027-07-27",
+        "endDate": "2027-08-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€2,300/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 2300,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-tuscany",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "December Camp",
+        "type": "session",
+        "startDate": "2026-12-10",
+        "endDate": "2027-01-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — third block (TBA)",
+        "type": "cohort",
+        "startDate": null,
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "low",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "December Camp 2027 (TBA)",
+        "type": "session",
+        "startDate": null,
+        "endDate": null,
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "low",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 2100,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      },
+      {
+        "field": "region",
+        "currentValue": "Pelago, Tuscany",
+        "suggestedValue": "Pistoia, Tuscany",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Current destination page anchors the Tuscany hub in Pistoia."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-kotor",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2",
+        "type": "session",
+        "startDate": "2026-08-06",
+        "endDate": "2026-09-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 1",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 2",
+        "type": "session",
+        "startDate": "2027-07-27",
+        "endDate": "2027-08-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€1,700/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 1700,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-estepona",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2",
+        "type": "session",
+        "startDate": "2026-08-06",
+        "endDate": "2026-09-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 1",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 2",
+        "type": "session",
+        "startDate": "2027-07-27",
+        "endDate": "2027-08-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€2,600/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 2600,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      },
+      {
+        "field": "name",
+        "currentValue": "Boundless Estepona",
+        "suggestedValue": "Boundless Andalusia (hub in Estepona)",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Better normalized as Boundless Andalusia, with the hub in Estepona."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-sanur-bali",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-08-15",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "Apr-Jun 2026 example from ~€1,500/month (dynamic by destination & season); +€400 one-time enrollment/child",
+      "amount": 1500,
+      "currency": "EUR",
+      "basis": "per-family-per-month",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      },
+      {
+        "field": "region",
+        "currentValue": "Sanur, Bali",
+        "suggestedValue": "Sanur, Bali",
+        "evidence": null,
+        "confidence": "low",
+        "note": "Destination page frames the hub specifically around Sanur."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-kamakura",
+    "events": [
+      {
+        "title": "World School — Winter block",
+        "type": "cohort",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Spring block",
+        "type": "cohort",
+        "startDate": "2026-04-04",
+        "endDate": "2026-06-28",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School — Autumn block",
+        "type": "cohort",
+        "startDate": "2026-09-08",
+        "endDate": "2026-11-29",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Winter block",
+        "type": "cohort",
+        "startDate": "2027-01-03",
+        "endDate": "2027-03-19",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "World School 2027 — Spring block",
+        "type": "cohort",
+        "startDate": "2027-03-25",
+        "endDate": "2027-06-10",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 1",
+        "type": "session",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-31",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2",
+        "type": "session",
+        "startDate": "2026-08-06",
+        "endDate": "2026-09-02",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 1",
+        "type": "session",
+        "startDate": "2027-06-16",
+        "endDate": "2027-07-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Summer Camp 2027 — 2",
+        "type": "session",
+        "startDate": "2027-07-27",
+        "endDate": "2027-08-21",
+        "recurrence": "one-time",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+      },
+      {
+        "field": "price",
+        "currentValue": "€5,830-9,130/month",
+        "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "boundless-la-barra",
+    "events": [
+      {
+        "title": "Fall 2026 — first Spanish-English dual-language program launch",
+        "type": "cohort",
+        "startDate": null,
+        "endDate": null,
+        "recurrence": "annual",
+        "ageFocus": null,
+        "price": null,
+        "url": null,
+        "confidence": "med",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": null,
+    "ageRange": {
+      "value": "Children 1.5-14 years",
+      "minAge": 1,
+      "maxAge": 14,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "languageOfInstruction": "English",
+      "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+    },
+    "flags": [
+      {
+        "field": "season",
+        "currentValue": "Year-round; join 1-12 months",
+        "suggestedValue": "Treat as stale; highest-confidence live change is the Fall 2026 dual-language rollout",
+        "evidence": null,
+        "confidence": "high",
+        "note": "No location-specific date block surfaced in crawl; official post announces Fall 2026 dual-language program."
+      }
+    ],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "tfa-worldschooling-hub",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "7-17 for 8-week Worldschooling; WFS usually all ages to 17 (parents join)",
+      "minAge": 7,
+      "maxAge": 17,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": {
+      "address": null,
+      "locality": "Raub",
+      "region": "Pahang",
+      "country": "Malaysia",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": {
+      "participation": "both",
+      "otherNotes": "8-week Nomadic Worldschooling in Raub, Pahang (Sat-Wed); World Forestschooling min 2 days/1 night across Malaysia/Thailand/Indonesia. No public fixed 2026-2027 dates (families pushed to Telegram/application channels)."
+    },
+    "flags": [
+      {
+        "field": "participation",
+        "currentValue": "dropoff",
+        "suggestedValue": "Mixed: flexible in 8-week WS; parents compulsory in WFS",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Official site says parent involvement depends on program type."
+      },
+      {
+        "field": "ages",
+        "currentValue": "Mixed",
+        "suggestedValue": "7-17 (8-week WS); WFS all ages to 17 with parents",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Official FAQ is more explicit than the current value."
+      }
+    ],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "wise-education",
+    "events": [],
+    "timing": {
+      "bestWindow": null,
+      "avoidWindow": null,
+      "note": "Rolling / flexible enrollment; no public dated calendar surfaced.",
+      "source": null,
+      "confidence": "med"
+    },
+    "ageRange": {
+      "value": "School-age through teens (7-18)",
+      "minAge": 7,
+      "maxAge": 18,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "med"
+    },
+    "priceRange": {
+      "value": "$35/day, $150/week, $550/month",
+      "amount": 550,
+      "currency": "USD",
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": {
+      "address": "La Garita Nueva, Tamarindo",
+      "locality": "Tamarindo",
+      "region": "Guanacaste",
+      "country": "Costa Rica",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": null,
+    "flags": [
+      {
+        "field": "price",
+        "currentValue": "~$150",
+        "suggestedValue": "$35/day, $150/week, $550/month",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Live public listing shows a full day/week/month ladder."
+      }
+    ],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "madrasa-dunya-worldschool-morocco",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "Age-structured groups ~1-7, 6/7-13, 12/13-18",
+      "minAge": 1,
+      "maxAge": 18,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": {
+      "address": "Route d'Ourika km 45, Belhouane-Aghbalou, 42152 Setti Fatma-Marrakech Safi",
+      "locality": "Belhouane (Ourika Valley)",
+      "region": "Marrakech-Safi",
+      "country": "Morocco",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": {
+      "otherNotes": "Reads as an evergreen hub; no dated 2026-2027 cohort calendar on public pages."
+    },
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "wonder-intercultural-school",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "Early Years + Primary Years 1-6",
+      "minAge": 3,
+      "maxAge": 12,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": {
+      "address": "Dusun Sekar Kuning, Desa Kuta, Kabupaten Lombok Tengah, Nusa Tenggara Barat",
+      "locality": "Kuta",
+      "region": "Lombok",
+      "country": "Indonesia",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": {
+      "participation": "drop-off",
+      "otherNotes": "IPC transition + Indonesian curriculum support; no public 2026-2027 term grid."
+    },
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "elate",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "K-12 (ages 5+)",
+      "minAge": 5,
+      "maxAge": 18,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": {
+      "value": "From 8,900 THB/month (~$260); STEAM 'Young Entrepreneurs' (5+) 5,950 THB/wk (1-8 wks), 5,550 (9-12), 4,950 (13-16) at Hua Hin",
+      "amount": 8900,
+      "currency": "THB",
+      "basis": "per-child-per-program",
+      "source": null,
+      "confidence": "med"
+    },
+    "exactLocation": {
+      "address": "Ramkhamhaeng 21, Bangkok; and 62/63 Phet Kasem Rd, Nong Kae, Hua Hin District, Prachuap Khiri Khan 77110",
+      "locality": "Bangkok / Hua Hin",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": null,
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "lumina-academy",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "Ages 3-12, bilingual English-Spanish (Waldorf-inspired)",
+      "minAge": 3,
+      "maxAge": 12,
+      "audience": "kids",
+      "source": null,
+      "confidence": "high"
+    },
+    "priceRange": null,
+    "exactLocation": {
+      "address": null,
+      "locality": "El Puerto de Santa María",
+      "region": "Cádiz",
+      "country": "Spain",
+      "coords": null,
+      "source": null,
+      "confidence": "high"
+    },
+    "extras": {
+      "languageOfInstruction": "Bilingual English-Spanish (Waldorf-inspired)",
+      "otherNotes": "Limited spaces, first-come enrollment; Summer Camps/events sections exist but no public 2026-2027 dates/tuition surfaced."
+    },
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "nature-lore",
+    "events": [],
+    "timing": null,
+    "ageRange": {
+      "value": "Ages 5-17",
+      "minAge": 5,
+      "maxAge": 17,
+      "audience": "all-ages",
+      "source": null,
+      "confidence": "med"
+    },
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "otherNotes": "Nature-centered worldschooling/homeschooling groups + regular/pop-in groups, workshops, camps; no public dated 2026-2027 calendar surfaced."
+    },
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "tazgha-resort-essaouira",
+    "events": [],
+    "timing": null,
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": {
+      "address": "~15 miles north of Essaouira (Tazgha House, beachfront villa)",
+      "locality": "Essaouira",
+      "region": "Essaouira",
+      "country": "Morocco",
+      "coords": null,
+      "source": null,
+      "confidence": "med"
+    },
+    "extras": {
+      "otherNotes": "Public front door is now Tazgha House retreat villa (retreats, halal holidays, Arabic immersion); homepage foregrounds a Muslim Men Retreat 2026, not a family worldschool calendar."
+    },
+    "flags": [
+      {
+        "field": "season / price",
+        "currentValue": "June – December; £1,200/month/family",
+        "suggestedValue": "Treat as stale until revalidated — no public worldschool dates/prices surfaced",
+        "evidence": null,
+        "confidence": "high",
+        "note": "Current public site no longer exposes a clear school-season or family tuition model."
+      }
+    ],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "worldschooling-bansko",
+    "events": [
+      {
+        "title": "Worldschooling Bansko — Session 1 (winter/ski)",
+        "type": "session",
+        "startDate": "2026-01-04",
+        "endDate": "2026-02-14",
+        "recurrence": "one-time",
+        "ageFocus": "all-family",
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      },
+      {
+        "title": "Worldschooling Bansko — Session 2 (winter/ski)",
+        "type": "session",
+        "startDate": "2026-02-22",
+        "endDate": "2026-04-04",
+        "recurrence": "one-time",
+        "ageFocus": "all-family",
+        "price": null,
+        "url": null,
+        "confidence": "high",
+        "asOf": "2026-06-11"
+      }
+    ],
+    "timing": {
+      "bestWindow": "Jan-early Apr (program winter/ski season)",
+      "avoidWindow": null,
+      "note": "Live program timing is winter/early spring; a separate organic family-cluster calendar was not verified.",
+      "source": null,
+      "confidence": "high"
+    },
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": null,
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "pai",
+    "events": [],
+    "timing": {
+      "bestWindow": "Nov-early Feb (cool, clear)",
+      "avoidWindow": "Feb-Apr burning-season haze (worst Mar-early Apr)",
+      "note": "Northern Thailand haze is a recurring Feb-Apr problem; spring 2026 saw severe Chiang Mai pollution in tourist season. Thailand also requires the Digital Arrival Card (since 2025-05-01).",
+      "source": null,
+      "confidence": "high"
+    },
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": null,
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "chiang-mai",
+    "events": [],
+    "timing": {
+      "bestWindow": "Nov-early Feb (cool, clear)",
+      "avoidWindow": "Feb-Apr burning-season haze (worst Mar-early Apr)",
+      "note": "Northern Thailand haze is a recurring Feb-Apr problem; spring 2026 saw severe Chiang Mai pollution in tourist season. Thailand also requires the Digital Arrival Card (since 2025-05-01).",
+      "source": null,
+      "confidence": "high"
+    },
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": null,
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "our-land-thailand",
+    "events": [],
+    "timing": {
+      "bestWindow": "Nov-early Feb (cool, clear)",
+      "avoidWindow": "Feb-Apr burning-season haze (worst Mar-early Apr)",
+      "note": "Northern Thailand haze is a recurring Feb-Apr problem; spring 2026 saw severe Chiang Mai pollution in tourist season. Thailand also requires the Digital Arrival Card (since 2025-05-01).",
+      "source": null,
+      "confidence": "high"
+    },
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "legalVisaRisk": "Thailand enforces foreign-work-scope rules; late-2025 Koh Phangan arrest of a foreign teacher for teaching outside permitted scope. Informal/parent-led education carries compliance risk."
+    },
+    "flags": [],
+    "researchStatus": "ambiguous",
+    "sourcesRead": []
+  },
+  {
+    "id": "koh-phangan",
+    "events": [],
+    "timing": null,
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "legalVisaRisk": "Late-2025: Thai authorities on Koh Phangan arrested a foreign teacher for teaching outside permitted document scope, framed as broader enforcement against unauthorized foreign work."
+    },
+    "flags": [
+      {
+        "field": "legal risk",
+        "currentValue": "(none recorded)",
+        "suggestedValue": "Foreign-work-scope enforcement risk for informal teaching",
+        "evidence": null,
+        "confidence": "med",
+        "note": "Real compliance risk for low-structure/parent-led education hubs in Thailand."
+      }
+    ],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  },
+  {
+    "id": "narnia-arkee",
+    "events": [],
+    "timing": null,
+    "ageRange": null,
+    "priceRange": null,
+    "exactLocation": null,
+    "extras": {
+      "legalVisaRisk": "Koh Phangan informal-teaching enforcement risk (late-2025 arrest for out-of-scope teaching)."
+    },
+    "flags": [],
+    "researchStatus": "researched",
+    "sourcesRead": []
+  }
+]
