@@ -49,27 +49,25 @@ export default function FeedbackModal({ context, onClose }: {
   }
 
   return (
-    <div className="fixed inset-0 z-[3000] flex items-center justify-center bg-[#20140d99] p-4" onClick={onClose}>
+    <div className="fixed inset-0 z-[3000] flex items-center justify-center bg-ink/55 p-4" onClick={onClose}>
       <div
-        className="max-h-[88vh] w-full max-w-[480px] overflow-y-auto rounded-[22px] border-[2.5px] border-[#20140d] bg-[#fffaf3] p-5 shadow-[8px_10px_0_#20140d]"
-        style={{ fontFamily: "var(--font-body)", color: "#20140d" }}
+        className="max-h-[88vh] w-full max-w-[480px] overflow-y-auto rounded-2xl bg-surface p-5 text-ink shadow-[0_12px_40px_rgba(0,0,0,0.18)]"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="flex items-start justify-between gap-3">
-          <h2 className="text-[22px] leading-tight" style={{ fontFamily: "var(--font-display)", fontWeight: 800 }}>
+          <h2 className="text-[19px] font-bold leading-tight tracking-[-0.01em]">
             {context ? `Feedback · ${context.hubName}` : "Contact & feedback"}
           </h2>
           <button type="button" onClick={onClose}
-            className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border-2 border-[#20140d] bg-white text-[16px]">✕</button>
+            className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-line bg-white text-[15px]">✕</button>
         </div>
 
         {status === "sent" ? (
-          <div className="mt-5 rounded-[12px] border-2 border-[#20140d] bg-[#caffbf] px-4 py-4 text-[15px]">
-            <p className="font-semibold" style={{ fontFamily: "var(--font-display)" }}>Thanks! 🙌</p>
+          <div className="mt-5 rounded-xl bg-accent-soft px-4 py-4 text-[14px]">
+            <p className="font-semibold">Thanks!</p>
             <p className="mt-1">Your message is on its way. I read every one.</p>
             <button type="button" onClick={onClose}
-              className="mt-3 rounded-full border-2 border-[#20140d] bg-white px-[14px] py-[5px] text-[13px] font-semibold"
-              style={{ fontFamily: "var(--font-display)" }}>Close</button>
+              className="mt-3 rounded-lg border border-line bg-white px-3.5 py-1.5 text-[13px] font-semibold">Close</button>
           </div>
         ) : !configured ? (
           <p className="mt-5 text-[14px] leading-relaxed opacity-80">
@@ -80,7 +78,7 @@ export default function FeedbackModal({ context, onClose }: {
             <label className="flex flex-col gap-1 text-[13px] font-semibold">
               What&apos;s this about?
               <select value={type} onChange={(e) => setType(e.target.value as FeedbackType)}
-                className="rounded-[10px] border-2 border-[#20140d] bg-white px-3 py-2 text-[14px] font-normal">
+                className="rounded-lg border border-line bg-surface px-3 py-2 text-[14px] font-normal outline-none focus:border-faint">
                 {TYPE_ORDER.map((t) => <option key={t} value={t}>{FEEDBACK_TYPE_LABELS[t]}</option>)}
               </select>
             </label>
@@ -89,19 +87,19 @@ export default function FeedbackModal({ context, onClose }: {
               Message
               <textarea value={message} onChange={(e) => setMessage(e.target.value)} rows={4}
                 placeholder={context ? `What's off about ${context.hubName}?` : "Tell me what's up…"}
-                className="resize-y rounded-[10px] border-2 border-[#20140d] bg-white px-3 py-2 text-[14px] font-normal" />
+                className="resize-y rounded-lg border border-line bg-surface px-3 py-2 text-[14px] font-normal outline-none focus:border-faint" />
             </label>
 
             <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
               <label className="flex flex-col gap-1 text-[13px] font-semibold">
                 Name <span className="font-normal opacity-50">(optional)</span>
                 <input value={name} onChange={(e) => setName(e.target.value)}
-                  className="rounded-[10px] border-2 border-[#20140d] bg-white px-3 py-2 text-[14px] font-normal" />
+                  className="rounded-lg border border-line bg-surface px-3 py-2 text-[14px] font-normal outline-none focus:border-faint" />
               </label>
               <label className="flex flex-col gap-1 text-[13px] font-semibold">
                 Email <span className="font-normal opacity-50">(for replies)</span>
                 <input value={email} onChange={(e) => setEmail(e.target.value)} type="email"
-                  className="rounded-[10px] border-2 border-[#20140d] bg-white px-3 py-2 text-[14px] font-normal" />
+                  className="rounded-lg border border-line bg-surface px-3 py-2 text-[14px] font-normal outline-none focus:border-faint" />
               </label>
             </div>
 
@@ -116,8 +114,7 @@ export default function FeedbackModal({ context, onClose }: {
             {error && <p className="text-[13px] font-semibold text-[#b00020]">{error}</p>}
 
             <button type="submit" disabled={status === "sending"}
-              className="mt-1 self-start rounded-full border-2 border-[#20140d] bg-[#ffd6a5] px-[18px] py-[7px] text-[14px] font-semibold disabled:opacity-60"
-              style={{ fontFamily: "var(--font-display)" }}>
+              className="mt-1 self-start rounded-lg bg-accent px-4 py-2 text-[14px] font-semibold text-white disabled:opacity-60">
               {status === "sending" ? "Sending…" : "Send"}
             </button>
 
