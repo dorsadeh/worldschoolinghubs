@@ -14,7 +14,7 @@ function getDirectory(): DirectoryHub[] {
 export default function Home() {
   const hubs = getDirectory();
   return (
-    <div className="h-screen">
+    <div className="h-full">
       <DirectoryExplorer hubs={hubs} />
     </div>
   );

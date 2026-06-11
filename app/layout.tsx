@@ -41,9 +41,9 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} ${balooDisplay.variable} ${hankenBody.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="h-full flex flex-col">
         <FeedbackProvider>
-          {children}
+          <div className="min-h-0 flex-1">{children}</div>
           <Footer />
         </FeedbackProvider>
       </body>
