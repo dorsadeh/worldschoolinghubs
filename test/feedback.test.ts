@@ -37,10 +37,10 @@ describe("buildFeedbackBody", () => {
     });
   });
   it("includes hub context and folds it into the subject", () => {
-    const body = buildFeedbackBody({ type: "price", message: "It's $900 now", hubId: "bansko-summer", hubName: "Bansko" });
+    const body = buildFeedbackBody({ type: "outdated", message: "It's $900 now", hubId: "bansko-summer", hubName: "Bansko" });
     expect(body.hub).toBe("Bansko");
     expect(body.hubId).toBe("bansko-summer");
-    expect(body._subject).toBe("[Worldschool Atlas] Wrong price — Bansko");
+    expect(body._subject).toBe("[Worldschool Atlas] Outdated info — Bansko");
   });
   it("omits empty optional fields (no blank name/email/hub keys)", () => {
     const body = buildFeedbackBody({ type: "hello", message: "Hi" });

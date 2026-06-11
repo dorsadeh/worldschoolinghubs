@@ -8,13 +8,13 @@ import {
 import type { FeedbackOpenContext } from "./FeedbackContext";
 
 const FORMSPREE_ID = process.env.NEXT_PUBLIC_FORMSPREE_ID;
-const TYPE_ORDER: FeedbackType[] = ["price", "outdated", "suggest", "hello"];
+const TYPE_ORDER: FeedbackType[] = ["outdated", "suggest", "contribute", "hello"];
 
 export default function FeedbackModal({ context, onClose }: {
   context: FeedbackOpenContext | null;
   onClose: () => void;
 }) {
-  const [type, setType] = useState<FeedbackType>(context?.type ?? (context ? "price" : "hello"));
+  const [type, setType] = useState<FeedbackType>(context?.type ?? (context ? "outdated" : "hello"));
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");

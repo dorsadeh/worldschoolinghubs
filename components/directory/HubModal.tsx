@@ -69,7 +69,7 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
             {hub.facebook && <Link href={hub.facebook.startsWith("http") ? hub.facebook : `https://${hub.facebook}`}>Facebook ↗</Link>}
             <button
               type="button"
-              onClick={() => openFeedback({ hubId: hub.id, hubName: hub.name, type: "price" })}
+              onClick={() => openFeedback({ hubId: hub.id, hubName: hub.name, type: "outdated" })}
               className="text-[13px] font-semibold text-[#6b4e3d] underline decoration-dotted underline-offset-2"
               style={{ fontFamily: "var(--font-display)" }}
             >

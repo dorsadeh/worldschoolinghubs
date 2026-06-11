@@ -8,7 +8,7 @@ import type { FeedbackType } from "@/lib/feedback";
 export interface FeedbackOpenContext {
   hubId: string;
   hubName: string;
-  /** Pre-selected type, e.g. "price" from a hub's "Flag an error". */
+  /** Pre-selected type, e.g. "outdated" from a hub's "Flag an error". */
   type?: FeedbackType;
 }
 

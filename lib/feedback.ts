@@ -1,9 +1,9 @@
-export type FeedbackType = "price" | "outdated" | "suggest" | "hello";
+export type FeedbackType = "outdated" | "suggest" | "contribute" | "hello";
 
 export const FEEDBACK_TYPE_LABELS: Record<FeedbackType, string> = {
-  price: "Wrong price",
   outdated: "Outdated info",
   suggest: "Suggest a hub",
+  contribute: "Want to contribute",
   hello: "Just saying hi",
 };
 
