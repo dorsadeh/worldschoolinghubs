@@ -1,7 +1,9 @@
 // components/directory/FilterBar.tsx
 "use client";
 
+import { useState } from "react";
 import { CATEGORY_META, COST_META, DISPLAY_CATEGORIES, countActiveFilters, type CostBucket, type DirectoryFilter, type HubCategory } from "@/lib/directory";
+import FilterSheet from "./FilterSheet";
 
 const MONTHS: { n: number; label: string }[] = [
   { n: 1, label: "Jan" }, { n: 2, label: "Feb" }, { n: 3, label: "Mar" }, { n: 4, label: "Apr" },
@@ -137,7 +139,8 @@ interface Props {
 }
 
 export default function FilterBar({ filter, onChange, resultCount, onReset }: Props) {
-  void resultCount; // used by the mobile sheet button added in a later task
+  const [sheetOpen, setSheetOpen] = useState(false);
+  const activeCount = countActiveFilters(filter);
   const set = (patch: Partial<DirectoryFilter>) => onChange({ ...filter, ...patch });
   const anyActive = countActiveFilters(filter) > 0 || Boolean(filter.query?.trim());
 
@@ -160,14 +163,30 @@ export default function FilterBar({ filter, onChange, resultCount, onReset }: Pr
           </button>
         )}
       </div>
-      {/* Mobile filter row arrives with the FilterSheet task. */}
       <div className="md:hidden">
-        <div className="flex items-center gap-2 overflow-x-auto pb-0.5">
+        <div className="flex items-center gap-2 overflow-x-auto pb-0.5 [scrollbar-width:none]">
+          <button
+            type="button"
+            onClick={() => setSheetOpen(true)}
+            className={`${CHIP} ${CHIP_ON} shrink-0`}
+          >
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><path d="M4 6h16M7 12h10M10 18h4" /></svg>
+            Filters{activeCount > 0 ? ` · ${activeCount}` : ""}
+          </button>
           <CostChips filter={filter} set={set} />
           <TypeChips filter={filter} set={set} />
           <ParticipationChips filter={filter} set={set} />
         </div>
       </div>
+      {sheetOpen && (
+        <FilterSheet
+          filter={filter}
+          onChange={onChange}
+          resultCount={resultCount}
+          onClose={() => setSheetOpen(false)}
+          onReset={onReset}
+        />
+      )}
     </div>
   );
 }
