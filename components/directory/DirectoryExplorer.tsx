@@ -49,6 +49,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
   const [previewId, setPreviewId] = useState<string | null>(null);
   const isMobile = useIsMobile();
   const preview = useMemo(() => hubs.find((h) => h.id === previewId) ?? null, [hubs, previewId]);
+  const previewImg = preview ? hubImage(preview) : null;
 
   // On mobile a pin tap previews in a bottom sheet; on desktop it opens the modal.
   const handleMapSelect = (id: string) => {
@@ -76,7 +77,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
       />
       <FilterBar filter={filter} onChange={setFilter} resultCount={filtered.length} onReset={() => setFilter({})} />
 
-      <TabBar view={view} onChange={setView} mapCount={placeHubs.length} anywhereCount={anywhereHubs.length} />
+      <TabBar view={view} onChange={(v) => { setView(v); setPreviewId(null); setMobilePane("list"); }} mapCount={placeHubs.length} anywhereCount={anywhereHubs.length} />
 
       {view === "map" ? (
         <div className="grid min-h-0 flex-1 grid-cols-1 md:grid-cols-[1.2fr_1fr]">
@@ -118,7 +119,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
         <button
           type="button"
           onClick={() => { setMobilePane((p) => (p === "map" ? "list" : "map")); setPreviewId(null); }}
-          className="fixed bottom-14 left-1/2 z-[1200] flex -translate-x-1/2 items-center gap-2 rounded-full bg-ink px-5 py-2.5 text-[13px] font-bold text-white shadow-[0_6px_20px_rgba(0,0,0,0.3)] md:hidden"
+          className={`fixed ${preview ? "bottom-[170px]" : "bottom-14"} left-1/2 z-[1200] flex -translate-x-1/2 items-center gap-2 rounded-full bg-ink px-5 py-2.5 text-[13px] font-bold text-white shadow-[0_6px_20px_rgba(0,0,0,0.3)] md:hidden`}
         >
           {mobilePane === "map" ? "List" : "Map"}
         </button>
@@ -129,9 +130,9 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
           <div className="relative rounded-t-2xl border-t border-line bg-surface p-4 shadow-[0_-6px_24px_rgba(0,0,0,0.14)]">
             <div className="mx-auto mb-3 h-1 w-9 rounded-full bg-line" />
             <button type="button" className="flex w-full items-center gap-3 text-left" onClick={() => { setSelectedId(preview.id); setPreviewId(null); }}>
-              {hubImage(preview) ? (
+              {previewImg ? (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={hubImage(preview) as string} alt={preview.name} className="h-16 w-[84px] shrink-0 rounded-[10px] object-cover" />
+                <img src={previewImg} alt={preview.name} className="h-16 w-[84px] shrink-0 rounded-[10px] object-cover" />
               ) : (
                 <div className="h-16 w-[84px] shrink-0 rounded-[10px]" style={{ background: `color-mix(in srgb, ${CATEGORY_META[preview.category].color} 14%, #eef0ec)` }} />
               )}

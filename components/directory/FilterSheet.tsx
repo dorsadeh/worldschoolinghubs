@@ -22,7 +22,7 @@ export default function FilterSheet({ filter, onChange, resultCount, onClose, on
         <div className="mx-auto mb-4 h-1 w-9 rounded-full bg-line" />
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-[16px] font-bold text-ink">Filters</h2>
-          <button type="button" onClick={onReset} className="text-[13px] font-semibold text-muted">Reset</button>
+          <button type="button" onClick={() => { onReset(); onClose(); }} className="text-[13px] font-semibold text-muted">Reset</button>
         </div>
         <div className="flex flex-col gap-5">
           <section>

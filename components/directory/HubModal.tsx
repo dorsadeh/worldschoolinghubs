@@ -24,6 +24,7 @@ function eventDates(ev: HubEvent): string {
 
 export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose: () => void }) {
   const meta = CATEGORY_META[hub.category];
+  const img = hubImage(hub);
   const { open: openFeedback } = useFeedback();
   return (
     <div className="fixed inset-0 z-[2000] flex items-center justify-center bg-ink/55 p-4" onClick={onClose}>
@@ -32,9 +33,9 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
         onClick={(e) => e.stopPropagation()}
       >
         <div className="relative h-[180px] w-full overflow-hidden rounded-t-2xl">
-          {hubImage(hub) ? (
+          {img ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={hubImage(hub) as string} alt={hub.name} className="h-full w-full object-cover" />
+            <img src={img} alt={hub.name} className="h-full w-full object-cover" />
           ) : (
             <div className="h-full w-full" style={{ background: `color-mix(in srgb, ${meta.color} 14%, #eef0ec)` }} />
           )}
