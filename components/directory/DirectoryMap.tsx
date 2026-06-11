@@ -7,7 +7,7 @@ import "leaflet/dist/leaflet.css";
 import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
-import { CATEGORY_META, type DirectoryHub } from "@/lib/directory";
+import { CATEGORY_META, DISPLAY_CATEGORIES, type DirectoryHub } from "@/lib/directory";
 
 /** Plain-number viewport box reported on every pan/zoom. */
 export interface MapBounds {
@@ -28,19 +28,16 @@ interface Props {
 }
 
 function pinIcon(hub: DirectoryHub, state: PinState): L.DivIcon {
-  const { color, emoji } = CATEGORY_META[hub.category];
-  const emphasised = state !== "normal";
-  const size = state === "selected" ? 40 : state === "hovered" ? 38 : 30;
+  const color = CATEGORY_META[hub.category].color;
+  const size = state === "selected" ? 38 : state === "hovered" ? 34 : 28;
   const innerClass = state === "hovered" ? "ws-pin-inner ws-pin-pop" : "ws-pin-inner";
-  const emojiSize = Math.round(size * 0.38);
-  // Emoji is positioned at ~42% from top (where the pin body is widest)
   const html = `
-    <div class="${innerClass}" style="position:relative;display:inline-block;">
-      <svg width="${size}" height="${size}" viewBox="0 0 24 24" style="display:block;filter:drop-shadow(0 1px 2px rgba(0,0,0,.4))">
+    <div class="${innerClass}" style="display:inline-block;">
+      <svg width="${size}" height="${size}" viewBox="0 0 24 24" style="display:block;filter:drop-shadow(0 1px 3px rgba(0,0,0,.35))">
         <path d="M12 0C6.5 0 2 4.5 2 10c0 7 10 14 10 14s10-7 10-14C22 4.5 17.5 0 12 0z"
-          fill="${color}" stroke="#20140d" stroke-width="${emphasised ? 2.5 : 2}"/>
+          fill="${color}" stroke="#fff" stroke-width="${state !== "normal" ? 2.5 : 2}"/>
+        <circle cx="12" cy="10" r="3.2" fill="rgba(255,255,255,.85)"/>
       </svg>
-      <span style="position:absolute;top:42%;left:50%;transform:translate(-50%,-50%);font-size:${emojiSize}px;line-height:1;user-select:none;pointer-events:none;">${emoji}</span>
     </div>`;
   return L.divIcon({
     html,
@@ -72,19 +69,37 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, { center: [20, 0], zoom: 2, minZoom: 2, worldCopyJump: true, scrollWheelZoom: true });
-    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 19,
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      maxZoom: 19,
     }).addTo(map);
-    const cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 45, chunkedLoading: true });
+    const cluster = L.markerClusterGroup({
+      showCoverageOnHover: false,
+      maxClusterRadius: 45,
+      chunkedLoading: true,
+      iconCreateFunction: (c) =>
+        L.divIcon({ html: `<div class="ws-cluster">${c.getChildCount()}</div>`, className: "ws-pin", iconSize: [30, 30] }),
+    });
     map.addLayer(cluster);
     map.on("moveend", () => {
       const b = map.getBounds();
       onBoundsChangeRef.current({ north: b.getNorth(), south: b.getSouth(), east: b.getEast(), west: b.getWest() });
     });
+    // The container can start hidden (mobile) or change size; keep Leaflet in sync
+    // and run the one-time world fit as soon as the map actually has pixels.
+    const ro = new ResizeObserver(() => {
+      map.invalidateSize();
+      const el = containerRef.current;
+      if (!didInitialFitRef.current && el && el.offsetWidth > 0 && cluster.getLayers().length > 0) {
+        map.fitBounds(cluster.getBounds(), { padding: [48, 48], maxZoom: 8 });
+        didInitialFitRef.current = true;
+      }
+    });
+    ro.observe(containerRef.current);
     mapRef.current = map;
     clusterRef.current = cluster;
     const markers = markersRef.current;
-    return () => { map.remove(); mapRef.current = null; clusterRef.current = null; markers.clear(); };
+    return () => { ro.disconnect(); map.remove(); mapRef.current = null; clusterRef.current = null; markers.clear(); };
   }, []);
 
   useEffect(() => {
@@ -104,7 +119,7 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
     // Fit the world to the pins once, on first load only. Re-fitting on every
     // filter change would yank the map out from under the user as they browse;
     // they keep whatever view they've panned/zoomed to.
-    if (!didInitialFitRef.current && located.length > 0) {
+    if (!didInitialFitRef.current && located.length > 0 && (containerRef.current?.offsetWidth ?? 0) > 0) {
       map.fitBounds(cluster.getBounds(), { padding: [48, 48], maxZoom: 8 });
       didInitialFitRef.current = true;
     }
@@ -144,17 +159,12 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
   return (
     <>
       <div ref={containerRef} className="absolute inset-0 h-full w-full" />
-      <div
-        className="absolute bottom-5 left-3 z-[1000] rounded-xl border border-[#20140d]/15 bg-white/90 p-3 shadow-md"
-        style={{ backdropFilter: "blur(6px)", fontFamily: "var(--font-body)" }}
-      >
-        <p className="mb-2 text-[9.5px] font-semibold uppercase tracking-widest text-[#20140d]/45" style={{ fontFamily: "var(--font-display)" }}>
-          Hub type
-        </p>
-        {(Object.entries(CATEGORY_META) as [string, { label: string; color: string; emoji: string }][]).map(([, meta]) => (
-          <div key={meta.label} className="mb-1 flex items-center gap-2 last:mb-0">
-            <span className="inline-block h-3 w-3 flex-shrink-0 rounded-full border border-[#20140d]/20" style={{ background: meta.color }} />
-            <span className="text-[11px] text-[#20140d]">{meta.emoji} {meta.label}</span>
+      <div className="absolute bottom-5 left-3 z-[1000] rounded-[10px] border border-line bg-white/95 px-3 py-2.5 shadow-[0_2px_10px_rgba(0,0,0,0.07)]" style={{ backdropFilter: "blur(6px)" }}>
+        <p className="mb-1.5 text-[10px] font-bold uppercase tracking-[0.07em] text-faint">Hub type</p>
+        {DISPLAY_CATEGORIES.map((c) => (
+          <div key={c} className="mb-1 flex items-center gap-2 last:mb-0">
+            <span className="inline-block h-2 w-2 flex-shrink-0 rounded-full" style={{ background: CATEGORY_META[c].color }} />
+            <span className="text-[11.5px] font-medium text-ink">{CATEGORY_META[c].label}</span>
           </div>
         ))}
       </div>
