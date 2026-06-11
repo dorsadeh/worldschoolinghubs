@@ -2,16 +2,25 @@
 "use client";
 
 import { useState } from "react";
-import { CATEGORY_META, COST_META, hubCategories, type DirectoryHub } from "@/lib/directory";
+import { CATEGORY_META, COST_META, hubCategories, hubImage, type DirectoryHub } from "@/lib/directory";
 
-function FallbackImage({ color, emoji }: { color: string; emoji: string }) {
+/** Designed placeholder for hubs without a usable image: a soft category-tinted
+ *  gradient, a pin glyph, and the location name. */
+function PlaceholderImage({ color, location }: { color: string; location: string }) {
   return (
     <div
-      className="h-full w-full flex items-center justify-center"
-      style={{ background: `linear-gradient(145deg, ${color}28 0%, ${color}60 100%)` }}
+      className="flex h-full w-full flex-col items-center justify-center gap-1.5"
+      style={{
+        background: `linear-gradient(150deg, color-mix(in srgb, ${color} 7%, #f6f7f5), color-mix(in srgb, ${color} 16%, #edf0ec))`,
+        color,
+      }}
     >
-      <span style={{ fontSize: "2.8rem", filter: "drop-shadow(0 2px 8px rgba(0,0,0,0.18))", userSelect: "none", lineHeight: 1 }}>
-        {emoji}
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.55 }}>
+        <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z" />
+        <circle cx="12" cy="10" r="3" />
+      </svg>
+      <span className="px-3 text-center text-[11.5px] font-semibold uppercase tracking-[0.05em]" style={{ opacity: 0.65 }}>
+        {location}
       </span>
     </div>
   );
@@ -45,6 +54,8 @@ export default function HubCard({
   const [imgError, setImgError] = useState(false);
   const meta = CATEGORY_META[hub.category];
   const cats = hubCategories(hub);
+  const location = [hub.region, hub.country].filter(Boolean).join(", ") || "Location varies";
+  const img = hubImage(hub);
   return (
     <button
       type="button"
@@ -53,47 +64,40 @@ export default function HubCard({
       onMouseLeave={() => onHover?.(null)}
       onFocus={() => onHover?.(hub.id)}
       onBlur={() => onHover?.(null)}
-      className="group block w-full overflow-hidden rounded-[20px] border border-[#20140d]/20 bg-white text-left shadow-[0_2px_10px_rgba(32,20,13,0.09),0_1px_3px_rgba(32,20,13,0.06)] transition-all duration-150 hover:-translate-y-[3px] hover:shadow-[0_10px_28px_rgba(32,20,13,0.15),0_2px_6px_rgba(32,20,13,0.07)]"
+      className="group block w-full overflow-hidden rounded-xl border border-line bg-surface text-left transition-all duration-150 hover:-translate-y-[2px] hover:shadow-[0_4px_16px_rgba(0,0,0,0.08)]"
     >
-      <div className="relative h-[120px] w-full">
-        {hub.image && !imgError ? (
+      <div className="relative h-[168px] w-full">
+        {img && !imgError ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" onError={() => setImgError(true)} />
+          <img src={img} alt={hub.name} className="h-full w-full object-cover" onError={() => setImgError(true)} />
         ) : (
-          <FallbackImage color={meta.color} emoji={meta.emoji} />
+          <PlaceholderImage color={meta.color} location={location} />
         )}
-        <div className="absolute left-[10px] top-[10px] flex flex-wrap gap-[5px]">
+        <div className="absolute left-2.5 top-2.5 flex flex-wrap gap-1.5">
           {cats.map((c) => {
             const cm = CATEGORY_META[c];
             return (
-              <span
-                key={c}
-                className="-rotate-3 rounded-[9px] border-2 border-[#20140d] px-[9px] py-[2px] text-[11px] font-semibold"
-                style={{ background: cm.color, color: "#fff", fontFamily: "var(--font-display)" }}
-              >
-                {cm.emoji} {cm.label}
+              <span key={c} className="flex items-center gap-1.5 rounded-md bg-white/95 px-2 py-1 text-[10.5px] font-semibold text-ink">
+                <span className="h-1.5 w-1.5 rounded-full" style={{ background: cm.color }} />
+                {cm.label}
               </span>
             );
           })}
         </div>
         {hub.participation && (
-          <span className="absolute right-[10px] top-[10px] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#20140d] bg-white text-[13px]">
-            {hub.participation === "dropoff" ? "🎒" : "👪"}
+          <span className="absolute right-2.5 top-2.5 rounded-md bg-white/95 px-2 py-1 text-[10.5px] font-semibold text-ink">
+            {hub.participation === "dropoff" ? "Drop-off" : "Family"}
           </span>
         )}
       </div>
-      <div className="px-[14px] pb-[14px] pt-[11px]" style={{ fontFamily: "var(--font-body)", color: "#20140d" }}>
-        <h3 className="mb-[3px] text-[16px] leading-tight" style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}>
-          {hub.name}
-        </h3>
-        <div className="text-[12.5px] font-semibold text-[#6b4e3d]">
-          {[hub.region, hub.country].filter(Boolean).join(", ") || "Location varies"}
-        </div>
-        <div className="mt-[9px] flex flex-wrap gap-[6px]">
-          <span className="rounded-[7px] border-[1.5px] border-[#20140d] bg-[#caffbf] px-[7px] py-px text-[11px] font-semibold" style={{ fontFamily: "var(--font-display)" }}>
+      <div className="px-3.5 pb-3.5 pt-3">
+        <h3 className="text-[14.5px] font-bold leading-tight tracking-[-0.01em] text-ink">{hub.name}</h3>
+        <div className="mt-0.5 text-[12.5px] text-muted">{location}</div>
+        <div className="mt-2.5 flex flex-wrap gap-1.5">
+          <span className="rounded-md bg-accent-soft px-2 py-[3px] text-[11px] font-semibold text-accent">
             {monthLabel(hub.months)}
           </span>
-          <span className="rounded-[7px] border-[1.5px] border-[#20140d] bg-[#ffd6a5] px-[7px] py-px text-[11px] font-semibold" style={{ fontFamily: "var(--font-display)" }}>
+          <span className="rounded-md bg-[#f4f4f5] px-2 py-[3px] text-[11px] font-semibold text-[#52525b]">
             {COST_META[hub.costBucket]}
           </span>
         </div>
