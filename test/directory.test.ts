@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { filterDirectory, isAnywhereHub, uniqueDirectoryCountries, type DirectoryHub } from "../lib/directory";
+import { filterDirectory, isAnywhereHub, isHiddenHub, uniqueDirectoryCountries, type DirectoryHub } from "../lib/directory";
 
 function hub(overrides: Partial<DirectoryHub> & { id: string }): DirectoryHub {
   return {
@@ -63,14 +63,20 @@ describe("isAnywhereHub", () => {
   it("is true for coordless hubs", () => {
     expect(isAnywhereHub(hub({ id: "a", category: "popup", coords: null }))).toBe(true);
   });
-  it("is true for online hubs even when they carry coordinates", () => {
-    expect(isAnywhereHub(hub({ id: "a", category: "online", coords: [0, 0] }))).toBe(true);
-  });
-  it("is true when online appears in a multi-category hub with coordinates", () => {
-    expect(isAnywhereHub(hub({ id: "a", category: "traveling", categories: ["traveling", "online"], coords: [10, 10] }))).toBe(true);
-  });
-  it("is false for a place-based hub with coordinates", () => {
+  it("is false for any hub that carries coordinates", () => {
     expect(isAnywhereHub(hub({ id: "a", category: "organic", coords: [40, -3] }))).toBe(false);
+    expect(isAnywhereHub(hub({ id: "b", category: "traveling", coords: [10, 10] }))).toBe(false);
+  });
+});
+
+describe("isHiddenHub", () => {
+  it("hides junk and online_communities hubs", () => {
+    expect(isHiddenHub(hub({ id: "a", category: "junk" }))).toBe(true);
+    expect(isHiddenHub(hub({ id: "b", category: "online_communities" }))).toBe(true);
+  });
+  it("shows normal place-based categories", () => {
+    expect(isHiddenHub(hub({ id: "a", category: "organic" }))).toBe(false);
+    expect(isHiddenHub(hub({ id: "b", category: "popup" }))).toBe(false);
   });
 });
 

@@ -27,7 +27,8 @@ const OUT = join(ROOT, "public", "directory.json");
 
 const VALID_CATEGORIES: HubCategory[] = [
   "organic", "permanent_commercial", "permanent_community",
-  "popup", "traveling", "spanish_immersion", "online",
+  "popup", "traveling", "spanish_immersion",
+  "online_communities", "junk",
 ];
 
 function primaryCountry(raw: string): string {

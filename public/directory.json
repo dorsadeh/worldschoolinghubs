@@ -9444,9 +9444,9 @@
     "id": "jewish-worldschoolers",
     "name": "Jewish Worldschoolers",
     "host": "Rachael Love Cohen",
-    "category": "online",
+    "category": "online_communities",
     "categories": [
-      "online"
+      "online_communities"
     ],
     "spanish": false,
     "participation": "family",
@@ -9479,9 +9479,9 @@
     "id": "the-hub",
     "name": "The Hub",
     "host": "Luba Vangelova",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -9530,9 +9530,9 @@
     "id": "worldly-teens",
     "name": "Worldly Teens",
     "host": "Sophie Morris",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -9561,9 +9561,9 @@
     "id": "worldschool-au",
     "name": "Worldschool.au",
     "host": "Worldschool.au",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -9692,9 +9692,9 @@
     "id": "my-worldschool-hub",
     "name": "My Worldschool Hub",
     "host": "My Worldschool Hub",
-    "category": "online",
+    "category": "online_communities",
     "categories": [
-      "online"
+      "online_communities"
     ],
     "spanish": false,
     "participation": "family",
@@ -9882,9 +9882,9 @@
     "id": "porto-grana-worldschoolers-hub",
     "name": "Porto Grana Worldschoolers Hub",
     "host": "Porto Grana",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -9920,9 +9920,9 @@
     "id": "fuerteventura-worldschool-hub",
     "name": "Fuerteventura Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -9958,9 +9958,9 @@
     "id": "gran-canaria-worldschool-hub",
     "name": "Gran Canaria Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -9996,9 +9996,9 @@
     "id": "tenerife-worldschool-hub",
     "name": "Tenerife Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -10193,9 +10193,9 @@
     "id": "remote-family-database-directory",
     "name": "Remote Family Database (directory)",
     "host": "Remote Family",
-    "category": "online",
+    "category": "junk",
     "categories": [
-      "online"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -10228,9 +10228,9 @@
     "id": "we-are-worldschoolers-online",
     "name": "We Are Worldschoolers (online)",
     "host": "Lainie Liberti",
-    "category": "online",
+    "category": "online_communities",
     "categories": [
-      "online"
+      "online_communities"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -10263,9 +10263,9 @@
     "id": "worldschool-collective-directory",
     "name": "WorldSchool Collective (directory)",
     "host": "WorldSchool Collective",
-    "category": "online",
+    "category": "online_communities",
     "categories": [
-      "online"
+      "online_communities"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -10298,9 +10298,9 @@
     "id": "worldschooling-central-online",
     "name": "Worldschooling Central (online)",
     "host": "Worldschooling Central",
-    "category": "online",
+    "category": "online_communities",
     "categories": [
-      "online"
+      "online_communities"
     ],
     "spanish": false,
     "participation": "dropoff",

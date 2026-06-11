@@ -1,7 +1,7 @@
 // components/directory/FilterBar.tsx
 "use client";
 
-import { CATEGORY_META, COST_META, type CostBucket, type DirectoryFilter, type HubCategory } from "@/lib/directory";
+import { CATEGORY_META, COST_META, DISPLAY_CATEGORIES, type CostBucket, type DirectoryFilter, type HubCategory } from "@/lib/directory";
 
 const MONTHS: { n: number; label: string }[] = [
   { n: 1, label: "Jan" }, { n: 2, label: "Feb" }, { n: 3, label: "Mar" }, { n: 4, label: "Apr" },
@@ -9,7 +9,7 @@ const MONTHS: { n: number; label: string }[] = [
   { n: 9, label: "Sep" }, { n: 10, label: "Oct" }, { n: 11, label: "Nov" }, { n: 12, label: "Dec" },
 ];
 const COSTS: CostBucket[] = ["free", "low", "mid", "high", "unlisted"];
-const CATEGORIES = Object.keys(CATEGORY_META) as HubCategory[];
+const CATEGORIES = DISPLAY_CATEGORIES;
 const PARTICIPATION: ("family" | "dropoff")[] = ["dropoff", "family"];
 
 const COST_TIPS: Record<CostBucket, string> = {
@@ -27,7 +27,9 @@ const CATEGORY_TIPS: Record<HubCategory, string> = {
   popup: "Temporary gatherings organized for a specific trip or season",
   traveling: "Mobile programs that move between multiple locations",
   spanish_immersion: "Hubs in Spanish-speaking countries with a focus on language immersion",
-  online: "Virtual programs and communities with no fixed physical location",
+  // Hidden categories — never rendered as pills, but the Record must stay exhaustive.
+  online_communities: "Online community (not shown on the site)",
+  junk: "Parked dead/broken listing (not shown on the site)",
 };
 
 const PARTICIPATION_TIPS: Record<"dropoff" | "family", string> = {

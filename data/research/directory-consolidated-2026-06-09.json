@@ -5356,7 +5356,7 @@
   {
     "name": "Jewish Worldschoolers",
     "host": "Rachael Love Cohen",
-    "category": "online",
+    "category": "online_communities",
     "spanish": false,
     "participation": "family",
     "country": "",
@@ -5389,7 +5389,7 @@
   {
     "name": "The Hub",
     "host": "Luba Vangelova",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "dropoff",
     "country": "",
@@ -5426,7 +5426,7 @@
   {
     "name": "Worldly Teens",
     "host": "Sophie Morris",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "dropoff",
     "country": "",
@@ -5455,7 +5455,7 @@
   {
     "name": "Worldschool.au",
     "host": "Worldschool.au",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "dropoff",
     "country": "Australia + Indonesia",
@@ -5558,7 +5558,7 @@
   {
     "name": "My Worldschool Hub",
     "host": "My Worldschool Hub",
-    "category": "online",
+    "category": "online_communities",
     "spanish": false,
     "participation": "family",
     "country": "England",
@@ -5694,7 +5694,7 @@
   {
     "name": "Porto Grana Worldschoolers Hub",
     "host": "Porto Grana",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "dropoff",
     "country": "Portugal",
@@ -5727,7 +5727,7 @@
   {
     "name": "Fuerteventura Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Spain",
@@ -5760,7 +5760,7 @@
   {
     "name": "Gran Canaria Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Spain",
@@ -5793,7 +5793,7 @@
   {
     "name": "Tenerife Worldschool Hub",
     "host": "",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Spain",
@@ -5937,7 +5937,7 @@
   {
     "name": "Remote Family Database (directory)",
     "host": "Remote Family",
-    "category": "online",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "global (online)",
@@ -5970,7 +5970,7 @@
   {
     "name": "We Are Worldschoolers (online)",
     "host": "Lainie Liberti",
-    "category": "online",
+    "category": "online_communities",
     "spanish": false,
     "participation": "dropoff",
     "country": "global (online)",
@@ -6003,7 +6003,7 @@
   {
     "name": "WorldSchool Collective (directory)",
     "host": "WorldSchool Collective",
-    "category": "online",
+    "category": "online_communities",
     "spanish": false,
     "participation": "dropoff",
     "country": "global (online)",
@@ -6036,7 +6036,7 @@
   {
     "name": "Worldschooling Central (online)",
     "host": "Worldschooling Central",
-    "category": "online",
+    "category": "online_communities",
     "spanish": false,
     "participation": "dropoff",
     "country": "global (online)",

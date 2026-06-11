@@ -1,6 +1,8 @@
 export type HubCategory =
   | "organic" | "permanent_commercial" | "permanent_community"
-  | "popup" | "traveling" | "spanish_immersion" | "online";
+  | "popup" | "traveling" | "spanish_immersion"
+  // Hidden-from-site buckets (kept in the data, never displayed — see HIDDEN_CATEGORIES):
+  | "online_communities" | "junk";
 
 export type CostBucket = "free" | "low" | "mid" | "high" | "unlisted";
 export type Participation = "family" | "dropoff" | "";
@@ -138,8 +140,26 @@ export const CATEGORY_META: Record<HubCategory, { label: string; color: string; 
   popup: { label: "Pop-up", color: "#ff4d6d", emoji: "🎪" },
   traveling: { label: "Traveling", color: "#4d7dff", emoji: "⛰️" },
   spanish_immersion: { label: "Spanish", color: "#f0a500", emoji: "🗣️" },
-  online: { label: "Online", color: "#7a8699", emoji: "💻" },
+  // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
+  online_communities: { label: "Online community", color: "#7a8699", emoji: "💬" },
+  junk: { label: "Junk", color: "#9aa0a6", emoji: "🗑️" },
 };
+
+/**
+ * Categories kept in the data but never shown on the site. `junk` = dead/broken
+ * listings parked for the record; `online_communities` = real virtual groups we
+ * track but don't surface in the place-based explorer. Filtered at the data
+ * boundary (see app/page.tsx) so no card, pin, tab, filter, or count includes them.
+ */
+export const HIDDEN_CATEGORIES = new Set<HubCategory>(["online_communities", "junk"]);
+
+/** Categories that actually appear in the UI (filter pills, legend) — hidden ones removed. */
+export const DISPLAY_CATEGORIES = (Object.keys(CATEGORY_META) as HubCategory[])
+  .filter((c) => !HIDDEN_CATEGORIES.has(c));
+
+/** True when a hub's every category is hidden — i.e. it should not appear on the site at all. */
+export const isHiddenHub = (h: DirectoryHub): boolean =>
+  hubCategories(h).every((c) => HIDDEN_CATEGORIES.has(c));
 
 export const COST_META: Record<CostBucket, string> = {
   free: "Free", low: "$", mid: "$$", high: "$$$", unlisted: "Not listed",
@@ -150,13 +170,11 @@ export const hubCategories = (h: DirectoryHub): HubCategory[] =>
   h.categories && h.categories.length > 0 ? h.categories : [h.category];
 
 /**
- * "Available anywhere" = no fixed place on the map. True when a hub has no
- * coordinates OR is an online program (some online hubs carry a country
- * centroid, but pinning them confuses people scanning for real locations).
- * Drives the Map vs. Online & Anywhere tab split in the explorer.
+ * "Available anywhere" = no fixed place on the map (no coordinates) — e.g. a
+ * traveling program or a hub we couldn't geolocate. Drives the Map vs. Anywhere
+ * tab split in the explorer.
  */
-export const isAnywhereHub = (h: DirectoryHub): boolean =>
-  h.coords === null || hubCategories(h).includes("online");
+export const isAnywhereHub = (h: DirectoryHub): boolean => h.coords === null;
 
 const searchText = (h: DirectoryHub) =>
   [h.name, h.host, h.summary, h.country, h.region].filter(Boolean).join(" ").toLowerCase();

@@ -34,7 +34,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
 
   const filtered = useMemo(() => filterDirectory(hubs, filter), [hubs, filter]);
   // Two disjoint pools: real places (plotted on the map + shown when in view) and
-  // location-less "anywhere" hubs (online/traveling) that live in their own tab.
+  // location-less "anywhere" hubs (e.g. traveling cohorts) that live in their own tab.
   const placeHubs = useMemo(() => filtered.filter((h) => !isAnywhereHub(h)), [filtered]);
   const anywhereHubs = useMemo(() => filtered.filter(isAnywhereHub), [filtered]);
   const gridHubs = useMemo(() => placeHubs.filter((h) => inBounds(h.coords, bounds)), [placeHubs, bounds]);
@@ -69,12 +69,12 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
           <div className="mx-auto mb-4 flex max-w-[760px] items-start gap-3 rounded-[16px] border-[2.5px] border-[#20140d] bg-[#cae8ff] px-4 py-3 shadow-[3px_4px_0_#20140d]">
             <span className="text-[22px] leading-none">🌍</span>
             <p className="text-[13px] leading-snug text-[#20140d]">
-              <span className="font-bold" style={{ fontFamily: "var(--font-display)" }}>Online &amp; available anywhere.</span>{" "}
-              These hubs have no fixed spot on the map — virtual programs and traveling cohorts you can join from wherever you are. They&apos;re kept out of the map view so place-based hubs are easier to find.
+              <span className="font-bold" style={{ fontFamily: "var(--font-display)" }}>Available anywhere.</span>{" "}
+              These hubs have no fixed spot on the map — traveling cohorts and programs you can join from wherever you are. They&apos;re kept out of the map view so place-based hubs are easier to find.
             </p>
           </div>
           {anywhereHubs.length === 0 ? (
-            <p className="mt-10 text-center text-sm text-[#6b4e3d]">No online or anywhere hubs match these filters.</p>
+            <p className="mt-10 text-center text-sm text-[#6b4e3d]">No anywhere hubs match these filters.</p>
           ) : (
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {anywhereHubs.map((hub) => <HubCard key={hub.id} hub={hub} onOpen={setSelectedId} onHover={setHoveredId} />)}
@@ -88,7 +88,7 @@ export default function DirectoryExplorer({ hubs }: { hubs: DirectoryHub[] }) {
   );
 }
 
-/** Map vs. Online & Anywhere switch. Matches the bold-playful pill aesthetic. */
+/** Map vs. Anywhere switch. Matches the bold-playful pill aesthetic. */
 function TabBar({ view, onChange, mapCount, anywhereCount }: {
   view: View;
   onChange: (v: View) => void;
@@ -97,7 +97,7 @@ function TabBar({ view, onChange, mapCount, anywhereCount }: {
 }) {
   const tabs: { key: View; emoji: string; label: string; count: number; bg: string }[] = [
     { key: "map", emoji: "🗺️", label: "On the map", count: mapCount, bg: "#caffbf" },
-    { key: "anywhere", emoji: "🌍", label: "Online & anywhere", count: anywhereCount, bg: "#cae8ff" },
+    { key: "anywhere", emoji: "🌍", label: "Anywhere", count: anywhereCount, bg: "#cae8ff" },
   ];
   return (
     <div className="flex items-center gap-2 border-b-[2.5px] border-[#20140d] bg-[#fff4e6] px-4 py-2.5">
@@ -137,7 +137,7 @@ function EmptyMap({ anywhereCount, onGoAnywhere }: { anywhereCount: number; onGo
           className="mt-3 inline-flex items-center gap-2 rounded-full border-[2.5px] border-[#20140d] bg-[#cae8ff] px-[14px] py-[6px] text-[13px] text-[#20140d] shadow-[3px_4px_0_#20140d] transition-transform duration-150 hover:-translate-y-[1px]"
           style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}
         >
-          🌍 {anywhereCount} online &amp; anywhere {anywhereCount === 1 ? "hub" : "hubs"} match — view them
+          🌍 {anywhereCount} anywhere {anywhereCount === 1 ? "hub" : "hubs"} match — view them
         </button>
       )}
     </div>
