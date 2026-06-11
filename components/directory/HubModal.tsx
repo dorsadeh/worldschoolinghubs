@@ -5,6 +5,7 @@ import {
   CATEGORY_META, COST_META,
   type DirectoryHub, type HubEvent,
 } from "@/lib/directory";
+import { useFeedback } from "@/components/feedback/FeedbackContext";
 
 /** "2026-09-07" → "7 Sep 2026"; passes through anything non-ISO untouched. */
 function fmtDate(iso?: string | null): string | null {
@@ -23,6 +24,7 @@ function eventDates(ev: HubEvent): string {
 
 export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose: () => void }) {
   const meta = CATEGORY_META[hub.category];
+  const { open: openFeedback } = useFeedback();
   return (
     <div className="fixed inset-0 z-[2000] flex items-center justify-center bg-[#20140d99] p-4" onClick={onClose}>
       <div
@@ -54,14 +56,25 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
             {hub.participation && <Tag>{hub.participation === "dropoff" ? "🎒 Drop-off" : "👪 Family"}</Tag>}
             {hub.nationality && <Tag>{hub.nationality}</Tag>}
           </div>
+          <p className="mt-1.5 text-[11px] leading-snug opacity-50">
+            Prices are community-reported estimates — verify with the provider.
+          </p>
 
           {hub.summary && <p className="mt-4 text-[15px] leading-relaxed">{hub.summary}</p>}
 
           <Enrichment hub={hub} />
 
-          <div className="mt-4 flex flex-wrap gap-3">
+          <div className="mt-4 flex flex-wrap items-center gap-3">
             {hub.website && <Link href={hub.website.startsWith("http") ? hub.website : `https://${hub.website}`}>Website ↗</Link>}
             {hub.facebook && <Link href={hub.facebook.startsWith("http") ? hub.facebook : `https://${hub.facebook}`}>Facebook ↗</Link>}
+            <button
+              type="button"
+              onClick={() => openFeedback({ hubId: hub.id, hubName: hub.name, type: "price" })}
+              className="text-[13px] font-semibold text-[#6b4e3d] underline decoration-dotted underline-offset-2"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              ⚑ Flag an error
+            </button>
           </div>
 
           {hub.references.length > 0 && (
