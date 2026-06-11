@@ -9,7 +9,6 @@ import type { FeedbackOpenContext } from "./FeedbackContext";
 
 const FORMSPREE_ID = process.env.NEXT_PUBLIC_FORMSPREE_ID;
 const TYPE_ORDER: FeedbackType[] = ["price", "outdated", "suggest", "hello"];
-const GITHUB_URL = "https://github.com/dorsadeh/worldschoolinghubs";
 
 export default function FeedbackModal({ context, onClose }: {
   context: FeedbackOpenContext | null;
@@ -74,8 +73,7 @@ export default function FeedbackModal({ context, onClose }: {
           </div>
         ) : !configured ? (
           <p className="mt-5 text-[14px] leading-relaxed opacity-80">
-            The feedback form isn&apos;t set up yet. You can still reach out on{" "}
-            <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer" className="text-[#1d6fa5] underline">GitHub</a>.
+            The feedback form isn&apos;t set up yet — please check back soon.
           </p>
         ) : (
           <form className="mt-4 flex flex-col gap-3" onSubmit={handleSubmit}>
