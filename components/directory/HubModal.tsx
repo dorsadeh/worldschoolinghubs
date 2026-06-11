@@ -2,7 +2,7 @@
 "use client";
 
 import {
-  CATEGORY_META, COST_META,
+  CATEGORY_META, COST_META, hubImage,
   type DirectoryHub, type HubEvent,
 } from "@/lib/directory";
 import { useFeedback } from "@/components/feedback/FeedbackContext";
@@ -26,34 +26,35 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
   const meta = CATEGORY_META[hub.category];
   const { open: openFeedback } = useFeedback();
   return (
-    <div className="fixed inset-0 z-[2000] flex items-center justify-center bg-[#20140d99] p-4" onClick={onClose}>
+    <div className="fixed inset-0 z-[2000] flex items-center justify-center bg-ink/55 p-4" onClick={onClose}>
       <div
-        className="max-h-[88vh] w-full max-w-[560px] overflow-y-auto rounded-[22px] border-[2.5px] border-[#20140d] bg-[#fffaf3] shadow-[8px_10px_0_#20140d]"
-        style={{ fontFamily: "var(--font-body)", color: "#20140d" }}
+        className="max-h-[88vh] w-full max-w-[560px] overflow-y-auto rounded-2xl bg-surface text-ink shadow-[0_12px_40px_rgba(0,0,0,0.18)]"
         onClick={(e) => e.stopPropagation()}
       >
-        <div className="relative h-[180px] w-full overflow-hidden rounded-t-[19px]">
-          {hub.image ? (
+        <div className="relative h-[180px] w-full overflow-hidden rounded-t-2xl">
+          {hubImage(hub) ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={hub.image} alt={hub.name} className="h-full w-full object-cover" />
+            <img src={hubImage(hub) as string} alt={hub.name} className="h-full w-full object-cover" />
           ) : (
-            <div className="h-full w-full" style={{ background: meta.color }} />
+            <div className="h-full w-full" style={{ background: `color-mix(in srgb, ${meta.color} 14%, #eef0ec)` }} />
           )}
           <button type="button" onClick={onClose}
-            className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full border-2 border-[#20140d] bg-white text-[16px]">✕</button>
-          <span className="absolute bottom-3 left-3 -rotate-2 rounded-[9px] border-2 border-[#20140d] px-[10px] py-[3px] text-[12px] font-semibold"
-            style={{ background: meta.color, color: "#fff", fontFamily: "var(--font-display)" }}>{meta.emoji} {meta.label}</span>
+            className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full border border-line bg-white text-[15px] text-ink shadow-sm">✕</button>
+          <span className="absolute bottom-3 left-3 flex items-center gap-1.5 rounded-md bg-white/95 px-2.5 py-1 text-[11.5px] font-semibold text-ink">
+            <span className="h-1.5 w-1.5 rounded-full" style={{ background: meta.color }} />
+            {meta.label}
+          </span>
         </div>
 
         <div className="p-5">
-          <h2 className="text-[24px] leading-tight" style={{ fontFamily: "var(--font-display)", fontWeight: 800 }}>{hub.name}</h2>
-          {hub.host && <p className="mt-1 text-[14px] font-semibold text-[#6b4e3d]">Hosted by {hub.host}</p>}
+          <h2 className="text-[22px] font-bold leading-tight tracking-[-0.01em]">{hub.name}</h2>
+          {hub.host && <p className="mt-1 text-[14px] font-medium text-muted">Hosted by {hub.host}</p>}
 
           <div className="mt-3 flex flex-wrap gap-2">
             {[hub.region, hub.country].filter(Boolean).join(", ") && <Tag>{[hub.region, hub.country].filter(Boolean).join(", ")}</Tag>}
             {hub.season && <Tag>{hub.season}</Tag>}
             <Tag>{COST_META[hub.costBucket]}{hub.price ? ` · ${hub.price}` : ""}</Tag>
-            {hub.participation && <Tag>{hub.participation === "dropoff" ? "🎒 Drop-off" : "👪 Family"}</Tag>}
+            {hub.participation && <Tag>{hub.participation === "dropoff" ? "Drop-off" : "Family"}</Tag>}
             {hub.nationality && <Tag>{hub.nationality}</Tag>}
           </div>
           <p className="mt-1.5 text-[11px] leading-snug opacity-50">
@@ -70,20 +71,19 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
             <button
               type="button"
               onClick={() => openFeedback({ hubId: hub.id, hubName: hub.name, type: "outdated" })}
-              className="text-[13px] font-semibold text-[#6b4e3d] underline decoration-dotted underline-offset-2"
-              style={{ fontFamily: "var(--font-display)" }}
+              className="text-[13px] font-semibold text-muted underline decoration-dotted underline-offset-2 hover:text-ink"
             >
-              ⚑ Flag an error
+              Flag an error
             </button>
           </div>
 
           {hub.references.length > 0 && (
-            <div className="mt-5 border-t-2 border-[#20140d22] pt-3">
-              <h3 className="mb-2 text-[13px] uppercase tracking-wide opacity-70" style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}>References</h3>
+            <div className="mt-5 border-t border-line pt-3">
+              <h3 className={SECTION_TITLE}>References</h3>
               <ul className="space-y-1 text-[13px]">
                 {hub.references.map(([label, url], i) => (
                   <li key={i}>
-                    <a href={url} target="_blank" rel="noopener noreferrer" className="text-[#1d6fa5] underline">{label}</a>
+                    <a href={url} target="_blank" rel="noopener noreferrer" className="text-accent underline">{label}</a>
                   </li>
                 ))}
               </ul>
@@ -96,16 +96,15 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
 }
 
 function Tag({ children }: { children: React.ReactNode }) {
-  return <span className="rounded-[8px] border-2 border-[#20140d] bg-white px-[9px] py-[2px] text-[12px] font-semibold" style={{ fontFamily: "var(--font-display)" }}>{children}</span>;
+  return <span className="rounded-md border border-line bg-surface px-2 py-[3px] text-[12px] font-semibold text-ink">{children}</span>;
 }
 
-const SECTION_TITLE = "mb-2 text-[13px] uppercase tracking-wide opacity-70";
-const sectionTitleStyle = { fontFamily: "var(--font-display)", fontWeight: 700 } as const;
+const SECTION_TITLE = "mb-2 text-[11px] font-semibold uppercase tracking-[0.07em] text-faint";
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
-    <div className="mt-5 border-t-2 border-[#20140d22] pt-3">
-      <h3 className={SECTION_TITLE} style={sectionTitleStyle}>{title}</h3>
+    <div className="mt-5 border-t border-line pt-3">
+      <h3 className={SECTION_TITLE}>{title}</h3>
       {children}
     </div>
   );
@@ -138,19 +137,19 @@ function Enrichment({ hub }: { hub: DirectoryHub }) {
   return (
     <>
       {events.length > 0 && (
-        <Section title="📅 Upcoming events">
+        <Section title="Upcoming events">
           <ul className="space-y-2">
             {events.map((ev, i) => (
-              <li key={i} className="rounded-[12px] border-2 border-[#20140d] bg-white px-3 py-2 shadow-[3px_3px_0_#20140d]">
+              <li key={i} className="rounded-lg border border-line bg-bg px-3 py-2">
                 <div className="flex items-baseline justify-between gap-2">
-                  <span className="text-[14px] font-semibold" style={{ fontFamily: "var(--font-display)" }}>{ev.title}</span>
-                  <span className="shrink-0 text-[12px] font-semibold text-[#1d6fa5]">{eventDates(ev)}</span>
+                  <span className="text-[14px] font-semibold">{ev.title}</span>
+                  <span className="shrink-0 text-[12px] font-semibold text-accent">{eventDates(ev)}</span>
                 </div>
                 <div className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[12px] opacity-80">
                   {ev.type && <span>{ev.type}</span>}
                   {ev.ageFocus && <span>· {ev.ageFocus}</span>}
                   {ev.price && <span>· {ev.price}</span>}
-                  {ev.url && <a href={ev.url} target="_blank" rel="noopener noreferrer" className="text-[#1d6fa5] underline">details ↗</a>}
+                  {ev.url && <a href={ev.url} target="_blank" rel="noopener noreferrer" className="text-accent underline">details ↗</a>}
                 </div>
               </li>
             ))}
@@ -159,16 +158,16 @@ function Enrichment({ hub }: { hub: DirectoryHub }) {
       )}
 
       {t && (t.bestWindow || t.avoidWindow || t.note) && (
-        <Section title="🗓️ When to go">
+        <Section title="When to go">
           <div className="flex flex-col gap-2 text-[14px]">
             {t.bestWindow && (
-              <div className="rounded-[10px] border-2 border-[#20140d] bg-[#caffbf] px-3 py-1.5">
-                <span className="font-semibold">✅ Best:</span> {t.bestWindow}
+              <div className="rounded-lg bg-accent-soft px-3 py-1.5 text-ink">
+                <span className="font-semibold">Best:</span> {t.bestWindow}
               </div>
             )}
             {t.avoidWindow && (
-              <div className="rounded-[10px] border-2 border-[#20140d] bg-[#ffd6a5] px-3 py-1.5">
-                <span className="font-semibold">⚠️ Avoid:</span> {t.avoidWindow}
+              <div className="rounded-lg bg-[#fef3e2] px-3 py-1.5 text-ink">
+                <span className="font-semibold">Avoid:</span> {t.avoidWindow}
               </div>
             )}
             {t.note && <p className="text-[13px] leading-relaxed opacity-80">{t.note}</p>}
@@ -190,22 +189,21 @@ function Enrichment({ hub }: { hub: DirectoryHub }) {
           </div>
           {x?.bookingUrl && (
             <a href={x.bookingUrl} target="_blank" rel="noopener noreferrer"
-              className="mt-3 inline-block rounded-full border-2 border-[#20140d] bg-[#caffbf] px-[14px] py-[5px] text-[13px] font-semibold"
-              style={{ fontFamily: "var(--font-display)" }}>Book / enroll ↗</a>
+              className="mt-3 inline-block rounded-lg bg-accent px-3.5 py-1.5 text-[13px] font-semibold text-white">Book / enroll ↗</a>
           )}
         </Section>
       )}
 
       {flags.length > 0 && (
-        <Section title="⚠️ Needs review">
+        <Section title="Needs review">
           <ul className="space-y-1.5 text-[13px]">
             {flags.map((f, i) => (
-              <li key={i} className="rounded-[10px] border-2 border-[#20140d] bg-[#fff3bf] px-3 py-1.5">
+              <li key={i} className="rounded-lg bg-[#fef9e7] px-3 py-1.5">
                 <span className="font-semibold">{f.field}:</span>{" "}
                 {f.currentValue && <span className="line-through opacity-60">{f.currentValue}</span>}
                 {f.suggestedValue && <span> → {f.suggestedValue}</span>}
                 {f.note && <span className="opacity-80"> — {f.note}</span>}
-                {f.evidence && <> <a href={f.evidence} target="_blank" rel="noopener noreferrer" className="text-[#1d6fa5] underline">source ↗</a></>}
+                {f.evidence && <> <a href={f.evidence} target="_blank" rel="noopener noreferrer" className="text-accent underline">source ↗</a></>}
               </li>
             ))}
           </ul>
@@ -223,5 +221,5 @@ function Enrichment({ hub }: { hub: DirectoryHub }) {
 }
 
 function Link({ href, children }: { href: string; children: React.ReactNode }) {
-  return <a href={href} target="_blank" rel="noopener noreferrer" className="rounded-full border-2 border-[#20140d] bg-[#caffbf] px-[14px] py-[5px] text-[13px] font-semibold" style={{ fontFamily: "var(--font-display)" }}>{children}</a>;
+  return <a href={href} target="_blank" rel="noopener noreferrer" className="rounded-lg border border-line bg-surface px-3 py-1.5 text-[13px] font-semibold text-accent hover:border-faint">{children}</a>;
 }
