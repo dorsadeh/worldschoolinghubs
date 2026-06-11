@@ -1,3 +1,5 @@
+import rawImageBlocklist from "../data/image-blocklist.json";
+
 export type HubCategory =
   | "organic" | "permanent_commercial" | "permanent_community"
   | "popup" | "traveling" | "spanish_immersion"
@@ -175,6 +177,35 @@ export const hubCategories = (h: DirectoryHub): HubCategory[] =>
  * tab split in the explorer.
  */
 export const isAnywhereHub = (h: DirectoryHub): boolean => h.coords === null;
+
+/** Hub ids whose stored image is junk (flag/logo/icon) or missing — render the placeholder instead. */
+export const IMAGE_BLOCKLIST: ReadonlySet<string> = new Set(rawImageBlocklist as string[]);
+
+/** The hub's usable card image, or null when absent/blocklisted (→ designed placeholder). */
+export function hubImage(h: DirectoryHub, blocklist: ReadonlySet<string> = IMAGE_BLOCKLIST): string | null {
+  if (!h.image || blocklist.has(h.id)) return null;
+  return h.image;
+}
+
+/** Stable partition: hubs with a usable image first, placeholder hubs after. */
+export function sortByImagePresence(hubs: DirectoryHub[], blocklist: ReadonlySet<string> = IMAGE_BLOCKLIST): DirectoryHub[] {
+  const withImage: DirectoryHub[] = [];
+  const without: DirectoryHub[] = [];
+  for (const h of hubs) (hubImage(h, blocklist) ? withImage : without).push(h);
+  return [...withImage, ...without];
+}
+
+/** Number of active facet selections (excludes the search query — it's visible in the header). */
+export function countActiveFilters(f: DirectoryFilter): number {
+  return (
+    (f.monthRange ? 1 : 0) +
+    (f.costs?.length ?? 0) +
+    (f.categories?.length ?? 0) +
+    (f.participation?.length ?? 0) +
+    (f.spanishOnly ? 1 : 0) +
+    (f.countries?.length ?? 0)
+  );
+}
 
 const searchText = (h: DirectoryHub) =>
   [h.name, h.host, h.summary, h.country, h.region].filter(Boolean).join(" ").toLowerCase();

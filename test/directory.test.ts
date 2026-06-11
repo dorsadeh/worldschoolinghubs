@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { filterDirectory, isAnywhereHub, isHiddenHub, uniqueDirectoryCountries, type DirectoryHub } from "../lib/directory";
+import { filterDirectory, isAnywhereHub, isHiddenHub, uniqueDirectoryCountries, hubImage, sortByImagePresence, countActiveFilters, type DirectoryHub } from "../lib/directory";
 
 function hub(overrides: Partial<DirectoryHub> & { id: string }): DirectoryHub {
   return {
@@ -84,5 +84,45 @@ describe("uniqueDirectoryCountries", () => {
   it("returns sorted unique non-empty countries", () => {
     const hubs = [hub({ id: "a", country: "Mexico" }), hub({ id: "b", country: "" }), hub({ id: "c", country: "Bulgaria" })];
     expect(uniqueDirectoryCountries(hubs)).toEqual(["Bulgaria", "Mexico"]);
+  });
+});
+
+describe("hubImage", () => {
+  it("returns the image path when present and not blocklisted", () => {
+    expect(hubImage(hub({ id: "a", image: "/directory-images/a.jpg" }), new Set())).toBe("/directory-images/a.jpg");
+  });
+  it("returns null for an empty image path", () => {
+    expect(hubImage(hub({ id: "a", image: "" }), new Set())).toBeNull();
+  });
+  it("returns null for blocklisted hubs", () => {
+    expect(hubImage(hub({ id: "a", image: "/directory-images/a.jpg" }), new Set(["a"]))).toBeNull();
+  });
+});
+
+describe("sortByImagePresence", () => {
+  it("puts hubs with usable images first, preserving relative order within each group", () => {
+    const list = [
+      hub({ id: "no1", image: "" }),
+      hub({ id: "img1", image: "/x.jpg" }),
+      hub({ id: "no2", image: "" }),
+      hub({ id: "img2", image: "/y.jpg" }),
+    ];
+    expect(sortByImagePresence(list, new Set()).map((h) => h.id)).toEqual(["img1", "img2", "no1", "no2"]);
+  });
+  it("treats blocklisted images as missing", () => {
+    const list = [hub({ id: "junk", image: "/x.jpg" }), hub({ id: "good", image: "/y.jpg" })];
+    expect(sortByImagePresence(list, new Set(["junk"])).map((h) => h.id)).toEqual(["good", "junk"]);
+  });
+});
+
+describe("countActiveFilters", () => {
+  it("returns 0 for an empty filter", () => {
+    expect(countActiveFilters({})).toBe(0);
+  });
+  it("counts the month range as one plus each selected value", () => {
+    expect(countActiveFilters({ monthRange: [11, 3], costs: ["free", "low"], categories: ["popup"], participation: ["family"] })).toBe(5);
+  });
+  it("ignores the text query", () => {
+    expect(countActiveFilters({ query: "goa" })).toBe(0);
   });
 });
