@@ -134,17 +134,17 @@ export interface DirectoryFilter {
   query?: string;
 }
 
-/** Label, accent colour, and emoji per hub type — used by cards, pins, legend, filter pills. */
-export const CATEGORY_META: Record<HubCategory, { label: string; color: string; emoji: string }> = {
-  organic: { label: "Organic", color: "#16a34a", emoji: "🌳" },
-  permanent_commercial: { label: "Commercial", color: "#7c3aed", emoji: "🏫" },
-  permanent_community: { label: "Community", color: "#0d9488", emoji: "🌿" },
-  popup: { label: "Pop-up", color: "#e11d48", emoji: "🎪" },
-  traveling: { label: "Traveling", color: "#2563eb", emoji: "⛰️" },
-  spanish_immersion: { label: "Spanish", color: "#d97706", emoji: "🗣️" },
+/** Label and accent colour per hub type — used by cards, pins, legend, filter pills. */
+export const CATEGORY_META: Record<HubCategory, { label: string; color: string }> = {
+  organic: { label: "Organic", color: "#16a34a" },
+  permanent_commercial: { label: "Commercial", color: "#7c3aed" },
+  permanent_community: { label: "Community", color: "#0d9488" },
+  popup: { label: "Pop-up", color: "#e11d48" },
+  traveling: { label: "Traveling", color: "#2563eb" },
+  spanish_immersion: { label: "Spanish", color: "#d97706" },
   // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
-  online_communities: { label: "Online community", color: "#7a8699", emoji: "💬" },
-  junk: { label: "Junk", color: "#9aa0a6", emoji: "🗑️" },
+  online_communities: { label: "Online community", color: "#7a8699" },
+  junk: { label: "Junk", color: "#9aa0a6" },
 };
 
 /**
