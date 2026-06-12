@@ -22,6 +22,12 @@
   --font-mono: var(--font-geist-mono);
 }
 
+/* Light-only site: opts out of Chrome's Auto Dark Mode / forced darkening,
+ * which otherwise inverts our white surfaces to black (seen on localhost). */
+:root {
+  color-scheme: only light;
+}
+
 body {
   background: var(--color-bg);
   color: var(--color-ink);
