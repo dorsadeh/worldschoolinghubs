@@ -26,7 +26,10 @@
    "finalUrl": "https://theworldschoolatlas.com/listing/bansko-town/",
    "verdict": "aggregator-link",
    "latestYear": 2024,
-   "checkedAt": "2026-06-12T12:29:19.760Z"
+   "checkedAt": "2026-06-12T12:29:19.760Z",
+   "proposedUrl": "https://www.facebook.com/groups/1458088764967558",
+   "proposedUrlType": "social",
+   "resolutionNote": "Facebook group link extracted directly from theworldschoolatlas.com listing outbound link; group described as the Bansko worldschoolers community meetup/events group."
   },
   {
    "id": "cyprus-limassol-larnaca",
@@ -62,7 +65,10 @@
    "finalUrl": "https://theworldschoolatlas.com/listing/hakuba-japan",
    "verdict": "aggregator-link",
    "latestYear": 2023,
-   "checkedAt": "2026-06-12T12:29:19.814Z"
+   "checkedAt": "2026-06-12T12:29:19.814Z",
+   "proposedUrl": "https://www.hakuba-is.jp/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official Hakuba International School site found via theworldschoolatlas.com outbound link; site confirms term/year boarding programme in Nagano, Japan with 2025-26 academic year and 2026 graduation dates."
   },
   {
    "id": "kuala-lumpur",
@@ -98,7 +104,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.815Z"
+   "checkedAt": "2026-06-12T12:29:19.815Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No dedicated KL worldschoolers site found; Worldschoolers in Malaysia Facebook group (groups/worldschoolersinmalaysia) is the main organic hub for this Petaling Jaya / KL community, confirmed by blissinvestor.com and direct search."
   },
   {
    "id": "lisbon-cascais",
@@ -122,7 +131,10 @@
    "finalUrl": "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/",
    "verdict": "unreachable",
    "latestYear": 2024,
-   "checkedAt": "2026-06-12T12:29:19.816Z"
+   "checkedAt": "2026-06-12T12:29:19.816Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinthailand/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Original blissinvestor.com URL returns 404; Bliss Hubs Pai community uses the Worldschoolers in Thailand (Bliss) Facebook group as its primary community channel, confirmed by blissinvestor.com main site."
   },
   {
    "id": "chiang-mai",
@@ -134,7 +146,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": "https://www.facebook.com/groups/429152322487588/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No dedicated Chiang Mai worldschoolers site found; best matching organic hub FB group is \"Worldschoolers in Thailand / Homeschooling / Unschooling\" (group 429152322487588) which covers Thailand including Chiang Mai."
   },
   {
    "id": "koh-lanta",
@@ -146,7 +161,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinthailand/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No dedicated Koh Lanta worldschoolers website found; Bliss Hubs Koh Lanta community is coordinated via the Worldschoolers in Thailand (Bliss) Facebook group, confirmed by blissinvestor.com community page."
   },
   {
    "id": "koh-phangan",
@@ -218,7 +236,10 @@
    "finalUrl": "https://worldschooly.com/hub/soy-montesser/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:19.819Z"
+   "checkedAt": "2026-06-12T12:29:19.819Z",
+   "proposedUrl": "https://www.soymontesser.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia — newest content dated 2023, possibly not updated recently."
   },
   {
    "id": "guanacaste-children-s-community-center",
@@ -242,7 +263,10 @@
    "finalUrl": "https://worldschooly.com/hub/harmony-learning-center/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:19.822Z"
+   "checkedAt": "2026-06-12T12:29:19.822Z",
+   "proposedUrl": "https://harmonyeducation.net/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; site confirmed as Harmony nature-based school in Guanacaste, Costa Rica with 2026-dated image content."
   },
   {
    "id": "milestones-school",
@@ -254,7 +278,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:19.825Z"
+   "checkedAt": "2026-06-12T12:29:19.825Z",
+   "proposedUrl": "https://www.facebook.com/milestoneseducationcr",
+   "proposedUrlType": "social",
+   "resolutionNote": "Worldschooly outbound link points to milestonescr.com which returns 404; official Facebook page milestoneseducationcr confirmed for Milestones Education CR in Tamarindo, Costa Rica via search."
   },
   {
    "id": "wise-education",
@@ -266,7 +293,10 @@
    "finalUrl": "https://worldschooly.com/hub/wise-education/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:20.285Z"
+   "checkedAt": "2026-06-12T12:29:20.285Z",
+   "proposedUrl": "https://thefutureiswise.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica — site loads but shows 2024 content and has spam injection, possibly compromised."
   },
   {
    "id": "leo-worldschool",
@@ -398,7 +428,10 @@
    "finalUrl": null,
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:22.838Z"
+   "checkedAt": "2026-06-12T12:29:22.838Z",
+   "proposedUrl": "https://wonderschool.cc/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Original URL wonderschool.cc returns SSL error on direct fetch but is confirmed as the active site via search results showing 2025 content (National Education Day field trip May 2025) and Instagram active under @wonderschool.cc."
   },
   {
    "id": "wood-school-bali",

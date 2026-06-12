@@ -27,12 +27,12 @@ These entries' `url` points at an aggregator directory. Approving applies `propo
 
 | id | name | country | current url | year | proposed | note |
 |---|---|---|---|---|---|---|
-| bansko-town-base-city | Bansko Town (base city) | Bulgaria | https://theworldschoolatlas.com/listing/bansko-town/ | 2024 | — | — |
-| hakuba-international-term-year | Hakuba International (term/year) | Japan | https://theworldschoolatlas.com/listing/hakuba-japan... | 2023 | — | — |
-| soy-montesser | Soy Montesser | Colombia | https://worldschooly.com/hub/soy-montesser/ | 2025 | — | — |
-| harmony-learning-center | Harmony Learning Center | Costa Rica | https://worldschooly.com/hub/harmony-learning-center/ | 2026 | — | — |
-| milestones-school | Milestones School | Costa Rica | https://worldschooly.com | 2026 | — | — |
-| wise-education | WISE Education | Costa Rica | https://worldschooly.com/hub/wise-education/ | 2025 | — | — |
+| bansko-town-base-city | Bansko Town (base city) | Bulgaria | https://theworldschoolatlas.com/listing/bansko-town/ | 2024 | https://www.facebook.com/groups/1458088764967558 | Facebook group link extracted directly from theworldschoolatlas.com listing outbound link; group described as the Bansko worldschoolers community meetup/events group. |
+| hakuba-international-term-year | Hakuba International (term/year) | Japan | https://theworldschoolatlas.com/listing/hakuba-japan... | 2023 | https://www.hakuba-is.jp/ | Official Hakuba International School site found via theworldschoolatlas.com outbound link; site confirms term/year boarding programme in Nagano, Japan with 2025-26 academic year and 2026 graduation dates. |
+| soy-montesser | Soy Montesser | Colombia | https://worldschooly.com/hub/soy-montesser/ | 2025 | https://www.soymontesser.com/ | Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia — newest content dated 2023, possibly not updated recently. |
+| harmony-learning-center | Harmony Learning Center | Costa Rica | https://worldschooly.com/hub/harmony-learning-center/ | 2026 | https://harmonyeducation.net/ | Official site found via worldschooly.com outbound link; site confirmed as Harmony nature-based school in Guanacaste, Costa Rica with 2026-dated image content. |
+| milestones-school | Milestones School | Costa Rica | https://worldschooly.com | 2026 | https://www.facebook.com/milestoneseducationcr | Worldschooly outbound link points to milestonescr.com which returns 404; official Facebook page milestoneseducationcr confirmed for Milestones Education CR in Tamarindo, Costa Rica via search. |
+| wise-education | WISE Education | Costa Rica | https://worldschooly.com/hub/wise-education/ | 2025 | https://thefutureiswise.com | Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica — site loads but shows 2024 content and has spam injection, possibly compromised. |
 | samana-international-academy | Samana International Academy | Dominican Republic | https://worldschooly.com/hub/samana-international-academy/ | 2026 | — | — |
 | antigua-green-school | Antigua Green School | Guatemala | https://worldschooly.com | 2026 | — | — |
 | eco-holistic-kids-club | Eco Holistic Kids Club | Guatemala | https://worldschooly.com/hub/eco-holistic-kids-club/ | 2025 | — | — |
@@ -114,10 +114,10 @@ _none_
 | goa-arambol-mandrem | Goa (Arambol/Mandrem) | India | — | — | — | — |
 | kuala-lumpur | Kuala Lumpur | Malaysia | — | — | — | — |
 | penang | Penang | Malaysia | — | — | — | — |
-| worldschoolers-in-kuala-lumpur | Worldschoolers in Kuala Lumpur | Malaysia | — | — | — | — |
+| worldschoolers-in-kuala-lumpur | Worldschoolers in Kuala Lumpur | Malaysia | — | — | https://www.facebook.com/groups/worldschoolersinmalaysia/ | No dedicated KL worldschoolers site found; Worldschoolers in Malaysia Facebook group (groups/worldschoolersinmalaysia) is the main organic hub for this Petaling Jaya / KL community, confirmed by blissinvestor.com and direct search. |
 | lisbon-cascais | Lisbon / Cascais | Portugal | — | — | — | — |
-| chiang-mai | Chiang Mai | Thailand | — | — | — | — |
-| koh-lanta | Koh Lanta | Thailand | — | — | — | — |
+| chiang-mai | Chiang Mai | Thailand | — | — | https://www.facebook.com/groups/429152322487588/ | No dedicated Chiang Mai worldschoolers site found; best matching organic hub FB group is "Worldschoolers in Thailand / Homeschooling / Unschooling" (group 429152322487588) which covers Thailand including Chiang Mai. |
+| koh-lanta | Koh Lanta | Thailand | — | — | https://www.facebook.com/groups/worldschoolersinthailand/ | No dedicated Koh Lanta worldschoolers website found; Bliss Hubs Koh Lanta community is coordinated via the Worldschoolers in Thailand (Bliss) Facebook group, confirmed by blissinvestor.com community page. |
 | koh-phangan | Koh Phangan | Thailand | — | — | — | — |
 | pai | Pai | Thailand | — | — | — | — |
 | hoi-an-an-bang | Hoi An / An Bang | Vietnam | — | — | — | — |
