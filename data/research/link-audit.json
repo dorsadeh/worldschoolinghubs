@@ -266,7 +266,7 @@
    "checkedAt": "2026-06-12T12:29:19.819Z",
    "proposedUrl": "https://www.soymontesser.com/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia — newest content dated 2023, possibly not updated recently."
+   "resolutionNote": "Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia \u2014 newest content dated 2023, possibly not updated recently."
   },
   {
    "id": "guanacaste-children-s-community-center",
@@ -323,13 +323,13 @@
    "checkedAt": "2026-06-12T12:29:20.285Z",
    "proposedUrl": "https://thefutureiswise.com",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica — site loads but shows 2024 content and has spam injection, possibly compromised."
+   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica \u2014 site loads but shows 2024 content and has spam injection, possibly compromised."
   },
   {
    "id": "leo-worldschool",
-   "name": "ÎleO Worldschool",
+   "name": "\u00celeO Worldschool",
    "category": "permanent_commercial",
-   "country": "Curaçao",
+   "country": "Cura\u00e7ao",
    "url": "https://ileo.life",
    "status": 200,
    "finalUrl": "https://ileo.life/",
@@ -443,7 +443,7 @@
    "checkedAt": "2026-06-12T12:29:22.744Z",
    "proposedUrl": "https://futurehumanproject.co/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via worldschooly.com outbound link; skills-based program for youth ages 11-16 in Pejeng, Ubud, Bali — site loads but shows minimal content, no date confirmed."
+   "resolutionNote": "Official site found via worldschooly.com outbound link; skills-based program for youth ages 11-16 in Pejeng, Ubud, Bali \u2014 site loads but shows minimal content, no date confirmed."
   },
   {
    "id": "future-human-school-bali",
@@ -641,7 +641,10 @@
    "finalUrl": "https://worldschooly.com/hub/earth-school-aotearoa/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:25.676Z"
+   "checkedAt": "2026-06-12T12:29:25.676Z",
+   "proposedUrl": "https://www.earthschool.nz/worldschooling/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; earthschool.nz/worldschooling page active and describes 1\u20134 month family programme at Mangaroa Farms, Upper Hutt."
   },
   {
    "id": "boundless-sintra",
@@ -677,7 +680,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:26.229Z"
+   "checkedAt": "2026-06-12T12:29:26.229Z",
+   "proposedUrl": "https://silvermistacademy.co.za/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search; silvermistacademy.co.za confirms worldschooler welcome, Cape Town Constantia Nek location, copyright 2026 with August 2025 content."
   },
   {
    "id": "artsville-valenciana",
@@ -737,7 +743,10 @@
    "finalUrl": "https://worldschooly.com/hub/shepherds-rest/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:27.465Z"
+   "checkedAt": "2026-06-12T12:29:27.465Z",
+   "proposedUrl": "https://shepherdsrest.org/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; shepherdsrest.org confirmed as Shepherd's Rest rural coliving community in Oria, Almeria with 2025 content and active booking."
   },
   {
    "id": "valencia-forest-school",
@@ -761,7 +770,10 @@
    "finalUrl": "https://worldschooly.com/hub/worldschooling-tanzania/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:28.583Z"
+   "checkedAt": "2026-06-12T12:29:28.583Z",
+   "proposedUrl": "https://www.amanilight.com/worldschool",
+   "proposedUrlType": "site",
+   "resolutionNote": "First-party site found via search; amanilight.com/worldschool is the official Amani Light Wellness worldschool hub page in Moshi, Tanzania with September\u2013October 2026 sessions listed."
   },
   {
    "id": "elate",
@@ -785,7 +797,10 @@
    "finalUrl": "https://worldschooly.com/hub/naturemind-ed/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:29.378Z"
+   "checkedAt": "2026-06-12T12:29:29.378Z",
+   "proposedUrl": "https://naturemind-ed.com/experiences/worldschooling/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; naturemind-ed.com worldschooling page confirmed active with April 2026 modification date, 10-day eco-programme in Krabi, Thailand."
   },
   {
    "id": "our-land-thailand",
@@ -809,7 +824,10 @@
    "finalUrl": "https://worldschooly.com/hub/freedom-montessori-academy/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:29.385Z"
+   "checkedAt": "2026-06-12T12:29:29.385Z",
+   "proposedUrl": "https://freedommontessoriacademy.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; freedommontessoriacademy.com confirmed as Thonotosassa Florida Montessori academy, featured in Bay News 9 article February 2026."
   },
   {
    "id": "boundless-la-barra",
@@ -833,7 +851,10 @@
    "finalUrl": null,
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:29.884Z"
+   "checkedAt": "2026-06-12T12:29:29.884Z",
+   "proposedUrl": "https://www.theworld.school/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search at theworld.school (new URL vs stored theworld.school); site active, describes 3-month travelling sessions for families, started January 2020."
   },
   {
    "id": "kiriwi-forest-school",
@@ -845,7 +866,10 @@
    "finalUrl": "https://worldschooly.com/hub/kiriwi-forest-school/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:30.087Z"
+   "checkedAt": "2026-06-12T12:29:30.087Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Worldschooly listing has no outbound link and no website or social media found for KiRIWi Forest School in Villavicencio, Colombia after search; hub appears real but has no reachable first-party presence."
   },
   {
    "id": "minga-house-colegio-menfis",
@@ -893,7 +917,10 @@
    "finalUrl": null,
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:30.623Z"
+   "checkedAt": "2026-06-12T12:29:30.623Z",
+   "proposedUrl": "https://www.noma-collective.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Site found active at noma-collective.com with 2026 trip dates; Noma Family edition in Roat\u00e1n Honduras (Jul\u2013Aug 2026) confirmed, previously fully sold-out indicating real operation."
   },
   {
    "id": "selong-bay-worldschooling-hub",
@@ -917,7 +944,10 @@
    "finalUrl": "https://theworldschoolatlas.com/listing/the-creative-world/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:31.012Z"
+   "checkedAt": "2026-06-12T12:29:31.012Z",
+   "proposedUrl": "https://www.educationthatinspires.com/thecreativeworld/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via theworldschoolatlas.com outbound link; educationthatinspires.com/thecreativeworld/ confirmed as The Creative World AP Capstone microschool in Ubud, Bali."
   },
   {
    "id": "we-are-tribe",
@@ -929,7 +959,10 @@
    "finalUrl": "https://worldschooly.com/hub/we-are-tribe/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:31.189Z"
+   "checkedAt": "2026-06-12T12:29:31.189Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Worldschooly listing has no outbound link; no dedicated website or social media account for We Are Tribe found after search; only contact is a phone number on the aggregator listing."
   },
   {
    "id": "wild-hearts-collective",
@@ -941,7 +974,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:31.192Z"
+   "checkedAt": "2026-06-12T12:29:31.192Z",
+   "proposedUrl": "https://www.instagram.com/worldschoolingbali/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Instagram @worldschoolingbali found via web search as the first-party social for Wild Hearts Collective Bali Edition; also has FB group (groups/3005051596551682) for Sanur 2026 sessions."
   },
   {
    "id": "earthbound",
@@ -965,7 +1001,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:31.541Z"
+   "checkedAt": "2026-06-12T12:29:31.541Z",
+   "proposedUrl": "https://www.facebook.com/groups/progettobaita/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Facebook group found via web search; Progetto Baita group is the primary community hub for the Valsesia Israeli-family relocation association, no standalone website exists."
   },
   {
    "id": "sentira",
@@ -977,7 +1016,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:31.541Z"
+   "checkedAt": "2026-06-12T12:29:31.541Z",
+   "proposedUrl": null,
+   "resolutionNote": "No website, Facebook, or Instagram found for Sentira in Arezzo, Italy after multiple searches; community is likely offline or Hebrew-language only with no indexed web presence.",
+   "proposedCategory": "inactive"
   },
   {
    "id": "iyari-play-family-learning-retreat",
@@ -1025,7 +1067,10 @@
    "finalUrl": "https://sacred-roots.lovable.app/",
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:31.862Z"
+   "checkedAt": "2026-06-12T12:29:31.862Z",
+   "proposedUrl": "https://sacredrootshub.base44.app/",
+   "proposedUrlType": "site",
+   "resolutionNote": "New app-based site found via web search; sacredrootshub.base44.app confirmed as Sacred Roots Hub Peru Sacred Valley worldschooling family community, also active on Instagram @sacredrootshub."
   },
   {
    "id": "campus-da-terra",
@@ -1049,7 +1094,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:32.233Z"
+   "checkedAt": "2026-06-12T12:29:32.233Z",
+   "proposedUrl": "https://www.mama-adama.pt/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search; mama-adama.pt confirmed active in Alentejo (Gr\u00e2ndola), Portugal with September 2026 retreat dates and alpaca farm/sanctuary community."
   },
   {
    "id": "spirala-eco-village",
@@ -1061,7 +1109,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:32.233Z"
+   "checkedAt": "2026-06-12T12:29:32.233Z",
+   "proposedUrl": "https://spiralaecovillage.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search; spiralaecovillage.com confirmed as Spirala EcoVillage in Proen\u00e7a-a-Velha, Castelo Branco district Portugal; site returns 403 but domain confirmed active with FB page."
   },
   {
    "id": "las-semillitas",
@@ -1073,7 +1124,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:32.233Z"
+   "checkedAt": "2026-06-12T12:29:32.233Z",
+   "proposedUrl": null,
+   "resolutionNote": "No website, Facebook group, or Instagram found for Las Semillitas Spain (host Belle Hiffmann) after multiple searches; entry from PDF only with no indexed web presence discovered.",
+   "proposedCategory": "inactive"
   },
   {
    "id": "ubuntu-worldschool-espacio-ubuntu",
@@ -1653,7 +1707,7 @@
   },
   {
    "id": "wander-wonder-the-traveling-adventure-scho",
-   "name": "Wander & Wonder — The Traveling Adventure School",
+   "name": "Wander & Wonder \u2014 The Traveling Adventure School",
    "category": "traveling",
    "country": "Greece",
    "url": null,
@@ -1893,7 +1947,7 @@
   },
   {
    "id": "lake-atitl-n-san-pedro",
-   "name": "Lake Atitlán (San Pedro)",
+   "name": "Lake Atitl\u00e1n (San Pedro)",
    "category": "spanish_immersion",
    "country": "Guatemala",
    "url": "https://sanpedrospanishschool.com/",
@@ -1929,7 +1983,7 @@
   },
   {
    "id": "san-crist-bal-de-las-casas",
-   "name": "San Cristóbal de las Casas",
+   "name": "San Crist\u00f3bal de las Casas",
    "category": "spanish_immersion",
    "country": "Mexico",
    "url": null,
