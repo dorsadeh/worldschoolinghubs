@@ -13,7 +13,8 @@
     "build:data": "tsx scripts/build-data.ts",
     "build:enrichment": "tsx scripts/build-enrichment.ts",
     "build:explorer": "npm run build:enrichment && tsx scripts/build-explorer-data.ts",
-    "geocode": "tsx scripts/geocode-directory.ts"
+    "geocode": "tsx scripts/geocode-directory.ts",
+    "audit:links": "tsx scripts/audit-links.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
