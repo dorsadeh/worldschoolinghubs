@@ -445,35 +445,21 @@ a:hover { opacity: 0.8; }
       )
     );
 
-    function getEdits() {
-      const url = urlInput.value.trim();
-      const type = typeSelect.value;
-      const cat = catSelect.value;
-      // Only include fields the user actually changed from defaults
-      const edits = {};
-      if (url && url !== (r.proposedUrl || "")) edits.url = url;
-      if ((url || r.proposedUrl) && type !== (r.proposedUrlType || "site")) edits.urlType = type;
-      if (cat && cat !== (r.proposedCategory || "")) edits.category = cat;
-      return edits;
-    }
-
     function approve() {
-      const edits = getEdits();
-      // If disclosure is open and user typed a URL, treat as explicit override
+      const d = { decision: "approve" };
+      // If the edit disclosure is open, fields the user changed become explicit overrides
       if (disclosure.classList.contains("open")) {
         const url = urlInput.value.trim() || r.proposedUrl || null;
         const type = typeSelect.value;
         const cat = catSelect.value;
-        const d = { decision: "approve" };
-        if (url && url !== r.proposedUrl) { d.url = url; d.urlType = type; }
-        else if (cat && cat !== (r.proposedCategory || "")) { d.category = cat; }
-        // if only type changed
-        if (!d.url && url && type !== (r.proposedUrlType || "site")) { d.url = url; d.urlType = type; }
-        decisions[r.id] = d;
-      } else {
-        // plain approve — apply uses proposals from audit
-        decisions[r.id] = { decision: "approve" };
+        if (url && (url !== r.proposedUrl || type !== (r.proposedUrlType || "site"))) {
+          d.url = url;
+          d.urlType = type;
+        }
+        if (cat && cat !== (r.proposedCategory || "")) d.category = cat;
       }
+      // plain approve (no edits) — audit:apply falls back to the record's proposals
+      decisions[r.id] = d;
       saveState(decisions);
       updateCardState(r.id);
       updateProgress();
