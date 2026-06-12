@@ -74,7 +74,7 @@ function buildHtml(audit: AuditFile): string {
 
   const safeJson = escapeJson(JSON.stringify(embeddedData));
 
-  const CATEGORIES = ["", "junk", "online_communities"];
+  const CATEGORIES = ["", "junk", "online_communities", "inactive"];
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -424,7 +424,7 @@ a:hover { opacity: 0.8; }
     );
     if (r.proposedUrlType === "social") typeSelect.value = "social";
     const catSelect = el("select", {},
-      ...["", "junk", "online_communities"].map(c => el("option", { value: c }, c || "(none)"))
+      ...["", "junk", "online_communities", "inactive"].map(c => el("option", { value: c }, c || "(none)"))
     );
     if (r.proposedCategory) catSelect.value = r.proposedCategory;
 

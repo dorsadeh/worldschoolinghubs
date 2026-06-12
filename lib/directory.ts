@@ -4,7 +4,7 @@ export type HubCategory =
   | "organic" | "permanent_commercial" | "permanent_community"
   | "popup" | "traveling" | "spanish_immersion"
   // Hidden-from-site buckets (kept in the data, never displayed — see HIDDEN_CATEGORIES):
-  | "online_communities" | "junk";
+  | "online_communities" | "junk" | "inactive";
 
 export type CostBucket = "free" | "low" | "mid" | "high" | "unlisted";
 export type Participation = "family" | "dropoff" | "";
@@ -145,15 +145,18 @@ export const CATEGORY_META: Record<HubCategory, { label: string; color: string }
   // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
   online_communities: { label: "Online community", color: "#7a8699" },
   junk: { label: "Junk", color: "#9aa0a6" },
+  inactive: { label: "Inactive (no working link)", color: "#9aa0a6" },
 };
 
 /**
  * Categories kept in the data but never shown on the site. `junk` = dead/broken
  * listings parked for the record; `online_communities` = real virtual groups we
- * track but don't surface in the place-based explorer. Filtered at the data
- * boundary (see app/page.tsx) so no card, pin, tab, filter, or count includes them.
+ * track but don't surface in the place-based explorer; `inactive` = real hubs
+ * with no working link (current and proposed URLs both unreachable) — hidden
+ * until a valid link is found. Filtered at the data boundary (see app/page.tsx)
+ * so no card, pin, tab, filter, or count includes them.
  */
-export const HIDDEN_CATEGORIES = new Set<HubCategory>(["online_communities", "junk"]);
+export const HIDDEN_CATEGORIES = new Set<HubCategory>(["online_communities", "junk", "inactive"]);
 
 /** Categories that actually appear in the UI (filter pills, legend) — hidden ones removed. */
 export const DISPLAY_CATEGORIES = (Object.keys(CATEGORY_META) as HubCategory[])

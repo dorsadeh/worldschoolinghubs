@@ -24,14 +24,10 @@
     "ages": "All",
     "nationality": "UK / Dutch / Israeli",
     "validity": "High",
-    "website": "theworldschoolatlas.com/listing/bansko-town/",
+    "website": "https://www.facebook.com/groups/1458088764967558",
     "facebook": "",
     "summary": "A family-gathering destination in Bansko.",
     "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/bansko-town/"
-      ],
       [
         "Worldschool Atlas directory",
         "https://theworldschoolatlas.com/"
@@ -356,13 +352,13 @@
     "ages": "School-age",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/hakuba-japan...",
+    "website": "https://www.hakuba-is.jp/",
     "facebook": "",
     "summary": "Homeschool families join an international school for a term/year. Mountain town.",
     "references": [
       [
         "Website",
-        "https://theworldschoolatlas.com/listing/hakuba-japan..."
+        "https://www.hakuba-is.jp/"
       ],
       [
         "Worldschool Atlas directory",
@@ -564,7 +560,7 @@
     "ages": "{\"min\": 5, \"note\": \"5+\"}",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "facebook": "https://www.facebook.com/WorldschoolersinKualaLumpur",
     "summary": "Year-round Malaysian city repeatedly named the best SE-Asia base for homeschooling community and flexible long stays.",
     "references": [
@@ -658,14 +654,10 @@
     "ages": "All",
     "nationality": "Israeli",
     "validity": "High",
-    "website": "blissinvestor.com/community/world-schoolers-in-pai-thailand/",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "facebook.com/groups/worldschoolersinthailand",
     "summary": "Confirmed Israeli families + Israeli 'forest school' moved from Goa to Pai. Free community hub.",
     "references": [
-      [
-        "Website",
-        "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/"
-      ],
       [
         "Facebook / Instagram",
         "https://facebook.com/groups/worldschoolersinthailand"
@@ -673,6 +665,10 @@
       [
         "Bliss Hubs directory",
         "https://blissinvestor.com/"
+      ],
+      [
+        "Bliss Investor — Pai (R19)",
+        "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/"
       ],
       [
         "Bangkok Post — Pai nationalities (R105)",
@@ -709,7 +705,7 @@
     "ages": "",
     "nationality": "Intl + Israeli",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/429152322487588/",
     "facebook": "",
     "summary": "Decade-old SE-Asia family base with cafes, meetups and an intl/Israeli scene; families leave Feb–Apr for the burning season.",
     "references": [
@@ -776,7 +772,7 @@
     "ages": "",
     "nationality": "Swedish/Scandinavian",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "",
     "summary": "The 'Swedish island' of Thailand—two accredited Swedish schools and a Scandinavian family bubble that runs Nov–Apr with the school calendar.",
     "references": [
@@ -1090,13 +1086,13 @@
     "ages": "School-age",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/soy-montesser/",
+    "website": "https://www.soymontesser.com/",
     "facebook": "",
     "summary": "Full-term Montessori school, Medellin.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/soy-montesser/"
+        "https://www.soymontesser.com/"
       ],
       [
         "Worldschooly directory",
@@ -1179,13 +1175,13 @@
     "ages": "Mixed",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/harmony-learning-center/",
+    "website": "https://harmonyeducation.net/",
     "facebook": "",
     "summary": "Permanent learning center, Guanacaste. 5.0 (1 review).",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/harmony-learning-center/"
+        "https://harmonyeducation.net/"
       ],
       [
         "Worldschooly directory",
@@ -1217,14 +1213,10 @@
     "ages": "School-age",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://www.facebook.com/milestoneseducationcr",
     "facebook": "",
     "summary": "Full-term school accepting worldschoolers, Tamarindo.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com"
-      ],
       [
         "Worldschooly directory",
         "https://worldschooly.com/hubs/"
@@ -1255,13 +1247,13 @@
     "ages": "Mixed",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/wise-education/",
+    "website": "https://thefutureiswise.com",
     "facebook": "",
     "summary": "Full-term school, Guanacaste.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/wise-education/"
+        "https://thefutureiswise.com"
       ],
       [
         "Worldschooly directory",
@@ -1548,6 +1540,231 @@
     ]
   },
   {
+    "id": "boundless-syros",
+    "name": "Boundless Syros",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Greece",
+    "region": "Syros (Ermoupoli)",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Syros (Ermoupoli). Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Syros%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESyros%20%28Ermoupoli%29%3C/text%3E%3C/svg%3E",
+    "coords": [
+      37.4447,
+      24.9419
+    ],
+    "enrichment": {
+      "id": "boundless-syros",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 1",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2",
+          "type": "session",
+          "startDate": "2026-08-06",
+          "endDate": "2026-09-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 1",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 2",
+          "type": "session",
+          "startDate": "2027-07-27",
+          "endDate": "2027-08-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€2,300/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 2300,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
+  },
+  {
     "id": "antigua-green-school",
     "name": "Antigua Green School",
     "host": "",
@@ -1693,6 +1910,215 @@
     ]
   },
   {
+    "id": "boundless-sanur-bali",
+    "name": "Boundless Sanur",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Indonesia",
+    "region": "Sanur, Bali",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Sanur, Bali. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Sanur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESanur%2C%20Bali%3C/text%3E%3C/svg%3E",
+    "coords": [
+      -8.6878,
+      115.262
+    ],
+    "enrichment": {
+      "id": "boundless-sanur-bali",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-08-15",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€1,500/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 1500,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        },
+        {
+          "field": "region",
+          "currentValue": "Sanur, Bali",
+          "suggestedValue": "Sanur, Bali",
+          "evidence": null,
+          "confidence": "low",
+          "note": "Destination page frames the hub specifically around Sanur."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
+  },
+  {
     "id": "future-human-project",
     "name": "Future Human Project",
     "host": "",
@@ -1781,9 +2207,9 @@
     "id": "wonder-intercultural-school",
     "name": "Wonder Intercultural School",
     "host": "Wonder School",
-    "category": "permanent_commercial",
+    "category": "inactive",
     "categories": [
-      "permanent_commercial"
+      "inactive"
     ],
     "spanish": false,
     "participation": "family",
@@ -1885,6 +2311,469 @@
       -8.2271303,
       115.1919203
     ]
+  },
+  {
+    "id": "boundless-tuscany",
+    "name": "Boundless Tuscany",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Italy",
+    "region": "Pelago, Tuscany",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Pelago, Tuscany. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Tuscany%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPelago%2C%20Tuscany%3C/text%3E%3C/svg%3E",
+    "coords": [
+      43.77,
+      11.5189
+    ],
+    "enrichment": {
+      "id": "boundless-tuscany",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "December Camp",
+          "type": "session",
+          "startDate": "2026-12-10",
+          "endDate": "2027-01-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — third block (TBA)",
+          "type": "cohort",
+          "startDate": null,
+          "endDate": null,
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "low",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "December Camp 2027 (TBA)",
+          "type": "session",
+          "startDate": null,
+          "endDate": null,
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "low",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 2100,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        },
+        {
+          "field": "region",
+          "currentValue": "Pelago, Tuscany",
+          "suggestedValue": "Pistoia, Tuscany",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Current destination page anchors the Tuscany hub in Pistoia."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
+  },
+  {
+    "id": "boundless-kamakura",
+    "name": "Boundless Kamakura",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Japan",
+    "region": "Kamakura",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Kamakura. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Kamakura%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKamakura%3C/text%3E%3C/svg%3E",
+    "coords": [
+      35.3192,
+      139.5466
+    ],
+    "enrichment": {
+      "id": "boundless-kamakura",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 1",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2",
+          "type": "session",
+          "startDate": "2026-08-06",
+          "endDate": "2026-09-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 1",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 2",
+          "type": "session",
+          "startDate": "2027-07-27",
+          "endDate": "2027-08-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": null,
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
   },
   {
     "id": "sekoly-kintana-madagascar",
@@ -2244,6 +3133,231 @@
     }
   },
   {
+    "id": "boundless-kotor",
+    "name": "Boundless Kotor",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Montenegro",
+    "region": "Kotor",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Kotor. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Kotor%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKotor%3C/text%3E%3C/svg%3E",
+    "coords": [
+      42.4247,
+      18.7712
+    ],
+    "enrichment": {
+      "id": "boundless-kotor",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 1",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2",
+          "type": "session",
+          "startDate": "2026-08-06",
+          "endDate": "2026-09-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 1",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 2",
+          "type": "session",
+          "startDate": "2027-07-27",
+          "endDate": "2027-08-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€1,700/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 1700,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
+  },
+  {
     "id": "madrasa-dunya-worldschool-morocco",
     "name": "Madrasa Dunya Worldschool Morocco",
     "host": "Jenna Maria Pedersen",
@@ -2453,6 +3567,231 @@
     ]
   },
   {
+    "id": "boundless-sintra",
+    "name": "Boundless Sintra",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Portugal",
+    "region": "Sintra",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Sintra. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Sintra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%3C/text%3E%3C/svg%3E",
+    "coords": [
+      38.7986,
+      -9.3877
+    ],
+    "enrichment": {
+      "id": "boundless-sintra",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 1",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2",
+          "type": "session",
+          "startDate": "2026-08-06",
+          "endDate": "2026-09-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 1",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 2",
+          "type": "session",
+          "startDate": "2027-07-27",
+          "endDate": "2027-08-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 2100,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
+  },
+  {
     "id": "nature-lore",
     "name": "Nature Lore",
     "host": "Nature Lore",
@@ -2619,6 +3958,239 @@
       38.5258,
       -0.5892
     ]
+  },
+  {
+    "id": "boundless-estepona",
+    "name": "Boundless Estepona",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Spain",
+    "region": "Estepona",
+    "season": "Year-round; join 1-12 months",
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "price": "€5,830-9,130/month",
+    "costBucket": "high",
+    "ages": "1-14",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "summary": "Boundless Life location in Estepona. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Estepona%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEstepona%3C/text%3E%3C/svg%3E",
+    "coords": [
+      36.4276,
+      -5.1459
+    ],
+    "enrichment": {
+      "id": "boundless-estepona",
+      "events": [
+        {
+          "title": "World School — Winter block",
+          "type": "cohort",
+          "startDate": "2026-01-08",
+          "endDate": "2026-03-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Spring block",
+          "type": "cohort",
+          "startDate": "2026-04-04",
+          "endDate": "2026-06-28",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School — Autumn block",
+          "type": "cohort",
+          "startDate": "2026-09-08",
+          "endDate": "2026-11-29",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Winter block",
+          "type": "cohort",
+          "startDate": "2027-01-03",
+          "endDate": "2027-03-19",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "World School 2027 — Spring block",
+          "type": "cohort",
+          "startDate": "2027-03-25",
+          "endDate": "2027-06-10",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 1",
+          "type": "session",
+          "startDate": "2026-07-04",
+          "endDate": "2026-07-31",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2",
+          "type": "session",
+          "startDate": "2026-08-06",
+          "endDate": "2026-09-02",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 1",
+          "type": "session",
+          "startDate": "2027-06-16",
+          "endDate": "2027-07-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        },
+        {
+          "title": "Summer Camp 2027 — 2",
+          "type": "session",
+          "startDate": "2027-07-27",
+          "endDate": "2027-08-21",
+          "recurrence": "one-time",
+          "ageFocus": null,
+          "price": null,
+          "url": null,
+          "confidence": "high",
+          "asOf": "2026-06-11"
+        }
+      ],
+      "timing": null,
+      "ageRange": {
+        "value": "Children 1.5-14 years",
+        "minAge": 1,
+        "maxAge": 14,
+        "audience": "kids",
+        "source": null,
+        "confidence": "high"
+      },
+      "priceRange": {
+        "value": "Apr-Jun 2026 example from ~€2,600/month (dynamic by destination & season); +€400 one-time enrollment/child",
+        "amount": 2600,
+        "currency": "EUR",
+        "basis": "per-family-per-month",
+        "source": null,
+        "confidence": "med"
+      },
+      "exactLocation": null,
+      "extras": {
+        "languageOfInstruction": "English",
+        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
+      },
+      "flags": [
+        {
+          "field": "season",
+          "currentValue": "Year-round; join 1-12 months",
+          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
+          "evidence": null,
+          "confidence": "high",
+          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
+        },
+        {
+          "field": "price",
+          "currentValue": "€5,830-9,130/month",
+          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
+        },
+        {
+          "field": "name",
+          "currentValue": "Boundless Estepona",
+          "suggestedValue": "Boundless Andalusia (hub in Estepona)",
+          "evidence": null,
+          "confidence": "med",
+          "note": "Better normalized as Boundless Andalusia, with the hub in Estepona."
+        }
+      ],
+      "researchStatus": "researched",
+      "sourcesRead": [],
+      "sources": [
+        "chatgpt"
+      ]
+    }
   },
   {
     "id": "lumina-academy",
@@ -3188,1368 +4760,6 @@
     ]
   },
   {
-    "id": "boundless-sintra",
-    "name": "Boundless Sintra",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Portugal",
-    "region": "Sintra",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Sintra — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      38.7986,
-      -9.3877
-    ],
-    "enrichment": {
-      "id": "boundless-sintra",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 1",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2",
-          "type": "session",
-          "startDate": "2026-08-06",
-          "endDate": "2026-09-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 1",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 2",
-          "type": "session",
-          "startDate": "2027-07-27",
-          "endDate": "2027-08-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 2100,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-syros",
-    "name": "Boundless Syros",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Greece",
-    "region": "Syros (Ermoupoli)",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Syros (Ermoupoli) — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      37.4447,
-      24.9419
-    ],
-    "enrichment": {
-      "id": "boundless-syros",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 1",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2",
-          "type": "session",
-          "startDate": "2026-08-06",
-          "endDate": "2026-09-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 1",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 2",
-          "type": "session",
-          "startDate": "2027-07-27",
-          "endDate": "2027-08-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€2,300/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 2300,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-tuscany",
-    "name": "Boundless Tuscany",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Italy",
-    "region": "Pelago, Tuscany",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Pelago — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      43.77,
-      11.5189
-    ],
-    "enrichment": {
-      "id": "boundless-tuscany",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "December Camp",
-          "type": "session",
-          "startDate": "2026-12-10",
-          "endDate": "2027-01-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — third block (TBA)",
-          "type": "cohort",
-          "startDate": null,
-          "endDate": null,
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "low",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "December Camp 2027 (TBA)",
-          "type": "session",
-          "startDate": null,
-          "endDate": null,
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "low",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€2,100/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 2100,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        },
-        {
-          "field": "region",
-          "currentValue": "Pelago, Tuscany",
-          "suggestedValue": "Pistoia, Tuscany",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Current destination page anchors the Tuscany hub in Pistoia."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-estepona",
-    "name": "Boundless Estepona",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Spain",
-    "region": "Estepona",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Estepona — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      36.4276,
-      -5.1459
-    ],
-    "enrichment": {
-      "id": "boundless-estepona",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 1",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2",
-          "type": "session",
-          "startDate": "2026-08-06",
-          "endDate": "2026-09-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 1",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 2",
-          "type": "session",
-          "startDate": "2027-07-27",
-          "endDate": "2027-08-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€2,600/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 2600,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        },
-        {
-          "field": "name",
-          "currentValue": "Boundless Estepona",
-          "suggestedValue": "Boundless Andalusia (hub in Estepona)",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Better normalized as Boundless Andalusia, with the hub in Estepona."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-kotor",
-    "name": "Boundless Kotor",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Montenegro",
-    "region": "Kotor",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Kotor — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      42.4247,
-      18.7712
-    ],
-    "enrichment": {
-      "id": "boundless-kotor",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 1",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2",
-          "type": "session",
-          "startDate": "2026-08-06",
-          "endDate": "2026-09-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 1",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 2",
-          "type": "session",
-          "startDate": "2027-07-27",
-          "endDate": "2027-08-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€1,700/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 1700,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-sanur-bali",
-    "name": "Boundless Sanur",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Indonesia",
-    "region": "Sanur, Bali",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Sanur — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      -8.6878,
-      115.262
-    ],
-    "enrichment": {
-      "id": "boundless-sanur-bali",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-08-15",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": {
-        "value": "Apr-Jun 2026 example from ~€1,500/month (dynamic by destination & season); +€400 one-time enrollment/child",
-        "amount": 1500,
-        "currency": "EUR",
-        "basis": "per-family-per-month",
-        "source": null,
-        "confidence": "med"
-      },
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        },
-        {
-          "field": "region",
-          "currentValue": "Sanur, Bali",
-          "suggestedValue": "Sanur, Bali",
-          "evidence": null,
-          "confidence": "low",
-          "note": "Destination page frames the hub specifically around Sanur."
-        }
-      ],
-      "researchStatus": "researched",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
     "id": "boundless-la-barra",
     "name": "Boundless La Barra",
     "host": "Boundless Life",
@@ -4583,7 +4793,7 @@
     "validity": "web candidate (High)",
     "website": "boundless.life",
     "facebook": "",
-    "summary": "Boundless Life campus in La Barra — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
+    "summary": "Boundless Life location in La Barra, Maldonado. Biggest paid network.",
     "references": [
       [
         "Website",
@@ -4610,7 +4820,7 @@
         "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
       ]
     ],
-    "image": "/directory-images/boundless-life.jpg",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20La%20Barra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Barra%2C%20Maldonado%3C/text%3E%3C/svg%3E",
     "coords": [
       -34.9167,
       -54.8833
@@ -4657,224 +4867,6 @@
         }
       ],
       "researchStatus": "ambiguous",
-      "sourcesRead": [],
-      "sources": [
-        "chatgpt"
-      ]
-    }
-  },
-  {
-    "id": "boundless-kamakura",
-    "name": "Boundless Kamakura",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "categories": [
-      "permanent_commercial"
-    ],
-    "spanish": false,
-    "participation": "",
-    "country": "Japan",
-    "region": "Kamakura",
-    "season": "Year-round; join 1-12 months",
-    "months": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "price": "€5,830-9,130/month",
-    "costBucket": "high",
-    "ages": "1-14",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "summary": "Boundless Life campus in Kamakura — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "image": "/directory-images/boundless-life.jpg",
-    "coords": [
-      35.3192,
-      139.5466
-    ],
-    "enrichment": {
-      "id": "boundless-kamakura",
-      "events": [
-        {
-          "title": "World School — Winter block",
-          "type": "cohort",
-          "startDate": "2026-01-08",
-          "endDate": "2026-03-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Spring block",
-          "type": "cohort",
-          "startDate": "2026-04-04",
-          "endDate": "2026-06-28",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School — Autumn block",
-          "type": "cohort",
-          "startDate": "2026-09-08",
-          "endDate": "2026-11-29",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Winter block",
-          "type": "cohort",
-          "startDate": "2027-01-03",
-          "endDate": "2027-03-19",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "World School 2027 — Spring block",
-          "type": "cohort",
-          "startDate": "2027-03-25",
-          "endDate": "2027-06-10",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 1",
-          "type": "session",
-          "startDate": "2026-07-04",
-          "endDate": "2026-07-31",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2",
-          "type": "session",
-          "startDate": "2026-08-06",
-          "endDate": "2026-09-02",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 1",
-          "type": "session",
-          "startDate": "2027-06-16",
-          "endDate": "2027-07-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        },
-        {
-          "title": "Summer Camp 2027 — 2",
-          "type": "session",
-          "startDate": "2027-07-27",
-          "endDate": "2027-08-21",
-          "recurrence": "one-time",
-          "ageFocus": null,
-          "price": null,
-          "url": null,
-          "confidence": "high",
-          "asOf": "2026-06-11"
-        }
-      ],
-      "timing": null,
-      "ageRange": {
-        "value": "Children 1.5-14 years",
-        "minAge": 1,
-        "maxAge": 14,
-        "audience": "kids",
-        "source": null,
-        "confidence": "high"
-      },
-      "priceRange": null,
-      "exactLocation": null,
-      "extras": {
-        "languageOfInstruction": "English",
-        "otherNotes": "Education centers 5 days/week 08:45-15:30, meals included, bi-weekly culture trips; €400 one-time enrollment/child. Pricing dynamic by destination & season."
-      },
-      "flags": [
-        {
-          "field": "season",
-          "currentValue": "Year-round; join 1-12 months",
-          "suggestedValue": "Fixed cohort blocks + camp windows now published for 2026-2027",
-          "evidence": null,
-          "confidence": "high",
-          "note": "Every live destination page publishes discrete date blocks, not open-ended 'join anytime'."
-        },
-        {
-          "field": "price",
-          "currentValue": "€5,830-9,130/month",
-          "suggestedValue": "Dynamic by destination; Apr-Jun 2026 examples ~€1,500 Bali / €1,700 Kotor / €2,100 Sintra-Tuscany / €2,300 Syros / €2,600 Andalusia; +€400 enrollment/child",
-          "evidence": null,
-          "confidence": "med",
-          "note": "Live pricing calculator contradicts a single network-wide monthly figure."
-        }
-      ],
-      "researchStatus": "researched",
       "sourcesRead": [],
       "sources": [
         "chatgpt"
@@ -9461,7 +9453,7 @@
     "validity": "Low",
     "website": "",
     "facebook": "https://www.facebook.com/groups/JewishWorldschoolers",
-    "summary": "A whole-family online community.",
+    "summary": "A whole-family worldschooling hub.",
     "references": [
       [
         "Facebook / Instagram",
@@ -9547,14 +9539,14 @@
     "validity": "Low",
     "website": "",
     "facebook": "",
-    "summary": "A drop-off online community.",
+    "summary": "A drop-off worldschooling hub.",
     "references": [
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
         ""
       ]
     ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldly%20Teens%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldly%20Teens%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
     "coords": null
   },
   {
@@ -9602,7 +9594,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool.au%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAustralia%20%26amp%3B%20Bali%3C/text%3E%3C/svg%3E",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool.au%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAustralia%20%26amp%3B%20Bali%3C/text%3E%3C/svg%3E",
     "coords": [
       -25.3,
       133.8
@@ -10121,7 +10113,7 @@
     "validity": "web candidate (Medium)",
     "website": "blissinvestor.com",
     "facebook": "",
-    "summary": "A whole-family online community in Krabi (Andaman coast).",
+    "summary": "A whole-family family-gathering destination in Krabi (Andaman coast).",
     "references": [
       [
         "Website",

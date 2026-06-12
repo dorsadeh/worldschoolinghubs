@@ -2,6 +2,10 @@
   "algarve-worldschooling-hub-naturally-riche": {
     "category": "organic"
   },
+  "bansko-town-base-city": {
+    "website": "https://www.facebook.com/groups/1458088764967558",
+    "websiteType": "social"
+  },
   "bliss-hubs-bali": {
     "category": "organic"
   },
@@ -14,8 +18,16 @@
   "bliss-hubs-kuala-lumpur": {
     "category": "organic"
   },
+  "bliss-hubs-pai": {
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
+    "websiteType": "social"
+  },
   "bliss-hubs-siem-reap": {
     "category": "organic"
+  },
+  "chiang-mai": {
+    "website": "https://www.facebook.com/groups/429152322487588/",
+    "websiteType": "social"
   },
   "fuerteventura-worldschool-hub": {
     "category": "junk"
@@ -23,8 +35,24 @@
   "gran-canaria-worldschool-hub": {
     "category": "junk"
   },
+  "hakuba-international-term-year": {
+    "website": "https://www.hakuba-is.jp/",
+    "websiteType": "site"
+  },
+  "harmony-learning-center": {
+    "website": "https://harmonyeducation.net/",
+    "websiteType": "site"
+  },
   "jewish-worldschoolers": {
     "category": "online_communities"
+  },
+  "koh-lanta": {
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
+    "websiteType": "social"
+  },
+  "milestones-school": {
+    "website": "https://www.facebook.com/milestoneseducationcr",
+    "websiteType": "social"
   },
   "my-worldschool-hub": {
     "category": "online_communities"
@@ -41,6 +69,10 @@
   "shanti-shanti": {
     "category": "permanent_community"
   },
+  "soy-montesser": {
+    "website": "https://www.soymontesser.com/",
+    "websiteType": "site"
+  },
   "tenerife-worldschool-hub": {
     "category": "junk"
   },
@@ -50,6 +82,13 @@
   "we-are-worldschoolers-online": {
     "category": "online_communities"
   },
+  "wise-education": {
+    "website": "https://thefutureiswise.com",
+    "websiteType": "site"
+  },
+  "wonder-intercultural-school": {
+    "category": "inactive"
+  },
   "worldly-teens": {
     "category": "junk"
   },
@@ -58,6 +97,10 @@
   },
   "worldschool-collective-directory": {
     "category": "online_communities"
+  },
+  "worldschoolers-in-kuala-lumpur": {
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+    "websiteType": "social"
   },
   "worldschooling-central-online": {
     "category": "online_communities"

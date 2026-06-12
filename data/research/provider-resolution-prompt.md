@@ -28,6 +28,7 @@ link audit. Work from `data/research/link-audit.json`: every record whose `verdi
    - `proposedUrlType`: `"site"` or `"social"` (omit when `proposedUrl` is null)
    - `proposedCategory`: `"junk"` — only when verdict is `dead`/`parked` AND no
      first-party link exists anywhere (the entry is a dead listing)
+   - `proposedCategory`: `"inactive"` — when the hub appears REAL (not a dead listing) but neither current nor any found link works; it stays in the data, hidden from the site, until a link surfaces.
    - `resolutionNote`: one sentence — what you found and the evidence
      (e.g. "official site found via worldschooly outbound link; 2026 cohort dates on page")
 6. Never invent. No evidence = `proposedUrl: null` + a note saying what you tried.

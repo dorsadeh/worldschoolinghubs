@@ -12,17 +12,14 @@
     "price": "Low cost of living",
     "nationality": "UK / Dutch / Israeli",
     "validity": "High",
-    "website": "theworldschoolatlas.com/listing/bansko-town/",
+    "website": "https://www.facebook.com/groups/1458088764967558",
     "facebook": "",
     "source": "web research (Worldschool Atlas)",
     "notes": "Could merge with the seasonal hub as one Bansko record, or keep base_city + event separate.",
     "id": "bansko-town-base-city",
+    "websiteType": "social",
     "summary": "A family-gathering destination in Bansko.",
     "references": [
-      [
-        "Website",
-        "https://theworldschoolatlas.com/listing/bansko-town/"
-      ],
       [
         "Worldschool Atlas directory",
         "https://theworldschoolatlas.com/"
@@ -123,16 +120,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/hakuba-japan...",
+    "website": "https://www.hakuba-is.jp/",
     "facebook": "",
     "source": "web research (Worldschool Atlas)",
     "notes": "Homeschool families join an international school for a term/year. Mountain town.",
     "id": "hakuba-international-term-year",
+    "websiteType": "site",
     "summary": "Homeschool families join an international school for a term/year. Mountain town.",
     "references": [
       [
         "Website",
-        "https://theworldschoolatlas.com/listing/hakuba-japan..."
+        "https://www.hakuba-is.jp/"
       ],
       [
         "Worldschool Atlas directory",
@@ -214,11 +212,12 @@
     "price": "Free",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "facebook": "https://www.facebook.com/WorldschoolersinKualaLumpur",
     "source": "PDF (June-2026 listing)",
     "notes": "Varies",
     "id": "worldschoolers-in-kuala-lumpur",
+    "websiteType": "social",
     "summary": "Year-round Malaysian city repeatedly named the best SE-Asia base for homeschooling community and flexible long stays.",
     "references": [
       [
@@ -280,17 +279,14 @@
     "price": "Free (WhatsApp self-organized)",
     "nationality": "Israeli",
     "validity": "High",
-    "website": "blissinvestor.com/community/world-schoolers-in-pai-thailand/",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "facebook.com/groups/worldschoolersinthailand",
     "source": "web research (Bliss Hubs; Times of Israel)",
     "notes": "Confirmed Israeli families + Israeli 'forest school' moved from Goa to Pai. Free community hub.",
     "id": "bliss-hubs-pai",
+    "websiteType": "social",
     "summary": "Confirmed Israeli families + Israeli 'forest school' moved from Goa to Pai. Free community hub.",
     "references": [
-      [
-        "Website",
-        "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/"
-      ],
       [
         "Facebook / Instagram",
         "https://facebook.com/groups/worldschoolersinthailand"
@@ -298,6 +294,10 @@
       [
         "Bliss Hubs directory",
         "https://blissinvestor.com/"
+      ],
+      [
+        "Bliss Investor — Pai (R19)",
+        "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/"
       ],
       [
         "Bangkok Post — Pai nationalities (R105)",
@@ -321,11 +321,12 @@
     "price": "",
     "nationality": "Intl + Israeli",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/429152322487588/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "chiang-mai",
+    "websiteType": "social",
     "summary": "Decade-old SE-Asia family base with cafes, meetups and an intl/Israeli scene; families leave Feb–Apr for the burning season.",
     "references": [
       [
@@ -354,11 +355,12 @@
     "price": "",
     "nationality": "Swedish/Scandinavian",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "koh-lanta",
+    "websiteType": "social",
     "summary": "The 'Swedish island' of Thailand—two accredited Swedish schools and a Scandinavian family bubble that runs Nov–Apr with the school calendar.",
     "references": [
       [
@@ -560,16 +562,17 @@
     "price": "~$360/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/soy-montesser/",
+    "website": "https://www.soymontesser.com/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term Montessori school, Medellin.",
     "id": "soy-montesser",
+    "websiteType": "site",
     "summary": "Full-term Montessori school, Medellin.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/soy-montesser/"
+        "https://www.soymontesser.com/"
       ],
       [
         "Worldschooly directory",
@@ -626,16 +629,17 @@
     "price": "~$500/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/harmony-learning-center/",
+    "website": "https://harmonyeducation.net/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Permanent learning center, Guanacaste. 5.0 (1 review).",
     "id": "harmony-learning-center",
+    "websiteType": "site",
     "summary": "Permanent learning center, Guanacaste. 5.0 (1 review).",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/harmony-learning-center/"
+        "https://harmonyeducation.net/"
       ],
       [
         "Worldschooly directory",
@@ -659,17 +663,14 @@
     "price": "~$250/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://www.facebook.com/milestoneseducationcr",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term school accepting worldschoolers, Tamarindo.",
     "id": "milestones-school",
+    "websiteType": "social",
     "summary": "Full-term school accepting worldschoolers, Tamarindo.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com"
-      ],
       [
         "Worldschooly directory",
         "https://worldschooly.com/hubs/"
@@ -692,16 +693,17 @@
     "price": "~$150",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/wise-education/",
+    "website": "https://thefutureiswise.com",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term school, Guanacaste.",
     "id": "wise-education",
+    "websiteType": "site",
     "summary": "Full-term school, Guanacaste.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/wise-education/"
+        "https://thefutureiswise.com"
       ],
       [
         "Worldschooly directory",
@@ -1097,7 +1099,7 @@
   {
     "name": "Wonder Intercultural School",
     "host": "Wonder School",
-    "category": "permanent_commercial",
+    "category": "inactive",
     "spanish": false,
     "participation": "family",
     "country": "Indonesia",
@@ -1123,7 +1125,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWonder%20Intercultural%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESchool%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELombok%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWonder%20Intercultural%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESchool%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELombok%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/wonder-intercultural-school.jpg",
     "fit": "cover"
   },

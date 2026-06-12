@@ -31,6 +31,7 @@ const CATEGORY_TIPS: Record<HubCategory, string> = {
   // Hidden categories — never rendered as pills, but the Record must stay exhaustive.
   online_communities: "Online community (not shown on the site)",
   junk: "Parked dead/broken listing (not shown on the site)",
+  inactive: "Real hub with no working link — hidden until a link is found",
 };
 
 const PARTICIPATION_TIPS: Record<"dropoff" | "family", string> = {
