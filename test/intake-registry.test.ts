@@ -8,6 +8,7 @@ describe("normalizeUrl", () => {
     expect(normalizeUrl("")).toBeNull();
     expect(normalizeUrl("  ")).toBeNull();
     expect(normalizeUrl(undefined)).toBeNull();
+    expect(normalizeUrl(null)).toBeNull();
   });
   it("adds https:// to scheme-less urls (the directory's common case)", () => {
     expect(normalizeUrl("worldschooly.com/hub/harmony-learning-center/"))
@@ -27,6 +28,9 @@ describe("domainOf", () => {
   });
   it("returns empty string for garbage", () => {
     expect(domainOf("ht!tp://///")).toBe("");
+  });
+  it("strips trailing dot from FQDN-style hostnames", () => {
+    expect(domainOf("https://example.com./path")).toBe("example.com");
   });
 });
 

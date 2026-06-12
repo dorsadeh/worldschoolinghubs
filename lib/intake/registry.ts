@@ -21,7 +21,7 @@ export function domainOf(url: string): string {
   const n = normalizeUrl(url);
   if (!n) return "";
   try {
-    const hostname = new URL(n).hostname.toLowerCase().replace(/^www\./, "");
+    const hostname = new URL(n).hostname.toLowerCase().replace(/^www\./, "").replace(/\.$/, "");
     // Reject hostnames with characters that are invalid in DNS labels
     if (!/^[a-z0-9]([a-z0-9.-]*[a-z0-9])?$/.test(hostname)) return "";
     return hostname;
