@@ -41,7 +41,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.813Z"
+   "checkedAt": "2026-06-12T12:29:19.813Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Real hub (~800 Israeli families in Limassol) but no dedicated worldschoolers FB group or website found after search; community exists offline."
   },
   {
    "id": "goa-arambol-mandrem",
@@ -53,7 +56,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.813Z"
+   "checkedAt": "2026-06-12T12:29:19.813Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "General Goa beach FB community found (not worldschooler-specific); no dedicated worldschoolers group link found; Worldschooling Hub Goa is a separate permanent commercial entry."
   },
   {
    "id": "hakuba-international-term-year",
@@ -80,7 +86,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.815Z"
+   "checkedAt": "2026-06-12T12:29:19.815Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No KL-specific worldschoolers group found; country-wide Worldschoolers in Malaysia FB group is the primary online community for this organic hub per blissinvestor.com and search."
   },
   {
    "id": "penang",
@@ -92,7 +101,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.815Z"
+   "checkedAt": "2026-06-12T12:29:19.815Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No Penang-specific worldschoolers group found; country-wide Worldschoolers in Malaysia FB group acceptable per policy for organic town hub with no city-specific community."
   },
   {
    "id": "worldschoolers-in-kuala-lumpur",
@@ -119,7 +131,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.815Z"
+   "checkedAt": "2026-06-12T12:29:19.815Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "No dedicated Lisbon or Cascais worldschoolers FB group found; pop-up hub events exist but no persistent first-party community link is reachable."
   },
   {
    "id": "bliss-hubs-pai",
@@ -176,7 +191,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinthailand/",
+   "proposedUrlType": "social",
+   "resolutionNote": "No Koh Phangan-specific worldschoolers group found; Worldschoolers in Thailand (Bliss) FB group (worldschoolersinthailand) covers this island hub per blissinvestor.com and search."
   },
   {
    "id": "pai",
@@ -188,7 +206,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": "https://www.facebook.com/groups/worldschoolersinthailand/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Bliss Hubs Pai uses the Worldschoolers in Thailand (Bliss) FB group as its primary community channel; Blissinvestor.com Pai page confirms this group (blissinvestor.com/community/world-schoolers-in-pai-thailand/)."
   },
   {
    "id": "hoi-an-an-bang",
@@ -200,7 +221,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Organic Hoi An worldschooling community is real (30+ families per worldtravelambitions.com) but no dedicated first-party FB group or website link found after search."
   },
   {
    "id": "worldschoolers-of-hoi-an",
@@ -212,7 +236,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:19.817Z"
+   "checkedAt": "2026-06-12T12:29:19.817Z",
+   "proposedUrl": "https://www.facebook.com/groups/1137478175223942",
+   "proposedUrlType": "social",
+   "resolutionNote": "Official FB group URL sourced directly from the June 2026 PDF listing (facebook.com/groups/1137478175223942); confirmed as community-run schedule for families and teens in Hoi An."
   },
   {
    "id": "holss-school-nam",
@@ -320,7 +347,10 @@
    "finalUrl": "https://worldschooly.com/hub/samana-international-academy/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:21.407Z"
+   "checkedAt": "2026-06-12T12:29:21.407Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Worldschooly outbound link (samanainternationalacademy.org) permanently redirects to life-sites.com (domain squatter); no alternative first-party site or social found via search."
   },
   {
    "id": "punta-la-barca",
@@ -356,7 +386,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:21.730Z"
+   "checkedAt": "2026-06-12T12:29:21.730Z",
+   "proposedUrl": "https://www.facebook.com/AntiguaGreenSchool/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Official Facebook page (AntiguaGreenSchool) found via direct search; confirmed as first accredited Cambridge International School in Antigua, Guatemala with 1,759 Instagram followers."
   },
   {
    "id": "eco-holistic-kids-club",
@@ -368,7 +401,10 @@
    "finalUrl": "https://worldschooly.com/hub/eco-holistic-kids-club/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:22.235Z"
+   "checkedAt": "2026-06-12T12:29:22.235Z",
+   "proposedUrl": "https://www.facebook.com/escueladelaluz/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Official Facebook page @escueladelaluz found via search; confirmed as Eco Holistic Kids Club offering alternative education in Jocotenango/Antigua area, Guatemala."
   },
   {
    "id": "worldschooling-hub-goa",
@@ -404,7 +440,10 @@
    "finalUrl": "https://worldschooly.com/hub/future-human-project/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:22.744Z"
+   "checkedAt": "2026-06-12T12:29:22.744Z",
+   "proposedUrl": "https://futurehumanproject.co/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; skills-based program for youth ages 11-16 in Pejeng, Ubud, Bali — site loads but shows minimal content, no date confirmed."
   },
   {
    "id": "future-human-school-bali",
@@ -416,7 +455,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:22.838Z"
+   "checkedAt": "2026-06-12T12:29:22.838Z",
+   "proposedUrl": "https://www.futurehumanschoolbali.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search; confirms project-based school in Mas/Ubud for ages 9-16 with 2027 term dates published, site active as of June 2026."
   },
   {
    "id": "wonder-intercultural-school",
@@ -443,7 +485,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:23.603Z"
+   "checkedAt": "2026-06-12T12:29:23.603Z",
+   "proposedUrl": "https://woodschoolbali.com/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search; active 2025/26 academic calendar with worldschooling page (woodschoolbali.com/worldschooling) for weekly enrolments; Instagram @woodschoolbali with 15K followers."
   },
   {
    "id": "boundless-tuscany",
@@ -479,7 +524,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:24.153Z"
+   "checkedAt": "2026-06-12T12:29:24.153Z",
+   "proposedUrl": "https://sekolykintana.org/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via web search (sekolykintana.org); trilingual Montessori school in Fort Dauphin, Madagascar opened 2024, site copyright 2025, ~30 students enrolled."
   },
   {
    "id": "tfa-worldschooling-hub",
@@ -491,7 +539,10 @@
    "finalUrl": "https://worldschooly.com/hub/worldschooling-hub-experiential-learning-in-malaysia/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:24.205Z"
+   "checkedAt": "2026-06-12T12:29:24.205Z",
+   "proposedUrl": "https://www.worldschoolinghub.my/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as TFA nomadic worldschooling hub in Raub, Pahang, Malaysia with copyright 2024-2026 and November 2025 content."
   },
   {
    "id": "maldives-worldschool-hub",
@@ -503,7 +554,10 @@
    "finalUrl": "https://worldschooly.com/hub/maldives-worldschool-hub/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:24.367Z"
+   "checkedAt": "2026-06-12T12:29:24.367Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Worldschooly listing has no outbound link; no first-party Maldives Worldschool Hub website or social found after search; listing appears unverified with no reachable presence."
   },
   {
    "id": "anahata-worldschooling-community",
