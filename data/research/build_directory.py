@@ -384,12 +384,18 @@ final.sort(key=lambda e:(list(CATS).index(e["category"]) if e["category"] in CAT
 # ---- enrich: id, summary, references, photo -----------------------------
 _imap_path = os.path.join(ROOT, "images-map.json")
 IMAP = json.load(open(_imap_path)) if os.path.exists(_imap_path) else {}
+_ov_path = os.path.join(ROOT, "overrides.json")
+OVERRIDES = json.load(open(_ov_path)) if os.path.exists(_ov_path) else {}
 used_ids = set()
 for e in final:
     base = re.sub(r"[^a-z0-9]+","-",norm(e["name"])).strip("-")[:42] or "entry"
     eid, j = base, 2
     while eid in used_ids: eid = f"{base}-{j}"; j += 1
     used_ids.add(eid); e["id"] = eid
+    o = OVERRIDES.get(eid)
+    if o:
+        for k in ("website", "facebook", "category", "websiteType"):
+            if k in o: e[k] = o[k]
     e["summary"] = make_summary(e)
     e["references"] = build_refs(e)
     e["thumb"] = svg_thumb(e)              # always-render local cover (data URI)
