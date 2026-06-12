@@ -65,13 +65,20 @@ async function fetchOutcome(url: string): Promise<FetchOutcome> {
 async function main() {
   const limitArg = process.argv.indexOf("--limit");
   const limit = limitArg >= 0 ? Number(process.argv[limitArg + 1]) : Infinity;
+  if (limitArg >= 0 && (Number.isNaN(limit) || limit <= 0)) {
+    console.error("--limit must be a positive integer");
+    process.exit(1);
+  }
 
   const entries = (JSON.parse(readFileSync(SRC, "utf8")) as Entry[]).slice(0, limit);
   const registry = loadAggregatorRegistry();
   const prevById = new Map<string, AuditRecord>();
   if (existsSync(OUT)) {
-    for (const r of (JSON.parse(readFileSync(OUT, "utf8")) as AuditFile).records) {
-      prevById.set(r.id, r);
+    const existing = JSON.parse(readFileSync(OUT, "utf8")) as AuditFile;
+    if (Array.isArray(existing.records)) {
+      for (const r of existing.records) prevById.set(r.id, r);
+    } else {
+      console.warn("warning: existing link-audit.json has no records array — starting fresh");
     }
   }
 
@@ -99,7 +106,8 @@ async function main() {
           latestYear: outcome.bodyText ? latestYearMentioned(outcome.bodyText) : null,
           checkedAt };
       }
-      // Agent-written resolution survives re-fetches:
+      // Agent-written resolution fields describe the HUB, not the URL, so they
+      // survive re-fetches even when the entry's URL has changed since last run.
       if (prev?.proposedUrl !== undefined) rec.proposedUrl = prev.proposedUrl;
       if (prev?.proposedUrlType) rec.proposedUrlType = prev.proposedUrlType;
       if (prev?.proposedCategory) rec.proposedCategory = prev.proposedCategory;
@@ -125,4 +133,4 @@ async function main() {
   console.log("wrote", OUT);
 }
 
-main();
+main().catch((err) => { console.error(err); process.exit(1); });
