@@ -1628,7 +1628,11 @@
    "finalUrl": null,
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:47.851Z"
+   "checkedAt": "2026-06-12T12:29:47.851Z",
+   "proposedUrl": "https://languaventure.com",
+   "proposedUrlType": "site",
+   "proposedCategory": "inactive",
+   "resolutionNote": "languaventure.com exists (Fethiye Turkey English language + adventure camp); specific /services/international-learning-centre page unreachable (500), but organization appears real and site is indexed; no confirmed 2026 dates found."
   },
   {
    "id": "uganda-worldschooling-hub",
@@ -1640,7 +1644,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:48.090Z"
+   "checkedAt": "2026-06-12T12:29:48.090Z",
+   "proposedUrl": null,
+   "resolutionNote": "No Uganda-specific worldschooling hub website or Facebook group found after multiple searches; no first-party link identified."
   },
   {
    "id": "camp-stomping-ground",
@@ -1705,7 +1711,10 @@
    "finalUrl": "https://worldschoolingjourneys.com/our-trips/",
    "verdict": "redirected",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:48.956Z"
+   "checkedAt": "2026-06-12T12:29:48.956Z",
+   "proposedUrl": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+   "proposedUrlType": "site",
+   "resolutionNote": "trips.everyavenue.com/trips#land-trips 301-redirected to worldschoolingjourneys.com; fall Austria retreat (Sep 7-21 2026) found at specific trip page on new domain."
   },
   {
    "id": "worldschooling-austria-winter-mountain-ret",
@@ -1717,7 +1726,10 @@
    "finalUrl": "https://worldschoolingjourneys.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing",
    "verdict": "unreachable",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:50.238Z"
+   "checkedAt": "2026-06-12T12:29:50.238Z",
+   "proposedUrl": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Original trips.everyavenue.com URL 404d; trip now listed as Dec 4-18 2026 Austrian Skiing & Christmas Markets Retreat on worldschoolingjourneys.com (301 redirect destination)."
   },
   {
    "id": "arctic-terns",
@@ -1753,7 +1765,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:50.749Z"
+   "checkedAt": "2026-06-12T12:29:50.749Z",
+   "proposedUrl": null,
+   "resolutionNote": "No first-party provider website or social found for a worldschooling Learn to Sail Greece/Balkans program; worldschoolingjourneys.com lists a Greece sailing trip for 2027 only."
   },
   {
    "id": "wander-wonder-the-traveling-adventure-scho",
@@ -1765,7 +1779,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:50.749Z"
+   "checkedAt": "2026-06-12T12:29:50.749Z",
+   "proposedUrl": "https://www.facebook.com/groups/3761508630761429/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Facebook group \"Wander&Wonder: the traveling adventure school\" found via search; group confirmed as the official community for this traveling European worldschool program."
   },
   {
    "id": "deliberate-detour-guatemala",
@@ -1789,7 +1806,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:50.753Z"
+   "checkedAt": "2026-06-12T12:29:50.753Z",
+   "proposedUrl": null,
+   "resolutionNote": "No website, Facebook, or Instagram found for \"Wanderlust Schoolers\" Japan traveling program; only unrelated similarly named accounts found after search."
   },
   {
    "id": "outside-the-box-adventures",
@@ -1861,7 +1880,10 @@
    "finalUrl": "https://worldschoolingjourneys.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2",
    "verdict": "unreachable",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:54.212Z"
+   "checkedAt": "2026-06-12T12:29:54.212Z",
+   "proposedUrl": null,
+   "proposedCategory": "inactive",
+   "resolutionNote": "Past one-off event on trips.everyavenue.com (now 301 → worldschoolingjourneys.com); 2027 dude ranch edition listed there but the specific 2026 Veebar event page is gone — not junk, may recur."
   },
   {
    "id": "travelling-village",
@@ -1909,7 +1931,10 @@
    "finalUrl": "https://www.facebook.com/thetogetherexplorers/",
    "verdict": "unreachable",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:58.412Z"
+   "checkedAt": "2026-06-12T12:29:58.412Z",
+   "proposedUrl": "https://www.facebook.com/thetogetherexplorers/",
+   "proposedUrlType": "social",
+   "resolutionNote": "Official FB page for Together Explorers (6 worldschooling families + teacher traveling Italy/Morocco/Egypt/Israel/Greece); URL confirmed via search, original page returned 400 bot-block."
   },
   {
    "id": "project-world-school",
@@ -1945,7 +1970,10 @@
    "finalUrl": "https://worldschoolingjourneys.com/",
    "verdict": "redirected",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:58.923Z"
+   "checkedAt": "2026-06-12T12:29:58.923Z",
+   "proposedUrl": "https://worldschoolingjourneys.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "trips.everyavenue.com 301-redirects permanently to worldschoolingjourneys.com; site is active with 2026 cruise and land-trip listings."
   },
   {
    "id": "sucre",
@@ -1969,7 +1997,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:59.758Z"
+   "checkedAt": "2026-06-12T12:29:59.758Z",
+   "proposedUrl": null,
+   "resolutionNote": "Organic town (Ecuador); no dedicated worldschoolers Facebook group or hub website found; general expat homeschooling FB page exists but no worldschooling-specific community identified."
   },
   {
    "id": "antigua",
@@ -2017,7 +2047,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:30:01.995Z"
+   "checkedAt": "2026-06-12T12:30:01.995Z",
+   "proposedUrl": "https://www.worldschoolantigua.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "worldschoolantigua.com found via search as the official hub site for Worldschool Antigua Guatemala, with local and traveling hub offerings."
   },
   {
    "id": "oaxaca-spanish-schools",
@@ -2041,7 +2074,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:30:02.797Z"
+   "checkedAt": "2026-06-12T12:30:02.797Z",
+   "proposedUrl": null,
+   "resolutionNote": "Organic town (Mexico); no dedicated worldschoolers hub website or Facebook group found specific to San Cristóbal de las Casas after multiple searches."
   },
   {
    "id": "granada-family-spanish",
@@ -2113,7 +2148,10 @@
    "finalUrl": "https://worldschooly.com/hub/siem-reap-bliss-hub-cambodia/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:30:03.400Z"
+   "checkedAt": "2026-06-12T12:30:03.400Z",
+   "proposedUrl": "https://blissinvestor.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "blissinvestor.com is the official Bliss Hubs platform; Siem Reap hub is historical (not currently listed), current hub is Koh Lanta Dec 2026–May 2027; site is active."
   },
   {
    "id": "shanti-shanti",
@@ -2125,7 +2163,10 @@
    "finalUrl": "https://worldschooly.com/hub/shanti-shanti-kampot",
    "verdict": "aggregator-link",
    "latestYear": 2024,
-   "checkedAt": "2026-06-12T12:30:03.596Z"
+   "checkedAt": "2026-06-12T12:30:03.596Z",
+   "proposedUrl": "https://shantivillage.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "shantivillage.com is the official Shanti Shanti OM Kampot site; confirmed active with 2025 content and 2026 copyright, seasonal worldschooling hub Nov–Apr by Melissa and Maddy."
   },
   {
    "id": "my-worldschool-hub",
@@ -2257,7 +2298,10 @@
    "finalUrl": "https://panyaforest.com/",
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:30:08.311Z"
+   "checkedAt": "2026-06-12T12:30:08.311Z",
+   "proposedUrl": "https://panyaforest.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "panyaforest.com is the official site for Panya Forest (Northern Thailand permaculture community); site returned 500 at check time but organization confirmed active via 2024 refugee-program coverage."
   },
   {
    "id": "remote-family-database-directory",
