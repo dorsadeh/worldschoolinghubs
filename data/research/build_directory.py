@@ -385,13 +385,19 @@ final.sort(key=lambda e:(list(CATS).index(e["category"]) if e["category"] in CAT
 _imap_path = os.path.join(ROOT, "images-map.json")
 IMAP = json.load(open(_imap_path)) if os.path.exists(_imap_path) else {}
 _ov_path = os.path.join(ROOT, "overrides.json")
-OVERRIDES = json.load(open(_ov_path)) if os.path.exists(_ov_path) else {}
+OVERRIDES = {}
+if os.path.exists(_ov_path):
+    with open(_ov_path, encoding="utf-8") as _f:
+        OVERRIDES = json.load(_f)
 used_ids = set()
 for e in final:
     base = re.sub(r"[^a-z0-9]+","-",norm(e["name"])).strip("-")[:42] or "entry"
     eid, j = base, 2
     while eid in used_ids: eid = f"{base}-{j}"; j += 1
     used_ids.add(eid); e["id"] = eid
+    # id-keyed overrides from audit:apply; applied after the name-keyed OV heuristics so these win.
+    # NOTE: eid derives from the deduped sorted name — a future duplicate slug gains a -2 suffix
+    # and an override keyed to the old bare id silently no-ops. Re-check after adding entries.
     o = OVERRIDES.get(eid)
     if o:
         for k in ("website", "facebook", "category", "websiteType"):
