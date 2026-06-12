@@ -46,7 +46,12 @@ async function fetchOutcome(url: string): Promise<FetchOutcome> {
     const res = await fetch(url, {
       redirect: "follow",
       signal: ctl.signal,
-      headers: { "user-agent": "Mozilla/5.0 (compatible; worldschooling-directory-audit)" },
+      headers: {
+        // Some hub/aggregator sites 403 bot-identifying UAs; a browser UA gets the real page.
+        "user-agent":
+          "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        accept: "text/html,application/xhtml+xml",
+      },
     });
     const text = (await res.text()).slice(0, 50_000);
     return { url, status: res.status, finalUrl: res.url, bodyText: text };
