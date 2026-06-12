@@ -4,7 +4,7 @@
  *
  * Usage: npm run audit:report
  */
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const RESEARCH = join(process.cwd(), "data", "research");
@@ -23,7 +23,7 @@ interface AuditFile {
 }
 
 const cell = (s: string | number | null | undefined) =>
-  String(s ?? "—").replace(/\|/g, "\\|");
+  String(s ?? "—").replace(/[\r\n]+/g, " ").replace(/\|/g, "\\|");
 
 function table(rows: AuditRecord[], withProposed: boolean): string {
   const head = withProposed
@@ -37,8 +37,12 @@ function table(rows: AuditRecord[], withProposed: boolean): string {
 }
 
 function main() {
+  if (!existsSync(AUDIT)) {
+    console.error(`${AUDIT} not found — run \`npm run audit:links\` first.`);
+    process.exit(1);
+  }
   const audit = JSON.parse(readFileSync(AUDIT, "utf8")) as AuditFile;
-  const date = new Date().toISOString().slice(0, 10);
+  const date = audit.generatedAt.slice(0, 10);
   const OUT = join(process.cwd(), "docs", `link-audit-${date}.md`);
   const currentYear = new Date().getFullYear();
 
@@ -56,7 +60,7 @@ function main() {
     ["Unreachable (first failure — re-run audit in ≥7 days to confirm)", by("unreachable"), false, ""],
     ["Redirected cross-domain — confirm the new home", by("redirected"), true, ""],
     ["No URL at all — targets for provider resolution / FB ritual", by("no-url"), true, ""],
-    ["Possibly defunct — page's newest mentioned year is stale", defunct, false, ""],
+    ["Possibly defunct — page's newest mentioned year is stale", defunct, false, "Information only — verdict is still ok. Spot-check whether the hub is actually active; truly abandoned sites will surface as dead in a future re-run."],
   ];
 
   let md = `# Link audit — ${date}\n\nGenerated ${audit.generatedAt} from \`data/research/link-audit.json\`.\n\n`;
