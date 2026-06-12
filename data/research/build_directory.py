@@ -379,6 +379,35 @@ final = list(seen.values())
 for e in final:
     for k in list(e.keys()):
         if e[k] is None: e[k] = ""
+
+# 0af7902 split Boundless Life into per-location hubs directly in the JSON artifact;
+# reproduce that split here so rebuilds keep the 8 granular ids (enrichment/geocoding key on them).
+BOUNDLESS_LOCATIONS = [
+    ("boundless-sintra",     "Boundless Sintra",   "Portugal",   "Sintra"),
+    ("boundless-syros",      "Boundless Syros",    "Greece",     "Syros (Ermoupoli)"),
+    ("boundless-tuscany",    "Boundless Tuscany",  "Italy",      "Pelago, Tuscany"),
+    ("boundless-estepona",   "Boundless Estepona", "Spain",      "Estepona"),
+    ("boundless-kotor",      "Boundless Kotor",    "Montenegro", "Kotor"),
+    ("boundless-sanur-bali", "Boundless Sanur",    "Indonesia",  "Sanur, Bali"),
+    ("boundless-la-barra",   "Boundless La Barra", "Uruguay",    "La Barra, Maldonado"),
+    ("boundless-kamakura",   "Boundless Kamakura", "Japan",      "Kamakura"),
+]
+_expanded = []
+for e in final:
+    if norm(e["name"]) == "boundless life":
+        for (_id, _name, _country, _region) in BOUNDLESS_LOCATIONS:
+            clone = dict(e)
+            clone["id"] = _id
+            clone["name"] = _name
+            clone["country"] = _country
+            clone["region"] = _region
+            clone["notes"] = f"Boundless Life location in {_region}. " + e["notes"]
+            clone.pop("dups", None)  # clones are fresh splits, not dedup merges
+            _expanded.append(clone)
+    else:
+        _expanded.append(e)
+final = _expanded
+
 final.sort(key=lambda e:(list(CATS).index(e["category"]) if e["category"] in CATS else 9, (e.get("country") or ""), (e.get("name") or "")))
 
 # ---- enrich: id, summary, references, photo -----------------------------
@@ -391,7 +420,11 @@ if os.path.exists(_ov_path):
         OVERRIDES = json.load(_f)
 used_ids = set()
 for e in final:
-    base = re.sub(r"[^a-z0-9]+","-",norm(e["name"])).strip("-")[:42] or "entry"
+    # Honor a pre-set id (e.g. from the Boundless split) as the slug base.
+    if e.get("id"):
+        base = e["id"]
+    else:
+        base = re.sub(r"[^a-z0-9]+","-",norm(e["name"])).strip("-")[:42] or "entry"
     eid, j = base, 2
     while eid in used_ids: eid = f"{base}-{j}"; j += 1
     used_ids.add(eid); e["id"] = eid
@@ -400,7 +433,7 @@ for e in final:
     # and an override keyed to the old bare id silently no-ops. Re-check after adding entries.
     o = OVERRIDES.get(eid)
     if o:
-        for k in ("website", "facebook", "category", "websiteType"):
+        for k in ("website", "facebook", "category", "categories", "websiteType"):
             if k in o: e[k] = o[k]
     e["summary"] = make_summary(e)
     e["references"] = build_refs(e)
@@ -409,7 +442,7 @@ for e in final:
     e["fit"] = img_fit(e["photo"])         # 'contain' for logos, 'cover' for photos
 
 # ---- outputs: JSON + CSV -------------------------------------------------
-json.dump(final, open(os.path.join(ROOT,"directory-consolidated-2026-06-09.json"),"w"), indent=1, ensure_ascii=False)
+json.dump(final, open(os.path.join(ROOT,"directory-consolidated-2026-06-09.json"),"w"), indent=2, ensure_ascii=False)
 cols = ["name","category","spanish","participation","country","region","season","summary","ages","price","nationality","validity","website","facebook","source","host"]
 with open(os.path.join(ROOT,"directory-consolidated-2026-06-09.csv"),"w",newline="") as fh:
     w = csv.DictWriter(fh, fieldnames=cols+["references"], extrasaction="ignore"); w.writeheader()

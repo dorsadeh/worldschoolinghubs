@@ -812,6 +812,55 @@
     "fit": "cover"
   },
   {
+    "name": "Boundless Syros",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Greece",
+    "region": "Syros (Ermoupoli)",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Syros (Ermoupoli). Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-syros",
+    "summary": "Boundless Life location in Syros (Ermoupoli). Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Syros%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESyros%20%28Ermoupoli%29%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Antigua Green School",
     "host": "",
     "category": "permanent_commercial",
@@ -933,6 +982,55 @@
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Hub%20Goa%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGoa%20%28Arambol%20area%29%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschooling-hub-goa.jpg",
     "fit": "contain"
+  },
+  {
+    "name": "Boundless Sanur",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Indonesia",
+    "region": "Sanur, Bali",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Sanur, Bali. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-sanur-bali",
+    "summary": "Boundless Life location in Sanur, Bali. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Sanur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESanur%2C%20Bali%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Future Human Project",
@@ -1060,6 +1158,104 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWood%20School%20Bali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/wood-school-bali.jpg",
+    "fit": "cover"
+  },
+  {
+    "name": "Boundless Tuscany",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Italy",
+    "region": "Pelago, Tuscany",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Pelago, Tuscany. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-tuscany",
+    "summary": "Boundless Life location in Pelago, Tuscany. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Tuscany%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPelago%2C%20Tuscany%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "Boundless Kamakura",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Japan",
+    "region": "Kamakura",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Kamakura. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-kamakura",
+    "summary": "Boundless Life location in Kamakura. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Kamakura%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKamakura%3C/text%3E%3C/svg%3E",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1265,6 +1461,55 @@
     "fit": "cover"
   },
   {
+    "name": "Boundless Kotor",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Montenegro",
+    "region": "Kotor",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Kotor. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-kotor",
+    "summary": "Boundless Life location in Kotor. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Kotor%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKotor%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Madrasa Dunya Worldschool Morocco",
     "host": "Jenna Maria Pedersen",
     "category": "permanent_commercial",
@@ -1372,6 +1617,55 @@
     "fit": "cover"
   },
   {
+    "name": "Boundless Sintra",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Portugal",
+    "region": "Sintra",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Sintra. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-sintra",
+    "summary": "Boundless Life location in Sintra. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Sintra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Nature Lore",
     "host": "Nature Lore",
     "category": "permanent_commercial",
@@ -1473,6 +1767,55 @@
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EArtsVille%20Valenciana%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETibi%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/artsville-valenciana.jpg",
     "fit": "contain"
+  },
+  {
+    "name": "Boundless Estepona",
+    "host": "Boundless Life",
+    "category": "permanent_commercial",
+    "spanish": false,
+    "participation": "",
+    "country": "Spain",
+    "region": "Estepona",
+    "season": "Year-round; join 1-12 months",
+    "ages": "1-14",
+    "price": "€5,830-9,130/month",
+    "nationality": "",
+    "validity": "web candidate (High)",
+    "website": "boundless.life",
+    "facebook": "",
+    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
+    "notes": "Boundless Life location in Estepona. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
+    "id": "boundless-estepona",
+    "summary": "Boundless Life location in Estepona. Biggest paid network.",
+    "references": [
+      [
+        "Website",
+        "https://boundless.life"
+      ],
+      [
+        "WorldlyTribe directory",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      [
+        "Worldschool Atlas directory",
+        "https://theworldschoolatlas.com/"
+      ],
+      [
+        "WorldschoolHubs blog directory",
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      [
+        "Boundless Life — destinations",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      [
+        "Heath&Alyssa — Boundless ranked",
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Estepona%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEstepona%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Lumina Academy",
@@ -1776,300 +2119,6 @@
     "fit": "cover"
   },
   {
-    "name": "Boundless Sintra",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Portugal",
-    "region": "Sintra",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Sintra. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-sintra",
-    "summary": "Boundless Life campus in Sintra — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Syros",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Greece",
-    "region": "Syros (Ermoupoli)",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Syros (Ermoupoli). Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-syros",
-    "summary": "Boundless Life campus in Syros (Ermoupoli) — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Tuscany",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Italy",
-    "region": "Pelago, Tuscany",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Pelago, Tuscany. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-tuscany",
-    "summary": "Boundless Life campus in Pelago — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Estepona",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Spain",
-    "region": "Estepona",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Estepona. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-estepona",
-    "summary": "Boundless Life campus in Estepona — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Kotor",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Montenegro",
-    "region": "Kotor",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Kotor. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-kotor",
-    "summary": "Boundless Life campus in Kotor — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Sanur",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Indonesia",
-    "region": "Sanur, Bali",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Sanur, Bali. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-sanur-bali",
-    "summary": "Boundless Life campus in Sanur — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
     "name": "Boundless La Barra",
     "host": "Boundless Life",
     "category": "permanent_commercial",
@@ -2087,7 +2136,7 @@
     "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
     "notes": "Boundless Life location in La Barra, Maldonado. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
     "id": "boundless-la-barra",
-    "summary": "Boundless Life campus in La Barra — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
+    "summary": "Boundless Life location in La Barra, Maldonado. Biggest paid network.",
     "references": [
       [
         "Website",
@@ -2114,57 +2163,8 @@
         "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
-    "fit": "cover"
-  },
-  {
-    "name": "Boundless Kamakura",
-    "host": "Boundless Life",
-    "category": "permanent_commercial",
-    "spanish": false,
-    "participation": "",
-    "country": "Japan",
-    "region": "Kamakura",
-    "season": "Year-round; join 1-12 months",
-    "ages": "1-14",
-    "price": "€5,830-9,130/month",
-    "nationality": "",
-    "validity": "web candidate (High)",
-    "website": "boundless.life",
-    "facebook": "",
-    "source": "web research (WorldlyTribe; WorldschoolHubs blog; Worldschool Atlas) + web research",
-    "notes": "Boundless Life location in Kamakura. Biggest paid network. Finnish/Montessori education centre + co-working + accommodation. Appears in 3 directories.",
-    "id": "boundless-kamakura",
-    "summary": "Boundless Life campus in Kamakura — Finnish/Montessori education centre + co-working + accommodation, part of the Boundless network.",
-    "references": [
-      [
-        "Website",
-        "https://boundless.life"
-      ],
-      [
-        "WorldlyTribe directory",
-        "https://worldlytribe.com/worldschooling-hubs-directory/"
-      ],
-      [
-        "Worldschool Atlas directory",
-        "https://theworldschoolatlas.com/"
-      ],
-      [
-        "WorldschoolHubs blog directory",
-        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
-      ],
-      [
-        "Boundless Life — destinations",
-        "https://www.boundless.life/topic/destinations"
-      ],
-      [
-        "Heath&Alyssa — Boundless ranked",
-        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
-      ]
-    ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESintra%20PT%20/%20Syros%20GR%20/%20Tuscany%20IT%20/%20Estepona%20ES%20/%20Kotor%20ME%20/%20Sanur%20Bali%20ID%20/%20La%20Barra%20UY%20/%20Kamakura%20JP%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/boundless-life.jpg",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20La%20Barra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Barra%2C%20Maldonado%3C/text%3E%3C/svg%3E",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -4258,6 +4258,10 @@
     "source": "web research (Worldschooly)",
     "notes": "Series of ~1wk city pop-ups (~$140) on Worldschooly. Likely same brand/cities as World School Pop-Up Hub - treat as one.",
     "id": "worldschooly-pop-ups-generic-city-series",
+    "categories": [
+      "popup",
+      "permanent_commercial"
+    ],
     "summary": "A drop-off pop-up gathering in Mexico City, Buenos Aires, Naples, Osaka, Luang Prabang, Varna, San Miguel, Mendocino, Oaxaca....",
     "references": [
       [
@@ -4271,11 +4275,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooly%20Pop-Ups%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28generic%20city%20series%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMexico%20City%2C%20Buenos%20Aires%2C%20Naples%2C%20Osaka%2C%20Luang%20Prabang%2C%20Varna%2C%20San%20Miguel%2C%20Mendocino%2C%20Oaxaca...%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschooly-pop-ups-generic-city-series.jpg",
-    "fit": "cover",
-    "categories": [
-      "popup",
-      "permanent_commercial"
-    ]
+    "fit": "cover"
   },
   {
     "name": "World School Pop-Up Hub",
@@ -5371,7 +5371,7 @@
     "source": "PDF (June-2026 listing)",
     "notes": "",
     "id": "jewish-worldschoolers",
-    "summary": "A whole-family online community.",
+    "summary": "A whole-family worldschooling hub.",
     "references": [
       [
         "Facebook / Instagram",
@@ -5382,7 +5382,7 @@
         ""
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EJewish%20Worldschoolers%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EJewish%20Worldschoolers%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/jewish-worldschoolers.jpg",
     "fit": "contain"
   },
@@ -5419,7 +5419,7 @@
         ""
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EThe%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EThe%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/the-hub.jpg",
     "fit": "cover"
   },
@@ -5441,14 +5441,14 @@
     "source": "PDF (June-2026 listing)",
     "notes": "Connection",
     "id": "worldly-teens",
-    "summary": "A drop-off online community.",
+    "summary": "A drop-off worldschooling hub.",
     "references": [
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
         ""
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldly%20Teens%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldly%20Teens%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
     "photo": "",
     "fit": "cover"
   },
@@ -5481,7 +5481,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool.au%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAustralia%20%26amp%3B%20Bali%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool.au%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAustralia%20%26amp%3B%20Bali%3C/text%3E%3C/svg%3E",
     "photo": "",
     "fit": "cover"
   },
@@ -5514,7 +5514,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Siem%20Reap%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Siem%20Reap%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-siem-reap.jpg",
     "fit": "cover"
   },
@@ -5551,7 +5551,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EShanti%20Shanti%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKampot%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EShanti%20Shanti%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKampot%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/shanti-shanti.jpg",
     "fit": "contain"
   },
@@ -5584,7 +5584,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMy%20Worldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBrighton%20%26amp%3B%20Margate%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMy%20Worldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBrighton%20%26amp%3B%20Margate%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/my-worldschool-hub.jpg",
     "fit": "contain"
   },
@@ -5617,7 +5617,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Bali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Bali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-bali.jpg",
     "fit": "cover"
   },
@@ -5654,7 +5654,7 @@
         "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Kuala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ELumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Kuala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ELumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-kuala-lumpur.jpg",
     "fit": "cover"
   },
@@ -5687,7 +5687,7 @@
         "https://blog.worldschoolhubs.com/worldschooling-hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAlgarve%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%20%28Naturally%20Richer%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAlgarve%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAlgarve%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%20%28Naturally%20Richer%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAlgarve%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/algarve-worldschooling-hub-naturally-riche.jpg",
     "fit": "cover"
   },
@@ -5720,7 +5720,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPorto%20Grana%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschoolers%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPorto%20Grana%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPorto%20Grana%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschoolers%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPorto%20Grana%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/porto-grana-worldschoolers-hub.jpg",
     "fit": "cover"
   },
@@ -5753,7 +5753,7 @@
         "https://theworldschoolatlas.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EFuerteventura%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EFuerteventura%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EFuerteventura%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EFuerteventura%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/fuerteventura-worldschool-hub.jpg",
     "fit": "contain"
   },
@@ -5786,7 +5786,7 @@
         "https://theworldschoolatlas.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGran%20Canaria%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGran%20Canaria%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGran%20Canaria%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGran%20Canaria%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/gran-canaria-worldschool-hub.jpg",
     "fit": "contain"
   },
@@ -5819,7 +5819,7 @@
         "https://theworldschoolatlas.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ETenerife%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETenerife%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ETenerife%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETenerife%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/tenerife-worldschool-hub.jpg",
     "fit": "contain"
   },
@@ -5864,7 +5864,7 @@
         "https://parentingandpassports.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Koh%20Lanta%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Lanta%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Koh%20Lanta%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Lanta%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-koh-lanta.jpg",
     "fit": "cover"
   },
@@ -5886,7 +5886,7 @@
     "source": "web research (WorldlyTribe)",
     "notes": "Different from Krabi Family Fun (separate organizer) - verify.",
     "id": "bliss-hubs-krabi",
-    "summary": "A whole-family online community in Krabi (Andaman coast).",
+    "summary": "A whole-family family-gathering destination in Krabi (Andaman coast).",
     "references": [
       [
         "Website",
@@ -5897,7 +5897,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Krabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%20%28Andaman%20coast%29%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Krabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%20%28Andaman%20coast%29%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-krabi.jpg",
     "fit": "cover"
   },
@@ -5930,7 +5930,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPanya%20Forest%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMae%20Taeng%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPanya%20Forest%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMae%20Taeng%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/panya-forest.jpg",
     "fit": "contain"
   },
@@ -5963,7 +5963,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ERemote%20Family%20Database%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28directory%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ERemote%20Family%20Database%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28directory%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/remote-family-database-directory.jpg",
     "fit": "cover"
   },
@@ -5996,7 +5996,7 @@
         "https://blog.worldschoolhubs.com/worldschooling-hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWe%20Are%20Worldschoolers%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28online%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWe%20Are%20Worldschoolers%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28online%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/we-are-worldschoolers-online.jpg",
     "fit": "cover"
   },
@@ -6029,7 +6029,7 @@
         "https://blog.worldschoolhubs.com/worldschooling-hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldSchool%20Collective%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28directory%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldSchool%20Collective%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28directory%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschool-collective-directory.jpg",
     "fit": "cover"
   },
@@ -6058,7 +6058,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23757575%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23464646%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%92%AC%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Central%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28online%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Central%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28online%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschooling-central-online.jpg",
     "fit": "cover"
   }

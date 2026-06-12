@@ -1,1 +1,71 @@
-{}
+{
+  "worldschooly-pop-ups-generic-city-series": {
+    "categories": [
+      "popup",
+      "permanent_commercial"
+    ]
+  },
+  "jewish-worldschoolers": {
+    "category": "online_communities"
+  },
+  "the-hub": {
+    "category": "junk"
+  },
+  "worldly-teens": {
+    "category": "junk"
+  },
+  "worldschool-au": {
+    "category": "junk"
+  },
+  "bliss-hubs-siem-reap": {
+    "category": "organic"
+  },
+  "shanti-shanti": {
+    "category": "permanent_community"
+  },
+  "my-worldschool-hub": {
+    "category": "online_communities"
+  },
+  "bliss-hubs-bali": {
+    "category": "organic"
+  },
+  "bliss-hubs-kuala-lumpur": {
+    "category": "organic"
+  },
+  "algarve-worldschooling-hub-naturally-riche": {
+    "category": "organic"
+  },
+  "porto-grana-worldschoolers-hub": {
+    "category": "junk"
+  },
+  "fuerteventura-worldschool-hub": {
+    "category": "junk"
+  },
+  "gran-canaria-worldschool-hub": {
+    "category": "junk"
+  },
+  "tenerife-worldschool-hub": {
+    "category": "junk"
+  },
+  "bliss-hubs-koh-lanta": {
+    "category": "organic"
+  },
+  "bliss-hubs-krabi": {
+    "category": "organic"
+  },
+  "panya-forest": {
+    "category": "permanent_community"
+  },
+  "remote-family-database-directory": {
+    "category": "junk"
+  },
+  "we-are-worldschoolers-online": {
+    "category": "online_communities"
+  },
+  "worldschool-collective-directory": {
+    "category": "online_communities"
+  },
+  "worldschooling-central-online": {
+    "category": "online_communities"
+  }
+}
