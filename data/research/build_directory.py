@@ -393,8 +393,10 @@ BOUNDLESS_LOCATIONS = [
     ("boundless-kamakura",   "Boundless Kamakura", "Japan",      "Kamakura"),
 ]
 _expanded = []
+_boundless_split_fired = False
 for e in final:
     if norm(e["name"]) == "boundless life":
+        _boundless_split_fired = True
         for (_id, _name, _country, _region) in BOUNDLESS_LOCATIONS:
             clone = dict(e)
             clone["id"] = _id
@@ -406,6 +408,9 @@ for e in final:
             _expanded.append(clone)
     else:
         _expanded.append(e)
+if not _boundless_split_fired:
+    raise SystemExit("ERROR: 'Boundless Life' source row missing — Boundless split did not fire; "
+                     "enrichment/geocoding ids (boundless-*) would be lost. Check the CSV/EXTRA inputs.")
 final = _expanded
 
 final.sort(key=lambda e:(list(CATS).index(e["category"]) if e["category"] in CATS else 9, (e.get("country") or ""), (e.get("name") or "")))
