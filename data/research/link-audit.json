@@ -266,7 +266,7 @@
    "checkedAt": "2026-06-12T12:29:19.819Z",
    "proposedUrl": "https://www.soymontesser.com/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia \u2014 newest content dated 2023, possibly not updated recently."
+   "resolutionNote": "Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia — newest content dated 2023, possibly not updated recently."
   },
   {
    "id": "guanacaste-children-s-community-center",
@@ -323,13 +323,13 @@
    "checkedAt": "2026-06-12T12:29:20.285Z",
    "proposedUrl": "https://thefutureiswise.com",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica \u2014 site loads but shows 2024 content and has spam injection, possibly compromised."
+   "resolutionNote": "Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica — site loads but shows 2024 content and has spam injection, possibly compromised."
   },
   {
    "id": "leo-worldschool",
-   "name": "\u00celeO Worldschool",
+   "name": "ÎleO Worldschool",
    "category": "permanent_commercial",
-   "country": "Cura\u00e7ao",
+   "country": "Curaçao",
    "url": "https://ileo.life",
    "status": 200,
    "finalUrl": "https://ileo.life/",
@@ -443,7 +443,7 @@
    "checkedAt": "2026-06-12T12:29:22.744Z",
    "proposedUrl": "https://futurehumanproject.co/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via worldschooly.com outbound link; skills-based program for youth ages 11-16 in Pejeng, Ubud, Bali \u2014 site loads but shows minimal content, no date confirmed."
+   "resolutionNote": "Official site found via worldschooly.com outbound link; skills-based program for youth ages 11-16 in Pejeng, Ubud, Bali — site loads but shows minimal content, no date confirmed."
   },
   {
    "id": "future-human-school-bali",
@@ -644,7 +644,7 @@
    "checkedAt": "2026-06-12T12:29:25.676Z",
    "proposedUrl": "https://www.earthschool.nz/worldschooling/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via worldschooly.com outbound link; earthschool.nz/worldschooling page active and describes 1\u20134 month family programme at Mangaroa Farms, Upper Hutt."
+   "resolutionNote": "Official site found via worldschooly.com outbound link; earthschool.nz/worldschooling page active and describes 1–4 month family programme at Mangaroa Farms, Upper Hutt."
   },
   {
    "id": "boundless-sintra",
@@ -773,7 +773,7 @@
    "checkedAt": "2026-06-12T12:29:28.583Z",
    "proposedUrl": "https://www.amanilight.com/worldschool",
    "proposedUrlType": "site",
-   "resolutionNote": "First-party site found via search; amanilight.com/worldschool is the official Amani Light Wellness worldschool hub page in Moshi, Tanzania with September\u2013October 2026 sessions listed."
+   "resolutionNote": "First-party site found via search; amanilight.com/worldschool is the official Amani Light Wellness worldschool hub page in Moshi, Tanzania with September–October 2026 sessions listed."
   },
   {
    "id": "elate",
@@ -920,7 +920,7 @@
    "checkedAt": "2026-06-12T12:29:30.623Z",
    "proposedUrl": "https://www.noma-collective.com/",
    "proposedUrlType": "site",
-   "resolutionNote": "Site found active at noma-collective.com with 2026 trip dates; Noma Family edition in Roat\u00e1n Honduras (Jul\u2013Aug 2026) confirmed, previously fully sold-out indicating real operation."
+   "resolutionNote": "Site found active at noma-collective.com with 2026 trip dates; Noma Family edition in Roatán Honduras (Jul–Aug 2026) confirmed, previously fully sold-out indicating real operation."
   },
   {
    "id": "selong-bay-worldschooling-hub",
@@ -1097,7 +1097,7 @@
    "checkedAt": "2026-06-12T12:29:32.233Z",
    "proposedUrl": "https://www.mama-adama.pt/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via web search; mama-adama.pt confirmed active in Alentejo (Gr\u00e2ndola), Portugal with September 2026 retreat dates and alpaca farm/sanctuary community."
+   "resolutionNote": "Official site found via web search; mama-adama.pt confirmed active in Alentejo (Grândola), Portugal with September 2026 retreat dates and alpaca farm/sanctuary community."
   },
   {
    "id": "spirala-eco-village",
@@ -1112,7 +1112,7 @@
    "checkedAt": "2026-06-12T12:29:32.233Z",
    "proposedUrl": "https://spiralaecovillage.com/",
    "proposedUrlType": "site",
-   "resolutionNote": "Official site found via web search; spiralaecovillage.com confirmed as Spirala EcoVillage in Proen\u00e7a-a-Velha, Castelo Branco district Portugal; site returns 403 but domain confirmed active with FB page."
+   "resolutionNote": "Official site found via web search; spiralaecovillage.com confirmed as Spirala EcoVillage in Proença-a-Velha, Castelo Branco district Portugal; site returns 403 but domain confirmed active with FB page."
   },
   {
    "id": "las-semillitas",
@@ -1163,7 +1163,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:32.307Z"
+   "checkedAt": "2026-06-12T12:29:32.307Z",
+   "proposedUrl": "https://www.facebook.com/folkortationthailand",
+   "proposedUrlType": "social",
+   "resolutionNote": "FB page facebook.com/folkortationthailand from directory references; no independent web presence found; freshness unverifiable via web fetch (page truncated)."
   },
   {
    "id": "narnia-arkee",
@@ -1175,7 +1178,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:32.307Z"
+   "checkedAt": "2026-06-12T12:29:32.307Z",
+   "proposedUrl": null,
+   "resolutionNote": "No Narnia school found on Koh Phangan; Arki-Kid (likely \"Arkee\") found but site is under construction and school was raided by Thai police May 2026; no resolvable first-party link."
   },
   {
    "id": "worldschool-pop-up-hub",
@@ -1199,7 +1204,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:32.812Z"
+   "checkedAt": "2026-06-12T12:29:32.812Z",
+   "proposedUrl": "https://www.wildlingsforestschool.com/forest-kindy",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly listing outbound links to Wildlings Forest School; Forest Kindy page confirms Brisbane/Queensland operation, currently active."
   },
   {
    "id": "treehouse-summit",
@@ -1211,7 +1219,10 @@
    "finalUrl": "https://worldschooly.com/hub/treehouse-summit/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:34.538Z"
+   "checkedAt": "2026-06-12T12:29:34.538Z",
+   "proposedUrl": "https://treehousebansko.com/summit2026/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly outbound link leads to treehousebansko.com/summit2026/; page is live but founders announced the summit is on hold as of 2026."
   },
   {
    "id": "worldschooling-bansko",
@@ -1223,7 +1234,10 @@
    "finalUrl": null,
    "verdict": "aggregator-link",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:35.233Z"
+   "checkedAt": "2026-06-12T12:29:35.233Z",
+   "proposedUrl": "https://www.facebook.com/groups/1458088764967558",
+   "proposedUrlType": "social",
+   "resolutionNote": "FB group \"Home/World Schooling Families Bansko\" from directory references; organic town hub, no dedicated first-party website found."
   },
   {
    "id": "cacao-coast-classroom",
@@ -1259,7 +1273,10 @@
    "finalUrl": null,
    "verdict": "aggregator-link",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:36.173Z"
+   "checkedAt": "2026-06-12T12:29:36.173Z",
+   "proposedUrl": "https://www.greencoco.org",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly outbound links to greencococharters.com which redirects to greencoco.org; site shows active 2026 expedition sailing Caribbean to Panama Canal."
   },
   {
    "id": "the-hive",
@@ -1283,7 +1300,10 @@
    "finalUrl": "https://egyptianadventures.world/",
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:36.955Z"
+   "checkedAt": "2026-06-12T12:29:36.955Z",
+   "proposedUrl": "https://wshluxor.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "egyptianadventures.world returns 500 but wshluxor.com is the same provider active domain; Facebook and Instagram also confirmed; hub opened Oct 2024."
   },
   {
    "id": "world-school-pop-up-el-salvador",
@@ -1343,7 +1363,10 @@
    "finalUrl": "https://www.worldwiselearningadventures.org/",
    "verdict": "redirected",
    "latestYear": 2008,
-   "checkedAt": "2026-06-12T12:29:39.121Z"
+   "checkedAt": "2026-06-12T12:29:39.121Z",
+   "proposedUrl": "https://www.worldwiselearningadventures.org",
+   "proposedUrlType": "site",
+   "resolutionNote": "Original .com redirects to worldwiselearningadventures.org; first-party site confirmed active with 2026 program dates (July-October)."
   },
   {
    "id": "ecovillage-georgia",
@@ -1355,7 +1378,10 @@
    "finalUrl": "https://worldschooly.com/hub/summer-camp-at-ecovillage-georgia/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:39.285Z"
+   "checkedAt": "2026-06-12T12:29:39.285Z",
+   "proposedUrl": "https://ecovillagegeorgia.ge/summercamp/",
+   "proposedUrlType": "site",
+   "resolutionNote": "Official ecovillagegeorgia.ge summer camp page found via web search; 2026 camp sessions (July 6-10 and 13-17) confirmed on first-party page."
   },
   {
    "id": "culture-chalk",
@@ -1367,7 +1393,10 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:39.288Z"
+   "checkedAt": "2026-06-12T12:29:39.288Z",
+   "proposedUrl": "https://www.culturechalk.org",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly listing outbound link leads to culturechalk.org; first-party site confirmed for Lake Atitlan Guatemala cultural immersion program."
   },
   {
    "id": "green-school-bali",
@@ -1391,7 +1420,10 @@
    "finalUrl": "https://worldschooly.com/hub/pelangi-school-creative-camp/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:42.555Z"
+   "checkedAt": "2026-06-12T12:29:42.555Z",
+   "proposedUrl": "https://www.pelangischoolbali.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly outbound link leads to pelangischoolbali.com; site is first-party with copyright 2008-2026, active."
   },
   {
    "id": "brightsteps-calabria",
@@ -1415,7 +1447,10 @@
    "finalUrl": null,
    "verdict": "unreachable",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:42.710Z"
+   "checkedAt": "2026-06-12T12:29:42.710Z",
+   "proposedUrl": "https://www.facebook.com/groups/1031842408551295",
+   "proposedUrlType": "social",
+   "resolutionNote": "bettertogetherhubs.com refused connection; Facebook group \"Worldschoolers Hubs - Better Together\" confirmed active with Osaka/Spain/Vietnam hubs run by Daniela Romero."
   },
   {
    "id": "arcticterns-playa-del-carmen",
@@ -1427,7 +1462,9 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:44.234Z"
+   "checkedAt": "2026-06-12T12:29:44.234Z",
+   "proposedUrl": null,
+   "resolutionNote": "No first-party website or social media found for ArcticTerns Playa del Carmen; searched web and social with no results beyond Worldschooly listing."
   },
   {
    "id": "sas-academy",
@@ -1451,7 +1488,10 @@
    "finalUrl": "https://worldschooly.com/hub/wildroots-worldschool/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:45.208Z"
+   "checkedAt": "2026-06-12T12:29:45.208Z",
+   "proposedUrl": "https://www.wildrootsworldschool.com",
+   "proposedUrlType": "site",
+   "resolutionNote": "Worldschooly outbound link leads to wildrootsworldschool.com; confirmed first-party site for Playa del Carmen camp, active Facebook page also found."
   },
   {
    "id": "tika-ranch",
@@ -1559,7 +1599,10 @@
    "finalUrl": "https://worldschooly.com/hub/worldschooling-tanzania/",
    "verdict": "aggregator-link",
    "latestYear": 2025,
-   "checkedAt": "2026-06-12T12:29:47.795Z"
+   "checkedAt": "2026-06-12T12:29:47.795Z",
+   "proposedUrl": "https://www.amanilight.com/worldschool",
+   "proposedUrlType": "site",
+   "resolutionNote": "amanilight.com/worldschool confirmed first-party; Sept-Oct 2026 program dates listed; likely same provider as batch-2 worldschooling-tanzania (possible duplicate — verify)."
   },
   {
    "id": "krabi-family-fun",
@@ -1571,7 +1614,9 @@
    "finalUrl": null,
    "verdict": "no-url",
    "latestYear": null,
-   "checkedAt": "2026-06-12T12:29:47.851Z"
+   "checkedAt": "2026-06-12T12:29:47.851Z",
+   "proposedUrl": null,
+   "resolutionNote": "No website or social media found for Krabi Family Fun despite searching; only reference is a manual-sources listing with no URL."
   },
   {
    "id": "languaventure-international-learning-centr",
@@ -1619,7 +1664,10 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:48.426Z"
+   "checkedAt": "2026-06-12T12:29:48.426Z",
+   "proposedUrl": "https://www.twineagles.org",
+   "proposedUrlType": "site",
+   "resolutionNote": "twineagles.org found via web search; official Twin Eagles Wilderness School site in Sandpoint Idaho with Summer Camps 2026 listed."
   },
   {
    "id": "worldschooly-pop-ups-generic-city-series",
@@ -1631,7 +1679,9 @@
    "finalUrl": "https://worldschooly.com/",
    "verdict": "aggregator-link",
    "latestYear": 2026,
-   "checkedAt": "2026-06-12T12:29:48.833Z"
+   "checkedAt": "2026-06-12T12:29:48.833Z",
+   "proposedUrl": null,
+   "resolutionNote": "Worldschooly pop-up city series lives only on worldschooly.com (the aggregator itself); no separate first-party events page found — may warrant special handling as an aggregator program arm."
   },
   {
    "id": "world-school-pop-up-hub",
@@ -1707,7 +1757,7 @@
   },
   {
    "id": "wander-wonder-the-traveling-adventure-scho",
-   "name": "Wander & Wonder \u2014 The Traveling Adventure School",
+   "name": "Wander & Wonder — The Traveling Adventure School",
    "category": "traveling",
    "country": "Greece",
    "url": null,
@@ -1947,7 +1997,7 @@
   },
   {
    "id": "lake-atitl-n-san-pedro",
-   "name": "Lake Atitl\u00e1n (San Pedro)",
+   "name": "Lake Atitlán (San Pedro)",
    "category": "spanish_immersion",
    "country": "Guatemala",
    "url": "https://sanpedrospanishschool.com/",
@@ -1983,7 +2033,7 @@
   },
   {
    "id": "san-crist-bal-de-las-casas",
-   "name": "San Crist\u00f3bal de las Casas",
+   "name": "San Cristóbal de las Casas",
    "category": "spanish_immersion",
    "country": "Mexico",
    "url": null,
