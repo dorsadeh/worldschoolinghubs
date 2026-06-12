@@ -53,6 +53,27 @@ describe("classifyLink", () => {
       REG, prev, "2026-06-12T00:00:00Z",
     )).toBe("unreachable");
   });
+  it("previously dead stays dead on further failures", () => {
+    const prev = { verdict: "dead" as const, checkedAt: "2026-06-12T00:00:00Z" };
+    expect(classifyLink(
+      { url: "https://x.com", status: null, finalUrl: null, bodyText: "" },
+      REG, prev, "2026-06-12T00:00:00Z",
+    )).toBe("dead");
+  });
+  it("malformed prev.checkedAt never promotes to dead", () => {
+    const prev = { verdict: "unreachable" as const, checkedAt: "not-a-date" };
+    expect(classifyLink(
+      { url: "https://x.com", status: null, finalUrl: null, bodyText: "" },
+      REG, prev, "2026-06-12T00:00:00Z",
+    )).toBe("unreachable");
+  });
+  it("blank url → no-url", () => {
+    expect(classifyLink({ url: "  ", status: null, finalUrl: null, bodyText: "" }, REG)).toBe("no-url");
+  });
+  it("'buy this domain name' content is not parked", () => {
+    expect(classifyLink(ok("https://hub.com", "https://hub.com", "We buy this domain name courses"), REG))
+      .toBe("ok-provider");
+  });
 });
 
 describe("latestYearMentioned", () => {

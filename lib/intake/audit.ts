@@ -5,7 +5,7 @@ export type LinkVerdict =
   | "parked" | "unreachable" | "dead" | "no-url";
 
 const SOCIAL_DOMAINS = new Set([
-  "facebook.com", "m.facebook.com", "fb.com", "fb.me",
+  "facebook.com", "fb.com", "fb.me",
   "instagram.com", "chat.whatsapp.com", "whatsapp.com", "t.me", "linktr.ee",
 ]);
 
@@ -25,7 +25,7 @@ export interface FetchOutcome {
 export interface PrevCheck { verdict: LinkVerdict; checkedAt: string }
 
 const PARKED_RE =
-  /(domain (is|may be) for sale|buy this domain|domain parking|parked free|this domain has expired)/i;
+  /(domain (is|may be) for sale|buy this domain(?!\s+name)|domain parking|parked free|this domain has expired)/i;
 
 const DAY_MS = 86_400_000;
 
@@ -35,12 +35,16 @@ export function classifyLink(
   prev?: PrevCheck,
   nowIso: string = new Date().toISOString(),
 ): LinkVerdict {
+  if (!outcome.url.trim()) return "no-url";
   const failed = outcome.status === null || outcome.status >= 400;
   if (failed) {
-    if (prev && (prev.verdict === "dead" ||
-        (prev.verdict === "unreachable" &&
-         Date.parse(nowIso) - Date.parse(prev.checkedAt) >= 7 * DAY_MS))) {
-      return "dead";
+    if (prev?.verdict === "dead") return "dead"; // once dead, stays dead on further failures
+    if (prev?.verdict === "unreachable") {
+      const prevMs = Date.parse(prev.checkedAt);
+      const nowMs = Date.parse(nowIso);
+      if (!Number.isNaN(prevMs) && !Number.isNaN(nowMs) && nowMs - prevMs >= 7 * DAY_MS) {
+        return "dead";
+      }
     }
     return "unreachable";
   }
