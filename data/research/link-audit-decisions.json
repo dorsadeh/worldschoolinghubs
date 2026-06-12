@@ -5,6 +5,12 @@
   "hakuba-international-term-year": {
     "decision": "approve"
   },
+  "kuala-lumpur": {
+    "decision": "approve"
+  },
+  "penang": {
+    "decision": "approve"
+  },
   "worldschoolers-in-kuala-lumpur": {
     "decision": "approve"
   },
@@ -15,6 +21,18 @@
     "decision": "approve"
   },
   "koh-lanta": {
+    "decision": "approve"
+  },
+  "koh-phangan": {
+    "decision": "approve"
+  },
+  "pai": {
+    "decision": "approve"
+  },
+  "hoi-an-an-bang": {
+    "decision": "approve"
+  },
+  "worldschoolers-of-hoi-an": {
     "decision": "approve"
   },
   "soy-montesser": {
@@ -29,7 +47,167 @@
   "wise-education": {
     "decision": "approve"
   },
+  "samana-international-academy": {
+    "decision": "approve"
+  },
+  "antigua-green-school": {
+    "decision": "approve"
+  },
+  "eco-holistic-kids-club": {
+    "decision": "approve"
+  },
+  "future-human-project": {
+    "decision": "approve"
+  },
+  "future-human-school-bali": {
+    "decision": "approve"
+  },
   "wonder-intercultural-school": {
-    "decision": "reject"
+    "decision": "approve"
+  },
+  "wood-school-bali": {
+    "decision": "approve"
+  },
+  "sekoly-kintana-madagascar": {
+    "decision": "approve"
+  },
+  "tfa-worldschooling-hub": {
+    "decision": "approve"
+  },
+  "maldives-worldschool-hub": {
+    "decision": "approve"
+  },
+  "earth-school-aotearoa": {
+    "decision": "approve"
+  },
+  "silvermist-academy": {
+    "decision": "approve"
+  },
+  "shepherd-s-rest": {
+    "decision": "approve"
+  },
+  "worldschooling-tanzania": {
+    "decision": "approve"
+  },
+  "naturemind-ed-worldschooling": {
+    "decision": "approve"
+  },
+  "freedom-montessori-academy": {
+    "decision": "approve"
+  },
+  "the-world-school": {
+    "decision": "approve"
+  },
+  "kiriwi-forest-school": {
+    "decision": "approve"
+  },
+  "noma-collective-family-hub": {
+    "decision": "approve"
+  },
+  "the-creative-world": {
+    "decision": "approve"
+  },
+  "we-are-tribe": {
+    "decision": "approve"
+  },
+  "wild-hearts-collective": {
+    "decision": "approve"
+  },
+  "progetto-baita": {
+    "decision": "approve"
+  },
+  "sentira": {
+    "decision": "approve"
+  },
+  "sacred-roots-hub": {
+    "decision": "approve"
+  },
+  "mama-adama": {
+    "decision": "approve"
+  },
+  "spirala-eco-village": {
+    "decision": "approve"
+  },
+  "las-semillitas": {
+    "decision": "approve"
+  },
+  "folkortation": {
+    "decision": "approve"
+  },
+  "narnia-arkee": {
+    "decision": "approve"
+  },
+  "forest-kindy-brisbane": {
+    "decision": "approve"
+  },
+  "treehouse-summit": {
+    "decision": "approve"
+  },
+  "worldschooling-bansko": {
+    "decision": "approve"
+  },
+  "green-coco-sailing-adventures": {
+    "decision": "approve"
+  },
+  "egyptian-adventures": {
+    "decision": "approve"
+  },
+  "worldwise-learning": {
+    "decision": "approve"
+  },
+  "ecovillage-georgia": {
+    "decision": "approve"
+  },
+  "culture-chalk": {
+    "decision": "approve"
+  },
+  "pelangi-school-creative-camp": {
+    "decision": "approve"
+  },
+  "better-together-hubs": {
+    "decision": "approve"
+  },
+  "wildroots-worldschool": {
+    "decision": "approve"
+  },
+  "amani-light-worldschool-hub-tanzania": {
+    "decision": "approve"
+  },
+  "languaventure-international-learning-centr": {
+    "decision": "approve",
+    "category": ""
+  },
+  "twin-eagles-wilderness-adventure-camps": {
+    "decision": "approve"
+  },
+  "worldschooling-austria-mountain-retreat": {
+    "decision": "approve"
+  },
+  "worldschooling-austria-winter-mountain-ret": {
+    "decision": "approve"
+  },
+  "wander-wonder-the-traveling-adventure-scho": {
+    "decision": "approve"
+  },
+  "worldschooling-dude-ranch-experience": {
+    "decision": "approve"
+  },
+  "together-explorers": {
+    "decision": "approve"
+  },
+  "worldschooling-journeys-every-avenue": {
+    "decision": "approve"
+  },
+  "worldschool-antigua-guatemala": {
+    "decision": "approve"
+  },
+  "bliss-hubs-siem-reap": {
+    "decision": "approve"
+  },
+  "shanti-shanti": {
+    "decision": "approve"
+  },
+  "panya-forest": {
+    "decision": "approve"
   }
 }

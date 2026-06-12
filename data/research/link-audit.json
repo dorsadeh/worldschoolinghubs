@@ -43,8 +43,7 @@
    "latestYear": null,
    "checkedAt": "2026-06-12T12:29:19.813Z",
    "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "Real hub (~800 Israeli families in Limassol) but no dedicated worldschoolers FB group or website found after search; community exists offline."
+   "resolutionNote": "Organic town hub; no Cyprus-specific worldschoolers group found (only generic expat/DN groups) — stays visible with no link."
   },
   {
    "id": "goa-arambol-mandrem",
@@ -58,8 +57,7 @@
    "latestYear": null,
    "checkedAt": "2026-06-12T12:29:19.813Z",
    "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "General Goa beach FB community found (not worldschooler-specific); no dedicated worldschoolers group link found; Worldschooling Hub Goa is a separate permanent commercial entry."
+   "resolutionNote": "Organic town hub (North Goa); no Arambol-specific group found (Worldschooling Hub Goa is a separate South-Goa provider) — stays visible."
   },
   {
    "id": "hakuba-international-term-year",
@@ -133,8 +131,7 @@
    "latestYear": null,
    "checkedAt": "2026-06-12T12:29:19.815Z",
    "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "No dedicated Lisbon or Cascais worldschoolers FB group found; pop-up hub events exist but no persistent first-party community link is reachable."
+   "resolutionNote": "Organic town hub; no town-wide group found. portugalpopup.com (Portugal Pop Up Worldschool Hub, Cascais-area weekly meetups) noted as a NEW hub candidate for Stage 2."
   },
   {
    "id": "bliss-hubs-pai",
@@ -222,9 +219,9 @@
    "verdict": "no-url",
    "latestYear": null,
    "checkedAt": "2026-06-12T12:29:19.817Z",
-   "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "Organic Hoi An worldschooling community is real (30+ families per worldtravelambitions.com) but no dedicated first-party FB group or website link found after search."
+   "proposedUrl": "https://www.facebook.com/groups/1137478175223942",
+   "resolutionNote": "Shares the Worldschoolers of Hoi An FB group (same community, ~30+ families 2025); possible merge with worldschoolers-of-hoi-an later.",
+   "proposedUrlType": "social"
   },
   {
    "id": "worldschoolers-of-hoi-an",
@@ -348,9 +345,9 @@
    "verdict": "aggregator-link",
    "latestYear": 2026,
    "checkedAt": "2026-06-12T12:29:21.407Z",
-   "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "Worldschooly outbound link (samanainternationalacademy.org) permanently redirects to life-sites.com (domain squatter); no alternative first-party site or social found via search."
+   "proposedUrl": "https://www.samanainternationalacademy.com/",
+   "resolutionNote": "Official site (user-found, search-confirmed): private school est. 2023 in Juana Vincenta, Samana; welcomes worldschooling families.",
+   "proposedUrlType": "site"
   },
   {
    "id": "punta-la-barca",
@@ -555,9 +552,9 @@
    "verdict": "aggregator-link",
    "latestYear": 2025,
    "checkedAt": "2026-06-12T12:29:24.367Z",
-   "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "Worldschooly listing has no outbound link; no first-party Maldives Worldschool Hub website or social found after search; listing appears unverified with no reachable presence."
+   "proposedUrl": "https://www.facebook.com/groups/186758410890213/",
+   "resolutionNote": "Official \"Maldives Worldschool Hub\" FB group found via web search (first result).",
+   "proposedUrlType": "social"
   },
   {
    "id": "anahata-worldschooling-community",
@@ -1180,7 +1177,8 @@
    "latestYear": null,
    "checkedAt": "2026-06-12T12:29:32.307Z",
    "proposedUrl": null,
-   "resolutionNote": "No Narnia school found on Koh Phangan; Arki-Kid (likely \"Arkee\") found but site is under construction and school was raided by Thai police May 2026; no resolvable first-party link."
+   "resolutionNote": "Operator (Arki-Kid) raided by Thai police May 2026 (89 Israeli children, no license); site under construction — hidden until status clarifies.",
+   "proposedCategory": "inactive"
   },
   {
    "id": "worldschool-pop-up-hub",
@@ -1881,9 +1879,9 @@
    "verdict": "unreachable",
    "latestYear": 2025,
    "checkedAt": "2026-06-12T12:29:54.212Z",
-   "proposedUrl": null,
-   "proposedCategory": "inactive",
-   "resolutionNote": "Past one-off event on trips.everyavenue.com (now 301 → worldschoolingjourneys.com); 2027 dude ranch edition listed there but the specific 2026 Veebar event page is gone — not junk, may recur."
+   "proposedUrl": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
+   "resolutionNote": "Recurring trip alive on new WJ domain: 2026 edition Sep 6-12 bookable, 2027 edition listed on our-trips.",
+   "proposedUrlType": "site"
   },
   {
    "id": "travelling-village",

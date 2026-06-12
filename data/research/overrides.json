@@ -2,8 +2,20 @@
   "algarve-worldschooling-hub-naturally-riche": {
     "category": "organic"
   },
+  "amani-light-worldschool-hub-tanzania": {
+    "website": "https://www.amanilight.com/worldschool",
+    "websiteType": "site"
+  },
+  "antigua-green-school": {
+    "website": "https://www.facebook.com/AntiguaGreenSchool/",
+    "websiteType": "social"
+  },
   "bansko-town-base-city": {
     "website": "https://www.facebook.com/groups/1458088764967558",
+    "websiteType": "social"
+  },
+  "better-together-hubs": {
+    "website": "https://www.facebook.com/groups/1031842408551295",
     "websiteType": "social"
   },
   "bliss-hubs-bali": {
@@ -23,17 +35,63 @@
     "websiteType": "social"
   },
   "bliss-hubs-siem-reap": {
-    "category": "organic"
+    "category": "organic",
+    "website": "https://blissinvestor.com",
+    "websiteType": "site"
   },
   "chiang-mai": {
     "website": "https://www.facebook.com/groups/429152322487588/",
     "websiteType": "social"
   },
+  "culture-chalk": {
+    "website": "https://www.culturechalk.org",
+    "websiteType": "site"
+  },
+  "earth-school-aotearoa": {
+    "website": "https://www.earthschool.nz/worldschooling/",
+    "websiteType": "site"
+  },
+  "eco-holistic-kids-club": {
+    "website": "https://www.facebook.com/escueladelaluz/",
+    "websiteType": "social"
+  },
+  "ecovillage-georgia": {
+    "website": "https://ecovillagegeorgia.ge/summercamp/",
+    "websiteType": "site"
+  },
+  "egyptian-adventures": {
+    "website": "https://wshluxor.com",
+    "websiteType": "site"
+  },
+  "folkortation": {
+    "website": "https://www.facebook.com/folkortationthailand",
+    "websiteType": "social"
+  },
+  "forest-kindy-brisbane": {
+    "website": "https://www.wildlingsforestschool.com/forest-kindy",
+    "websiteType": "site"
+  },
+  "freedom-montessori-academy": {
+    "website": "https://freedommontessoriacademy.com/",
+    "websiteType": "site"
+  },
   "fuerteventura-worldschool-hub": {
     "category": "junk"
   },
+  "future-human-project": {
+    "website": "https://futurehumanproject.co/",
+    "websiteType": "site"
+  },
+  "future-human-school-bali": {
+    "website": "https://www.futurehumanschoolbali.com/",
+    "websiteType": "site"
+  },
   "gran-canaria-worldschool-hub": {
     "category": "junk"
+  },
+  "green-coco-sailing-adventures": {
+    "website": "https://www.greencoco.org",
+    "websiteType": "site"
   },
   "hakuba-international-term-year": {
     "website": "https://www.hakuba-is.jp/",
@@ -43,12 +101,42 @@
     "website": "https://harmonyeducation.net/",
     "websiteType": "site"
   },
+  "hoi-an-an-bang": {
+    "website": "https://www.facebook.com/groups/1137478175223942",
+    "websiteType": "social"
+  },
   "jewish-worldschoolers": {
     "category": "online_communities"
+  },
+  "kiriwi-forest-school": {
+    "category": "inactive"
   },
   "koh-lanta": {
     "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "websiteType": "social"
+  },
+  "koh-phangan": {
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
+    "websiteType": "social"
+  },
+  "kuala-lumpur": {
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+    "websiteType": "social"
+  },
+  "languaventure-international-learning-centr": {
+    "website": "https://languaventure.com",
+    "websiteType": "site"
+  },
+  "las-semillitas": {
+    "category": "inactive"
+  },
+  "maldives-worldschool-hub": {
+    "website": "https://www.facebook.com/groups/186758410890213/",
+    "websiteType": "social"
+  },
+  "mama-adama": {
+    "website": "https://www.mama-adama.pt/",
+    "websiteType": "site"
   },
   "milestones-school": {
     "website": "https://www.facebook.com/milestoneseducationcr",
@@ -57,40 +145,147 @@
   "my-worldschool-hub": {
     "category": "online_communities"
   },
+  "narnia-arkee": {
+    "category": "inactive"
+  },
+  "naturemind-ed-worldschooling": {
+    "website": "https://naturemind-ed.com/experiences/worldschooling/",
+    "websiteType": "site"
+  },
+  "noma-collective-family-hub": {
+    "website": "https://www.noma-collective.com/",
+    "websiteType": "site"
+  },
+  "pai": {
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
+    "websiteType": "social"
+  },
   "panya-forest": {
-    "category": "permanent_community"
+    "category": "permanent_community",
+    "website": "https://panyaforest.com",
+    "websiteType": "site"
+  },
+  "pelangi-school-creative-camp": {
+    "website": "https://www.pelangischoolbali.com",
+    "websiteType": "site"
+  },
+  "penang": {
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
+    "websiteType": "social"
   },
   "porto-grana-worldschoolers-hub": {
     "category": "junk"
   },
+  "progetto-baita": {
+    "website": "https://www.facebook.com/groups/progettobaita/",
+    "websiteType": "social"
+  },
   "remote-family-database-directory": {
     "category": "junk"
   },
+  "sacred-roots-hub": {
+    "website": "https://sacredrootshub.base44.app/",
+    "websiteType": "site"
+  },
+  "samana-international-academy": {
+    "website": "https://www.samanainternationalacademy.com/",
+    "websiteType": "site"
+  },
+  "sekoly-kintana-madagascar": {
+    "website": "https://sekolykintana.org/",
+    "websiteType": "site"
+  },
+  "sentira": {
+    "category": "inactive"
+  },
   "shanti-shanti": {
-    "category": "permanent_community"
+    "category": "permanent_community",
+    "website": "https://shantivillage.com",
+    "websiteType": "site"
+  },
+  "shepherd-s-rest": {
+    "website": "https://shepherdsrest.org/",
+    "websiteType": "site"
+  },
+  "silvermist-academy": {
+    "website": "https://silvermistacademy.co.za/",
+    "websiteType": "site"
   },
   "soy-montesser": {
     "website": "https://www.soymontesser.com/",
     "websiteType": "site"
   },
+  "spirala-eco-village": {
+    "website": "https://spiralaecovillage.com/",
+    "websiteType": "site"
+  },
   "tenerife-worldschool-hub": {
     "category": "junk"
+  },
+  "tfa-worldschooling-hub": {
+    "website": "https://www.worldschoolinghub.my/",
+    "websiteType": "site"
+  },
+  "the-creative-world": {
+    "website": "https://www.educationthatinspires.com/thecreativeworld/",
+    "websiteType": "site"
   },
   "the-hub": {
     "category": "junk"
   },
+  "the-world-school": {
+    "website": "https://www.theworld.school/",
+    "websiteType": "site"
+  },
+  "together-explorers": {
+    "website": "https://www.facebook.com/thetogetherexplorers/",
+    "websiteType": "social"
+  },
+  "treehouse-summit": {
+    "website": "https://treehousebansko.com/summit2026/",
+    "websiteType": "site"
+  },
+  "twin-eagles-wilderness-adventure-camps": {
+    "website": "https://www.twineagles.org",
+    "websiteType": "site"
+  },
+  "wander-wonder-the-traveling-adventure-scho": {
+    "website": "https://www.facebook.com/groups/3761508630761429/",
+    "websiteType": "social"
+  },
+  "we-are-tribe": {
+    "category": "inactive"
+  },
   "we-are-worldschoolers-online": {
     "category": "online_communities"
+  },
+  "wild-hearts-collective": {
+    "website": "https://www.instagram.com/worldschoolingbali/",
+    "websiteType": "social"
+  },
+  "wildroots-worldschool": {
+    "website": "https://www.wildrootsworldschool.com",
+    "websiteType": "site"
   },
   "wise-education": {
     "website": "https://thefutureiswise.com",
     "websiteType": "site"
   },
   "wonder-intercultural-school": {
-    "category": "inactive"
+    "category": "inactive",
+    "website": "https://wonderschool.cc/",
+    "websiteType": "site"
+  },
+  "wood-school-bali": {
+    "website": "https://woodschoolbali.com/",
+    "websiteType": "site"
   },
   "worldly-teens": {
     "category": "junk"
+  },
+  "worldschool-antigua-guatemala": {
+    "website": "https://www.worldschoolantigua.com",
+    "websiteType": "site"
   },
   "worldschool-au": {
     "category": "junk"
@@ -102,13 +297,45 @@
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "websiteType": "social"
   },
+  "worldschoolers-of-hoi-an": {
+    "website": "https://www.facebook.com/groups/1137478175223942",
+    "websiteType": "social"
+  },
+  "worldschooling-austria-mountain-retreat": {
+    "website": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+    "websiteType": "site"
+  },
+  "worldschooling-austria-winter-mountain-ret": {
+    "website": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+    "websiteType": "site"
+  },
+  "worldschooling-bansko": {
+    "website": "https://www.facebook.com/groups/1458088764967558",
+    "websiteType": "social"
+  },
   "worldschooling-central-online": {
     "category": "online_communities"
+  },
+  "worldschooling-dude-ranch-experience": {
+    "website": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
+    "websiteType": "site"
+  },
+  "worldschooling-journeys-every-avenue": {
+    "website": "https://worldschoolingjourneys.com",
+    "websiteType": "site"
+  },
+  "worldschooling-tanzania": {
+    "website": "https://www.amanilight.com/worldschool",
+    "websiteType": "site"
   },
   "worldschooly-pop-ups-generic-city-series": {
     "categories": [
       "popup",
       "permanent_commercial"
     ]
+  },
+  "worldwise-learning": {
+    "website": "https://www.worldwiselearningadventures.org",
+    "websiteType": "site"
   }
 }

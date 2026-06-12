@@ -154,11 +154,12 @@
     "price": "",
     "nationality": "Mixed intl",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "kuala-lumpur",
+    "websiteType": "social",
     "summary": "Year-round Malaysian city repeatedly named the best SE-Asia base for homeschooling community and flexible long stays.",
     "references": [
       [
@@ -183,11 +184,12 @@
     "price": "",
     "nationality": "German + British",
     "validity": "Med",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "penang",
+    "websiteType": "social",
     "summary": "Stable Malaysian 'school base' for SE-Asia slow travel, with deep German and British expat societies.",
     "references": [
       [
@@ -389,11 +391,12 @@
     "price": "",
     "nationality": "Israeli (+Russian/French)",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "koh-phangan",
+    "websiteType": "social",
     "summary": "Tropical island with a dense (~2,500–4,000) Israeli family community and Hebrew forest/alt-schools; under legal scrutiny after 2026 school raids.",
     "references": [
       [
@@ -422,11 +425,12 @@
     "price": "",
     "nationality": "Israeli (visible) / UK by headcount",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "pai",
+    "websiteType": "social",
     "summary": "Cool-season mountain town in N. Thailand where worldschooling families—heavily Israeli—cluster Nov–Feb, emptying out when burning-season haze arrives.",
     "references": [
       [
@@ -455,11 +459,12 @@
     "price": "",
     "nationality": "Anglophone intl + Israeli",
     "validity": "High",
-    "website": "",
+    "website": "https://www.facebook.com/groups/1137478175223942",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "hoi-an-an-bang",
+    "websiteType": "social",
     "summary": "Charming, walkable, affordable central-Vietnam base with a 30+ family worldschool community; comfortable Jan–May, avoid Oct–Nov floods.",
     "references": [
       [
@@ -488,11 +493,12 @@
     "price": "Free",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.facebook.com/groups/1137478175223942",
     "facebook": "https://m.facebook.com/groups/1137478175223942",
     "source": "PDF (June-2026 listing)",
     "notes": "Daily excursions; community-run schedule of events for families and teens",
     "id": "worldschoolers-of-hoi-an",
+    "websiteType": "social",
     "summary": "Daily excursions; community-run schedule of events for families and teens",
     "references": [
       [
@@ -760,16 +766,17 @@
     "price": "~$2,375/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/samana-international-academy/",
+    "website": "https://www.samanainternationalacademy.com/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term international school accepting worldschoolers.",
     "id": "samana-international-academy",
+    "websiteType": "site",
     "summary": "Full-term international school accepting worldschoolers.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/samana-international-academy/"
+        "https://www.samanainternationalacademy.com/"
       ],
       [
         "Worldschooly directory",
@@ -875,17 +882,14 @@
     "price": "~$325/mo",
     "nationality": "Anglo-Western",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://www.facebook.com/AntiguaGreenSchool/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term green school. 3rd Antigua hub alongside your existing two.",
     "id": "antigua-green-school",
+    "websiteType": "social",
     "summary": "Full-term green school. 3rd Antigua hub alongside your existing two.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com"
-      ],
       [
         "Worldschooly directory",
         "https://worldschooly.com/hubs/"
@@ -916,17 +920,14 @@
     "price": "~$185/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/eco-holistic-kids-club/",
+    "website": "https://www.facebook.com/escueladelaluz/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Holistic kids club near Antigua.",
     "id": "eco-holistic-kids-club",
+    "websiteType": "social",
     "summary": "Holistic kids club near Antigua.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com/hub/eco-holistic-kids-club/"
-      ],
       [
         "Worldschooly directory",
         "https://worldschooly.com/hubs/"
@@ -1047,16 +1048,17 @@
     "price": "~$2,200",
     "nationality": "",
     "validity": "DUP→Future Human School Bali",
-    "website": "worldschooly.com/hub/future-human-project/",
+    "website": "https://futurehumanproject.co/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Likely same program (Ubud, ~$2,200, project-based). Probable duplicate - verify.",
     "id": "future-human-project",
+    "websiteType": "site",
     "summary": "A drop-off commercial worldschool hub in Ubud, Bali.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/future-human-project/"
+        "https://futurehumanproject.co/"
       ],
       [
         "Worldschooly directory",
@@ -1080,13 +1082,18 @@
     "price": "$2,200 – $3,000",
     "nationality": "",
     "validity": "DUP→Future Human School Bali",
-    "website": "",
+    "website": "https://www.futurehumanschoolbali.com/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Project-based learning",
     "id": "future-human-school-bali",
+    "websiteType": "site",
     "summary": "A drop-off commercial worldschool hub in Ubud.",
     "references": [
+      [
+        "Website",
+        "https://www.futurehumanschoolbali.com/"
+      ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
         ""
@@ -1109,16 +1116,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "wonderschool.cc",
+    "website": "https://wonderschool.cc/",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "Bilingual nature-based intercultural school for travelling families.",
     "id": "wonder-intercultural-school",
+    "websiteType": "site",
     "summary": "Bilingual nature-based intercultural school for travelling families.",
     "references": [
       [
         "Website",
-        "https://wonderschool.cc"
+        "https://wonderschool.cc/"
       ],
       [
         "WorldlyTribe directory",
@@ -1142,16 +1150,17 @@
     "price": "~$660/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://woodschoolbali.com/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Permanent school, Bali.",
     "id": "wood-school-bali",
+    "websiteType": "site",
     "summary": "A drop-off commercial worldschool hub in Bali.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com"
+        "https://woodschoolbali.com/"
       ],
       [
         "Worldschooly directory",
@@ -1273,16 +1282,17 @@
     "price": "~$2,275",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://sekolykintana.org/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term school, Madagascar (rare-coverage country).",
     "id": "sekoly-kintana-madagascar",
+    "websiteType": "site",
     "summary": "Full-term school, Madagascar (rare-coverage country).",
     "references": [
       [
         "Website",
-        "https://worldschooly.com"
+        "https://sekolykintana.org/"
       ],
       [
         "Worldschooly directory",
@@ -1306,16 +1316,17 @@
     "price": "~$700",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/worldschooling-hub-experiential-learning-in-malaysia/",
+    "website": "https://www.worldschoolinghub.my/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Experiential learning hub, Malaysia.",
     "id": "tfa-worldschooling-hub",
+    "websiteType": "site",
     "summary": "Experiential learning hub, Malaysia.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/worldschooling-hub-experiential-learning-in-malaysia/"
+        "https://www.worldschoolinghub.my/"
       ],
       [
         "Worldschooly directory",
@@ -1339,17 +1350,14 @@
     "price": "~$2,150",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/maldives-worldschool-hub/",
+    "website": "https://www.facebook.com/groups/186758410890213/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Coliving hub, Maldives.",
     "id": "maldives-worldschool-hub",
+    "websiteType": "social",
     "summary": "A whole-family commercial worldschool hub in Male.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com/hub/maldives-worldschool-hub/"
-      ],
       [
         "Worldschooly directory",
         "https://worldschooly.com/hubs/"
@@ -1594,16 +1602,17 @@
     "price": "~$4,850",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/earth-school-aotearoa/",
+    "website": "https://www.earthschool.nz/worldschooling/",
     "facebook": "",
     "source": "web research (Worldschooly; WorldlyTribe)",
     "notes": "Nature-based learning hub near Wellington.",
     "id": "earth-school-aotearoa",
+    "websiteType": "site",
     "summary": "Nature-based learning hub near Wellington.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/earth-school-aotearoa/"
+        "https://www.earthschool.nz/worldschooling/"
       ],
       [
         "WorldlyTribe directory",
@@ -1717,16 +1726,17 @@
     "price": "~$290/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://silvermistacademy.co.za/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Full-term academy, Cape Town.",
     "id": "silvermist-academy",
+    "websiteType": "site",
     "summary": "Full-term academy, Cape Town.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com"
+        "https://silvermistacademy.co.za/"
       ],
       [
         "Worldschooly directory",
@@ -1898,16 +1908,17 @@
     "price": "~$945/stay",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/shepherds-rest/",
+    "website": "https://shepherdsrest.org/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Rural coliving, Andalusia. 5.0 (2 reviews).",
     "id": "shepherd-s-rest",
+    "websiteType": "site",
     "summary": "Rural coliving, Andalusia. 5.0 (2 reviews).",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/shepherds-rest/"
+        "https://shepherdsrest.org/"
       ],
       [
         "Worldschooly directory",
@@ -1964,16 +1975,17 @@
     "price": "~$2,900",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/worldschooling-tanzania/",
+    "website": "https://www.amanilight.com/worldschool",
     "facebook": "",
     "source": "web research (Worldschooly; WorldlyTribe)",
     "notes": "Both in Moshi but DIFFERENT host/program. Likely distinct - flag for dedup review.",
     "id": "worldschooling-tanzania",
+    "websiteType": "site",
     "summary": "A drop-off commercial worldschool hub in Moshi, Kilimanjaro.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/worldschooling-tanzania/"
+        "https://www.amanilight.com/worldschool"
       ],
       [
         "WorldlyTribe directory",
@@ -2034,16 +2046,17 @@
     "price": "~$440",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/naturemind-ed/",
+    "website": "https://naturemind-ed.com/experiences/worldschooling/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Nature-based worldschooling, Krabi. Near existing Krabi Family Fun.",
     "id": "naturemind-ed-worldschooling",
+    "websiteType": "site",
     "summary": "Nature-based worldschooling, Krabi. Near existing Krabi Family Fun.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/naturemind-ed/"
+        "https://naturemind-ed.com/experiences/worldschooling/"
       ],
       [
         "Worldschooly directory",
@@ -2100,16 +2113,17 @@
     "price": "~$350/mo",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/freedom-montessori-academy/",
+    "website": "https://freedommontessoriacademy.com/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Montessori school accepting worldschoolers.",
     "id": "freedom-montessori-academy",
+    "websiteType": "site",
     "summary": "Montessori school accepting worldschoolers.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/freedom-montessori-academy/"
+        "https://freedommontessoriacademy.com/"
       ],
       [
         "Worldschooly directory",
@@ -2182,16 +2196,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Low)",
-    "website": "theworld.school",
+    "website": "https://www.theworld.school/",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "'Democratic-school-inspired travelling community.' Vague; verify it still operates.",
     "id": "the-world-school",
+    "websiteType": "site",
     "summary": "A drop-off commercial worldschool hub in n/a.",
     "references": [
       [
         "Website",
-        "https://theworld.school"
+        "https://www.theworld.school/"
       ],
       [
         "WorldlyTribe directory",
@@ -2205,7 +2220,7 @@
   {
     "name": "KiRIWi Forest School",
     "host": "",
-    "category": "permanent_community",
+    "category": "inactive",
     "spanish": false,
     "participation": "family",
     "country": "Colombia",
@@ -2231,7 +2246,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKiRIWi%20Forest%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EVillavicencio%2C%20Meta%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKiRIWi%20Forest%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EVillavicencio%2C%20Meta%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/kiriwi-forest-school.jpg",
     "fit": "cover"
   },
@@ -2355,16 +2370,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "noma-collective.com",
+    "website": "https://www.noma-collective.com/",
     "facebook": "",
     "source": "web research (WorldlyTribe; RemoteFamily)",
     "notes": "Coliving/coworking for nomadic families; family hub new for 2026.",
     "id": "noma-collective-family-hub",
+    "websiteType": "site",
     "summary": "Coliving/coworking for nomadic families; family hub new for 2026.",
     "references": [
       [
         "Website",
-        "https://noma-collective.com"
+        "https://www.noma-collective.com/"
       ],
       [
         "WorldlyTribe directory",
@@ -2425,16 +2441,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "theworldschoolatlas.com/listing/the-creative-world/",
+    "website": "https://www.educationthatinspires.com/thecreativeworld/",
     "facebook": "",
     "source": "web research (Worldschool Atlas)",
     "notes": "Self-driven hub / alternative school community in Ubud.",
     "id": "the-creative-world",
+    "websiteType": "site",
     "summary": "Self-driven hub / alternative school community in Ubud.",
     "references": [
       [
         "Website",
-        "https://theworldschoolatlas.com/listing/the-creative-world/"
+        "https://www.educationthatinspires.com/thecreativeworld/"
       ],
       [
         "Worldschool Atlas directory",
@@ -2448,7 +2465,7 @@
   {
     "name": "We Are Tribe",
     "host": "",
-    "category": "permanent_community",
+    "category": "inactive",
     "spanish": false,
     "participation": "family",
     "country": "Indonesia",
@@ -2474,7 +2491,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWe%20Are%20Tribe%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EUbud%2C%20Bali%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWe%20Are%20Tribe%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EUbud%2C%20Bali%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/we-are-tribe.jpg",
     "fit": "cover"
   },
@@ -2491,13 +2508,18 @@
     "price": "$750 USD",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.instagram.com/worldschoolingbali/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Cultural enrichment and play-based learning",
     "id": "wild-hearts-collective",
+    "websiteType": "social",
     "summary": "Cultural enrichment and play-based learning",
     "references": [
+      [
+        "Website",
+        "https://www.instagram.com/worldschoolingbali/"
+      ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
         ""
@@ -2553,11 +2575,12 @@
     "price": "",
     "nationality": "Israeli + intl",
     "validity": "Med",
-    "website": "",
+    "website": "https://www.facebook.com/groups/progettobaita/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "progetto-baita",
+    "websiteType": "social",
     "summary": "Intentional international community in Italy's Valsesia Alps with ~25 permanent families and ~55 children, including Israelis.",
     "references": [
       [
@@ -2572,7 +2595,7 @@
   {
     "name": "Sentira",
     "host": "",
-    "category": "permanent_community",
+    "category": "inactive",
     "spanish": false,
     "participation": "family",
     "country": "Italy",
@@ -2594,7 +2617,7 @@
         "https://www.ynet.co.il/news/article/yokra14738200"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESentira%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EArezzo%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESentira%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EArezzo%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/sentira.jpg",
     "fit": "cover"
   },
@@ -2714,16 +2737,17 @@
     "price": "Education program: $500/child/month per 2 children · Accommodation: $800/family/month",
     "nationality": "Mixed intl (Spanish)",
     "validity": "from PDF",
-    "website": "https://sacred-roots.lovable.app",
+    "website": "https://sacredrootshub.base44.app/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Holistic — nature, art, music, movement, hands-on science; multiple intelligences, emotional awareness, mindfulness; inclusive for neurodivergent children",
     "id": "sacred-roots-hub",
+    "websiteType": "site",
     "summary": "Holistic — nature, art, music, movement, hands-on science; multiple intelligences, emotional awareness, mindfulness; inclusive for neurodivergent children",
     "references": [
       [
         "Website",
-        "https://sacred-roots.lovable.app"
+        "https://sacredrootshub.base44.app/"
       ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
@@ -2780,13 +2804,19 @@
     "price": "",
     "nationality": "Israeli",
     "validity": "Med",
-    "website": "",
+    "website": "https://www.mama-adama.pt/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "mama-adama",
+    "websiteType": "site",
     "summary": "Israeli-founded eco-village network (founder Yariv Paz) helping families relocate to rural Portuguese natural-farming communes.",
-    "references": [],
+    "references": [
+      [
+        "Website",
+        "https://www.mama-adama.pt/"
+      ]
+    ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMama%20Adama%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAlentejo%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/mama-adama.jpg",
     "fit": "cover"
@@ -2804,13 +2834,18 @@
     "price": "",
     "nationality": "Israeli",
     "validity": "Med",
-    "website": "",
+    "website": "https://spiralaecovillage.com/",
     "facebook": "",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "spirala-eco-village",
+    "websiteType": "site",
     "summary": "Israeli ecological community on ~104 forested acres near Castelo Branco, Portugal.",
     "references": [
+      [
+        "Website",
+        "https://spiralaecovillage.com/"
+      ],
       [
         "Ynet (HE) — Israeli communities (R35)",
         "https://www.ynet.co.il/news/article/yokra14738200"
@@ -2823,7 +2858,7 @@
   {
     "name": "Las Semillitas",
     "host": "Belle Hiffmann",
-    "category": "permanent_community",
+    "category": "inactive",
     "spanish": true,
     "participation": "family",
     "country": "Spain",
@@ -2845,7 +2880,7 @@
         ""
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELas%20Semillitas%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESpain%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELas%20Semillitas%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESpain%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/las-semillitas.jpg",
     "fit": "cover"
   },
@@ -2928,11 +2963,12 @@
     "price": "Contact for brochure",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.facebook.com/folkortationthailand",
     "facebook": "https://www.facebook.com/folkortationthailand",
     "source": "PDF (June-2026 listing)",
     "notes": "Live with locals along the Mekong — fishing, farming, cooking and traditional practices; English–Thai-speaking guide included",
     "id": "folkortation",
+    "websiteType": "social",
     "summary": "Live with locals along the Mekong — fishing, farming, cooking and traditional practices; English–Thai-speaking guide included",
     "references": [
       [
@@ -2951,7 +2987,7 @@
   {
     "name": "Narnia / Arkee",
     "host": "",
-    "category": "permanent_community",
+    "category": "inactive",
     "spanish": false,
     "participation": "dropoff",
     "country": "Thailand",
@@ -2973,7 +3009,7 @@
         "https://www.mako.co.il/home-family-kids/back_to_school/Article-0fb52656bdb0281027.htm"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ENarnia%20/%20Arkee%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Phangan%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ENarnia%20/%20Arkee%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Phangan%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/narnia-arkee.jpg",
     "fit": "cover"
   },
@@ -3023,16 +3059,17 @@
     "price": "~$405",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com",
+    "website": "https://www.wildlingsforestschool.com/forest-kindy",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Forest kindergarten, Brisbane.",
     "id": "forest-kindy-brisbane",
+    "websiteType": "site",
     "summary": "Forest kindergarten, Brisbane.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com"
+        "https://www.wildlingsforestschool.com/forest-kindy"
       ],
       [
         "Worldschooly directory",
@@ -3056,16 +3093,17 @@
     "price": "~$189",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/treehouse-summit/",
+    "website": "https://treehousebansko.com/summit2026/",
     "facebook": "",
     "source": "web research (Worldschooly; WorldlyTribe)",
     "notes": "Annual worldschooling/nomad conference in Bansko.",
     "id": "treehouse-summit",
+    "websiteType": "site",
     "summary": "Annual worldschooling/nomad conference in Bansko.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/treehouse-summit/"
+        "https://treehousebansko.com/summit2026/"
       ],
       [
         "WorldlyTribe directory",
@@ -3093,17 +3131,14 @@
     "price": "Varies",
     "nationality": "UK / Dutch / Israeli",
     "validity": "High",
-    "website": "worldschooly.com/hub/worldschooling-bansko/",
+    "website": "https://www.facebook.com/groups/1458088764967558",
     "facebook": "facebook.com/groups/1458088764967558 (Home/World Schooling Families Bansko)",
     "source": "web research (Worldschooly; Worldschool Atlas; multiple blogs)",
     "notes": "Bansko = the 'worldschooling capital'. Israeli families explicitly present. Winter ski-season hub.",
     "id": "worldschooling-bansko",
+    "websiteType": "social",
     "summary": "Bansko = the 'worldschooling capital'. Israeli families explicitly present.",
     "references": [
-      [
-        "Website",
-        "https://worldschooly.com/hub/worldschooling-bansko/"
-      ],
       [
         "Facebook / Instagram",
         "https://facebook.com/groups/1458088764967558 (Home/World Schooling Families Bansko)"
@@ -3220,16 +3255,17 @@
     "price": "~$1,100",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/green-coco-sailing-adventures/",
+    "website": "https://www.greencoco.org",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Family sailing/cruise adventures.",
     "id": "green-coco-sailing-adventures",
+    "websiteType": "site",
     "summary": "Family sailing/cruise adventures.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/green-coco-sailing-adventures/"
+        "https://www.greencoco.org"
       ],
       [
         "Worldschooly directory",
@@ -3286,16 +3322,17 @@
     "price": "EUR500 / EUR520",
     "nationality": "",
     "validity": "from PDF",
-    "website": "https://egyptianadventures.world",
+    "website": "https://wshluxor.com",
     "facebook": "https://www.facebook.com/egyptianadventure",
     "source": "PDF (June-2026 listing)",
     "notes": "Montessori-based, child-led, immersive; art & crafts, music, history, culture, nature, excursions, workshops, projects; also for disabled children in wheelchairs",
     "id": "egyptian-adventures",
+    "websiteType": "site",
     "summary": "Montessori-based, child-led, immersive; art & crafts, music, history, culture, nature, excursions, workshops, projects; also for disabled children in wheelchairs",
     "references": [
       [
         "Website",
-        "https://egyptianadventures.world"
+        "https://wshluxor.com"
       ],
       [
         "Facebook / Instagram",
@@ -3455,16 +3492,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldwiselearningadventures.com",
+    "website": "https://www.worldwiselearningadventures.org",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "Organised learning program in Provence.",
     "id": "worldwise-learning",
+    "websiteType": "site",
     "summary": "Organised learning program in Provence.",
     "references": [
       [
         "Website",
-        "https://worldwiselearningadventures.com"
+        "https://www.worldwiselearningadventures.org"
       ],
       [
         "WorldlyTribe directory",
@@ -3488,16 +3526,17 @@
     "price": "~$300",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/summer-camp-at-ecovillage-georgia/",
+    "website": "https://ecovillagegeorgia.ge/summercamp/",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Summer camp in the Caucasus.",
     "id": "ecovillage-georgia",
+    "websiteType": "site",
     "summary": "Summer camp in the Caucasus.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/summer-camp-at-ecovillage-georgia/"
+        "https://ecovillagegeorgia.ge/summercamp/"
       ],
       [
         "Worldschooly directory",
@@ -3521,13 +3560,18 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "",
+    "website": "https://www.culturechalk.org",
     "facebook": "",
     "source": "web research (WorldschoolHubs blog)",
     "notes": "Cultural + language immersion with local host families at Lake Atitlan.",
     "id": "culture-chalk",
+    "websiteType": "site",
     "summary": "Cultural + language immersion with local host families at Lake Atitlan.",
     "references": [
+      [
+        "Website",
+        "https://www.culturechalk.org"
+      ],
       [
         "WorldschoolHubs blog directory",
         "https://blog.worldschoolhubs.com/worldschooling-hubs/"
@@ -3583,16 +3627,17 @@
     "price": "~$670",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/pelangi-school-creative-camp/",
+    "website": "https://www.pelangischoolbali.com",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "School + creative camp, north Bali.",
     "id": "pelangi-school-creative-camp",
+    "websiteType": "site",
     "summary": "School + creative camp, north Bali.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/pelangi-school-creative-camp/"
+        "https://www.pelangischoolbali.com"
       ],
       [
         "Worldschooly directory",
@@ -3649,17 +3694,14 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "bettertogetherhubs.com",
+    "website": "https://www.facebook.com/groups/1031842408551295",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "Community hub for worldschooling families in Osaka.",
     "id": "better-together-hubs",
+    "websiteType": "social",
     "summary": "Community hub for worldschooling families in Osaka.",
     "references": [
-      [
-        "Website",
-        "https://bettertogetherhubs.com"
-      ],
       [
         "WorldlyTribe directory",
         "https://worldlytribe.com/worldschooling-hubs-directory/"
@@ -3748,16 +3790,17 @@
     "price": "~$400",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/wildroots-worldschool/",
+    "website": "https://www.wildrootsworldschool.com",
     "facebook": "",
     "source": "web research (Worldschooly; WorldlyTribe)",
     "notes": "Camp-style program on Caribbean coast. Near existing Sas Academy.",
     "id": "wildroots-worldschool",
+    "websiteType": "site",
     "summary": "Camp-style program on Caribbean coast. Near existing Sas Academy.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/wildroots-worldschool/"
+        "https://www.wildrootsworldschool.com"
       ],
       [
         "WorldlyTribe directory",
@@ -4057,16 +4100,17 @@
     "price": "Family of 2 = $3,000 up to Family of 5 = $3,900 (optional 4th week of safari)",
     "nationality": "",
     "validity": "Med (≈Worldschooling Tanzania)",
-    "website": "https://worldschooly.com/hub/worldschooling-tanzania",
+    "website": "https://www.amanilight.com/worldschool",
     "facebook": "https://www.facebook.com/groups/956996229464143",
     "source": "PDF (June-2026 listing)",
     "notes": "Natural building practices and methods, cultural immersion, nature, and the arts",
     "id": "amani-light-worldschool-hub-tanzania",
+    "websiteType": "site",
     "summary": "Natural building practices and methods, cultural immersion, nature, and the arts",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/worldschooling-tanzania"
+        "https://www.amanilight.com/worldschool"
       ],
       [
         "Facebook / Instagram",
@@ -4123,16 +4167,17 @@
     "price": "Depending on the programme; weekly, monthly or termly payment schedules",
     "nationality": "British + intl",
     "validity": "from PDF",
-    "website": "https://languaventure.com/services/international-learning-centre",
+    "website": "https://languaventure.com",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Thematic learning following the English National Curriculum, face to face with UK teachers",
     "id": "languaventure-international-learning-centr",
+    "websiteType": "site",
     "summary": "Thematic learning following the English National Curriculum, face to face with UK teachers",
     "references": [
       [
         "Website",
-        "https://languaventure.com/services/international-learning-centre"
+        "https://languaventure.com"
       ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
@@ -4222,16 +4267,17 @@
     "price": "~$395",
     "nationality": "",
     "validity": "web candidate (Low)",
-    "website": "worldschooly.com",
+    "website": "https://www.twineagles.org",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Wilderness skills camps.",
     "id": "twin-eagles-wilderness-adventure-camps",
+    "websiteType": "site",
     "summary": "A pop-up gathering in Sandpoint, Idaho.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com"
+        "https://www.twineagles.org"
       ],
       [
         "Worldschooly directory",
@@ -4325,16 +4371,17 @@
     "price": "Starting at €3,500 (14 nights lodging, resort amenities, group activities, retreat leaders)",
     "nationality": "",
     "validity": "from PDF",
-    "website": "https://trips.everyavenue.com/trips#land-trips",
+    "website": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Explore the Austrian mountains and local culture as a group — hiking, lakes, eating, local trains and buses",
     "id": "worldschooling-austria-mountain-retreat",
+    "websiteType": "site",
     "summary": "Explore the Austrian mountains and local culture as a group — hiking, lakes, eating, local trains and buses",
     "references": [
       [
         "Website",
-        "https://trips.everyavenue.com/trips#land-trips"
+        "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/"
       ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
@@ -4358,16 +4405,17 @@
     "price": "1 adult + 1 child from €2,600 (14 nights lodging, ski retreat, co-working room, retreat fees)",
     "nationality": "",
     "validity": "from PDF",
-    "website": "https://trips.everyavenue.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing",
+    "website": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Alpine ski retreat — ski lessons, Christmas markets, sauna, snow play; connection and adventure for worldschooling families",
     "id": "worldschooling-austria-winter-mountain-ret",
+    "websiteType": "site",
     "summary": "Alpine ski retreat — ski lessons, Christmas markets, sauna, snow play; connection and adventure for worldschooling families",
     "references": [
       [
         "Website",
-        "https://trips.everyavenue.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing"
+        "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/"
       ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
@@ -4490,11 +4538,12 @@
     "price": "$300 – $600 USD",
     "nationality": "",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.facebook.com/groups/3761508630761429/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Nature school / field trips",
     "id": "wander-wonder-the-traveling-adventure-scho",
+    "websiteType": "social",
     "summary": "Nature school / field trips",
     "references": [
       [
@@ -4786,16 +4835,17 @@
     "price": "$3,300 per person",
     "nationality": "",
     "validity": "from PDF",
-    "website": "https://trips.everyavenue.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2",
+    "website": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
     "facebook": "",
     "source": "PDF (June-2026 listing)",
     "notes": "Exclusive curated dude-ranch experience — horseback riding, cattle driving, farm life, Western history, hands-on learning",
     "id": "worldschooling-dude-ranch-experience",
+    "websiteType": "site",
     "summary": "Exclusive curated dude-ranch experience — horseback riding, cattle driving, farm life, Western history, hands-on learning",
     "references": [
       [
         "Website",
-        "https://trips.everyavenue.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2"
+        "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/"
       ],
       [
         "Worldschooling Hubs Worldwide (Listing) — June 2026  ·  manual_sources/",
@@ -4928,6 +4978,7 @@
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "together-explorers",
+    "websiteType": "social",
     "summary": "A traveling cohort of six families plus a teacher who journey together through Italy, Morocco, Egypt, Israel and Greece.",
     "references": [
       [
@@ -5030,16 +5081,17 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "trips.everyavenue.com",
+    "website": "https://worldschoolingjourneys.com",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "Community cruises + group land trips. Note Austria trip overlaps existing Austria retreats.",
     "id": "worldschooling-journeys-every-avenue",
+    "websiteType": "site",
     "summary": "Community cruises + group land trips. Note Austria trip overlaps existing Austria retreats.",
     "references": [
       [
         "Website",
-        "https://trips.everyavenue.com"
+        "https://worldschoolingjourneys.com"
       ],
       [
         "WorldlyTribe directory",
@@ -5232,13 +5284,18 @@
     "price": "2025: ~$700 / 2026: ~$770 USD for the 3-week program per child",
     "nationality": "Mixed intl",
     "validity": "from PDF",
-    "website": "",
+    "website": "https://www.worldschoolantigua.com",
     "facebook": "https://www.facebook.com/groups/1242934149733237",
     "source": "PDF (June-2026 listing)",
     "notes": "Not traditional schooling — cultural learning, crafts, physical learning and emotional learning",
     "id": "worldschool-antigua-guatemala",
+    "websiteType": "site",
     "summary": "Not traditional schooling — cultural learning, crafts, physical learning and emotional learning",
     "references": [
+      [
+        "Website",
+        "https://www.worldschoolantigua.com"
+      ],
       [
         "Facebook / Instagram",
         "https://www.facebook.com/groups/1242934149733237"
@@ -5500,16 +5557,17 @@
     "price": "Free (community)",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/siem-reap-bliss-hub-cambodia/",
+    "website": "https://blissinvestor.com",
     "facebook": "",
     "source": "web research (Worldschooly)",
     "notes": "Bliss community hub, Siem Reap.",
     "id": "bliss-hubs-siem-reap",
+    "websiteType": "site",
     "summary": "Bliss community hub, Siem Reap.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/siem-reap-bliss-hub-cambodia/"
+        "https://blissinvestor.com"
       ],
       [
         "Worldschooly directory",
@@ -5533,16 +5591,17 @@
     "price": "Free / ~$200 meetup",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "worldschooly.com/hub/shanti-shanti-kampot...",
+    "website": "https://shantivillage.com",
     "facebook": "",
     "source": "web research (Worldschooly; WorldlyTribe)",
     "notes": "Riverside community popular with longer-stay families.",
     "id": "shanti-shanti",
+    "websiteType": "site",
     "summary": "Riverside community popular with longer-stay families.",
     "references": [
       [
         "Website",
-        "https://worldschooly.com/hub/shanti-shanti-kampot..."
+        "https://shantivillage.com"
       ],
       [
         "WorldlyTribe directory",
@@ -5916,11 +5975,12 @@
     "price": "Varies",
     "nationality": "",
     "validity": "web candidate (Medium)",
-    "website": "panyaforest.com",
+    "website": "https://panyaforest.com",
     "facebook": "",
     "source": "web research (WorldlyTribe)",
     "notes": "Permaculture community hub in northern Thailand.",
     "id": "panya-forest",
+    "websiteType": "site",
     "summary": "Permaculture community hub in northern Thailand.",
     "references": [
       [
