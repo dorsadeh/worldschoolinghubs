@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Link audit review</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  color-scheme: light;
+  --green: #0e7a5f;
+  --green-light: #d1fae5;
+  --red: #b3261e;
+  --red-light: #fde8e8;
+  --zinc-50: #fafafa;
+  --zinc-100: #f4f4f5;
+  --zinc-200: #e4e4e7;
+  --zinc-300: #d4d4d8;
+  --zinc-400: #a1a1aa;
+  --zinc-500: #71717a;
+  --zinc-600: #52525b;
+  --zinc-700: #3f3f46;
+  --zinc-800: #27272a;
+  --zinc-900: #18181b;
+}
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--zinc-800);
+  background: var(--zinc-50);
+}
+a { color: var(--green); text-decoration: underline; }
+a:hover { opacity: 0.8; }
+
+.page { max-width: 880px; margin: 0 auto; padding: 24px 16px 64px; }
+
+/* Header */
+.header { margin-bottom: 20px; }
+.header h1 { font-size: 20px; font-weight: 700; color: var(--zinc-900); }
+.header .meta { font-size: 12px; color: var(--zinc-500); margin-top: 2px; }
+.progress-bar-wrap { margin-top: 12px; background: var(--zinc-200); border-radius: 4px; height: 6px; }
+.progress-bar { height: 6px; border-radius: 4px; background: var(--green); transition: width 0.2s; }
+.progress-stats { display: flex; gap: 16px; margin-top: 6px; font-size: 12px; color: var(--zinc-600); }
+.stat-approved { color: var(--green); font-weight: 600; }
+.stat-rejected { color: var(--red); font-weight: 600; }
+
+/* Filter chips */
+.filter-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.chip {
+  border: 1px solid var(--zinc-300);
+  background: white;
+  border-radius: 999px;
+  padding: 3px 12px;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.1s, border-color 0.1s;
+  color: var(--zinc-700);
+}
+.chip:hover { border-color: var(--zinc-400); background: var(--zinc-100); }
+.chip.active { background: var(--zinc-800); border-color: var(--zinc-800); color: white; }
+
+/* Card */
+.card {
+  background: white;
+  border: 1px solid var(--zinc-200);
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.card.decided-approve {
+  border-color: var(--green);
+  background: #f0fdf4;
+}
+.card.decided-reject {
+  border-color: var(--red);
+  background: #fff5f5;
+}
+.card.hidden { display: none; }
+
+.card-header { display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
+.card-name { font-size: 15px; font-weight: 600; color: var(--zinc-900); flex: 1 1 0; min-width: 200px; }
+.card-id { font-size: 11px; color: var(--zinc-400); font-weight: 400; display: block; margin-top: 1px; }
+.badge {
+  font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px;
+  white-space: nowrap; color: white;
+}
+.card-meta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; font-size: 12px; color: var(--zinc-600); }
+.card-meta .label { color: var(--zinc-400); margin-right: 3px; }
+.card-note {
+  margin-top: 8px; font-size: 12px; color: var(--zinc-600); background: var(--zinc-100);
+  border-left: 3px solid var(--zinc-300); padding: 6px 10px; border-radius: 0 4px 4px 0;
+}
+
+/* Controls */
+.card-controls { display: flex; align-items: center; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+.btn {
+  font-family: inherit; font-size: 12px; font-weight: 600; cursor: pointer;
+  padding: 5px 14px; border-radius: 5px; border: 1px solid transparent;
+  transition: background 0.1s, color 0.1s, border-color 0.1s;
+}
+.btn-approve {
+  background: white; color: var(--green); border-color: var(--green);
+}
+.btn-approve:hover, .btn-approve.active {
+  background: var(--green); color: white;
+}
+.btn-reject {
+  background: white; color: var(--red); border-color: var(--red);
+}
+.btn-reject:hover, .btn-reject.active {
+  background: var(--red); color: white;
+}
+.btn-edit-toggle {
+  background: none; color: var(--zinc-500); border: 1px solid var(--zinc-300);
+  font-size: 12px;
+}
+.btn-edit-toggle:hover { border-color: var(--zinc-400); color: var(--zinc-700); }
+
+/* Edit disclosure */
+.edit-disclosure {
+  display: none; margin-top: 12px; padding: 12px; background: var(--zinc-50);
+  border: 1px solid var(--zinc-200); border-radius: 6px;
+}
+.edit-disclosure.open { display: block; }
+.edit-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+@media (max-width: 600px) { .edit-grid { grid-template-columns: 1fr; } }
+.edit-group { display: flex; flex-direction: column; gap: 3px; }
+.edit-group label { font-size: 11px; color: var(--zinc-500); font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+.edit-group input, .edit-group select {
+  font-family: inherit; font-size: 12px; padding: 5px 8px;
+  border: 1px solid var(--zinc-300); border-radius: 4px;
+  background: white; color: var(--zinc-800);
+}
+.edit-group input:focus, .edit-group select:focus {
+  outline: 2px solid var(--green); outline-offset: -1px;
+}
+
+/* Awaiting section */
+.awaiting-summary {
+  border: 1px solid var(--zinc-200); border-radius: 8px; background: white;
+  margin-top: 28px;
+}
+.awaiting-summary summary {
+  padding: 12px 16px; cursor: pointer; font-size: 13px; font-weight: 600;
+  color: var(--zinc-600); list-style: none; display: flex; align-items: center; gap: 6px;
+  user-select: none;
+}
+.awaiting-summary summary::-webkit-details-marker { display: none; }
+.awaiting-summary summary::before { content: "\25B6"; font-size: 9px; transition: transform 0.15s; }
+.awaiting-summary[open] summary::before { transform: rotate(90deg); }
+.awaiting-list { padding: 0 16px 12px; }
+.awaiting-row {
+  display: flex; gap: 10px; padding: 8px 0; border-top: 1px solid var(--zinc-100);
+  font-size: 12px; align-items: center; flex-wrap: wrap;
+}
+.awaiting-row:first-child { border-top: none; }
+.awaiting-name { flex: 1 1 180px; color: var(--zinc-700); }
+.awaiting-meta { color: var(--zinc-400); }
+
+/* Export section */
+.export-section { margin-top: 32px; padding: 16px; background: white; border: 1px solid var(--zinc-200); border-radius: 8px; }
+.export-section h2 { font-size: 15px; font-weight: 700; margin-bottom: 8px; color: var(--zinc-900); }
+.btn-export {
+  background: var(--zinc-800); color: white; border: none; font-family: inherit;
+  font-size: 13px; font-weight: 600; cursor: pointer; padding: 8px 18px; border-radius: 6px;
+}
+.btn-export:hover { background: var(--zinc-900); }
+.export-hint { margin-top: 8px; font-size: 12px; color: var(--zinc-500); }
+.export-hint code {
+  background: var(--zinc-100); border: 1px solid var(--zinc-200);
+  padding: 1px 5px; border-radius: 3px; font-size: 11px; font-family: ui-monospace, monospace;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+<div class="header">
+  <h1>Link audit review</h1>
+  <div class="meta" id="meta-line"></div>
+  <div class="progress-bar-wrap"><div class="progress-bar" id="progress-bar" style="width:0%"></div></div>
+  <div class="progress-stats" id="progress-stats"></div>
+</div>
+
+<div class="filter-row" id="filter-row"></div>
+
+<div id="card-list"></div>
+
+<details class="awaiting-summary" id="awaiting-section">
+  <summary>Awaiting resolution (<span id="awaiting-count">0</span> records — no proposal yet, info only)</summary>
+  <div class="awaiting-list" id="awaiting-list"></div>
+</details>
+
+<div class="export-section">
+  <h2>Export decisions</h2>
+  <button class="btn-export" id="btn-export">Download link-audit-decisions.json</button>
+  <div class="export-hint">
+    Save as <code>data/research/link-audit-decisions.json</code> then run:
+    <code>npm run audit:apply</code>
+  </div>
+</div>
+
+</div>
+
+<script>
+(function () {
+  const DATA = {"generatedAt":"2026-06-12T12:30:13.796Z","actionable":[{"id":"bansko-town-base-city","name":"Bansko Town (base city)","category":"organic","country":"Bulgaria","url":"https://theworldschoolatlas.com/listing/bansko-town/","status":200,"finalUrl":"https://theworldschoolatlas.com/listing/bansko-town/","verdict":"aggregator-link","latestYear":2024,"checkedAt":"2026-06-12T12:29:19.760Z","proposedUrl":"https://www.facebook.com/groups/1458088764967558","proposedUrlType":"social","resolutionNote":"Facebook group link extracted directly from theworldschoolatlas.com listing outbound link; group described as the Bansko worldschoolers community meetup/events group."},{"id":"hakuba-international-term-year","name":"Hakuba International (term/year)","category":"organic","country":"Japan","url":"https://theworldschoolatlas.com/listing/hakuba-japan...","status":404,"finalUrl":"https://theworldschoolatlas.com/listing/hakuba-japan","verdict":"aggregator-link","latestYear":2023,"checkedAt":"2026-06-12T12:29:19.814Z","proposedUrl":"https://www.hakuba-is.jp/","proposedUrlType":"site","resolutionNote":"Official Hakuba International School site found via theworldschoolatlas.com outbound link; site confirms term/year boarding programme in Nagano, Japan with 2025-26 academic year and 2026 graduation dates."},{"id":"worldschoolers-in-kuala-lumpur","name":"Worldschoolers in Kuala Lumpur","category":"organic","country":"Malaysia","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.815Z","proposedUrl":"https://www.facebook.com/groups/worldschoolersinmalaysia/","proposedUrlType":"social","resolutionNote":"No dedicated KL worldschoolers site found; Worldschoolers in Malaysia Facebook group (groups/worldschoolersinmalaysia) is the main organic hub for this Petaling Jaya / KL community, confirmed by blissinvestor.com and direct search."},{"id":"bliss-hubs-pai","name":"Bliss Hubs Pai","category":"organic","country":"Thailand","url":"https://blissinvestor.com/community/world-schoolers-in-pai-thailand/","status":404,"finalUrl":"https://blissinvestor.com/community/world-schoolers-in-pai-thailand/","verdict":"unreachable","latestYear":2024,"checkedAt":"2026-06-12T12:29:19.816Z","proposedUrl":"https://www.facebook.com/groups/worldschoolersinthailand/","proposedUrlType":"social","resolutionNote":"Original blissinvestor.com URL returns 404; Bliss Hubs Pai community uses the Worldschoolers in Thailand (Bliss) Facebook group as its primary community channel, confirmed by blissinvestor.com main site."},{"id":"chiang-mai","name":"Chiang Mai","category":"organic","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z","proposedUrl":"https://www.facebook.com/groups/429152322487588/","proposedUrlType":"social","resolutionNote":"No dedicated Chiang Mai worldschoolers site found; best matching organic hub FB group is \"Worldschoolers in Thailand / Homeschooling / Unschooling\" (group 429152322487588) which covers Thailand including Chiang Mai."},{"id":"koh-lanta","name":"Koh Lanta","category":"organic","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z","proposedUrl":"https://www.facebook.com/groups/worldschoolersinthailand/","proposedUrlType":"social","resolutionNote":"No dedicated Koh Lanta worldschoolers website found; Bliss Hubs Koh Lanta community is coordinated via the Worldschoolers in Thailand (Bliss) Facebook group, confirmed by blissinvestor.com community page."},{"id":"soy-montesser","name":"Soy Montesser","category":"permanent_commercial","country":"Colombia","url":"https://worldschooly.com/hub/soy-montesser/","status":200,"finalUrl":"https://worldschooly.com/hub/soy-montesser/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:19.819Z","proposedUrl":"https://www.soymontesser.com/","proposedUrlType":"site","resolutionNote":"Official Montessori school site found via worldschooly.com outbound link; confirmed as Soy Montesser in Rionegro, Colombia — newest content dated 2023, possibly not updated recently."},{"id":"harmony-learning-center","name":"Harmony Learning Center","category":"permanent_commercial","country":"Costa Rica","url":"https://worldschooly.com/hub/harmony-learning-center/","status":200,"finalUrl":"https://worldschooly.com/hub/harmony-learning-center/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:19.822Z","proposedUrl":"https://harmonyeducation.net/","proposedUrlType":"site","resolutionNote":"Official site found via worldschooly.com outbound link; site confirmed as Harmony nature-based school in Guanacaste, Costa Rica with 2026-dated image content."},{"id":"milestones-school","name":"Milestones School","category":"permanent_commercial","country":"Costa Rica","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:19.825Z","proposedUrl":"https://www.facebook.com/milestoneseducationcr","proposedUrlType":"social","resolutionNote":"Worldschooly outbound link points to milestonescr.com which returns 404; official Facebook page milestoneseducationcr confirmed for Milestones Education CR in Tamarindo, Costa Rica via search."},{"id":"wise-education","name":"WISE Education","category":"permanent_commercial","country":"Costa Rica","url":"https://worldschooly.com/hub/wise-education/","status":200,"finalUrl":"https://worldschooly.com/hub/wise-education/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:20.285Z","proposedUrl":"https://thefutureiswise.com","proposedUrlType":"site","resolutionNote":"Official site found via worldschooly.com outbound link; confirmed as WISE Education holistic centre in Tamarindo, Costa Rica — site loads but shows 2024 content and has spam injection, possibly compromised."},{"id":"wonder-intercultural-school","name":"Wonder Intercultural School","category":"permanent_commercial","country":"Indonesia","url":"https://wonderschool.cc","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:22.838Z","proposedUrl":"https://wonderschool.cc/","proposedUrlType":"site","resolutionNote":"Original URL wonderschool.cc returns SSL error on direct fetch but is confirmed as the active site via search results showing 2025 content (National Education Day field trip May 2025) and Instagram active under @wonderschool.cc."}],"awaiting":[{"id":"cyprus-limassol-larnaca","name":"Cyprus (Limassol/Larnaca)","category":"organic","country":"Cyprus","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.813Z"},{"id":"goa-arambol-mandrem","name":"Goa (Arambol/Mandrem)","category":"organic","country":"India","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.813Z"},{"id":"kuala-lumpur","name":"Kuala Lumpur","category":"organic","country":"Malaysia","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.815Z"},{"id":"penang","name":"Penang","category":"organic","country":"Malaysia","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.815Z"},{"id":"lisbon-cascais","name":"Lisbon / Cascais","category":"organic","country":"Portugal","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.815Z"},{"id":"koh-phangan","name":"Koh Phangan","category":"organic","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z"},{"id":"pai","name":"Pai","category":"organic","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z"},{"id":"hoi-an-an-bang","name":"Hoi An / An Bang","category":"organic","country":"Vietnam","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z"},{"id":"worldschoolers-of-hoi-an","name":"Worldschoolers of Hoi An","category":"organic","country":"Vietnam","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:19.817Z"},{"id":"samana-international-academy","name":"Samana International Academy","category":"permanent_commercial","country":"Dominican Republic","url":"https://worldschooly.com/hub/samana-international-academy/","status":200,"finalUrl":"https://worldschooly.com/hub/samana-international-academy/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:21.407Z"},{"id":"antigua-green-school","name":"Antigua Green School","category":"permanent_commercial","country":"Guatemala","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:21.730Z"},{"id":"eco-holistic-kids-club","name":"Eco Holistic Kids Club","category":"permanent_commercial","country":"Guatemala","url":"https://worldschooly.com/hub/eco-holistic-kids-club/","status":200,"finalUrl":"https://worldschooly.com/hub/eco-holistic-kids-club/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:22.235Z"},{"id":"future-human-project","name":"Future Human Project","category":"permanent_commercial","country":"Indonesia","url":"https://worldschooly.com/hub/future-human-project/","status":200,"finalUrl":"https://worldschooly.com/hub/future-human-project/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:22.744Z"},{"id":"future-human-school-bali","name":"Future Human School Bali","category":"permanent_commercial","country":"Indonesia","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:22.838Z"},{"id":"wood-school-bali","name":"Wood School Bali","category":"permanent_commercial","country":"Indonesia","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:23.603Z"},{"id":"sekoly-kintana-madagascar","name":"Sekoly Kintana Madagascar","category":"permanent_commercial","country":"Madagascar","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:24.153Z"},{"id":"tfa-worldschooling-hub","name":"TFA Worldschooling Hub","category":"permanent_commercial","country":"Malaysia","url":"https://worldschooly.com/hub/worldschooling-hub-experiential-learning-in-malaysia/","status":200,"finalUrl":"https://worldschooly.com/hub/worldschooling-hub-experiential-learning-in-malaysia/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:24.205Z"},{"id":"maldives-worldschool-hub","name":"Maldives Worldschool Hub","category":"permanent_commercial","country":"Maldives","url":"https://worldschooly.com/hub/maldives-worldschool-hub/","status":200,"finalUrl":"https://worldschooly.com/hub/maldives-worldschool-hub/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:24.367Z"},{"id":"earth-school-aotearoa","name":"Earth School Aotearoa","category":"permanent_commercial","country":"New Zealand","url":"https://worldschooly.com/hub/earth-school-aotearoa/","status":200,"finalUrl":"https://worldschooly.com/hub/earth-school-aotearoa/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:25.676Z"},{"id":"silvermist-academy","name":"Silvermist Academy","category":"permanent_commercial","country":"South Africa","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:26.229Z"},{"id":"shepherd-s-rest","name":"Shepherd's Rest","category":"permanent_commercial","country":"Spain","url":"https://worldschooly.com/hub/shepherds-rest/","status":200,"finalUrl":"https://worldschooly.com/hub/shepherds-rest/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:27.465Z"},{"id":"worldschooling-tanzania","name":"Worldschooling Tanzania","category":"permanent_commercial","country":"Tanzania","url":"https://worldschooly.com/hub/worldschooling-tanzania/","status":200,"finalUrl":"https://worldschooly.com/hub/worldschooling-tanzania/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:28.583Z"},{"id":"naturemind-ed-worldschooling","name":"NatureMind-ED Worldschooling","category":"permanent_commercial","country":"Thailand","url":"https://worldschooly.com/hub/naturemind-ed/","status":200,"finalUrl":"https://worldschooly.com/hub/naturemind-ed/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:29.378Z"},{"id":"freedom-montessori-academy","name":"Freedom Montessori Academy","category":"permanent_commercial","country":"United States","url":"https://worldschooly.com/hub/freedom-montessori-academy/","status":200,"finalUrl":"https://worldschooly.com/hub/freedom-montessori-academy/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:29.385Z"},{"id":"the-world-school","name":"The World School","category":"permanent_commercial","country":"travelling community","url":"https://theworld.school","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:29.884Z"},{"id":"kiriwi-forest-school","name":"KiRIWi Forest School","category":"permanent_community","country":"Colombia","url":"https://worldschooly.com/hub/kiriwi-forest-school/","status":200,"finalUrl":"https://worldschooly.com/hub/kiriwi-forest-school/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:30.087Z"},{"id":"noma-collective-family-hub","name":"Noma Collective (Family Hub)","category":"permanent_community","country":"Honduras","url":"https://noma-collective.com","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:30.623Z"},{"id":"the-creative-world","name":"The Creative World","category":"permanent_community","country":"Indonesia","url":"https://theworldschoolatlas.com/listing/the-creative-world/","status":200,"finalUrl":"https://theworldschoolatlas.com/listing/the-creative-world/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:31.012Z"},{"id":"we-are-tribe","name":"We Are Tribe","category":"permanent_community","country":"Indonesia","url":"https://worldschooly.com/hub/we-are-tribe/","status":200,"finalUrl":"https://worldschooly.com/hub/we-are-tribe/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:31.189Z"},{"id":"wild-hearts-collective","name":"Wild Hearts Collective","category":"permanent_community","country":"Indonesia","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:31.192Z"},{"id":"progetto-baita","name":"Progetto Baita","category":"permanent_community","country":"Italy","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:31.541Z"},{"id":"sentira","name":"Sentira","category":"permanent_community","country":"Italy","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:31.541Z"},{"id":"sacred-roots-hub","name":"Sacred Roots Hub","category":"permanent_community","country":"Peru","url":"https://sacred-roots.lovable.app","status":404,"finalUrl":"https://sacred-roots.lovable.app/","verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:31.862Z"},{"id":"mama-adama","name":"Mama Adama","category":"permanent_community","country":"Portugal","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:32.233Z"},{"id":"spirala-eco-village","name":"Spirala Eco Village","category":"permanent_community","country":"Portugal","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:32.233Z"},{"id":"las-semillitas","name":"Las Semillitas","category":"permanent_community","country":"Spain","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:32.233Z"},{"id":"folkortation","name":"Folkortation","category":"permanent_community","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:32.307Z"},{"id":"narnia-arkee","name":"Narnia / Arkee","category":"permanent_community","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:32.307Z"},{"id":"forest-kindy-brisbane","name":"Forest Kindy - Brisbane","category":"popup","country":"Australia","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:32.812Z"},{"id":"treehouse-summit","name":"Treehouse Summit","category":"popup","country":"Bulgaria","url":"https://worldschooly.com/hub/treehouse-summit/","status":200,"finalUrl":"https://worldschooly.com/hub/treehouse-summit/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:34.538Z"},{"id":"worldschooling-bansko","name":"Worldschooling Bansko","category":"popup","country":"Bulgaria","url":"https://worldschooly.com/hub/worldschooling-bansko/","status":null,"finalUrl":null,"verdict":"aggregator-link","latestYear":null,"checkedAt":"2026-06-12T12:29:35.233Z"},{"id":"green-coco-sailing-adventures","name":"Green Coco Sailing Adventures","category":"popup","country":"Dominican Republic","url":"https://worldschooly.com/hub/green-coco-sailing-adventures/","status":null,"finalUrl":null,"verdict":"aggregator-link","latestYear":null,"checkedAt":"2026-06-12T12:29:36.173Z"},{"id":"egyptian-adventures","name":"Egyptian Adventures","category":"popup","country":"Egypt","url":"https://egyptianadventures.world","status":500,"finalUrl":"https://egyptianadventures.world/","verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:36.955Z"},{"id":"worldwise-learning","name":"Worldwise Learning","category":"popup","country":"France","url":"https://worldwiselearningadventures.com","status":200,"finalUrl":"https://www.worldwiselearningadventures.org/","verdict":"redirected","latestYear":2008,"checkedAt":"2026-06-12T12:29:39.121Z"},{"id":"ecovillage-georgia","name":"Ecovillage Georgia","category":"popup","country":"Georgia","url":"https://worldschooly.com/hub/summer-camp-at-ecovillage-georgia/","status":200,"finalUrl":"https://worldschooly.com/hub/summer-camp-at-ecovillage-georgia/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:39.285Z"},{"id":"culture-chalk","name":"Culture Chalk","category":"popup","country":"Guatemala","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:39.288Z"},{"id":"pelangi-school-creative-camp","name":"Pelangi School & Creative Camp","category":"popup","country":"Indonesia","url":"https://worldschooly.com/hub/pelangi-school-creative-camp/","status":200,"finalUrl":"https://worldschooly.com/hub/pelangi-school-creative-camp/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:42.555Z"},{"id":"better-together-hubs","name":"Better Together Hubs","category":"popup","country":"Japan","url":"https://bettertogetherhubs.com","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:42.710Z"},{"id":"arcticterns-playa-del-carmen","name":"ArcticTerns - Playa del Carmen","category":"popup","country":"Mexico","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:44.234Z"},{"id":"wildroots-worldschool","name":"Wildroots Worldschool","category":"popup","country":"Mexico","url":"https://worldschooly.com/hub/wildroots-worldschool/","status":200,"finalUrl":"https://worldschooly.com/hub/wildroots-worldschool/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:45.208Z"},{"id":"andalusia-nomad-mums-co-living-for-mums-an","name":"Andalusia Nomad Mums (co-living for mums and kids)","category":"popup","country":"Spain","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:47.628Z"},{"id":"language-and-cultural-immersion-northern-s","name":"Language and Cultural Immersion Northern Spain","category":"popup","country":"Spain","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:47.795Z"},{"id":"amani-light-worldschool-hub-tanzania","name":"Amani Light Worldschool Hub Tanzania","category":"popup","country":"Tanzania","url":"https://worldschooly.com/hub/worldschooling-tanzania","status":200,"finalUrl":"https://worldschooly.com/hub/worldschooling-tanzania/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:29:47.795Z"},{"id":"krabi-family-fun","name":"Krabi Family Fun!","category":"popup","country":"Thailand","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:47.851Z"},{"id":"languaventure-international-learning-centr","name":"Languaventure International Learning Centre & Camps","category":"popup","country":"Turkey","url":"https://languaventure.com/services/international-learning-centre","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:29:47.851Z"},{"id":"uganda-worldschooling-hub","name":"Uganda Worldschooling Hub","category":"popup","country":"Uganda","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:48.090Z"},{"id":"twin-eagles-wilderness-adventure-camps","name":"Twin Eagles Wilderness Adventure Camps","category":"popup","country":"United States","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:48.426Z"},{"id":"worldschooly-pop-ups-generic-city-series","name":"Worldschooly Pop-Ups (generic city series)","category":"popup","country":"multi","url":"https://worldschooly.com","status":200,"finalUrl":"https://worldschooly.com/","verdict":"aggregator-link","latestYear":2026,"checkedAt":"2026-06-12T12:29:48.833Z"},{"id":"worldschooling-austria-mountain-retreat","name":"Worldschooling Austria Mountain Retreat","category":"traveling","country":"Austria","url":"https://trips.everyavenue.com/trips#land-trips","status":200,"finalUrl":"https://worldschoolingjourneys.com/our-trips/","verdict":"redirected","latestYear":2026,"checkedAt":"2026-06-12T12:29:48.956Z"},{"id":"worldschooling-austria-winter-mountain-ret","name":"Worldschooling Austria Winter Mountain Retreat","category":"traveling","country":"Austria","url":"https://trips.everyavenue.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing","status":404,"finalUrl":"https://worldschoolingjourneys.com/2026-austrian-mountain-ski-trip-for-worldschooling-families-skiing","verdict":"unreachable","latestYear":2025,"checkedAt":"2026-06-12T12:29:50.238Z"},{"id":"learn-to-sail-family-adventure-greece-balk","name":"\"Learn to Sail\" Family Adventure (Greece / Balkans)","category":"traveling","country":"Greece","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:50.749Z"},{"id":"wander-wonder-the-traveling-adventure-scho","name":"Wander & Wonder — The Traveling Adventure School","category":"traveling","country":"Greece","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:50.749Z"},{"id":"wanderlust-schoolers","name":"Wanderlust Schoolers","category":"traveling","country":"Japan","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:50.753Z"},{"id":"worldschooling-dude-ranch-experience","name":"Worldschooling Dude Ranch Experience","category":"traveling","country":"United States","url":"https://trips.everyavenue.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2","status":404,"finalUrl":"https://worldschoolingjourneys.com/sept-6-veebar-dude-ranch-experience-for-world-schooling-and-homeschooling-families-2","verdict":"unreachable","latestYear":2025,"checkedAt":"2026-06-12T12:29:54.212Z"},{"id":"together-explorers","name":"Together Explorers","category":"traveling","country":"multi","url":"https://www.facebook.com/thetogetherexplorers/","status":400,"finalUrl":"https://www.facebook.com/thetogetherexplorers/","verdict":"unreachable","latestYear":2026,"checkedAt":"2026-06-12T12:29:58.412Z"},{"id":"worldschooling-journeys-every-avenue","name":"Worldschooling Journeys (Every Avenue)","category":"traveling","country":"multi (cruises + land)","url":"https://trips.everyavenue.com","status":200,"finalUrl":"https://worldschoolingjourneys.com/","verdict":"redirected","latestYear":2026,"checkedAt":"2026-06-12T12:29:58.923Z"},{"id":"cuenca","name":"Cuenca","category":"spanish_immersion","country":"Ecuador","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:29:59.758Z"},{"id":"worldschool-antigua-guatemala","name":"Worldschool Antigua Guatemala","category":"spanish_immersion","country":"Guatemala","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:01.995Z"},{"id":"san-crist-bal-de-las-casas","name":"San Cristóbal de las Casas","category":"spanish_immersion","country":"Mexico","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:02.797Z"},{"id":"jewish-worldschoolers","name":"Jewish Worldschoolers","category":"online_communities","country":"","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:02.807Z"},{"id":"worldly-teens","name":"Worldly Teens","category":"junk","country":"","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:03.352Z"},{"id":"bliss-hubs-siem-reap","name":"Bliss Hubs Siem Reap","category":"organic","country":"Cambodia","url":"https://worldschooly.com/hub/siem-reap-bliss-hub-cambodia/","status":200,"finalUrl":"https://worldschooly.com/hub/siem-reap-bliss-hub-cambodia/","verdict":"aggregator-link","latestYear":2025,"checkedAt":"2026-06-12T12:30:03.400Z"},{"id":"shanti-shanti","name":"Shanti Shanti","category":"permanent_community","country":"Cambodia","url":"https://worldschooly.com/hub/shanti-shanti-kampot...","status":404,"finalUrl":"https://worldschooly.com/hub/shanti-shanti-kampot","verdict":"aggregator-link","latestYear":2024,"checkedAt":"2026-06-12T12:30:03.596Z"},{"id":"my-worldschool-hub","name":"My Worldschool Hub","category":"online_communities","country":"England","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:03.975Z"},{"id":"porto-grana-worldschoolers-hub","name":"Porto Grana Worldschoolers Hub","category":"junk","country":"Portugal","url":"https://portograna.wixsite.com","status":404,"finalUrl":"https://portograna.wixsite.com/","verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:30:06.675Z"},{"id":"fuerteventura-worldschool-hub","name":"Fuerteventura Worldschool Hub","category":"junk","country":"Spain","url":"https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/","status":200,"finalUrl":"https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/","verdict":"aggregator-link","latestYear":2024,"checkedAt":"2026-06-12T12:30:06.743Z"},{"id":"gran-canaria-worldschool-hub","name":"Gran Canaria Worldschool Hub","category":"junk","country":"Spain","url":"https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/","status":200,"finalUrl":"https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/","verdict":"aggregator-link","latestYear":2024,"checkedAt":"2026-06-12T12:30:06.826Z"},{"id":"tenerife-worldschool-hub","name":"Tenerife Worldschool Hub","category":"junk","country":"Spain","url":"https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/","status":200,"finalUrl":"https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/","verdict":"aggregator-link","latestYear":2024,"checkedAt":"2026-06-12T12:30:06.919Z"},{"id":"panya-forest","name":"Panya Forest","category":"permanent_community","country":"Thailand","url":"https://panyaforest.com","status":500,"finalUrl":"https://panyaforest.com/","verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:30:08.311Z"},{"id":"remote-family-database-directory","name":"Remote Family Database (directory)","category":"junk","country":"global (online)","url":"https://remotefamily.com","status":null,"finalUrl":null,"verdict":"unreachable","latestYear":null,"checkedAt":"2026-06-12T12:30:08.874Z"},{"id":"we-are-worldschoolers-online","name":"We Are Worldschoolers (online)","category":"online_communities","country":"global (online)","url":null,"status":null,"finalUrl":null,"verdict":"no-url","latestYear":null,"checkedAt":"2026-06-12T12:30:08.995Z"},{"id":"worldschool-collective-directory","name":"WorldSchool Collective (directory)","category":"online_communities","country":"global (online)","url":"https://worldschoolcollective.com","status":200,"finalUrl":"https://www.skool.com/the-worldschool-collective-8368/about?ref=cc5ba498c8b24d71b1cf109c11b7c4a3","verdict":"redirected","latestYear":2003,"checkedAt":"2026-06-12T12:30:08.995Z"},{"id":"worldschooling-central-online","name":"Worldschooling Central (online)","category":"online_communities","country":"global (online)","url":"https://facebook.com/groups/worldschoolingcentral","status":400,"finalUrl":"https://www.facebook.com/groups/worldschoolingcentral","verdict":"unreachable","latestYear":2026,"checkedAt":"2026-06-12T12:30:09.239Z"}]};
+
+  const VERDICT_COLORS = {"aggregator-link":"#7c3aed","no-url":"#9f6212","unreachable":"#b45309"};
+
+  const VERSION_KEY = "audit-review-v:" + DATA.generatedAt;
+  const STATE_KEY = "audit-review-state";
+
+  // State shape: { version: string, decisions: { [id]: { decision: "approve"|"reject", url?: string, urlType?: string, category?: string } | null } }
+  function loadState() {
+    try {
+      const raw = localStorage.getItem(STATE_KEY);
+      if (!raw) return {};
+      const parsed = JSON.parse(raw);
+      if (parsed.version !== VERSION_KEY) return {};
+      return parsed.decisions || {};
+    } catch { return {}; }
+  }
+  function saveState(decisions) {
+    try {
+      localStorage.setItem(STATE_KEY, JSON.stringify({ version: VERSION_KEY, decisions }));
+    } catch {}
+  }
+
+  const decisions = loadState();
+
+  function el(tag, attrs, ...children) {
+    const e = document.createElement(tag);
+    if (attrs) Object.entries(attrs).forEach(([k, v]) => {
+      if (k === "className") e.className = v;
+      else if (k === "style") Object.assign(e.style, v);
+      else if (k.startsWith("on")) e.addEventListener(k.slice(2).toLowerCase(), v);
+      else e.setAttribute(k, v);
+    });
+    children.flat(Infinity).forEach(c => {
+      if (c == null) return;
+      e.append(typeof c === "string" ? document.createTextNode(c) : c);
+    });
+    return e;
+  }
+
+  function link(href, text) {
+    if (!href) return document.createTextNode("—");
+    const a = document.createElement("a");
+    a.href = href; a.textContent = text || href;
+    a.target = "_blank"; a.rel = "noopener noreferrer";
+    return a;
+  }
+
+  // ---- Rendering ----
+
+  let activeFilter = "all";
+
+  function verdictGroups() {
+    const groups = new Set(DATA.actionable.map(r => r.verdict));
+    return ["all", ...Array.from(groups).sort()];
+  }
+
+  function buildFilterChips() {
+    const row = document.getElementById("filter-row");
+    verdictGroups().forEach(v => {
+      const count = v === "all" ? DATA.actionable.length : DATA.actionable.filter(r => r.verdict === v).length;
+      const chip = el("button", {
+        className: "chip" + (v === "all" ? " active" : ""),
+        "data-verdict": v,
+        onClick: () => setFilter(v),
+      }, v === "all" ? "All (" + count + ")" : v + " (" + count + ")");
+      row.appendChild(chip);
+    });
+  }
+
+  function setFilter(v) {
+    activeFilter = v;
+    document.querySelectorAll(".chip").forEach(c => {
+      c.classList.toggle("active", c.dataset.verdict === v);
+    });
+    DATA.actionable.forEach(r => {
+      const card = document.getElementById("card-" + r.id);
+      if (card) card.classList.toggle("hidden", v !== "all" && r.verdict !== v);
+    });
+  }
+
+  function updateProgress() {
+    const total = DATA.actionable.length;
+    const decided = Object.values(decisions).filter(d => d !== null).length;
+    const approved = Object.values(decisions).filter(d => d && d.decision === "approve").length;
+    const rejected = Object.values(decisions).filter(d => d && d.decision === "reject").length;
+    const pct = total > 0 ? (decided / total) * 100 : 0;
+    document.getElementById("progress-bar").style.width = pct + "%";
+    document.getElementById("progress-stats").innerHTML =
+      "<span>" + decided + " of " + total + " decided</span>" +
+      "<span class='stat-approved'>" + approved + " approved</span>" +
+      "<span class='stat-rejected'>" + rejected + " rejected</span>";
+  }
+
+  function updateCardState(id) {
+    const d = decisions[id];
+    const card = document.getElementById("card-" + id);
+    if (!card) return;
+    card.classList.remove("decided-approve", "decided-reject");
+    const btnA = card.querySelector(".btn-approve");
+    const btnR = card.querySelector(".btn-reject");
+    btnA.classList.remove("active");
+    btnR.classList.remove("active");
+    if (d) {
+      if (d.decision === "approve") {
+        card.classList.add("decided-approve");
+        btnA.classList.add("active");
+      } else if (d.decision === "reject") {
+        card.classList.add("decided-reject");
+        btnR.classList.add("active");
+      }
+    }
+  }
+
+  const CATEGORIES = ["","junk","online_communities"];
+
+  function buildCard(r) {
+    const urlEl = r.url ? link(r.url, r.url) : document.createTextNode("—");
+    const proposedEl = r.proposedUrl ? link(r.proposedUrl, r.proposedUrl) : document.createTextNode("—");
+    const proposedType = r.proposedUrlType ? el("span", { className: "awaiting-meta" }, " (" + r.proposedUrlType + ")") : null;
+    const proposedCat = r.proposedCategory ? el("span", { className: "awaiting-meta" }, " cat: " + r.proposedCategory) : null;
+
+    const badgeColor = VERDICT_COLORS[r.verdict] || "#6b7280";
+    const badge = el("span", { className: "badge", style: { background: badgeColor } }, r.verdict);
+
+    // Edit disclosure elements
+    const urlInput = el("input", { type: "text", value: r.proposedUrl || "", placeholder: "https://..." });
+    const typeSelect = el("select", {},
+      el("option", { value: "site" }, "site"),
+      el("option", { value: "social" }, "social"),
+    );
+    if (r.proposedUrlType === "social") typeSelect.value = "social";
+    const catSelect = el("select", {},
+      ...["", "junk", "online_communities"].map(c => el("option", { value: c }, c || "(none)"))
+    );
+    if (r.proposedCategory) catSelect.value = r.proposedCategory;
+
+    const disclosure = el("div", { className: "edit-disclosure" },
+      el("div", { className: "edit-grid" },
+        el("div", { className: "edit-group" },
+          el("label", {}, "URL"),
+          urlInput,
+        ),
+        el("div", { className: "edit-group" },
+          el("label", {}, "Type"),
+          typeSelect,
+        ),
+        el("div", { className: "edit-group" },
+          el("label", {}, "Category"),
+          catSelect,
+        ),
+      )
+    );
+
+    function getEdits() {
+      const url = urlInput.value.trim();
+      const type = typeSelect.value;
+      const cat = catSelect.value;
+      // Only include fields the user actually changed from defaults
+      const edits = {};
+      if (url && url !== (r.proposedUrl || "")) edits.url = url;
+      if ((url || r.proposedUrl) && type !== (r.proposedUrlType || "site")) edits.urlType = type;
+      if (cat && cat !== (r.proposedCategory || "")) edits.category = cat;
+      return edits;
+    }
+
+    function approve() {
+      const edits = getEdits();
+      // If disclosure is open and user typed a URL, treat as explicit override
+      if (disclosure.classList.contains("open")) {
+        const url = urlInput.value.trim() || r.proposedUrl || null;
+        const type = typeSelect.value;
+        const cat = catSelect.value;
+        const d = { decision: "approve" };
+        if (url && url !== r.proposedUrl) { d.url = url; d.urlType = type; }
+        else if (cat && cat !== (r.proposedCategory || "")) { d.category = cat; }
+        // if only type changed
+        if (!d.url && url && type !== (r.proposedUrlType || "site")) { d.url = url; d.urlType = type; }
+        decisions[r.id] = d;
+      } else {
+        // plain approve — apply uses proposals from audit
+        decisions[r.id] = { decision: "approve" };
+      }
+      saveState(decisions);
+      updateCardState(r.id);
+      updateProgress();
+    }
+
+    function reject() {
+      decisions[r.id] = { decision: "reject" };
+      saveState(decisions);
+      updateCardState(r.id);
+      updateProgress();
+    }
+
+    const btnApprove = el("button", { className: "btn btn-approve", onClick: approve }, "Approve");
+    const btnReject = el("button", { className: "btn btn-reject", onClick: reject }, "Reject");
+    const btnEdit = el("button", { className: "btn btn-edit-toggle", onClick: () => {
+      disclosure.classList.toggle("open");
+      btnEdit.textContent = disclosure.classList.contains("open") ? "Close edit" : "Edit fields";
+    } }, "Edit fields");
+
+    const noteEl = r.resolutionNote
+      ? el("div", { className: "card-note" }, r.resolutionNote)
+      : null;
+
+    // Current URL row
+    const metaItems = [];
+    metaItems.push(el("span", {}, el("span", { className: "label" }, "country: "), r.country || "—"));
+    metaItems.push(el("span", {}, el("span", { className: "label" }, "year: "), String(r.latestYear ?? "—")));
+    metaItems.push(el("span", {}, el("span", { className: "label" }, "current: "), urlEl));
+    if (r.proposedUrl) {
+      const pSpan = document.createElement("span");
+      pSpan.appendChild(el("span", { className: "label" }, "proposed: "));
+      pSpan.appendChild(proposedEl);
+      if (proposedType) pSpan.appendChild(proposedType);
+      if (proposedCat) pSpan.appendChild(proposedCat);
+      metaItems.push(pSpan);
+    }
+
+    const card = el("div", { className: "card", id: "card-" + r.id },
+      el("div", { className: "card-header" },
+        el("div", { className: "card-name" },
+          r.name,
+          el("span", { className: "card-id" }, r.id),
+        ),
+        badge,
+      ),
+      el("div", { className: "card-meta" }, ...metaItems),
+      noteEl,
+      el("div", { className: "card-controls" },
+        btnApprove, btnReject, btnEdit,
+      ),
+      disclosure,
+    );
+
+    return card;
+  }
+
+  function buildAwaitingList() {
+    const list = document.getElementById("awaiting-list");
+    document.getElementById("awaiting-count").textContent = String(DATA.awaiting.length);
+    DATA.awaiting.forEach(r => {
+      const badgeColor = VERDICT_COLORS[r.verdict] || "#6b7280";
+      const badge = el("span", { className: "badge", style: { background: badgeColor } }, r.verdict);
+      const row = el("div", { className: "awaiting-row" },
+        el("span", { className: "awaiting-name" }, r.name, " ", el("span", { className: "awaiting-meta" }, r.id)),
+        badge,
+        el("span", { className: "awaiting-meta" }, r.country || ""),
+        r.url ? link(r.url, "link") : el("span", { className: "awaiting-meta" }, "no url"),
+      );
+      list.appendChild(row);
+    });
+  }
+
+  function buildExport() {
+    document.getElementById("btn-export").addEventListener("click", () => {
+      const out = {};
+      for (const [id, d] of Object.entries(decisions)) {
+        if (!d || !d.decision) continue;
+        if (d.decision === "reject") {
+          out[id] = { decision: "reject" };
+        } else if (d.decision === "approve") {
+          const entry = { decision: "approve" };
+          if (d.url) {
+            entry.website = d.url;
+            entry.websiteType = d.urlType || "site";
+          }
+          if (d.category) entry.category = d.category;
+          out[id] = entry;
+        }
+      }
+      const blob = new Blob([JSON.stringify(out, null, 2) + "\n"], { type: "application/json" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "link-audit-decisions.json";
+      a.click();
+      URL.revokeObjectURL(a.href);
+    });
+  }
+
+  function init() {
+    document.getElementById("meta-line").textContent =
+      "Generated from audit " + DATA.generatedAt + " — " + DATA.actionable.length + " actionable / " + DATA.awaiting.length + " awaiting";
+
+    buildFilterChips();
+
+    const list = document.getElementById("card-list");
+    DATA.actionable.forEach(r => {
+      list.appendChild(buildCard(r));
+      updateCardState(r.id);
+    });
+
+    buildAwaitingList();
+    buildExport();
+    updateProgress();
+  }
+
+  init();
+})();
+</script>
+</body>
+</html>

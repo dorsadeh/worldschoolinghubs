@@ -16,7 +16,8 @@
     "geocode": "tsx scripts/geocode-directory.ts",
     "audit:links": "tsx scripts/audit-links.ts",
     "audit:report": "tsx scripts/audit-report.ts",
-    "audit:apply": "tsx scripts/audit-apply.ts"
+    "audit:apply": "tsx scripts/audit-apply.ts",
+    "audit:review": "tsx scripts/audit-review-page.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
