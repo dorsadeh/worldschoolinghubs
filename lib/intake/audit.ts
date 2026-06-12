@@ -36,6 +36,8 @@ export function classifyLink(
   nowIso: string = new Date().toISOString(),
 ): LinkVerdict {
   if (!outcome.url.trim()) return "no-url";
+  // An aggregator URL is a source-model violation regardless of reachability.
+  if (isAggregatorUrl(outcome.url, registry)) return "aggregator-link";
   const failed = outcome.status === null || outcome.status >= 400;
   if (failed) {
     if (prev?.verdict === "dead") return "dead"; // once dead, stays dead on further failures

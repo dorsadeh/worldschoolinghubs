@@ -67,6 +67,12 @@ describe("classifyLink", () => {
       REG, prev, "2026-06-12T00:00:00Z",
     )).toBe("unreachable");
   });
+  it("unreachable aggregator URL is still aggregator-link (truncated/dead listing)", () => {
+    expect(classifyLink(
+      { url: "https://worldschooly.com/hub/gone...", status: 404, finalUrl: null, bodyText: "" },
+      REG,
+    )).toBe("aggregator-link");
+  });
   it("blank url → no-url", () => {
     expect(classifyLink({ url: "  ", status: null, finalUrl: null, bodyText: "" }, REG)).toBe("no-url");
   });
