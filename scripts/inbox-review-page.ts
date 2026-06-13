@@ -251,6 +251,9 @@ a:hover { opacity: 0.8; }
 
   function link(href, text) {
     if (!href) return document.createTextNode("—");
+    let ok = false;
+    try { ok = ["http:", "https:"].includes(new URL(href).protocol); } catch (e) { ok = false; }
+    if (!ok) return document.createTextNode(text || href);
     const a = document.createElement("a");
     a.href = href; a.textContent = text || href;
     a.target = "_blank"; a.rel = "noopener noreferrer";
@@ -416,22 +419,21 @@ a:hover { opacity: 0.8; }
     );
 
     // approve(): collect all fields that differ from the candidate's current value
+    // Always read inputs — DOM retains values even when the edit panel is closed
     function approve() {
       const d = { decision: "approve" };
-      if (disclosure.classList.contains("open")) {
-        const newName = nameInput.value.trim();
-        const newCountry = countryInput.value.trim();
-        const newRegion = regionInput.value.trim();
-        const newCategory = categorySelect.value;
-        const newProviderUrl = providerUrlInput.value.trim() || null;
-        const newUrlType = urlTypeSelect.value;
-        if (newName && newName !== c.name) d.name = newName;
-        if (newCountry !== (c.country || "")) d.country = newCountry;
-        if (newRegion !== (c.region || "")) d.region = newRegion;
-        if (newCategory !== (c.categoryGuess || "")) d.categoryGuess = newCategory;
-        if (newProviderUrl !== (c.providerUrl || null)) d.providerUrl = newProviderUrl;
-        if (newUrlType !== (c.urlType || "site")) d.urlType = newUrlType;
-      }
+      const newName = nameInput.value.trim();
+      const newCountry = countryInput.value.trim();
+      const newRegion = regionInput.value.trim();
+      const newCategory = categorySelect.value;
+      const newProviderUrl = providerUrlInput.value.trim() || null;
+      const newUrlType = urlTypeSelect.value;
+      if (newName && newName !== c.name) d.name = newName;
+      if (newCountry !== (c.country || "")) d.country = newCountry;
+      if (newRegion !== (c.region || "")) d.region = newRegion;
+      if (newCategory !== (c.categoryGuess || "")) d.categoryGuess = newCategory;
+      if (newProviderUrl !== (c.providerUrl || null)) d.providerUrl = newProviderUrl;
+      if (newUrlType !== (c.urlType || "site")) d.urlType = newUrlType;
       decisions[c.cid] = d;
       saveState(decisions);
       updateCardState(c.cid);
