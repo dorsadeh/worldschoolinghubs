@@ -27,7 +27,7 @@ const OUT = join(ROOT, "public", "directory.json");
 
 const VALID_CATEGORIES: HubCategory[] = [
   "organic", "permanent_commercial", "permanent_community",
-  "popup", "traveling", "spanish_immersion",
+  "popup", "traveling", "spanish_immersion", "summer_camp",
   "online_communities", "junk", "inactive",
 ];
 

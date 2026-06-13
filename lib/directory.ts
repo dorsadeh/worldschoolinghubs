@@ -2,7 +2,7 @@ import rawImageBlocklist from "../data/image-blocklist.json";
 
 export type HubCategory =
   | "organic" | "permanent_commercial" | "permanent_community"
-  | "popup" | "traveling" | "spanish_immersion"
+  | "popup" | "traveling" | "spanish_immersion" | "summer_camp"
   // Hidden-from-site buckets (kept in the data, never displayed — see HIDDEN_CATEGORIES):
   | "online_communities" | "junk" | "inactive";
 
@@ -142,6 +142,7 @@ export const CATEGORY_META: Record<HubCategory, { label: string; color: string }
   popup: { label: "Pop-up", color: "#e11d48" },
   traveling: { label: "Traveling", color: "#2563eb" },
   spanish_immersion: { label: "Spanish", color: "#d97706" },
+  summer_camp: { label: "Summer camp", color: "#b45309" },
   // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
   online_communities: { label: "Online community", color: "#7a8699" },
   junk: { label: "Junk", color: "#9aa0a6" },

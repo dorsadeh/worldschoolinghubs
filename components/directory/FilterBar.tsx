@@ -28,6 +28,7 @@ const CATEGORY_TIPS: Record<HubCategory, string> = {
   popup: "Temporary gatherings organized for a specific trip or season",
   traveling: "Mobile programs that move between multiple locations",
   spanish_immersion: "Hubs in Spanish-speaking countries with a focus on language immersion",
+  summer_camp: "Summer/holiday day-camps for traveling families",
   // Hidden categories — never rendered as pills, but the Record must stay exhaustive.
   online_communities: "Online community (not shown on the site)",
   junk: "Parked dead/broken listing (not shown on the site)",
