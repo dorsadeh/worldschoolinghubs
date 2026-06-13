@@ -3,6 +3,8 @@ import { join } from "node:path";
 
 export interface CandidateEvidence { url: string; asOf: string }
 
+export type DedupeVerdict = "new" | "known" | `possible-dup-of:${string}`;
+
 export interface InboxCandidate {
   cid: string;
   name: string;
@@ -15,7 +17,7 @@ export interface InboxCandidate {
   evidence: CandidateEvidence[];
   sourceChannel: string;
   notes?: string;
-  dedupe: "new" | "known" | `possible-dup-of:${string}`;            // dedupe verdict
+  dedupe: DedupeVerdict;                                             // dedupe verdict
   addedAt: string;
   listingDate?: string;
 }
@@ -41,7 +43,7 @@ export function candidateCid(name: string, sourceChannel: string): string {
   return `${slugify(name)}--${slugify(sourceChannel)}`;
 }
 
-export function dedupeVerdict(name: string, country: string | undefined, dir: DirEntry[]): string {
+export function dedupeVerdict(name: string, country: string | undefined, dir: DirEntry[]): DedupeVerdict {
   const n = normName(name);
   const slug = slugify(name);
   for (const e of dir) {
