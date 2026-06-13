@@ -301,6 +301,23 @@ for f in sorted(glob.glob(os.path.join(HUBS, "*.json"))):
         facebook=(d.get("links",{}) or {}).get("facebook",""),
         source="PDF (June-2026 listing)", notes=edu[:200]))
 
+# ---- 1b. inbox-approved candidates (Stage-2 discovery → user-approved; beats web candidates, loses to curated PDF) ----
+apath = os.path.join(ROOT, "approved-candidates.csv")
+if os.path.exists(apath):
+    with open(apath, encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            name = r.get("name","")
+            if not name: continue
+            aud = r.get("ages",""); audfor = "families" if "famil" in (r.get("notes","")+name).lower() else ""
+            cat, sp = categorize(name, r.get("type",""), audfor, r.get("country",""), r.get("notes",""), "")
+            part = participation(audfor, name, "", r.get("notes",""))
+            entries.append(dict(name=name, host=r.get("host",""), category=cat, spanish=sp,
+                participation=part, country=r.get("country",""), region=r.get("region_city",""),
+                season=r.get("season_dates",""), ages=r.get("ages",""), price=r.get("price",""),
+                nationality="", validity="inbox-approved",
+                website=r.get("website",""), facebook=r.get("facebook_instagram",""),
+                source="inbox ("+r.get("source_directory","")+")", notes=r.get("notes","")[:200]))
+
 # ---- 2. web candidates CSV ----------------------------------------------
 cpath = os.path.join(ROOT, "candidate-hubs-2026-06-08.csv")
 with open(cpath) as fh:
@@ -317,23 +334,6 @@ with open(cpath) as fh:
             nationality="", validity="web candidate ("+r.get("confidence","")+")",
             website=r.get("website",""), facebook=r.get("facebook_instagram",""),
             source="web research ("+r.get("source_directory","")+")", notes=r.get("notes","")[:200]))
-
-# ---- 2b. inbox-approved candidates (Stage-2 discovery → user-approved) ----
-apath = os.path.join(ROOT, "approved-candidates.csv")
-if os.path.exists(apath):
-    with open(apath, encoding="utf-8") as fh:
-        for r in csv.DictReader(fh):
-            name = r.get("name","")
-            if not name: continue
-            aud = r.get("ages",""); audfor = "families" if "famil" in (r.get("notes","")+name).lower() else ""
-            cat, sp = categorize(name, r.get("type",""), audfor, r.get("country",""), r.get("notes",""), "")
-            part = participation(audfor, name, "", r.get("notes",""))
-            entries.append(dict(name=name, host=r.get("host",""), category=cat, spanish=sp,
-                participation=part, country=r.get("country",""), region=r.get("region_city",""),
-                season=r.get("season_dates",""), ages=r.get("ages",""), price=r.get("price",""),
-                nationality="", validity="inbox-approved",
-                website=r.get("website",""), facebook=r.get("facebook_instagram",""),
-                source="inbox ("+r.get("source_directory","")+")", notes=r.get("notes","")[:200]))
 
 # ---- 3. curated extras (organic destinations, Spanish towns, traveling) --
 EXTRA = [

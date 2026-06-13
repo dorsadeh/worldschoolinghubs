@@ -31,7 +31,7 @@ interface InboxDecision {
 }
 
 function csvEscape(v: string): string {
-  return /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v;
+  return /[",\n\r]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v;
 }
 
 function main() {
@@ -70,6 +70,9 @@ function main() {
     approved++;
   }
 
+  if (csvLines.length && !existsSync(APPROVED_CSV)) {
+    writeFileSync(APPROVED_CSV, CSV_COLUMNS.join(",") + "\n");
+  }
   if (csvLines.length) appendFileSync(APPROVED_CSV, csvLines.join("\n") + "\n");
   inbox.candidates = inbox.candidates.filter((c) => !processed.has(c.cid));
   saveInbox(inbox);
