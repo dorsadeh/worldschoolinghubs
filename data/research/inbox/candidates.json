@@ -1,1 +1,725 @@
-{ "updatedAt": "", "candidates": [] }
+{
+ "updatedAt": "2026-06-13T10:06:52.595Z",
+ "candidates": [
+  {
+   "cid": "worldschool-pop-up-el-salvador--aggregator-diff-worldschooly-com",
+   "name": "Worldschool Pop Up El Salvador",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschool-pop-up-el-salvador/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "cacao-coast-cr--aggregator-diff-worldschooly-com",
+   "name": "Cacao Coast Cr",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/cacao-coast-cr/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "minga-house-worldschooling--aggregator-diff-worldschooly-com",
+   "name": "Minga House Worldschooling",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/minga-house-worldschooling/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "worldschool-gathering-the-netherlands--aggregator-diff-worldschooly-com",
+   "name": "Worldschool Gathering The Netherlands",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschool-gathering-the-netherlands/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "worldschooling-hub-luxor-egypt--aggregator-diff-worldschooly-com",
+   "name": "Worldschooling Hub Luxor Egypt",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschooling-hub-luxor-egypt/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "shanti-shanti-kampot-worldschooling-hub-me--aggregator-diff-worldschooly-com",
+   "name": "Shanti Shanti Kampot Worldschooling Hub Meetup",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/shanti-shanti-kampot-worldschooling-hub-meetup/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "summer-camp-at-ecovillage-georgia--aggregator-diff-worldschooly-com",
+   "name": "Summer Camp At Ecovillage Georgia",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/summer-camp-at-ecovillage-georgia/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "project-worldschool-peru-retreat--aggregator-diff-worldschooly-com",
+   "name": "Project Worldschool Peru Retreat",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/project-worldschool-peru-retreat/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "austrian-mountain-fall-retreat--aggregator-diff-worldschooly-com",
+   "name": "Austrian Mountain Fall Retreat",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/austrian-mountain-fall-retreat/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "oaxaca-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Oaxaca Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/oaxaca-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "mendocino-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Mendocino Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/mendocino-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "inside-romania-worldschooling--aggregator-diff-worldschooly-com",
+   "name": "Inside Romania Worldschooling",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/inside-romania-worldschooling/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "worldschooling-secondary-education-thailan--aggregator-diff-worldschooly-com",
+   "name": "Worldschooling Secondary Education Thailand",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschooling-secondary-education-thailand/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "worldschool-gathering-croatia-teens-and-tw--aggregator-diff-worldschooly-com",
+   "name": "Worldschool Gathering Croatia Teens And Tweens Edition",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschool-gathering-croatia-teens-and-tweens-edition/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "mexico-city-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Mexico City Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/mexico-city-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "buenos-aires-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Buenos Aires Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/buenos-aires-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "san-miguel-de-allende-pop-up--aggregator-diff-worldschooly-com",
+   "name": "San Miguel De Allende Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/san-miguel-de-allende-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "the-field-school-of-hvar--aggregator-diff-worldschooly-com",
+   "name": "The Field School Of Hvar",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/the-field-school-of-hvar/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "osaka-worldschool-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Osaka Worldschool Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/osaka-worldschool-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "luang-prabang-worldschool-pop-up--aggregator-diff-worldschooly-com",
+   "name": "Luang Prabang Worldschool Pop Up",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/luang-prabang-worldschool-pop-up/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "worldschooling-family-retreat-ardeche-fran--aggregator-diff-worldschooly-com",
+   "name": "Worldschooling Family Retreat Ardeche France",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/worldschooling-family-retreat-ardeche-france/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "bornholm-worldschool-hub--aggregator-diff-worldschooly-com",
+   "name": "Bornholm Worldschool Hub",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/bornholm-worldschool-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "bali-bliss-hub--aggregator-diff-worldschooly-com",
+   "name": "Bali Bliss Hub",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/bali-bliss-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "algarve-worldschooling-hub--aggregator-diff-worldschooly-com",
+   "name": "Algarve Worldschooling Hub",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/algarve-worldschooling-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "shepherds-rest--aggregator-diff-worldschooly-com",
+   "name": "Shepherds Rest",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/shepherds-rest/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "siem-reap-bliss-hub-cambodia--aggregator-diff-worldschooly-com",
+   "name": "Siem Reap Bliss Hub Cambodia",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/siem-reap-bliss-hub-cambodia/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "guanacaste-childrens-community-center--aggregator-diff-worldschooly-com",
+   "name": "Guanacaste Childrens Community Center",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/guanacaste-childrens-community-center/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "dream-big-travels-borneo--aggregator-diff-worldschooly-com",
+   "name": "Dream Big Travels Borneo",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/dream-big-travels-borneo/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "pai-bliss-hub-thailand--aggregator-diff-worldschooly-com",
+   "name": "Pai Bliss Hub Thailand",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/pai-bliss-hub-thailand/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "koh-lanta-bliss-hub-thailand--aggregator-diff-worldschooly-com",
+   "name": "Koh Lanta Bliss Hub Thailand",
+   "evidence": [
+    {
+     "url": "https://worldschooly.com/hub/koh-lanta-bliss-hub-thailand/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:worldschooly.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:56.133Z",
+   "notes": "auto-extracted from worldschooly.com listing index; name derived from slug"
+  },
+  {
+   "cid": "hakuba-japan-the-perfect-place-for-homesch--aggregator-diff-theworldschoolatlas-com",
+   "name": "Hakuba Japan The Perfect Place For Homeschool Families To Join An International School For A Term Or A Year",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/hakuba-japan-the-perfect-place-for-homeschool-families-to-join-an-international-school-for-a-term-or-a-year/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "egyptian-adventures-2--aggregator-diff-theworldschoolatlas-com",
+   "name": "Egyptian Adventures 2",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/egyptian-adventures-2/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "tika-ranch-a-world-schooling-hub-in-sidi-k--aggregator-diff-theworldschoolatlas-com",
+   "name": "Tika Ranch A World Schooling Hub In Sidi Kaouki",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/tika-ranch-a-world-schooling-hub-in-sidi-kaouki/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "guanacaste-childrens-community-center-gccc--aggregator-diff-theworldschoolatlas-com",
+   "name": "Guanacaste Childrens Community Center Gccc",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/guanacaste-childrens-community-center-gccc/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "valencia-worldschool-hub--aggregator-diff-theworldschoolatlas-com",
+   "name": "Valencia Worldschool Hub",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/valencia-worldschool-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "bliss-investors-kuala-lumpur-community-hub--aggregator-diff-theworldschoolatlas-com",
+   "name": "Bliss Investors Kuala Lumpur Community Hub",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/bliss-investors-kuala-lumpur-community-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "world-school-family-resort--aggregator-diff-theworldschoolatlas-com",
+   "name": "World School Family Resort",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/world-school-family-resort/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "the-hive-dominican-republic--aggregator-diff-theworldschoolatlas-com",
+   "name": "The Hive Dominican Republic",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/the-hive-dominican-republic/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "the-wanderlust-worldschool--aggregator-diff-theworldschoolatlas-com",
+   "name": "The Wanderlust Worldschool",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/the-wanderlust-worldschool/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "wild-adventure-school-africa-hub--aggregator-diff-theworldschoolatlas-com",
+   "name": "Wild Adventure School Africa Hub",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/wild-adventure-school-africa-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "road-2-tikal-guatemaya-family-adventure-hu--aggregator-diff-theworldschoolatlas-com",
+   "name": "Road 2 Tikal Guatemaya Family Adventure Hub",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/road-2-tikal-guatemaya-family-adventure-hub/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "spring-break-calca-peru--aggregator-diff-theworldschoolatlas-com",
+   "name": "Spring Break Calca Peru",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/spring-break-calca-peru/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "la-herradura--aggregator-diff-theworldschoolatlas-com",
+   "name": "La Herradura",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/la-herradura/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "london-calling-london-uk--aggregator-diff-theworldschoolatlas-com",
+   "name": "London Calling London Uk",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/london-calling-london-uk/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "traveling-village--aggregator-diff-theworldschoolatlas-com",
+   "name": "Traveling Village",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/traveling-village/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "deliberate-detour-worldschooling-hubs-cusc--aggregator-diff-theworldschoolatlas-com",
+   "name": "Deliberate Detour Worldschooling Hubs Cusco Peru",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/deliberate-detour-worldschooling-hubs-cusco-peru/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "deliberate-detour-worldschooling-hubs-oaxa--aggregator-diff-theworldschoolatlas-com",
+   "name": "Deliberate Detour Worldschooling Hubs Oaxaca Mexico",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/deliberate-detour-worldschooling-hubs-oaxaca-mexico/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "deliberate-detour-worldschooling-hubs-anti--aggregator-diff-theworldschoolatlas-com",
+   "name": "Deliberate Detour Worldschooling Hubs Antigua Guatemala",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/deliberate-detour-worldschooling-hubs-antigua-guatemala/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "dhangethi-maldives--aggregator-diff-theworldschoolatlas-com",
+   "name": "Dhangethi Maldives",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/dhangethi-maldives/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "bansko-town--aggregator-diff-theworldschoolatlas-com",
+   "name": "Bansko Town",
+   "evidence": [
+    {
+     "url": "https://theworldschoolatlas.com/listing/bansko-town/",
+     "asOf": "2026-06-13"
+    }
+   ],
+   "sourceChannel": "aggregator-diff:theworldschoolatlas.com",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:05:58.748Z",
+   "notes": "auto-extracted from theworldschoolatlas.com listing index; name derived from slug"
+  },
+  {
+   "cid": "portugal-pop-up-worldschool-hub--manual",
+   "name": "Portugal Pop Up Worldschool Hub",
+   "country": "Portugal",
+   "region": "Lisbon / Cascais",
+   "claimedDates": "weekly meetups",
+   "categoryGuess": "popup",
+   "providerUrl": "https://www.portugalpopup.com/",
+   "urlType": "site",
+   "evidence": [
+    {
+     "url": "https://www.portugalpopup.com/",
+     "asOf": "2026-06-12"
+    }
+   ],
+   "sourceChannel": "manual",
+   "notes": "spotted during Stage-1 lisbon-cascais resolution; weekly beach/park meetups for traveling families",
+   "dedupe": "new",
+   "addedAt": "2026-06-13T10:06:52.595Z"
+  }
+ ]
+}
