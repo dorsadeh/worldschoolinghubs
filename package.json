@@ -17,7 +17,8 @@
     "audit:links": "tsx scripts/audit-links.ts",
     "audit:report": "tsx scripts/audit-report.ts",
     "audit:apply": "tsx scripts/audit-apply.ts",
-    "audit:review": "tsx scripts/audit-review-page.ts"
+    "audit:review": "tsx scripts/audit-review-page.ts",
+    "inbox:apply": "tsx scripts/inbox-apply.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
