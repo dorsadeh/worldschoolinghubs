@@ -1,0 +1,20 @@
+{
+  "worldschooly.com": {
+    "index": ["https://worldschooly.com/hubs/"],
+    "paginate": "https://worldschooly.com/hubs/page/{n}/",
+    "maxPages": 12,
+    "linkPattern": "https://worldschooly\\.com/hub/([a-z0-9-]+)/"
+  },
+  "theworldschoolatlas.com": {
+    "index": [
+      "https://theworldschoolatlas.com/listing-category/hubs/",
+      "https://theworldschoolatlas.com/listing-category/events/"
+    ],
+    "paginate": "{index}page/{n}/",
+    "maxPages": 12,
+    "linkPattern": "https://theworldschoolatlas\\.com/listing/([a-z0-9-]+)/"
+  },
+  "famunity.net": {
+    "unsupported": "structure not yet probed — Task 4 implementer: probe and fill in, or document why not scrapeable"
+  }
+}
