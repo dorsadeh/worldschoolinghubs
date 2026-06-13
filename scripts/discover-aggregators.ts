@@ -15,7 +15,7 @@ import {
   loadInbox, saveInbox, loadRejected, isRejected, dedupeVerdict, candidateCid,
   type DirEntry, type InboxCandidate,
 } from "../lib/intake/inbox";
-import { extractSlugs, slugToName, diffListings, type ScrapeSiteConfig, type Listings }
+import { extractSlugs, slugToName, diffListings, extractListingDate, extractTitle, type ScrapeSiteConfig, type Listings }
   from "../lib/intake/scrape";
 
 const RESEARCH = join(process.cwd(), "data", "research");
@@ -83,24 +83,31 @@ async function main() {
       const fresh = diffListings(current, prev);
 
       const channel = `aggregator-diff:${domain}`;
-      const now = new Date().toISOString();
       for (const [slug, url] of Object.entries(fresh)) {
-        const name = slugToName(slug);
+        const slugName = slugToName(slug);
+        if (isRejected(slugName, rejected)) continue;
+        const listingHtml = await fetchPage(url);          // one fetch per new listing
+        const name = (listingHtml && extractTitle(listingHtml)) || slugName;
         if (isRejected(name, rejected)) continue;
+        const listingDate = listingHtml ? extractListingDate(listingHtml) : null;
         const verdict = dedupeVerdict(name, undefined, dir);
         if (verdict === "known") continue;
         const cid = candidateCid(name, channel);
         if (inboxCids.has(cid)) continue;
+        const now = new Date().toISOString();
         const cand: InboxCandidate = {
-          cid, name, evidence: [{ url, asOf: now.slice(0, 10) }],
+          cid, name,
+          evidence: [{ url, asOf: listingDate ?? now.slice(0, 10) }],
           sourceChannel: channel, dedupe: verdict, addedAt: now,
-          notes: `auto-extracted from ${domain} listing index; name derived from slug`,
+          listingDate: listingDate ?? undefined,
+          notes: `extracted from ${domain} listing${listingDate ? ` (listing dated ${listingDate})` : ""}`,
         };
         inbox.candidates.push(cand);
         inboxCids.add(cid);
         added++;
       }
-      writeFileSync(snapPath, JSON.stringify({ fetchedAt: now, listings: current }, null, 1) + "\n");
+      const snapNow = new Date().toISOString();
+      writeFileSync(snapPath, JSON.stringify({ fetchedAt: snapNow, listings: current }, null, 1) + "\n");
       saveInbox(inbox);
     } catch (err) {
       console.warn(`${domain}: error — skipped`, err instanceof Error ? err.message : err);
