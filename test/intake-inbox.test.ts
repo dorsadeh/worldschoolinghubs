@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 import {
   normName, slugify, candidateCid, dedupeVerdict, isRejected, candidateToCsvRow,
-  loadRejected, saveRejected,
+  loadRejected, saveRejected, isStale,
   type InboxCandidate,
 } from "../lib/intake/inbox";
 
@@ -97,6 +97,18 @@ describe("candidateCid channel slugging", () => {
   it("slugifies a channel containing the separator/spaces", () => {
     expect(candidateCid("Hub X", "aggregator-diff:worldschooly.com"))
       .toBe("hub-x--aggregator-diff-worldschooly-com");
+  });
+});
+
+describe("isStale", () => {
+  it("true when listingDate older than the cutoff months", () => {
+    expect(isStale("2023-10-23", "2026-06-13", 18)).toBe(true);
+  });
+  it("false when recent", () => {
+    expect(isStale("2026-01-01", "2026-06-13", 18)).toBe(false);
+  });
+  it("false/unknown when no date", () => {
+    expect(isStale(null, "2026-06-13", 18)).toBe(false);
   });
 });
 

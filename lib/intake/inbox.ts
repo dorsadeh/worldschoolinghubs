@@ -17,6 +17,7 @@ export interface InboxCandidate {
   notes?: string;
   dedupe: "new" | "known" | `possible-dup-of:${string}`;            // dedupe verdict
   addedAt: string;
+  listingDate?: string;
 }
 
 export interface InboxFile { updatedAt: string; candidates: InboxCandidate[] }
@@ -79,6 +80,14 @@ export function loadRejected(path: string = REJECTED_PATH): RejectedFile {
 export function saveRejected(rejected: RejectedFile, path: string = REJECTED_PATH): void {
   rejected.names = [...new Set(rejected.names.map(normName))].sort();
   writeFileSync(path, JSON.stringify(rejected, null, 1) + "\n");
+}
+
+/** True when listingDate is older than `months` before `nowIso`. Unknown date → false. */
+export function isStale(listingDate: string | null | undefined, nowIso: string = new Date().toISOString(), months = 18): boolean {
+  if (!listingDate) return false;
+  const d = Date.parse(listingDate), now = Date.parse(nowIso.slice(0, 10));
+  if (Number.isNaN(d) || Number.isNaN(now)) return false;
+  return now - d > months * 30 * 86_400_000;
 }
 
 /** Columns of candidate-hubs-2026-06-08.csv — build_directory.py reads these names. */

@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { extractSlugs, slugToName, diffListings } from "../lib/intake/scrape";
+import { extractSlugs, slugToName, diffListings, extractListingDate, extractTitle } from "../lib/intake/scrape";
 
 const HTML = `
 <a href="https://worldschooly.com/hub/harmony-learning-center/">x</a>
@@ -39,5 +39,32 @@ describe("diffListings", () => {
   });
   it("everything is new when no snapshot exists", () => {
     expect(diffListings({ a: "u1" }, null)).toEqual({ a: "u1" });
+  });
+});
+
+describe("extractListingDate", () => {
+  it("reads an ISO datetime attribute (newest wins)", () => {
+    expect(extractListingDate('<time datetime="2023-10-02">x</time><time datetime="2023-10-23">y</time>'))
+      .toBe("2023-10-23");
+  });
+  it("falls back to 'Month DD, YYYY' text (newest wins)", () => {
+    expect(extractListingDate("Posted September 16, 2024 — updated March 26, 2024"))
+      .toBe("2024-09-16");
+  });
+  it("returns null when no date is present", () => {
+    expect(extractListingDate("no dates here")).toBeNull();
+  });
+});
+
+describe("extractTitle", () => {
+  it("prefers og:title", () => {
+    expect(extractTitle('<meta property="og:title" content="Dhangethi Maldives Hub" /><title>x | Atlas</title>'))
+      .toBe("Dhangethi Maldives Hub");
+  });
+  it("falls back to <h1>", () => {
+    expect(extractTitle("<h1>  Valencia Worldschool Hub </h1>")).toBe("Valencia Worldschool Hub");
+  });
+  it("returns null when neither present", () => {
+    expect(extractTitle("<p>nope</p>")).toBeNull();
   });
 });
