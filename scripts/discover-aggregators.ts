@@ -66,42 +66,47 @@ async function main() {
 
   let added = 0;
   for (const [domain, cfg] of Object.entries(config)) {
-    if (cfg.unsupported || !cfg.linkPattern) {
-      console.log(`${domain}: skipped (${cfg.unsupported ?? "no linkPattern"})`);
-      continue;
-    }
-    const current = await collectListings(domain, cfg);
-    if (Object.keys(current).length === 0) {
-      console.warn(`${domain}: 0 listings fetched — NOT updating snapshot (likely a fetch problem)`);
-      continue;
-    }
-    const snapPath = join(SNAPDIR, `${domain}.json`);
-    const prev: Listings | null = existsSync(snapPath)
-      ? (JSON.parse(readFileSync(snapPath, "utf8")) as { listings: Listings }).listings
-      : null;
-    const fresh = diffListings(current, prev);
+    try {
+      if (cfg.unsupported || !cfg.linkPattern) {
+        console.log(`${domain}: skipped (${cfg.unsupported ?? "no linkPattern"})`);
+        continue;
+      }
+      const current = await collectListings(domain, cfg);
+      if (Object.keys(current).length === 0) {
+        console.warn(`${domain}: 0 listings fetched — NOT updating snapshot (likely a fetch problem)`);
+        continue;
+      }
+      const snapPath = join(SNAPDIR, `${domain}.json`);
+      const prev: Listings | null = existsSync(snapPath)
+        ? (JSON.parse(readFileSync(snapPath, "utf8")) as { listings: Listings }).listings
+        : null;
+      const fresh = diffListings(current, prev);
 
-    const channel = `aggregator-diff:${domain}`;
-    const now = new Date().toISOString();
-    for (const [slug, url] of Object.entries(fresh)) {
-      const name = slugToName(slug);
-      if (isRejected(name, rejected)) continue;
-      const verdict = dedupeVerdict(name, undefined, dir);
-      if (verdict === "known") continue;
-      const cid = candidateCid(name, channel);
-      if (inboxCids.has(cid)) continue;
-      const cand: InboxCandidate = {
-        cid, name, evidence: [{ url, asOf: now.slice(0, 10) }],
-        sourceChannel: channel, dedupe: verdict, addedAt: now,
-        notes: `auto-extracted from ${domain} listing index; name derived from slug`,
-      };
-      inbox.candidates.push(cand);
-      inboxCids.add(cid);
-      added++;
+      const channel = `aggregator-diff:${domain}`;
+      const now = new Date().toISOString();
+      for (const [slug, url] of Object.entries(fresh)) {
+        const name = slugToName(slug);
+        if (isRejected(name, rejected)) continue;
+        const verdict = dedupeVerdict(name, undefined, dir);
+        if (verdict === "known") continue;
+        const cid = candidateCid(name, channel);
+        if (inboxCids.has(cid)) continue;
+        const cand: InboxCandidate = {
+          cid, name, evidence: [{ url, asOf: now.slice(0, 10) }],
+          sourceChannel: channel, dedupe: verdict, addedAt: now,
+          notes: `auto-extracted from ${domain} listing index; name derived from slug`,
+        };
+        inbox.candidates.push(cand);
+        inboxCids.add(cid);
+        added++;
+      }
+      writeFileSync(snapPath, JSON.stringify({ fetchedAt: now, listings: current }, null, 1) + "\n");
+      saveInbox(inbox);
+    } catch (err) {
+      console.warn(`${domain}: error — skipped`, err instanceof Error ? err.message : err);
+      continue;
     }
-    writeFileSync(snapPath, JSON.stringify({ fetchedAt: now, listings: current }, null, 1) + "\n");
   }
-  saveInbox(inbox);
   console.log(`added ${added} new candidates → inbox (${inbox.candidates.length} total). ` +
     `Review with: npm run inbox:review`);
 }

@@ -19,6 +19,10 @@ describe("extractSlugs", () => {
   it("throws when linkPattern has no capture group", () => {
     expect(() => extractSlugs("<a href=x>", "https://x\\.com/no-group/")).toThrow();
   });
+  it("accepts a named capture group", () => {
+    expect(extractSlugs('<a href="https://x.com/hub/abc/">y</a>', "https://x\\.com/hub/(?<slug>[a-z]+)/"))
+      .toEqual({ abc: "https://x.com/hub/abc/" });
+  });
 });
 
 describe("slugToName", () => {

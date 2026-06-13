@@ -9,7 +9,7 @@ export interface ScrapeSiteConfig {
 export type Listings = Record<string, string>; // slug → url
 
 export function extractSlugs(html: string, linkPattern: string): Listings {
-  if (!/\([^?]/.test(linkPattern)) {
+  if (!/\((?:[^?]|\?<)/.test(linkPattern)) {
     throw new Error(`extractSlugs: linkPattern must have a capture group: ${linkPattern}`);
   }
   const re = new RegExp(linkPattern, "g");
