@@ -18,7 +18,8 @@
     "audit:report": "tsx scripts/audit-report.ts",
     "audit:apply": "tsx scripts/audit-apply.ts",
     "audit:review": "tsx scripts/audit-review-page.ts",
-    "inbox:apply": "tsx scripts/inbox-apply.ts"
+    "inbox:apply": "tsx scripts/inbox-apply.ts",
+    "discover:aggregators": "tsx scripts/discover-aggregators.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",

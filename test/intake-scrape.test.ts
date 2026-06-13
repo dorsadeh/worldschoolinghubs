@@ -16,6 +16,9 @@ describe("extractSlugs", () => {
       "new-slovakia-hub": "https://worldschooly.com/hub/new-slovakia-hub/",
     });
   });
+  it("throws when linkPattern has no capture group", () => {
+    expect(() => extractSlugs("<a href=x>", "https://x\\.com/no-group/")).toThrow();
+  });
 });
 
 describe("slugToName", () => {
