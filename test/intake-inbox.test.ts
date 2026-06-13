@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import {
   normName, slugify, candidateCid, dedupeVerdict, isRejected, candidateToCsvRow,
+  loadRejected, saveRejected,
   type InboxCandidate,
 } from "../lib/intake/inbox";
 
@@ -42,6 +43,14 @@ describe("dedupeVerdict", () => {
   it("unrelated name → new", () => {
     expect(dedupeVerdict("Slovakia Summer Hub", "Slovakia", DIR)).toBe("new");
   });
+  it("short dir name as substring of a longer candidate word → new (no false dup)", () => {
+    const dir = [{ id: "pai", name: "Pai", country: "Thailand" }];
+    expect(dedupeVerdict("Paid Workshop", "Thailand", dir)).toBe("new");
+  });
+  it("token subset (not substring) drives possible-dup", () => {
+    const dir = [{ id: "pai", name: "Pai", country: "Thailand" }];
+    expect(dedupeVerdict("Pai Worldschool", "Thailand", dir)).toBe("possible-dup-of:pai");
+  });
 });
 
 describe("isRejected", () => {
@@ -81,5 +90,28 @@ describe("candidateToCsvRow", () => {
     const row = candidateToCsvRow({ ...base, providerUrl: null });
     expect(row.website).toBe("");
     expect(row.facebook_instagram).toBe("");
+  });
+});
+
+describe("candidateCid channel slugging", () => {
+  it("slugifies a channel containing the separator/spaces", () => {
+    expect(candidateCid("Hub X", "aggregator-diff:worldschooly.com"))
+      .toBe("hub-x--aggregator-diff-worldschooly-com");
+  });
+});
+
+describe("saveRejected normalization (round-trip)", () => {
+  it("normalizes names so isRejected matches", () => {
+    const { tmpdir } = require("node:os");
+    const { join } = require("node:path");
+    const { writeFileSync, readFileSync, rmSync } = require("node:fs");
+    const p = join(tmpdir(), `rej-${Date.now()}.json`);
+    writeFileSync(p, JSON.stringify({ names: ["Dead Hub"] }));
+    const r = loadRejected(p);
+    saveRejected(r, p);
+    const reloaded = JSON.parse(readFileSync(p, "utf8"));
+    rmSync(p);
+    expect(reloaded.names).toContain("dead hub");
+    expect(isRejected("  DEAD hub ", reloaded)).toBe(true);
   });
 });

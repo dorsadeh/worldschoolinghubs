@@ -15,7 +15,7 @@ export interface InboxCandidate {
   evidence: CandidateEvidence[];
   sourceChannel: string;
   notes?: string;
-  dedupe: string;            // "new" | "known" | "possible-dup-of:<id>"
+  dedupe: "new" | "known" | `possible-dup-of:${string}`;            // dedupe verdict
   addedAt: string;
 }
 
@@ -37,7 +37,7 @@ export function slugify(s: string): string {
 }
 
 export function candidateCid(name: string, sourceChannel: string): string {
-  return `${slugify(name)}--${sourceChannel}`;
+  return `${slugify(name)}--${slugify(sourceChannel)}`;
 }
 
 export function dedupeVerdict(name: string, country: string | undefined, dir: DirEntry[]): string {
@@ -50,7 +50,11 @@ export function dedupeVerdict(name: string, country: string | undefined, dir: Di
     const c = normName(country);
     for (const e of dir) {
       const en = normName(e.name);
-      if (normName(e.country) === c && (en.includes(n) || n.includes(en))) {
+      const nTokens = new Set(n.split(/\s+/).filter(Boolean));
+      const enTokens = new Set(en.split(/\s+/).filter(Boolean));
+      const [smaller, larger] = nTokens.size <= enTokens.size ? [nTokens, enTokens] : [enTokens, nTokens];
+      const subset = smaller.size > 0 && [...smaller].every((t) => larger.has(t));
+      if (normName(e.country) === c && subset) {
         return `possible-dup-of:${e.id}`;
       }
     }
@@ -73,7 +77,7 @@ export function loadRejected(path: string = REJECTED_PATH): RejectedFile {
   return existsSync(path) ? (JSON.parse(readFileSync(path, "utf8")) as RejectedFile) : { names: [] };
 }
 export function saveRejected(rejected: RejectedFile, path: string = REJECTED_PATH): void {
-  rejected.names = [...new Set(rejected.names)].sort();
+  rejected.names = [...new Set(rejected.names.map(normName))].sort();
   writeFileSync(path, JSON.stringify(rejected, null, 1) + "\n");
 }
 
