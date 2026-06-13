@@ -20,7 +20,8 @@
     "audit:review": "tsx scripts/audit-review-page.ts",
     "inbox:apply": "tsx scripts/inbox-apply.ts",
     "discover:aggregators": "tsx scripts/discover-aggregators.ts",
-    "discover:sweep-prompt": "tsx scripts/sweep-prompt.ts"
+    "discover:sweep-prompt": "tsx scripts/sweep-prompt.ts",
+    "inbox:review": "tsx scripts/inbox-review-page.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
