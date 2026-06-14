@@ -60,6 +60,15 @@ def wiki_image(q):
     if src and src.lower().endswith(".svg"): return None
     return src
 
+def openverse_image(query):
+    try:
+        u = "https://api.openverse.org/v1/images/?q=" + urllib.parse.quote(query) + "&page_size=1&license_type=all-cc"
+        data = json.loads(fetch(u))
+        results = data.get("results") or []
+        return results[0].get("url") if results else None
+    except Exception:
+        return None
+
 def needs_location_img(e, imap):
     wdom = domain(e.get("website"))
     if e["id"] in imap and "facebook" not in wdom and "instagram" not in wdom:
@@ -68,12 +77,21 @@ def needs_location_img(e, imap):
 
 def work(e):
     out = os.path.join(IMGDIR, e["id"]+".jpg")
-    for q in place_queries(e):
+    queries = place_queries(e)
+    for q in queries:
         src = wiki_image(q)
         if not src: continue
         try:
             save_cover(fetch(src, binary=True), out); return e["id"], "hub-images/"+e["id"]+".jpg", q
         except Exception: continue
+    # Openverse fallback: when Wikipedia finds nothing, try the free CC image index
+    if queries:
+        src = openverse_image(queries[0])
+        if src:
+            try:
+                save_cover(fetch(src, binary=True), out)
+                return e["id"], "hub-images/"+e["id"]+".jpg", "[openverse] "+queries[0]
+            except Exception: pass
     return e["id"], "", ""
 
 def main():
