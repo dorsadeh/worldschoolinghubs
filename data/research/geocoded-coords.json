@@ -1,520 +1,872 @@
 {
- "bansko-town-base-city": [
-  41.8344086,
-  23.4841698
- ],
- "cyprus-limassol-larnaca": [
-  34.6852901,
-  33.0332657
- ],
- "goa-arambol-mandrem": [
-  15.6878815,
-  73.7055986
- ],
- "hakuba-international-term-year": [
-  36.6981042,
-  137.862068
- ],
- "kuala-lumpur": [
-  3.1516964,
-  101.6942371
- ],
- "penang": [
-  5.4065013,
-  100.2559077
- ],
- "worldschoolers-in-kuala-lumpur": [
-  3.1516964,
-  101.6942371
- ],
- "lisbon-cascais": [
-  38.7077507,
-  -9.1365919
- ],
- "bliss-hubs-pai": [
-  19.3581061,
-  98.4405794
- ],
- "chiang-mai": [
-  18.7882778,
-  98.9858802
- ],
- "koh-lanta": [
-  7.6574,
-  99.0453
- ],
- "koh-phangan": [
-  9.7349503,
-  100.0305711
- ],
- "pai": [
-  19.3927456,
-  98.2031112
- ],
- "hoi-an-an-bang": [
-  15.8880397,
-  108.3367883
- ],
- "worldschoolers-of-hoi-an": [
-  15.8880397,
-  108.3367883
- ],
- "holss-school-nam": [
-  11.2448914,
-  -73.5598131
- ],
- "soy-montesser": [
-  6.2697324,
-  -75.6025597
- ],
- "guanacaste-children-s-community-center": [
-  10.0225427,
-  -85.3648121
- ],
- "harmony-learning-center": [
-  10.3788441,
-  -85.4338287
- ],
- "milestones-school": [
-  10.2984121,
-  -85.8399505
- ],
- "wise-education": [
-  10.3788441,
-  -85.4338287
- ],
- "leo-worldschool": [
-  12.2135136,
-  -69.040892
- ],
- "samana-international-academy": [
-  19.2036865,
-  -69.3389611
- ],
- "punta-la-barca": null,
- "antigua-green-school": [
-  14.5567814,
-  -90.7337346
- ],
- "eco-holistic-kids-club": [
-  14.5904607,
-  -90.7306948
- ],
- "worldschooling-hub-goa": [
-  15.3004543,
-  74.0855134
- ],
- "future-human-project": [
-  -8.5170195,
-  115.2550507
- ],
- "wonder-intercultural-school": [
-  -8.5835637,
-  116.3580819
- ],
- "wood-school-bali": [
-  -8.2271303,
-  115.1919203
- ],
- "sekoly-kintana-madagascar": [
-  -25.0290132,
-  46.9966565
- ],
- "tfa-worldschooling-hub": [
-  3.6168822,
-  102.5994547
- ],
- "maldives-worldschool-hub": [
-  4.1779879,
-  73.5107387
- ],
- "anahata-worldschooling-community": [
-  20.12324,
-  -89.064956
- ],
- "worldschool-mexico": null,
- "worldschooling-life": [
-  23.6585116,
-  -102.0077097
- ],
- "madrasa-dunya-worldschool-morocco": null,
- "tazgha-resort-essaouira": [
-  31.5118281,
-  -9.7620903
- ],
- "earth-school-aotearoa": [
-  -41.121239,
-  175.1104612
- ],
- "nature-lore": [
-  -34.102778,
-  18.38
- ],
- "silvermist-academy": [
-  -33.9288301,
-  18.4172197
- ],
- "shepherd-s-rest": [
-  37.4841014,
-  -2.2924853
- ],
- "worldschooling-tanzania": [
-  -3.3486456,
-  37.3435249
- ],
- "elate": [
-  13.7524938,
-  100.4935089
- ],
- "naturemind-ed-worldschooling": [
-  8.1111653,
-  99.1097298
- ],
- "our-land-thailand": null,
- "freedom-montessori-academy": [
-  28.0569975,
-  -82.2805696
- ],
- "boundless-life": null,
- "the-world-school": null,
- "kiriwi-forest-school": [
-  4.1114595,
-  -73.4967836
- ],
- "minga-house-colegio-menfis": [
-  4.9830232,
-  -75.6054129
- ],
- "cohli-family-coliving": [
-  49.0677708,
-  0.3138532
- ],
- "kallipoli": [
-  38.9953683,
-  21.9877132
- ],
- "noma-collective-family-hub": [
-  15.2572432,
-  -86.0755145
- ],
- "selong-bay-worldschooling-hub": [
-  -8.8832436,
-  116.1662714
- ],
- "the-creative-world": [
-  -8.5170195,
-  115.2550507
- ],
- "we-are-tribe": [
-  -8.5170195,
-  115.2550507
- ],
- "earthbound": null,
- "progetto-baita": [
-  45.8512107,
-  7.9371767
- ],
- "sentira": [
-  43.5171442,
-  11.7639282
- ],
- "iyari-play-family-learning-retreat": [
-  20.9539253,
-  -105.3541714
- ],
- "semillitas-spanish-in-nature": [
-  18.9331321,
-  -99.2599579
- ],
- "mirleft-cultural-cove": [
-  29.579707,
-  -10.031733
- ],
- "campus-da-terra": [
-  32.6715273,
-  -16.8145556
- ],
- "mama-adama": [
-  38.0551003,
-  -7.8605799
- ],
- "spirala-eco-village": [
-  39.9767583,
-  -7.4460599
- ],
- "ubuntu-worldschool-espacio-ubuntu": null,
- "islowcoliving": [
-  43.1591079,
-  -9.2034037
- ],
- "narnia-arkee": [
-  9.7349503,
-  100.0305711
- ],
- "worldschool-pop-up-hub": null,
- "forest-kindy-brisbane": [
-  -27.4689623,
-  153.0235009
- ],
- "treehouse-summit": [
-  41.8344086,
-  23.4841698
- ],
- "worldschooling-bansko": [
-  41.8344086,
-  23.4841698
- ],
- "field-school-hvar": [
-  43.1739411,
-  16.5565161
- ],
- "green-coco-sailing-adventures": [
-  18.459371,
-  -70.8308475
- ],
- "the-hive": null,
- "egyptian-adventures": [
-  25.702096,
-  32.647186
- ],
- "world-school-pop-up-el-salvador": [
-  13.673328,
-  -89.2416068
- ],
- "recreation-nation": [
-  44.815194,
-  4.3986525
- ],
- "worldwise-learning": [
-  44.0580563,
-  6.0638506
- ],
- "ecovillage-georgia": [
-  41.8242785,
-  46.2738235
- ],
- "culture-chalk": [
-  14.6801463,
-  -91.186161
- ],
- "green-school-bali": [
-  -8.5170195,
-  115.2550507
- ],
- "pelangi-school-creative-camp": [
-  -8.2383122,
-  115.0434335
- ],
- "brightsteps-calabria": [
-  39.0565974,
-  16.5249864
- ],
- "better-together-hubs": [
-  34.6937569,
-  135.5014539
- ],
- "arcticterns-playa-del-carmen": [
-  20.6461095,
-  -87.0809021
- ],
- "wildroots-worldschool": [
-  20.6461095,
-  -87.0809021
- ],
- "tika-ranch": [
-  31.3875171,
-  -9.7295113
- ],
- "green-school-new-zealand": [
-  -41.5000831,
-  172.8344077
- ],
- "green-school-south-africa": [
-  -28.8166236,
-  24.991639
- ],
- "andalusia-nomad-mums-co-living-for-mums-an": [
-  36.4191096,
-  -6.1460683
- ],
- "el-aula-azul": [
-  43.3224219,
-  -1.9838889
- ],
- "language-and-cultural-immersion-northern-s": [
-  39.3260685,
-  -4.8379791
- ],
- "amani-light-worldschool-hub-tanzania": [
-  -3.3486456,
-  37.3435249
- ],
- "languaventure-international-learning-centr": [
-  36.6221154,
-  29.1153384
- ],
- "camp-stomping-ground": [
-  42.1507626,
-  -74.668776
- ],
- "twin-eagles-wilderness-adventure-camps": [
-  48.2761306,
-  -116.5487835
- ],
- "worldschooly-pop-ups-generic-city-series": null,
- "world-school-pop-up-hub": null,
- "worldschooling-austria-mountain-retreat": [
-  47.0871124,
-  13.160853
- ],
- "worldschooling-austria-winter-mountain-ret": [
-  47.0871124,
-  13.160853
- ],
- "arctic-terns": null,
- "exploring-families": null,
- "learn-to-sail-family-adventure-greece-balk": [
-  39.1856681,
-  20.172817
- ],
- "wander-wonder-the-traveling-adventure-scho": [
-  35.3084952,
-  24.4633423
- ],
- "deliberate-detour-guatemala": [
-  14.5567814,
-  -90.7337346
- ],
- "outside-the-box-adventures": null,
- "deliberate-detour-oaxaca": [
-  17,
-  -96.5
- ],
- "unschool-adventures": null,
- "global-classroom-project-harmony-alternati": null,
- "worldschooling-dude-ranch-experience": [
-  39.7837304,
-  -100.445882
- ],
- "travelling-village": null,
- "storylines-ship": null,
- "think-global-school": null,
- "together-explorers": null,
- "project-world-school": null,
- "dream-big-travels": null,
- "worldschooling-journeys-every-avenue": null,
- "sucre": [
-  -19.0477251,
-  -65.2594306
- ],
- "cuenca": [
-  -2.8974072,
-  -79.0041726
- ],
- "antigua": [
-  14.5567814,
-  -90.7337346
- ],
- "lake-atitl-n-san-pedro": [
-  14.6541186,
-  -91.2615284
- ],
- "oaxaca-spanish-schools": [
-  17,
-  -96.5
- ],
- "san-crist-bal-de-las-casas": [
-  16.735377,
-  -92.63873
- ],
- "granada-family-spanish": [
-  37.1734995,
-  -3.5995337
- ],
- "jewish-worldschoolers": null,
- "the-hub": null,
- "worldly-teens": null,
- "worldschool-au": null,
- "bliss-hubs-siem-reap": [
-  13.3617562,
-  103.8590321
- ],
- "shanti-shanti": [
-  10.6314754,
-  104.132637
- ],
- "my-worldschool-hub": null,
- "bliss-hubs-bali": [
-  -8.2271303,
-  115.1919203
- ],
- "bliss-hubs-kuala-lumpur": [
-  3.1516964,
-  101.6942371
- ],
- "algarve-worldschooling-hub-naturally-riche": [
-  37.2449218,
-  -8.1959563
- ],
- "porto-grana-worldschoolers-hub": null,
- "fuerteventura-worldschool-hub": [
-  28.4003769,
-  -14.0048697
- ],
- "gran-canaria-worldschool-hub": [
-  27.9580004,
-  -15.6062305
- ],
- "tenerife-worldschool-hub": [
-  28.2935785,
-  -16.6214471
- ],
- "bliss-hubs-koh-lanta": [
-  7.6574,
-  99.0453
- ],
- "bliss-hubs-krabi": [
-  8.1111653,
-  99.1097298
- ],
- "panya-forest": [
-  19.1213076,
-  98.9433838
- ],
- "remote-family-database-directory": null,
- "we-are-worldschoolers-online": null,
- "worldschool-collective-directory": null,
- "worldschooling-central-online": null,
- "boundless-sintra": [
-  38.7986,
-  -9.3877
- ],
- "boundless-syros": [
-  37.4447,
-  24.9419
- ],
- "boundless-tuscany": [
-  43.77,
-  11.5189
- ],
- "boundless-estepona": [
-  36.4276,
-  -5.1459
- ],
- "boundless-kotor": [
-  42.4247,
-  18.7712
- ],
- "boundless-sanur-bali": [
-  -8.6878,
-  115.262
- ],
- "boundless-la-barra": [
-  -34.9167,
-  -54.8833
- ],
- "boundless-kamakura": [
-  35.3192,
-  139.5466
- ]
+  "bansko-town-base-city": [
+    41.8344086,
+    23.4841698
+  ],
+  "cyprus-limassol-larnaca": [
+    34.6852901,
+    33.0332657
+  ],
+  "goa-arambol-mandrem": [
+    15.6878815,
+    73.7055986
+  ],
+  "hakuba-international-term-year": [
+    36.6981042,
+    137.862068
+  ],
+  "kuala-lumpur": [
+    3.1516964,
+    101.6942371
+  ],
+  "penang": [
+    5.4065013,
+    100.2559077
+  ],
+  "worldschoolers-in-kuala-lumpur": [
+    3.1516964,
+    101.6942371
+  ],
+  "lisbon-cascais": [
+    38.7077507,
+    -9.1365919
+  ],
+  "bliss-hubs-pai": [
+    19.3581061,
+    98.4405794
+  ],
+  "chiang-mai": [
+    18.7882778,
+    98.9858802
+  ],
+  "koh-lanta": [
+    7.6574,
+    99.0453
+  ],
+  "koh-phangan": [
+    9.7349503,
+    100.0305711
+  ],
+  "pai": [
+    19.3927456,
+    98.2031112
+  ],
+  "hoi-an-an-bang": [
+    15.8880397,
+    108.3367883
+  ],
+  "worldschoolers-of-hoi-an": [
+    15.8880397,
+    108.3367883
+  ],
+  "holss-school-nam": [
+    11.2448914,
+    -73.5598131
+  ],
+  "soy-montesser": [
+    6.2697324,
+    -75.6025597
+  ],
+  "guanacaste-children-s-community-center": [
+    10.0225427,
+    -85.3648121
+  ],
+  "harmony-learning-center": [
+    10.3788441,
+    -85.4338287
+  ],
+  "milestones-school": [
+    10.2984121,
+    -85.8399505
+  ],
+  "wise-education": [
+    10.3788441,
+    -85.4338287
+  ],
+  "leo-worldschool": [
+    12.2135136,
+    -69.040892
+  ],
+  "samana-international-academy": [
+    19.2036865,
+    -69.3389611
+  ],
+  "punta-la-barca": null,
+  "antigua-green-school": [
+    14.5567814,
+    -90.7337346
+  ],
+  "eco-holistic-kids-club": [
+    14.5904607,
+    -90.7306948
+  ],
+  "worldschooling-hub-goa": [
+    15.3004543,
+    74.0855134
+  ],
+  "future-human-project": [
+    -8.5170195,
+    115.2550507
+  ],
+  "wonder-intercultural-school": [
+    -8.5835637,
+    116.3580819
+  ],
+  "wood-school-bali": [
+    -8.2271303,
+    115.1919203
+  ],
+  "sekoly-kintana-madagascar": [
+    -25.0290132,
+    46.9966565
+  ],
+  "tfa-worldschooling-hub": [
+    3.6168822,
+    102.5994547
+  ],
+  "maldives-worldschool-hub": [
+    4.1779879,
+    73.5107387
+  ],
+  "anahata-worldschooling-community": [
+    20.12324,
+    -89.064956
+  ],
+  "worldschool-mexico": null,
+  "worldschooling-life": [
+    23.6585116,
+    -102.0077097
+  ],
+  "madrasa-dunya-worldschool-morocco": null,
+  "tazgha-resort-essaouira": [
+    31.5118281,
+    -9.7620903
+  ],
+  "earth-school-aotearoa": [
+    -41.121239,
+    175.1104612
+  ],
+  "nature-lore": [
+    -34.102778,
+    18.38
+  ],
+  "silvermist-academy": [
+    -33.9288301,
+    18.4172197
+  ],
+  "shepherd-s-rest": [
+    37.4841014,
+    -2.2924853
+  ],
+  "worldschooling-tanzania": [
+    -3.3486456,
+    37.3435249
+  ],
+  "elate": [
+    13.7524938,
+    100.4935089
+  ],
+  "naturemind-ed-worldschooling": [
+    8.1111653,
+    99.1097298
+  ],
+  "our-land-thailand": null,
+  "freedom-montessori-academy": [
+    28.0569975,
+    -82.2805696
+  ],
+  "boundless-life": null,
+  "the-world-school": null,
+  "kiriwi-forest-school": [
+    4.1114595,
+    -73.4967836
+  ],
+  "minga-house-colegio-menfis": [
+    4.9830232,
+    -75.6054129
+  ],
+  "cohli-family-coliving": [
+    49.0677708,
+    0.3138532
+  ],
+  "kallipoli": [
+    38.9953683,
+    21.9877132
+  ],
+  "noma-collective-family-hub": [
+    15.2572432,
+    -86.0755145
+  ],
+  "selong-bay-worldschooling-hub": [
+    -8.8832436,
+    116.1662714
+  ],
+  "the-creative-world": [
+    -8.5170195,
+    115.2550507
+  ],
+  "we-are-tribe": [
+    -8.5170195,
+    115.2550507
+  ],
+  "earthbound": null,
+  "progetto-baita": [
+    45.8512107,
+    7.9371767
+  ],
+  "sentira": [
+    43.5171442,
+    11.7639282
+  ],
+  "iyari-play-family-learning-retreat": [
+    20.9539253,
+    -105.3541714
+  ],
+  "semillitas-spanish-in-nature": [
+    18.9331321,
+    -99.2599579
+  ],
+  "mirleft-cultural-cove": [
+    29.579707,
+    -10.031733
+  ],
+  "campus-da-terra": [
+    32.6715273,
+    -16.8145556
+  ],
+  "mama-adama": [
+    38.0551003,
+    -7.8605799
+  ],
+  "spirala-eco-village": [
+    39.9767583,
+    -7.4460599
+  ],
+  "ubuntu-worldschool-espacio-ubuntu": null,
+  "islowcoliving": [
+    43.1591079,
+    -9.2034037
+  ],
+  "narnia-arkee": [
+    9.7349503,
+    100.0305711
+  ],
+  "worldschool-pop-up-hub": null,
+  "forest-kindy-brisbane": [
+    -27.4689623,
+    153.0235009
+  ],
+  "treehouse-summit": [
+    41.8344086,
+    23.4841698
+  ],
+  "worldschooling-bansko": [
+    41.8344086,
+    23.4841698
+  ],
+  "field-school-hvar": [
+    43.1739411,
+    16.5565161
+  ],
+  "green-coco-sailing-adventures": [
+    18.459371,
+    -70.8308475
+  ],
+  "the-hive": null,
+  "egyptian-adventures": [
+    25.702096,
+    32.647186
+  ],
+  "world-school-pop-up-el-salvador": [
+    13.673328,
+    -89.2416068
+  ],
+  "recreation-nation": [
+    44.815194,
+    4.3986525
+  ],
+  "worldwise-learning": [
+    44.0580563,
+    6.0638506
+  ],
+  "ecovillage-georgia": [
+    41.8242785,
+    46.2738235
+  ],
+  "culture-chalk": [
+    14.6801463,
+    -91.186161
+  ],
+  "green-school-bali": [
+    -8.5170195,
+    115.2550507
+  ],
+  "pelangi-school-creative-camp": [
+    -8.2383122,
+    115.0434335
+  ],
+  "brightsteps-calabria": [
+    39.0565974,
+    16.5249864
+  ],
+  "better-together-hubs": [
+    34.6937569,
+    135.5014539
+  ],
+  "arcticterns-playa-del-carmen": [
+    20.6461095,
+    -87.0809021
+  ],
+  "wildroots-worldschool": [
+    20.6461095,
+    -87.0809021
+  ],
+  "tika-ranch": [
+    31.3875171,
+    -9.7295113
+  ],
+  "green-school-new-zealand": [
+    -41.5000831,
+    172.8344077
+  ],
+  "green-school-south-africa": [
+    -28.8166236,
+    24.991639
+  ],
+  "andalusia-nomad-mums-co-living-for-mums-an": [
+    36.4191096,
+    -6.1460683
+  ],
+  "el-aula-azul": [
+    43.3224219,
+    -1.9838889
+  ],
+  "language-and-cultural-immersion-northern-s": [
+    39.3260685,
+    -4.8379791
+  ],
+  "amani-light-worldschool-hub-tanzania": [
+    -3.3486456,
+    37.3435249
+  ],
+  "languaventure-international-learning-centr": [
+    36.6221154,
+    29.1153384
+  ],
+  "camp-stomping-ground": [
+    42.1507626,
+    -74.668776
+  ],
+  "twin-eagles-wilderness-adventure-camps": [
+    48.2761306,
+    -116.5487835
+  ],
+  "worldschooly-pop-ups-generic-city-series": null,
+  "world-school-pop-up-hub": null,
+  "worldschooling-austria-mountain-retreat": [
+    47.0871124,
+    13.160853
+  ],
+  "worldschooling-austria-winter-mountain-ret": [
+    47.0871124,
+    13.160853
+  ],
+  "arctic-terns": null,
+  "exploring-families": null,
+  "learn-to-sail-family-adventure-greece-balk": [
+    39.1856681,
+    20.172817
+  ],
+  "wander-wonder-the-traveling-adventure-scho": [
+    35.3084952,
+    24.4633423
+  ],
+  "deliberate-detour-guatemala": [
+    14.5567814,
+    -90.7337346
+  ],
+  "outside-the-box-adventures": null,
+  "deliberate-detour-oaxaca": [
+    17,
+    -96.5
+  ],
+  "unschool-adventures": null,
+  "global-classroom-project-harmony-alternati": null,
+  "worldschooling-dude-ranch-experience": [
+    39.7837304,
+    -100.445882
+  ],
+  "travelling-village": null,
+  "storylines-ship": null,
+  "think-global-school": null,
+  "together-explorers": null,
+  "project-world-school": null,
+  "dream-big-travels": null,
+  "worldschooling-journeys-every-avenue": null,
+  "sucre": [
+    -19.0477251,
+    -65.2594306
+  ],
+  "cuenca": [
+    -2.8974072,
+    -79.0041726
+  ],
+  "antigua": [
+    14.5567814,
+    -90.7337346
+  ],
+  "lake-atitl-n-san-pedro": [
+    14.6541186,
+    -91.2615284
+  ],
+  "oaxaca-spanish-schools": [
+    17,
+    -96.5
+  ],
+  "san-crist-bal-de-las-casas": [
+    16.735377,
+    -92.63873
+  ],
+  "granada-family-spanish": [
+    37.1734995,
+    -3.5995337
+  ],
+  "jewish-worldschoolers": null,
+  "the-hub": null,
+  "worldly-teens": null,
+  "worldschool-au": null,
+  "bliss-hubs-siem-reap": [
+    13.3617562,
+    103.8590321
+  ],
+  "shanti-shanti": [
+    10.6314754,
+    104.132637
+  ],
+  "my-worldschool-hub": null,
+  "bliss-hubs-bali": [
+    -8.2271303,
+    115.1919203
+  ],
+  "bliss-hubs-kuala-lumpur": [
+    3.1516964,
+    101.6942371
+  ],
+  "algarve-worldschooling-hub-naturally-riche": [
+    37.2449218,
+    -8.1959563
+  ],
+  "porto-grana-worldschoolers-hub": null,
+  "fuerteventura-worldschool-hub": [
+    28.4003769,
+    -14.0048697
+  ],
+  "gran-canaria-worldschool-hub": [
+    27.9580004,
+    -15.6062305
+  ],
+  "tenerife-worldschool-hub": [
+    28.2935785,
+    -16.6214471
+  ],
+  "bliss-hubs-koh-lanta": [
+    7.6574,
+    99.0453
+  ],
+  "bliss-hubs-krabi": [
+    8.1111653,
+    99.1097298
+  ],
+  "panya-forest": [
+    19.1213076,
+    98.9433838
+  ],
+  "remote-family-database-directory": null,
+  "we-are-worldschoolers-online": null,
+  "worldschool-collective-directory": null,
+  "worldschooling-central-online": null,
+  "boundless-sintra": [
+    38.7986,
+    -9.3877
+  ],
+  "boundless-syros": [
+    37.4447,
+    24.9419
+  ],
+  "boundless-tuscany": [
+    43.77,
+    11.5189
+  ],
+  "boundless-estepona": [
+    36.4276,
+    -5.1459
+  ],
+  "boundless-kotor": [
+    42.4247,
+    18.7712
+  ],
+  "boundless-sanur-bali": [
+    -8.6878,
+    115.262
+  ],
+  "boundless-la-barra": [
+    -34.9167,
+    -54.8833
+  ],
+  "boundless-kamakura": [
+    35.3192,
+    139.5466
+  ],
+  "wild-adventure-school-africa-hub": null,
+  "shanti-shanti-kampot-worldschooling-hub-me": [
+    12.5433216,
+    104.8144914
+  ],
+  "siem-reap-bliss-hub-cambodia": [
+    12.5433216,
+    104.8144914
+  ],
+  "the-red-road-foundation-kampot-cambodia": null,
+  "colegio-menfis-worldschool-in-colombia": [
+    4.099917,
+    -72.9088133
+  ],
+  "soy-montesser-montessori-worldschool-hub-m": [
+    4.099917,
+    -72.9088133
+  ],
+  "cacao-coast-puerto-viejo-costa-rica": null,
+  "cacao-coast-cr-worldschooling-hub-in-puert": [
+    10.2735633,
+    -84.0739102
+  ],
+  "guanacaste-children-039-s-community-center": [
+    10.2735633,
+    -84.0739102
+  ],
+  "guanacaste-children-039-s-community-center-2": null,
+  "wise-education-costa-rica-worldschool-hub": [
+    10.2735633,
+    -84.0739102
+  ],
+  "the-field-school-of-hvar-worldschooling-hu": [
+    45.3658443,
+    15.6575209
+  ],
+  "bornholm-worldschool-hub-family-centered-l": [
+    55.670249,
+    10.3333283
+  ],
+  "samana-international-academy-dominican-rep": [
+    19.0974031,
+    -70.3028026
+  ],
+  "punta-la-barca-coliving-and-worldschooling": [
+    -1.3397668,
+    -79.3666965
+  ],
+  "worldschooling-hub-in-luxor-egypt-egyptian": [
+    26.2540493,
+    29.2675469
+  ],
+  "bali-bliss-hub": [
+    -2.4833826,
+    117.8902853
+  ],
+  "future-human-project-bali-worldschooling-f": [
+    -2.4833826,
+    117.8902853
+  ],
+  "naturally-richer-east-coast-sardinia-italy": null,
+  "the-good-life-mountain-club-valle-laghi-it": null,
+  "hakuba-japan-the-perfect-place-for-homesch": [
+    36.5748441,
+    139.2394179
+  ],
+  "anahata-worldschooling-community-cultural-": [
+    23.6585116,
+    -102.0077097
+  ],
+  "madrasa-dunya-worldschool-holistic-educati": [
+    28.3347722,
+    -10.3713379
+  ],
+  "tika-ranch-a-world-schooling-hub-in-sidi-k": [
+    28.3347722,
+    -10.3713379
+  ],
+  "algarve-worldschooling-hub-nov-2025-may-20": [
+    39.6621648,
+    -8.1353519
+  ],
+  "inside-romania-worldschooling-explore-tran": [
+    45.9852129,
+    24.6859225
+  ],
+  "naturally-richer-high-tatras-and-central-s": [
+    49.15,
+    20.133
+  ],
+  "silvermist-academy-hands-on-learning-hub-i": [
+    -28.8166236,
+    24.991639
+  ],
+  "blattwerk-naturp-dagogik-valle-gran-rey-la": null,
+  "shepherd-039-s-rest-worldschooling-hub-in-": [
+    39.3260685,
+    -4.8379791
+  ],
+  "valencia-forest-school-in-spain": [
+    39.3260685,
+    -4.8379791
+  ],
+  "koh-lanta-bliss-hub-thailand": [
+    14.8971921,
+    100.83273
+  ],
+  "naturemind-ed-worldschooling-hub-in-krabi-": [
+    14.8971921,
+    100.83273
+  ],
+  "pai-bliss-hub-thailand": [
+    14.8971921,
+    100.83273
+  ],
+  "worldschooling-secondary-school-in-thailan": [
+    14.8971921,
+    100.83273
+  ],
+  "freedom-montessori-academy-homeschool-in-f": [
+    39.7837304,
+    -100.445882
+  ],
+  "worldschooling-hub-in-hoi-an-harmony-alter": [
+    15.9266657,
+    107.9650855
+  ],
+  "we-are-tribe-worldschool-coliving-in-bali": [
+    -2.4833826,
+    117.8902853
+  ],
+  "homeschooling-hub-in-madeira-campus-da-ter": [
+    39.6621648,
+    -8.1353519
+  ],
+  "green-coco-sailing-adventures-family-frien": null,
+  "twin-eagles-wilderness-camps-for-kids-amp-": null,
+  "wander-amp-wonder-european-worldschool-pop": null,
+  "buenos-aires-worldschool-pop-up-hub-decemb": [
+    -34.9964963,
+    -64.9672817
+  ],
+  "austrian-alps-worldschooling-retreat-for-f": [
+    47.59397,
+    14.12456
+  ],
+  "worldschool-pop-up-hub-vienna-austria": [
+    48.2202064,
+    16.3712163
+  ],
+  "worldschool-gathering-croatia-october-2025": [
+    45.3658443,
+    15.6575209
+  ],
+  "worldschool-pop-up-el-salvador": [
+    13.8000382,
+    -88.9140683
+  ],
+  "worldschooling-family-retreat-in-ard-che-f": [
+    46.603354,
+    1.8883335
+  ],
+  "summer-camp-at-ecovillage-georgia": [
+    41.6808672,
+    44.0287806
+  ],
+  "pelangi-creative-camps-in-bali-for-kids-ag": [
+    -2.4833826,
+    117.8902853
+  ],
+  "worldschool-pop-up-naples-april-2026": [
+    42.6384261,
+    12.674297
+  ],
+  "osaka-worldschool-pop-up-budget-friendly-w": [
+    36.5748441,
+    139.2394179
+  ],
+  "luang-prabang-worldschool-pop-up-hub-augus": [
+    20.0171109,
+    103.378253
+  ],
+  "borneo-rainforest-worldschool-camp-for-fam": [
+    4.5693754,
+    102.2656823
+  ],
+  "mexico-city-worldschool-pop-up-hub-new-yea": [
+    23.6585116,
+    -102.0077097
+  ],
+  "oaxaca-worldschool-pop-up-hub-november-202": [
+    23.6585116,
+    -102.0077097
+  ],
+  "san-miguel-worldschool-pop-up-hub-october-": [
+    23.6585116,
+    -102.0077097
+  ],
+  "worldschool-gathering-the-netherlands": [
+    52.2434979,
+    5.6343227
+  ],
+  "project-worldschool-peru-retreat-teen-hub-": [
+    -6.8699697,
+    -75.0458515
+  ],
+  "worldschool-pop-up-hub-warsaw-poland": [
+    52.2255319,
+    21.029948
+  ],
+  "portugal-pop-up-worldschool-hub": [
+    38.6814163,
+    -9.3271683
+  ],
+  "worldschool-pop-up-hub-sibiu-romania": [
+    45.7967384,
+    24.154241
+  ],
+  "mendocino-worldschool-pop-up-hub-june-2026": [
+    39.7837304,
+    -100.445882
+  ],
+  "worldschool-pop-up-hub-mendocino-usa": null,
+  "worldschool-pop-up-hub-san-francisco-usa": [
+    33.1282409,
+    -117.3113959
+  ],
+  "traveling-village": null,
+  "worldschooling-journeys-mediterranean-crui": null,
+  "worldschooling-journeys-southeast-asia-cru": null,
+  "antigua-guatemala-global-explorers-worldsc": [
+    15.5855545,
+    -90.345759
+  ],
+  "whale-camp": null,
+  "agora-andorra-international-school-summer-": [
+    42.5069391,
+    1.5212467
+  ],
+  "skiten-summer-camp": null,
+  "cloud-forest-school-summer-camp": null,
+  "exploranatura-summer-camp": [
+    24.5830128,
+    -107.3922107
+  ],
+  "prague-british-international-school-summer": null,
+  "copencamp-summer-camp": [
+    55.7336657,
+    12.5655408
+  ],
+  "alpine-french-school-day-camp": [
+    46.1799561,
+    6.7091057
+  ],
+  "ecole-ducasse-paris-cooking-camp": [
+    48.8534951,
+    2.3483915
+  ],
+  "ics-paris-international-school-summer-camp": [
+    48.8534951,
+    2.3483915
+  ],
+  "international-bilingual-school-of-provence": [
+    43.5298424,
+    5.4474738
+  ],
+  "international-language-camps": [
+    45.8567089,
+    6.617932
+  ],
+  "living-school": [
+    48.8534951,
+    2.3483915
+  ],
+  "abrakadabra-spielsprachschule-summer-day-c": null,
+  "empathy-school-summer-camp": null,
+  "green-camp-bali": [
+    -8.5292161,
+    115.212036
+  ],
+  "buena-onda-surf-camp": null,
+  "cail-english-city-tour-summer-camp": null,
+  "fashion-art-design-summer-camp": null,
+  "village-forest-school-summer-camp": null,
+  "a-go-outdoors-aoshima": null,
+  "evergreen-outdoor-center-summer-camps": null,
+  "la-paz-divers-marine-biology-summer-camp": [
+    19.3637686,
+    -98.9463136
+  ],
+  "oasis-spanish-and-surf-school": [
+    19.3554385,
+    -99.3094072
+  ],
+  "knightsbridge-schools-international-monten": [
+    -15.5419416,
+    -56.0838091
+  ],
+  "terragon-nature-lab-summer-camp": [
+    52.3730796,
+    4.8924534
+  ],
+  "wow-family-center-summer-camp": [
+    52.3730796,
+    4.8924534
+  ],
+  "esti-school-summer-camp": [
+    50.0469432,
+    19.9971534
+  ],
+  "campo-aventura": null,
+  "cascais-routes": [
+    38.6812181,
+    -9.3260132
+  ],
+  "escola-la-fora-summer-camp": [
+    41.2126265,
+    1.0022755
+  ],
+  "prime-school-international-summer-camp": [
+    38.7081726,
+    -9.3958984
+  ],
+  "takeoff-ocean-academy-surf-school": [
+    38.6812181,
+    -9.3260132
+  ],
+  "vivalab-future-makers-summer-camp": [
+    41.0954304,
+    -8.6350144
+  ],
+  "waves-and-minds-surf-and-emotional-intelli": null,
+  "explorer-international-kids-camps": null,
+  "flow-ramps-summer-camp": null,
+  "4-elements-galicia-bilingual-forest-school": null,
+  "fishing-summer-camp": null,
+  "institute-of-the-arts-barcelona-musical-th": null,
+  "learnlife-summer-camp": null,
+  "my-spanish-camp": null,
+  "ol-immersion-summer-camps": null,
+  "planet-surf-camps": null,
+  "sotogrande-international-school-junior-sum": [
+    10.6679923,
+    -61.5074617
+  ],
+  "brevik-summer-camp": null,
+  "international-camp-suisse-elementary-ages": null,
+  "young-explorers-club": null,
+  "able-summer-camp": null,
+  "camp-crusoe": null,
+  "mill-on-the-brue-outdoor-activity-centre-s": null,
+  "wild-outdoors": null
 }
