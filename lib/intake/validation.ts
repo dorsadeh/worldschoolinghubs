@@ -27,6 +27,7 @@ export interface HubForValidation {
 
 export interface OverrideEntry {
   website?: string; websiteType?: "site" | "social"; category?: string; facebook?: string;
+  country?: string; region?: string; ages?: string; price?: string; season?: string;
 }
 
 function firstWord(s: string): string {
@@ -71,6 +72,10 @@ export function validationToOverride(
         o.websiteType = r.fields.websiteType ?? "site";
       }
       if (r.fields.category) o.category = r.fields.category;
+      for (const k of ["country", "region", "ages", "price", "season"] as const) {
+        const v = r.fields[k]?.trim();
+        if (v) o[k] = v;
+      }
       return Object.keys(o).length ? o : null;
     }
   }

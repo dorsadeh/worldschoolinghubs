@@ -456,7 +456,7 @@ for e in final:
     # and an override keyed to the old bare id silently no-ops. Re-check after adding entries.
     o = OVERRIDES.get(eid)
     if o:
-        for k in ("website", "facebook", "category", "categories", "websiteType"):
+        for k in ("website", "facebook", "category", "categories", "websiteType", "country", "region", "ages", "price", "season"):
             if k in o: e[k] = o[k]
     e["summary"] = make_summary(e)
     e["references"] = build_refs(e)

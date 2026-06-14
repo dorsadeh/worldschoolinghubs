@@ -55,6 +55,11 @@ describe("validationToOverride (high-confidence only)", () => {
     expect(validationToOverride(res({ disposition: "merge", dupOf: "bliss-hubs-siem-reap" }), REG))
       .toEqual({ category: "junk" });
   });
+  it("fix applies fact fields (country/region/ages/price/season) too", () => {
+    expect(validationToOverride(res({ disposition: "fix",
+      fields: { website: "https://x.com/", websiteType: "site", country: "Costa Rica", region: "Guanacaste", ages: "3-17" } }), REG))
+      .toEqual({ website: "https://x.com/", websiteType: "site", country: "Costa Rica", region: "Guanacaste", ages: "3-17" });
+  });
   it("medium/low confidence → null (flagged, never auto-applied)", () => {
     expect(validationToOverride(res({ confidence: "low", disposition: "junk" }), REG)).toBeNull();
     expect(validationToOverride(res({ confidence: "medium", disposition: "fix",

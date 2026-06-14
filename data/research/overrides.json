@@ -1,4 +1,14 @@
 {
+  "agora-andorra-international-school-summer-": {
+    "website": "https://andorra.agorainternationalschool.es/en/school-life/summer-camp",
+    "websiteType": "site",
+    "category": "summer_camp",
+    "country": "Andorra",
+    "region": "Andorra la Vella",
+    "ages": "8–15",
+    "price": "€376–€2102/week",
+    "season": "July"
+  },
   "algarve-worldschooling-hub-naturally-riche": {
     "category": "organic"
   },
@@ -99,7 +109,12 @@
   },
   "harmony-learning-center": {
     "website": "https://harmonyeducation.net/",
-    "websiteType": "site"
+    "websiteType": "site",
+    "category": "permanent_commercial",
+    "country": "Costa Rica",
+    "region": "Guanacaste (Junquillal)",
+    "ages": "3–17",
+    "season": "year-round (summer camps)"
   },
   "hoi-an-an-bang": {
     "website": "https://www.facebook.com/groups/1137478175223942",
@@ -203,6 +218,16 @@
     "website": "https://shantivillage.com",
     "websiteType": "site"
   },
+  "shanti-shanti-kampot-worldschooling-hub-me": {
+    "website": "https://shantivillage.com/worldschooling/",
+    "websiteType": "site",
+    "category": "permanent_commercial",
+    "country": "Cambodia",
+    "region": "Kampot",
+    "ages": "0–17",
+    "price": "$50–$200/week",
+    "season": "November–April"
+  },
   "shepherd-s-rest": {
     "website": "https://shepherdsrest.org/",
     "websiteType": "site"
@@ -258,6 +283,15 @@
   },
   "we-are-worldschoolers-online": {
     "category": "online_communities"
+  },
+  "whale-camp": {
+    "website": "https://whalecamp.com/",
+    "websiteType": "site",
+    "category": "summer_camp",
+    "country": "Canada",
+    "region": "Grand Manan, New Brunswick",
+    "ages": "10–17",
+    "season": "Summer (June–August)"
   },
   "wild-hearts-collective": {
     "website": "https://www.instagram.com/worldschoolingbali/",
