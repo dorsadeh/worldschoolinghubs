@@ -75,4 +75,14 @@ describe("partitionResults", () => {
     expect(apply.map((r) => r.id).sort()).toEqual(["a", "d"]);
     expect(flag.map((r) => r.id).sort()).toEqual(["c", "e"]);
   });
+
+  it("flags a high-confidence fix whose only website was an aggregator (no silent drop)", () => {
+    const results = [
+      res({ id: "agg", confidence: "high", disposition: "fix",
+        fields: { website: "https://worldschooly.com/hub/x" } }),
+    ];
+    const { apply, flag } = partitionResults(results, REG);
+    expect(apply).toEqual([]);
+    expect(flag.map((r) => r.id)).toEqual(["agg"]);
+  });
 });

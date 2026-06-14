@@ -86,8 +86,8 @@ export function partitionResults(
   const flag: ValidationResult[] = [];
   for (const r of results) {
     if (validationToOverride(r, registry)) apply.push(r);
-    else if (r.confidence !== "high") flag.push(r);
-    // else: high-confidence keep → no action
+    else if (r.confidence !== "high" || r.disposition !== "keep") flag.push(r);
+    // else: high-confidence keep → no-op (no override needed, nothing to flag)
   }
   return { apply, flag };
 }
