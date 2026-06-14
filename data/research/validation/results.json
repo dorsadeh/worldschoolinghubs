@@ -1,1 +1,85 @@
-{ "validatedAt": "", "results": [] }
+{
+  "validatedAt": "2026-06-14",
+  "results": [
+    {
+      "id": "naturally-richer-high-tatras-and-central-s",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Slovakia", "region": "High Tatras and central Slovakia", "category": "permanent_commercial", "ages": "all ages", "price": "€120–€200 per family (1–3 weeks)", "season": "late July – mid-August", "website": "https://www.naturallyricher.com/hubslovakia", "websiteType": "site" },
+      "latestSignOfLife": "2026-06", "dupOf": null, "disposition": "keep",
+      "evidence": ["https://www.naturallyricher.com/hubslovakia — live 2026 program"],
+      "note": "First-party site live with summer 2026 Slovakia program.", "model": "sonnet"
+    },
+    {
+      "id": "harmony-learning-center",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Costa Rica", "region": "Guanacaste (Junquillal)", "category": "permanent_commercial", "ages": "3–17", "price": "", "season": "year-round (summer camps)", "website": "https://harmonyeducation.net/", "websiteType": "site" },
+      "latestSignOfLife": "2026-04", "dupOf": null, "disposition": "fix",
+      "evidence": ["https://harmonyeducation.net/ — nature school Guanacaste CR, media uploads Apr 2026"],
+      "note": "Active nature-based school; fill country/region/ages.", "model": "sonnet"
+    },
+    {
+      "id": "whale-camp",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Canada", "region": "Grand Manan, New Brunswick", "category": "summer_camp", "ages": "10–17", "price": "", "season": "Summer (June–August)", "website": "https://whalecamp.com/", "websiteType": "site" },
+      "latestSignOfLife": "2026-06", "dupOf": null, "disposition": "fix",
+      "evidence": ["https://whalecamp.com/ — 2026 programs live; current link was wanderworks aggregator"],
+      "note": "Swap aggregator link for first-party whalecamp.com.", "model": "sonnet"
+    },
+    {
+      "id": "agora-andorra-international-school-summer-",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Andorra", "region": "Andorra la Vella", "category": "summer_camp", "ages": "8–15", "price": "€376–€2102/week", "season": "July", "website": "https://andorra.agorainternationalschool.es/en/school-life/summer-camp", "websiteType": "site" },
+      "latestSignOfLife": "2025-07", "dupOf": null, "disposition": "fix",
+      "evidence": ["https://andorra.agorainternationalschool.es/en/school-life/summer-camp — official camp page; current link was wanderworks aggregator"],
+      "note": "Swap aggregator link for the school's own summer-camp page.", "model": "sonnet"
+    },
+    {
+      "id": "wild-adventure-school-africa-hub",
+      "status": "uncertain", "confidence": "low",
+      "fields": { "country": "", "region": "", "category": "", "ages": "", "price": "", "season": "", "website": "", "websiteType": "site" },
+      "latestSignOfLife": "unknown", "dupOf": null, "disposition": "junk",
+      "evidence": ["no first-party presence found for a 'Wild Adventure School' Africa worldschool hub"],
+      "note": "Phantom/stale listing — no verifiable web presence.", "model": "sonnet"
+    },
+    {
+      "id": "shanti-shanti-kampot-worldschooling-hub-me",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Cambodia", "region": "Kampot", "category": "permanent_commercial", "ages": "0–17", "price": "$50–$200/week", "season": "November–April", "website": "https://shantivillage.com/worldschooling/", "websiteType": "site" },
+      "latestSignOfLife": "2025-11", "dupOf": null, "disposition": "fix",
+      "evidence": ["https://shantivillage.com/worldschooling/ — 2026–2027 weekly sessions, pricing"],
+      "note": "Active hub; add first-party website + details.", "model": "sonnet"
+    },
+    {
+      "id": "siem-reap-bliss-hub-cambodia",
+      "status": "uncertain", "confidence": "low",
+      "fields": { "country": "Cambodia", "region": "Siem Reap", "category": "permanent_commercial", "ages": "", "price": "", "season": "", "website": "", "websiteType": "site" },
+      "latestSignOfLife": "unknown", "dupOf": "bliss-hubs-siem-reap", "disposition": "merge",
+      "evidence": ["blissinvestor.com lists only Pai/Koh Lanta; no first-party Siem Reap page — duplicates existing bliss-hubs-siem-reap"],
+      "note": "Duplicate of bliss-hubs-siem-reap; no verified first-party page.", "model": "sonnet"
+    },
+    {
+      "id": "wonder-intercultural-school",
+      "status": "active", "confidence": "medium",
+      "fields": { "country": "Indonesia", "region": "Lombok", "category": "permanent_community", "ages": "3-12", "price": "", "season": "", "website": "https://wonderschool.cc/", "websiteType": "site" },
+      "latestSignOfLife": "2025-05", "dupOf": null, "disposition": "fix",
+      "evidence": ["instagram.com/wonderschool.cc — active to May 2025; site has broken SSL"],
+      "note": "Operationally active (IG); site SSL broken — revive from inactive but verify.", "model": "sonnet"
+    },
+    {
+      "id": "bansko-town-base-city",
+      "status": "active", "confidence": "high",
+      "fields": { "country": "Bulgaria", "region": "Bansko", "category": "organic", "ages": "", "price": "", "season": "year-round", "website": "https://www.facebook.com/groups/1458088764967558/", "websiteType": "social" },
+      "latestSignOfLife": "2026-04", "dupOf": null, "disposition": "keep",
+      "evidence": ["FB group 'Home/World Schooling Families Bansko'; town confirmed active worldschool base 2026"],
+      "note": "Organic town hub, active community; keep.", "model": "sonnet"
+    },
+    {
+      "id": "eco-holistic-kids-club",
+      "status": "uncertain", "confidence": "low",
+      "fields": { "country": "", "region": "", "category": "permanent_commercial", "ages": "", "price": "", "season": "", "website": "https://www.facebook.com/escueladelaluz/", "websiteType": "social" },
+      "latestSignOfLife": "unknown", "dupOf": null, "disposition": "fix",
+      "evidence": ["facebook.com/escueladelaluz resolves but login wall blocked country/recency"],
+      "note": "FB page resolves but metadata blocked — needs manual location/recency check.", "model": "sonnet"
+    }
+  ]
+}
