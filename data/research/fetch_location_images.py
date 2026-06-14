@@ -34,12 +34,12 @@ def save_cover(img_bytes, path, box=(420,280)):
     im.crop((l,t,l+tw,t+th)).save(path, "JPEG", quality=74, optimize=True)
 
 def place_queries(e):
-    nm = re.split(r'[(/]', e["name"])[0].strip()
-    region = re.split(r'[(/,]', e.get("region") or "")[0].strip()
+    region_full = re.split(r'[(/]', e.get("region") or "")[0].strip()   # e.g. "Andorra la Vella, Andorra"
+    region = re.split(r'[(/,]', e.get("region") or "")[0].strip()        # first segment, e.g. "Andorra la Vella"
     country = (e.get("country") or "").strip()
     cc = country if country.lower() not in SKIP else ""
     out, seen = [], set()
-    for c in [nm, f"{nm}, {cc}" if cc else "", region, f"{region}, {cc}" if region and cc else "", cc]:
+    for c in [region_full, f"{region}, {cc}" if region and cc else "", region]:
         c = c.strip().strip(",").strip()
         if len(c) >= 3 and c.lower() not in SKIP and c.lower() not in seen:
             seen.add(c.lower()); out.append(c)
@@ -58,14 +58,18 @@ def wiki_image(q):
     if j.get("type") == "disambiguation": return None
     src = (j.get("originalimage") or {}).get("source") or (j.get("thumbnail") or {}).get("source")
     if src and src.lower().endswith(".svg"): return None
+    if src and re.search(r'flag[_ ]of|/flag|_flag', src, re.I): return None
     return src
 
 def openverse_image(query):
     try:
-        u = "https://api.openverse.org/v1/images/?q=" + urllib.parse.quote(query) + "&page_size=1&license_type=all-cc"
+        u = "https://api.openverse.org/v1/images/?q=" + urllib.parse.quote(query) + "&page_size=3&license_type=all-cc"
         data = json.loads(fetch(u))
-        results = data.get("results") or []
-        return results[0].get("url") if results else None
+        for r in (data.get("results") or []):
+            blob = ((r.get("title") or "") + " " + (r.get("url") or "")).lower()
+            if "flag" in blob or "logo" in blob or "coat of arms" in blob: continue
+            return r.get("url")
+        return None
     except Exception:
         return None
 

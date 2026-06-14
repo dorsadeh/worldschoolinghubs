@@ -138,8 +138,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EHakuba%20International%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28term/year%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EHakuba%20Mura%2C%20Nagano%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/hakuba-international-term-year.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Kuala Lumpur",
@@ -554,7 +554,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ECulture%20Chalk%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/culture-chalk.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -808,7 +808,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESiem%20Reap%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ECambodia%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECambodia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/siem-reap-bliss-hub-cambodia.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1073,7 +1073,7 @@
     "summary": "extracted from theworldschoolatlas.com listing (listing dated 2025-04-01)",
     "references": [],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGuanacaste%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EChildren%26amp%3B%23039%3Bs%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGCCC%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/guanacaste-children-039-s-community-center-2.jpg",
     "fit": "cover"
   },
   {
@@ -1141,7 +1141,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWISE%20Education%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGuanacaste%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/wise-education.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "WISE Education | Costa Rica Worldschool Hub",
@@ -1198,7 +1198,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EThe%20Field%20School%20of%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHvar%20%7C%20Worldschooling%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECroatia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/the-field-school-of-hvar-worldschooling-hu.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1232,7 +1232,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3E%C3%8EleO%20Worldschool%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECura%C3%A7ao%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/leo-worldschool.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Bornholm Worldschool Hub | Family-Centered Learning in Denmark",
@@ -1260,7 +1260,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBornholm%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%20%7C%20Family-Centered%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EDenmark%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/bornholm-worldschool-hub-family-centered-l.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1385,7 +1385,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPunta%20la%20Barca%20%7C%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EColiving%20and%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEcuador%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/punta-la-barca-coliving-and-worldschooling.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1414,7 +1414,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Hub%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ELuxor%2C%20Egypt%20%7C%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEgypt%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-hub-in-luxor-egypt-egyptian.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1502,7 +1502,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAntigua%20Green%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGuatemala%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/antigua-green-school.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1540,8 +1540,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Hub%20Goa%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EIndia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-hub-goa.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Bali Bliss Hub",
@@ -1569,7 +1569,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBali%20Bliss%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EIndonesia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/bali-bliss-hub.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -1681,7 +1681,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EFuture%20Human%20Project%20%7C%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EBali%20Worldschooling%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EIndonesia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/future-human-project-bali-worldschooling-f.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2030,7 +2030,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMaldives%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMaldives%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/maldives-worldschool-hub.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2092,7 +2092,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAnahata%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ECommunity%20%7C%20Cultural%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMexico%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/anahata-worldschooling-community-cultural-.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2160,7 +2160,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Mexico%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESan%20Miguel%20de%20Allende%20/%20Oaxaca%20/%20Tulum%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschool-mexico.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Worldschooling Life",
@@ -2192,7 +2192,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Life%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMexico%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-life.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2270,7 +2270,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMadrasa%20Dunya%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldSchool%20%7C%20Holistic%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMorocco%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/madrasa-dunya-worldschool-holistic-educati.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2308,7 +2308,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMadrasa%20Dunya%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Morocco%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EOurika%20river%2C%20High%20Atlas%20mountains%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/madrasa-dunya-worldschool-morocco.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Tazgha Resort (Essaouira)",
@@ -2506,7 +2506,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EInside%20Romania%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschooling%20%E2%80%93%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ERomania%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/inside-romania-worldschooling-explore-tran.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2635,7 +2635,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESilvermist%20Academy%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHands-On%20Learning%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESouth%20Africa%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/silvermist-academy-hands-on-learning-hub-i.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -2668,8 +2668,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EArtsVille%20Valenciana%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETibi%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/artsville-valenciana.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Blattwerk Naturpädagogik (Valle Gran Rey (La Gomera), Spain)",
@@ -2705,7 +2705,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBlattwerk%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ENaturp%C3%A4dagogik%20%28Valle%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EValle%20Gran%20Rey%20%28La%20Gomera%29%2C%20Spain%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/blattwerk-naturp-dagogik-valle-gran-rey-la.jpg",
     "fit": "cover"
   },
   {
@@ -2754,7 +2754,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20Estepona%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEstepona%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/boundless-estepona.jpg",
     "fit": "cover"
   },
   {
@@ -2787,8 +2787,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELumina%20Academy%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEl%20Puerto%20de%20Santa%20Mar%C3%ADa%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/lumina-academy.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "NYsKOOL",
@@ -2925,7 +2925,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EValencia%20Forest%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EValencia%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/valencia-forest-school.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Valencia Forest School in Spain",
@@ -2961,7 +2961,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EValencia%20Forest%20School%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3Ein%20Spain%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESpain%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/valencia-forest-school-in-spain.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3033,7 +3033,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EElate%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBangkok%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/elate.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Koh Lanta Bliss Hub - Thailand",
@@ -3231,7 +3231,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESecondary%20School%20in%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-secondary-school-in-thailan.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3343,7 +3343,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBoundless%20La%20Barra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Barra%2C%20Maldonado%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/boundless-la-barra.jpg",
     "fit": "cover"
   },
   {
@@ -3380,7 +3380,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Hub%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHoi%20An%20%E2%80%93%20Harmony%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EVietnam%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-hub-in-hoi-an-harmony-alter.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3414,7 +3414,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EThe%20World%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3En/a%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/the-world-school.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3582,7 +3582,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKallipoli%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%28eco-community%29%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/kallipoli.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3620,7 +3620,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ENoma%20Collective%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28Family%20Hub%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%28coliving/coworking%29%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/noma-collective-family-hub.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3715,7 +3715,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWe%20Are%20Tribe%3A%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Coliving%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EIndonesia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/we-are-tribe-worldschool-coliving-in-bali.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -3783,7 +3783,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EEarthbound%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESouthern%20Tuscany%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/earthbound.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Progetto Baita",
@@ -3908,7 +3908,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESemillitas%20Spanish%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ENature%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECuernavaca%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/semillitas-spanish-in-nature.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Mirleft Cultural Cove",
@@ -3971,7 +3971,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESacred%20Roots%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBetween%20Calca%20and%20Urubamba%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/sacred-roots-hub.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -4033,7 +4033,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EHomeschooling%20Hub%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EMadeira%20%7C%20Campus%20da%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPortugal%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/homeschooling-hub-in-madeira-campus-da-ter.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -4126,7 +4126,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELas%20Semillitas%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESpain%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/las-semillitas.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -4410,8 +4410,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Pop-Up%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschool-pop-up-hub.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Buenos Aires Worldschool Pop-Up Hub December 2026",
@@ -4439,7 +4439,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBuenos%20Aires%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Pop-Up%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EArgentina%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/buenos-aires-worldschool-pop-up-hub-decemb.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -4758,7 +4758,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EEgyptian%20Adventures%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELuxor%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/egyptian-adventures.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "World School Pop Up El Salvador",
@@ -4791,7 +4791,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorld%20School%20Pop%20Up%20El%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESalvador%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAntiguo%20Cuscatl%C3%A1n%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/world-school-pop-up-el-salvador.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Worldschool Pop Up El Salvador",
@@ -5106,7 +5106,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPelangi%20Creative%20Camps%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3Ein%20Bali%20for%20Kids%20Aged%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EIndonesia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/pelangi-creative-camps-in-bali-for-kids-ag.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5202,7 +5202,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Pop-Up%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ENaples%20%7C%20April%202026%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EItaly%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschool-pop-up-naples-april-2026.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5290,7 +5290,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELuang%20Prabang%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Pop-Up%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELaos%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/luang-prabang-worldschool-pop-up-hub-augus.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5319,7 +5319,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBorneo%20Rainforest%20%7C%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Camp%20for%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMalaysia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/borneo-rainforest-worldschool-camp-for-fam.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5547,7 +5547,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Gathering%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3Ethe%20Netherlands%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ENetherlands%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschool-gathering-the-netherlands.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5609,7 +5609,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EProject%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EPeru%20Retreat%20%7C%20Teen%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPeru%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/project-worldschool-peru-retreat-teen-hub-.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5675,7 +5675,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Pop-Up%20Hub%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28Warsaw%2C%20Poland%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EWarsaw%2C%20Poland%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/worldschool-pop-up-hub-warsaw-poland.jpg",
     "fit": "cover"
   },
   {
@@ -5741,7 +5741,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EInside%20Romania%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EM%C4%83gura%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/inside-romania.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5832,7 +5832,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAndalusia%20Nomad%20Mums%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28co-living%20for%20mums%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EChiclana%20de%20la%20Frontera%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/andalusia-nomad-mums-co-living-for-mums-an.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -5902,7 +5902,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELanguage%20and%20Cultural%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EImmersion%20Northern%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESpain%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/language-and-cultural-immersion-northern-s.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -6036,8 +6036,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EUganda%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBwerenga%2C%20Entebbe%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/uganda-worldschooling-hub.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Camp Stomping Ground",
@@ -6261,7 +6261,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ef6c00%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238f4000%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%E2%9A%A1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorld%20School%20Pop-Up%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E17%20cities%20worldwide%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/world-school-pop-up-hub.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Traveling Village",
@@ -6319,7 +6319,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Austria%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EMountain%20Retreat%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBad%20Gastein%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschooling-austria-mountain-retreat.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Worldschooling Austria Winter Mountain Retreat",
@@ -6353,7 +6353,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Austria%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWinter%20Mountain%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBad%20Gastein%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschooling-austria-winter-mountain-ret.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Arctic Terns",
@@ -6385,7 +6385,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EArctic%20Terns%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBansko%20BG%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/arctic-terns.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -6581,7 +6581,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWanderlust%20Schoolers%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETokyo%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/wanderlust-schoolers.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Outside the Box Adventures",
@@ -6613,7 +6613,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EOutside%20the%20Box%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EAdventures%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EDhangethi%20Island%20MV%3B%20South%20Africa%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/outside-the-box-adventures.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -6765,7 +6765,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EUnschool%20Adventures%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EValencia%20ES%20%282026%29%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/unschool-adventures.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -6807,7 +6807,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGlobal%20Classroom%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EProject%20%28Harmony%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKo%20Lanta%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/global-classroom-project-harmony-alternati.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Worldschooling Dude Ranch Experience",
@@ -6840,8 +6840,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%20Dude%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ERanch%20Experience%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EUnited%20States%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-dude-ranch-experience.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Travelling Village",
@@ -6915,7 +6915,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EStorylines%20%28ship%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGlobal%20%28ship%29%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/storylines-ship.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -7016,7 +7016,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EProject%20World%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPeloponnese/Pelion/Athens%20GR%3B%20Cusco%20PE%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/project-world-school.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Dream Big Travels",
@@ -7086,8 +7086,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a1b9a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f105c%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%A7%AD%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EJourneys%20%28Every%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGlobal%3B%20Austria%20Bad%20Gastein%20land%20trip%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/worldschooling-journeys-every-avenue.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Sucre",
@@ -7223,7 +7223,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2185b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23740e36%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%97%A3%EF%B8%8F%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAntigua%20Guatemala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EGlobal%20Explorers%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAntigua%20Guatemala%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/antigua-guatemala-global-explorers.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Antigua Guatemala Global Explorers | Worldschooling Hub",
@@ -7259,7 +7259,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2185b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23740e36%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%97%A3%EF%B8%8F%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAntigua%20Guatemala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EGlobal%20Explorers%20%7C%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGuatemala%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/antigua-guatemala-global-explorers-worldsc.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -7339,7 +7339,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2185b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23740e36%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%97%A3%EF%B8%8F%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschool%20Antigua%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EGuatemala%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAntigua%20Guatemala%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschool-antigua-guatemala.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Oaxaca (Spanish schools)",
@@ -7372,7 +7372,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2185b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23740e36%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%97%A3%EF%B8%8F%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EOaxaca%20%28Spanish%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3Eschools%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EOaxaca%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/oaxaca-spanish-schools.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "San Cristóbal de las Casas",
@@ -7434,7 +7434,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2185b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23740e36%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%97%A3%EF%B8%8F%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGranada%20%28family%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESpanish%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGranada%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/granada-family-spanish.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Jewish Worldschoolers",
@@ -7466,8 +7466,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EJewish%20Worldschoolers%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3E%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/jewish-worldschoolers.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "The Hub",
@@ -7638,7 +7638,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EShanti%20Shanti%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKampot%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/shanti-shanti.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "My Worldschool Hub",
@@ -7671,7 +7671,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMy%20Worldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBrighton%20%26amp%3B%20Margate%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/my-worldschool-hub.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Bliss Hubs Bali",
@@ -7840,7 +7840,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EFuerteventura%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EFuerteventura%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/fuerteventura-worldschool-hub.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Gran Canaria Worldschool Hub",
@@ -7873,7 +7873,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EGran%20Canaria%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EWorldschool%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EGran%20Canaria%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/gran-canaria-worldschool-hub.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Tenerife Worldschool Hub",
@@ -7906,7 +7906,7 @@
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ETenerife%20Worldschool%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ETenerife%2C%20Canary%20Islands%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/tenerife-worldschool-hub.jpg",
-    "fit": "contain"
+    "fit": "cover"
   },
   {
     "name": "Bliss Hubs Koh Lanta",
@@ -8017,8 +8017,8 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPanya%20Forest%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EMae%20Taeng%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/panya-forest.jpg",
-    "fit": "contain"
+    "photo": "",
+    "fit": "cover"
   },
   {
     "name": "Remote Family Database (directory)",
@@ -8234,7 +8234,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESkiten%20Summer%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Bruy%C3%A8re%2C%20Belgium%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/skiten-summer-camp.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -8640,7 +8640,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBuena%20Onda%20Surf%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EOlbia%2C%20Italy%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/buena-onda-surf-camp.jpg",
     "fit": "cover"
   },
   {
@@ -8727,7 +8727,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EVillage%20Forest%20School%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESummer%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECerrina%20Monferrato%2C%20Italy%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/village-forest-school-summer-camp.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -8930,7 +8930,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWow%20Family%20Center%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ESummer%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAmsterdam%2C%20Netherlands%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/wow-family-center-summer-camp.jpg",
     "fit": "cover"
   },
   {
@@ -9166,7 +9166,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWaves%20and%20Minds%20Surf%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3Eand%20Emotional%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEriceira%2C%20Portugal%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/waves-and-minds-surf-and-emotional-intelli.jpg",
     "fit": "cover"
   },
   {
@@ -9224,7 +9224,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EFlow%20Ramps%20Summer%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ERe%C4%8Dica%20ob%20Savinji%2C%20Slovenia%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/flow-ramps-summer-camp.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -9427,7 +9427,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPlanet%20Surf%20Camps%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESan%20Vicente%20de%20la%20Barquera%2C%20Spain%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/planet-surf-camps.jpg",
     "fit": "cover"
   },
   {
@@ -9456,7 +9456,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESotogrande%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EInternational%20School%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EC%C3%A1diz%2C%20Spain%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/sotogrande-international-school-junior-sum.jpg",
     "fit": "cover"
   },
   {
@@ -9485,7 +9485,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBrevik%20Summer%20Camp%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EVikbolandet%2C%20Sweden%3C/text%3E%3C/svg%3E",
-    "photo": "hub-images/brevik-summer-camp.jpg",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -9543,7 +9543,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EYoung%20Explorers%20Club%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELes%20Diablerets%2C%20Switzerland%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/young-explorers-club.jpg",
     "fit": "cover"
   },
   {
@@ -9630,7 +9630,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EMill%20on%20the%20Brue%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EOutdoor%20Activity%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBruton%2C%20United%20Kingdom%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/mill-on-the-brue-outdoor-activity-centre-s.jpg",
     "fit": "cover"
   },
   {
@@ -9659,7 +9659,7 @@
       ]
     ],
     "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWild%20Outdoors%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EEdinburgh%2C%20United%20Kingdom%3C/text%3E%3C/svg%3E",
-    "photo": "",
+    "photo": "hub-images/wild-outdoors.jpg",
     "fit": "cover"
   }
 ]
