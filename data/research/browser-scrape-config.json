@@ -1,0 +1,14 @@
+{
+  "famunity.net": {
+    "startUrl": "https://famunity.net/",
+    "navHint": "render the SPA, navigate to the hubs/listings view, scroll to load all; collect listing anchor hrefs + visible card title + any date text",
+    "categoryGuess": "",
+    "sourceChannel": "browser:famunity.net"
+  },
+  "wanderworks.life": {
+    "startUrl": "https://wanderworks.life/search",
+    "navHint": "render /search, wait for camp cards, scroll to load all; collect camp name + location + dates + detail link",
+    "categoryGuess": "summer_camp",
+    "sourceChannel": "browser:wanderworks.life"
+  }
+}
