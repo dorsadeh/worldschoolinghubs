@@ -334,8 +334,10 @@ a:hover { opacity: 0.8; }
 
   const CATEGORY_OPTIONS = [
     "", "organic", "permanent_commercial", "permanent_community",
-    "popup", "traveling", "spanish_immersion"
+    "popup", "traveling", "spanish_immersion", "summer_camp"
   ];
+
+  function stale(d){ if(!d) return false; return (Date.now() - Date.parse(d)) > 18*30*86400000; }
 
   function buildCard(c) {
     // Source channel badge
@@ -353,12 +355,20 @@ a:hover { opacity: 0.8; }
       dupeBadge = el("span", { className: "badge", style: { background: "#6b7280" } }, c.dedupe);
     }
 
-    // Meta line: country/region/claimedDates/categoryGuess
+    // Meta line: country/region/claimedDates/categoryGuess/listingDate
     const metaItems = [];
     if (c.country) metaItems.push(el("span", {}, el("span", { className: "label" }, "country: "), c.country));
     if (c.region) metaItems.push(el("span", {}, el("span", { className: "label" }, "region: "), c.region));
     if (c.claimedDates) metaItems.push(el("span", {}, el("span", { className: "label" }, "dates: "), c.claimedDates));
     if (c.categoryGuess) metaItems.push(el("span", {}, el("span", { className: "label" }, "category: "), c.categoryGuess));
+    if (c.listingDate) {
+      const dateSpan = el("span", {},
+        el("span", { className: "label" }, "listed: "),
+        el("span", { style: { color: "var(--zinc-500)" } }, c.listingDate),
+        stale(c.listingDate) ? el("span", { className: "badge", style: { background: "#b45309", marginLeft: "6px" } }, "stale") : null
+      );
+      metaItems.push(dateSpan);
+    }
 
     // Provider URL
     let providerUrlEl = null;
