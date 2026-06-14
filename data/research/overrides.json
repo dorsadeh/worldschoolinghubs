@@ -16,9 +16,19 @@
     "website": "https://www.amanilight.com/worldschool",
     "websiteType": "site"
   },
+  "anahata-worldschooling-community-cultural-": {
+    "region": "Oaxaca"
+  },
   "antigua-green-school": {
     "website": "https://www.facebook.com/AntiguaGreenSchool/",
-    "websiteType": "social"
+    "websiteType": "social",
+    "region": "Antigua"
+  },
+  "antigua-guatemala-global-explorers-worldsc": {
+    "region": "Antigua"
+  },
+  "bali-bliss-hub": {
+    "region": "Bali"
   },
   "bansko-town-base-city": {
     "website": "https://www.facebook.com/groups/1458088764967558",
@@ -48,6 +58,15 @@
     "category": "organic",
     "website": "https://blissinvestor.com",
     "websiteType": "site"
+  },
+  "borneo-rainforest-worldschool-camp-for-fam": {
+    "region": "Borneo"
+  },
+  "bornholm-worldschool-hub-family-centered-l": {
+    "region": "Bornholm"
+  },
+  "buenos-aires-worldschool-pop-up-hub-decemb": {
+    "region": "Buenos Aires"
   },
   "chiang-mai": {
     "website": "https://www.facebook.com/groups/429152322487588/",
@@ -92,6 +111,9 @@
     "website": "https://futurehumanproject.co/",
     "websiteType": "site"
   },
+  "future-human-project-bali-worldschooling-f": {
+    "region": "Bali"
+  },
   "future-human-school-bali": {
     "website": "https://www.futurehumanschoolbali.com/",
     "websiteType": "site"
@@ -120,6 +142,12 @@
     "website": "https://www.facebook.com/groups/1137478175223942",
     "websiteType": "social"
   },
+  "homeschooling-hub-in-madeira-campus-da-ter": {
+    "region": "Madeira"
+  },
+  "inside-romania-worldschooling-explore-tran": {
+    "region": "Transylvania"
+  },
   "jewish-worldschoolers": {
     "category": "online_communities"
   },
@@ -138,16 +166,27 @@
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "websiteType": "social"
   },
+  "language-and-cultural-immersion-northern-s": {
+    "region": "Basque Country"
+  },
   "languaventure-international-learning-centr": {
     "website": "https://languaventure.com",
     "websiteType": "site"
   },
   "las-semillitas": {
-    "category": "inactive"
+    "category": "inactive",
+    "region": "Spain"
+  },
+  "luang-prabang-worldschool-pop-up-hub-augus": {
+    "region": "Luang Prabang"
+  },
+  "madrasa-dunya-worldschool-holistic-educati": {
+    "region": "Marrakech"
   },
   "maldives-worldschool-hub": {
     "website": "https://www.facebook.com/groups/186758410890213/",
-    "websiteType": "social"
+    "websiteType": "social",
+    "region": "Maldives"
   },
   "mama-adama": {
     "website": "https://www.mama-adama.pt/",
@@ -180,6 +219,9 @@
     "website": "https://panyaforest.com",
     "websiteType": "site"
   },
+  "pelangi-creative-camps-in-bali-for-kids-ag": {
+    "region": "Bali"
+  },
   "pelangi-school-creative-camp": {
     "website": "https://www.pelangischoolbali.com",
     "websiteType": "site"
@@ -194,6 +236,12 @@
   "progetto-baita": {
     "website": "https://www.facebook.com/groups/progettobaita/",
     "websiteType": "social"
+  },
+  "project-worldschool-peru-retreat-teen-hub-": {
+    "region": "Sacred Valley"
+  },
+  "punta-la-barca-coliving-and-worldschooling": {
+    "region": "Punta la Barca"
   },
   "remote-family-database-directory": {
     "category": "junk"
@@ -232,9 +280,15 @@
     "website": "https://shepherdsrest.org/",
     "websiteType": "site"
   },
+  "siem-reap-bliss-hub-cambodia": {
+    "region": "Siem Reap"
+  },
   "silvermist-academy": {
     "website": "https://silvermistacademy.co.za/",
     "websiteType": "site"
+  },
+  "silvermist-academy-hands-on-learning-hub-i": {
+    "region": "Cape Town"
   },
   "soy-montesser": {
     "website": "https://www.soymontesser.com/",
@@ -255,6 +309,9 @@
     "website": "https://www.educationthatinspires.com/thecreativeworld/",
     "websiteType": "site"
   },
+  "the-field-school-of-hvar-worldschooling-hu": {
+    "region": "Hvar"
+  },
   "the-hub": {
     "category": "junk"
   },
@@ -274,12 +331,18 @@
     "website": "https://www.twineagles.org",
     "websiteType": "site"
   },
+  "valencia-forest-school-in-spain": {
+    "region": "Valencia"
+  },
   "wander-wonder-the-traveling-adventure-scho": {
     "website": "https://www.facebook.com/groups/3761508630761429/",
     "websiteType": "social"
   },
   "we-are-tribe": {
     "category": "inactive"
+  },
+  "we-are-tribe-worldschool-coliving-in-bali": {
+    "region": "Bali"
   },
   "we-are-worldschoolers-online": {
     "category": "online_communities"
@@ -327,6 +390,12 @@
   "worldschool-collective-directory": {
     "category": "online_communities"
   },
+  "worldschool-gathering-the-netherlands": {
+    "region": "Netherlands"
+  },
+  "worldschool-pop-up-naples-april-2026": {
+    "region": "Naples"
+  },
   "worldschoolers-in-kuala-lumpur": {
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "websiteType": "social"
@@ -352,11 +421,24 @@
   },
   "worldschooling-dude-ranch-experience": {
     "website": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
-    "websiteType": "site"
+    "websiteType": "site",
+    "region": "Montana"
+  },
+  "worldschooling-hub-goa": {
+    "region": "Goa"
+  },
+  "worldschooling-hub-in-hoi-an-harmony-alter": {
+    "region": "Hoi An"
+  },
+  "worldschooling-hub-in-luxor-egypt-egyptian": {
+    "region": "Luxor"
   },
   "worldschooling-journeys-every-avenue": {
     "website": "https://worldschoolingjourneys.com",
     "websiteType": "site"
+  },
+  "worldschooling-secondary-school-in-thailan": {
+    "region": "Chiang Mai"
   },
   "worldschooling-tanzania": {
     "website": "https://www.amanilight.com/worldschool",
