@@ -25,7 +25,8 @@
     "inbox:review": "tsx scripts/inbox-review-page.ts",
     "discover:browser": "tsx scripts/discover-browser.ts",
     "mentions:seed-registry": "tsx scripts/mentions-seed-registry.ts",
-    "discover:mentions": "tsx scripts/discover-mentions.ts"
+    "discover:mentions": "tsx scripts/discover-mentions.ts",
+    "mentions:resolve": "tsx scripts/mentions-resolve.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
