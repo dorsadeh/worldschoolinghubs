@@ -202,3 +202,8 @@ export function nextFrontierDomains(outbound: OutboundLink[], registry: SourceRe
   for (const l of outbound) { const d = domainOf(l.url); if (d && !known.has(d)) found.add(d); }
   return [...found].sort();
 }
+
+/** URLs whose fresh content hash differs from (or is absent in) the previous snapshot hashes. */
+export function changedUrls(fresh: Record<string, string>, prev: Record<string, string> | null): string[] {
+  return Object.keys(fresh).filter((u) => !prev || prev[u] !== fresh[u]);
+}

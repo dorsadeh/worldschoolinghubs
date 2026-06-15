@@ -1,0 +1,713 @@
+{
+  "plannedAt": "2026-06-15T09:08:29.306Z",
+  "items": [
+    {
+      "url": "http://www.actonacademyelsalvador.com/worldschool-hub",
+      "domain": "actonacademyelsalvador.com",
+      "kind": "hub-site",
+      "contentHash": "4c1c649b05cae91edc9142e42ef83be6ac074b04cb59dbc3dd2839df04c3f1ae"
+    },
+    {
+      "url": "https://www.amanilight.com/worldschool",
+      "domain": "amanilight.com",
+      "kind": "hub-site",
+      "contentHash": "900610be9029f033c3d1fd0b83250474a2a914d6e85f7a9a892ccc178c7b4c0a"
+    },
+    {
+      "url": "https://andorra.agorainternationalschool.es/en/school-life/summer-camp",
+      "domain": "andorra.agorainternationalschool.es",
+      "kind": "hub-site",
+      "contentHash": "1abf4da88353dc3e067d1b15d44e87546ef0c1d057a6ac414b4d44cd333c9db6"
+    },
+    {
+      "url": "https://www.antiguaworldschool.com",
+      "domain": "antiguaworldschool.com",
+      "kind": "hub-site",
+      "contentHash": "59774e7135f8fba105d2aa3315cd279948343df514c916ea97fc48d9c4324adb"
+    },
+    {
+      "url": "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai",
+      "domain": "bangkokpost.com",
+      "kind": "press",
+      "contentHash": "7a74b022fb055682fddb8b56132a7d0a1bbd14971802861214a9e38fab136728"
+    },
+    {
+      "url": "https://blattwerk-natur.de/worldschooling-hub-2025/",
+      "domain": "blattwerk-natur.de",
+      "kind": "hub-site",
+      "contentHash": "c5e18918b8418c507873280c270bac70c80d907acbc78d009db1e2f446e61e61"
+    },
+    {
+      "url": "https://blissinvestor.com/",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "contentHash": "6b4e778b1eaef41751c8a19b94c38cacc771372f00bc7c02f2d989210d2e40ac"
+    },
+    {
+      "url": "https://blissinvestor.com",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "contentHash": "6b4e778b1eaef41751c8a19b94c38cacc771372f00bc7c02f2d989210d2e40ac"
+    },
+    {
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "contentHash": "696089c0a01f360f374de175d90113faea04bdede4ba87b13f9b33c7610062e8"
+    },
+    {
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "contentHash": "90d34f8408258cf4fb67a311a697adf042b240d7e7e95f49b7c0953bb469593e"
+    },
+    {
+      "url": "https://cacaocoastcr.com/",
+      "domain": "cacaocoastcr.com",
+      "kind": "hub-site",
+      "contentHash": "7c583bca8d0377e9bbf52ddcbcf43edf3db5ea90be8b8b231a7e047ab038b22d"
+    },
+    {
+      "url": "https://www.cacaocoastcr.com",
+      "domain": "cacaocoastcr.com",
+      "kind": "hub-site",
+      "contentHash": "7c583bca8d0377e9bbf52ddcbcf43edf3db5ea90be8b8b231a7e047ab038b22d"
+    },
+    {
+      "url": "https://www.culturechalk.org",
+      "domain": "culturechalk.org",
+      "kind": "hub-site",
+      "contentHash": "d3b761d712b10cc36d63bb911b79cc45ded3caeeb22255883046547828e04610"
+    },
+    {
+      "url": "https://deliberatedetour.com/",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "contentHash": "1487745a44995010abb899258c10bcb94764a34aecfb5aa6a7a9ecf2283bbecb"
+    },
+    {
+      "url": "https://deliberatedetour.com",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "contentHash": "1487745a44995010abb899258c10bcb94764a34aecfb5aa6a7a9ecf2283bbecb"
+    },
+    {
+      "url": "https://www.deliberatedetour.com",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "contentHash": "1487745a44995010abb899258c10bcb94764a34aecfb5aa6a7a9ecf2283bbecb"
+    },
+    {
+      "url": "https://destinationlesstravel.com/sucre-spanish-school/",
+      "domain": "destinationlesstravel.com",
+      "kind": "hub-site",
+      "contentHash": "9fa2236cf62dba1692b2c755c976b872fadfd6ba766b8ef36b28beaf7154215f"
+    },
+    {
+      "url": "https://www.earthschool.nz/worldschooling/",
+      "domain": "earthschool.nz",
+      "kind": "hub-site",
+      "contentHash": "d76327e416d80dcc1ba67a0c7bb37b2ad045ffa4d0bbb3daf6928dc9434bb563"
+    },
+    {
+      "url": "https://ecovillagegeorgia.ge/summercamp/",
+      "domain": "ecovillagegeorgia.ge",
+      "kind": "hub-site",
+      "contentHash": "a794a16b01c39e889963c12420f33913eb127021083af87a6ac29d1ce0f2f361"
+    },
+    {
+      "url": "https://www.educationnext.in/posts/bansko-the-world-schooling-capital-of-the-world",
+      "domain": "educationnext.in",
+      "kind": "press",
+      "contentHash": "e4eb30c9316dd025cbdc6366b2b9f59759e792f451c4b34bc073ec2116653e8d"
+    },
+    {
+      "url": "https://www.educationnext.in/posts/goa-a-paradise-for-worldschooling-families-with-a-global-flair",
+      "domain": "educationnext.in",
+      "kind": "press",
+      "contentHash": "fffe395a78812d62c90f47d0b0b7018d0dcda3f1c6af71a7a827e3330552aaf3"
+    },
+    {
+      "url": "https://www.educationthatinspires.com/thecreativeworld/",
+      "domain": "educationthatinspires.com",
+      "kind": "hub-site",
+      "contentHash": "2781492e3e962e90507d12dce7bd13c6e5f120a647c698172175566df46f81d2"
+    },
+    {
+      "url": "https://www.escuela-montalban.com/",
+      "domain": "escuela-montalban.com",
+      "kind": "hub-site",
+      "contentHash": "33837713ed4ddf3e5907dd519e920bb1a201e715da89ce489273029c6ab4cda9"
+    },
+    {
+      "url": "https://www.escuela-montalban.com/en/courses/spanish-for-families.php",
+      "domain": "escuela-montalban.com",
+      "kind": "hub-site",
+      "contentHash": "496265c0d2c9b686412733ae7c689b18fdb4cb8c54c0cb7457aaad07348cf94a"
+    },
+    {
+      "url": "https://www.futurehumanschoolbali.com/",
+      "domain": "futurehumanschoolbali.com",
+      "kind": "hub-site",
+      "contentHash": "813b0baa20658dd71669a99dd637df5494d0ab5b0faab7705b37cfba6f3308e4"
+    },
+    {
+      "url": "https://www.gccckids.com",
+      "domain": "gccckids.com",
+      "kind": "hub-site",
+      "contentHash": "364e080bc05af1906685c80c2ef4fd9624d91495c2c3b12f0ebbc83a13a5dd64"
+    },
+    {
+      "url": "https://www.greencoco.org",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "contentHash": "2f5126230dc7261352e197355b421e14c7a4ab825c27059c7ba5f3ad9e6bd003"
+    },
+    {
+      "url": "https://www.hakuba-is.jp/",
+      "domain": "hakuba-is.jp",
+      "kind": "hub-site",
+      "contentHash": "799b64e4894aa403db472d0afdbd770fa0ed9a0a0cd8da51a4ce1dcb6f8eb92e"
+    },
+    {
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "contentHash": "512687070c5e278fb2061e275a4e46efe1f2a5caf7ba5b0f61b032316dee7ea6"
+    },
+    {
+      "url": "https://www.icomexico.com/",
+      "domain": "icomexico.com",
+      "kind": "hub-site",
+      "contentHash": "4443778e68c9e174af3edf74b50ffcd3e8de9ea10f90029497e3be2515213c9a"
+    },
+    {
+      "url": "https://insideromania.ro/worldschool",
+      "domain": "insideromania.ro",
+      "kind": "hub-site",
+      "contentHash": "54517a89ee909d5062ef5504f7db27ec3ecc2fc5f44e0e1f3b45ff81f2d13f10"
+    },
+    {
+      "url": "https://www.iyariplay.org",
+      "domain": "iyariplay.org",
+      "kind": "hub-site",
+      "contentHash": "e2867f901aeffbd09f581baa6b69cedca44b6023b72ce5acf1159609446aff49"
+    },
+    {
+      "url": "https://www.luminaedu.org",
+      "domain": "luminaedu.org",
+      "kind": "hub-site",
+      "contentHash": "d3e0fca42992c6c1d576fdbcd59175a56d5e72d30fa73e3014c73c7760dbc1e8"
+    },
+    {
+      "url": "https://www.mako.co.il/home-family-kids/back_to_school/Article-0fb52656bdb0281027.htm",
+      "domain": "mako.co.il",
+      "kind": "press",
+      "contentHash": "9fec428aba2fa57ec910de05c58182fadc15185c97d11c6e0404eca7c6db1931"
+    },
+    {
+      "url": "https://www.mama-adama.pt/",
+      "domain": "mama-adama.pt",
+      "kind": "hub-site",
+      "contentHash": "2b038fc6943f52a08c8a72287336186bb1bb0da4475ef1bbd1269c4668416508"
+    },
+    {
+      "url": "https://www.md-worldschoolmorocco.com",
+      "domain": "md-worldschoolmorocco.com",
+      "kind": "hub-site",
+      "contentHash": "061d59102a1ded865ada61622ee48b77e039171f36094ec11560855b5c452e63"
+    },
+    {
+      "url": "https://www.naturallyricher.com/hub-sardinia",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "contentHash": "09ecc11af89f9268ed1bae9feca75f564749acea13801e617edf4a69b6387aa6"
+    },
+    {
+      "url": "https://www.naturallyricher.com/hubslovakia",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "contentHash": "3940d21b5cce9a7fcc5402a47c963447071d65dac24997b6d94541be450a4439"
+    },
+    {
+      "url": "https://naturallyricher.com",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "contentHash": "7d971bb0e17fbeb9f8eec157860236d081794ab76d8dc8ec0a248c1126081973"
+    },
+    {
+      "url": "https://naturemind-ed.com/experiences/worldschooling/",
+      "domain": "naturemind-ed.com",
+      "kind": "hub-site",
+      "contentHash": "1ef1559e16cb0f4a83695e64d44b2394dc6a1ef6d6d69ef1577fe8df0179f3c7"
+    },
+    {
+      "url": "https://nobackhome.com/spanish-schools-in-guatemala/",
+      "domain": "nobackhome.com",
+      "kind": "personal-blog",
+      "contentHash": "f7c91d8f1b845bbf327822c2b926c429df67f80424299abf4e6725d0b790dba5"
+    },
+    {
+      "url": "https://www.noma-collective.com/",
+      "domain": "noma-collective.com",
+      "kind": "hub-site",
+      "contentHash": "60d5f45ea599c19c01c5cc4862cd63001e0691aa4a3735170b6a2e9a1d04afd8"
+    },
+    {
+      "url": "https://www.nyskool.org",
+      "domain": "nyskool.org",
+      "kind": "hub-site",
+      "contentHash": "89c34407170135a617c95b355feedc0cffd43a87e90091a0dc61bea5f2c2905a"
+    },
+    {
+      "url": "https://panyaforest.com",
+      "domain": "panyaforest.com",
+      "kind": "hub-site",
+      "contentHash": "79abe8e197b703c97be880477a81b90968130fa2cfeeb070f6bd8541bebd4437"
+    },
+    {
+      "url": "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "contentHash": "f78b368b62bfc3d3c35f73144566f985286723e4420ea2a175eb9a9de0507965"
+    },
+    {
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "contentHash": "2277aeed329edd083c149be295f7055797a26d4bad6e496c300aaf87092ab869"
+    },
+    {
+      "url": "https://parentingandpassports.com/",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "contentHash": "c07df1cba25573a112faa0b49043fffbe1471d3e905f15ad7df15ad74bf2aa89"
+    },
+    {
+      "url": "https://www.pelangischoolbali.com",
+      "domain": "pelangischoolbali.com",
+      "kind": "hub-site",
+      "contentHash": "c554065cc72416ee5ccc7310d23ab610ba5ab5137a2a4663a601477c28690bc9"
+    },
+    {
+      "url": "https://sacredrootshub.base44.app/",
+      "domain": "sacredrootshub.base44.app",
+      "kind": "hub-site",
+      "contentHash": "061ff7f24f8cb45a3610a1b39b5ceba3458f82161760648f1cfc569e4ed765cd"
+    },
+    {
+      "url": "https://www.samanainternationalacademy.com/",
+      "domain": "samanainternationalacademy.com",
+      "kind": "hub-site",
+      "contentHash": "5d676a50d55e6263b72c0203ff032f23c180fbf301286b285d0993817b33a34f"
+    },
+    {
+      "url": "https://sanpedrospanishschool.com/",
+      "domain": "sanpedrospanishschool.com",
+      "kind": "hub-site",
+      "contentHash": "da40bcba287c2521b38c46564c24f6934b5eb0777ec1cb85418ba55816941164"
+    },
+    {
+      "url": "https://sanpedrospanishschool.com/spanish-for-kids/",
+      "domain": "sanpedrospanishschool.com",
+      "kind": "hub-site",
+      "contentHash": "6db54c7db0d0ada5d6a3ea6762e3afeb712460bdbe369615dae6383ccc1df97d"
+    },
+    {
+      "url": "https://www.sas.ac",
+      "domain": "sas.ac",
+      "kind": "hub-site",
+      "contentHash": "1e410d86d19a2b69e081938377db12aad818e0429bfd5dba4edc8a4de06b2e99"
+    },
+    {
+      "url": "https://scandasia.com/3397-taking-thaim-out-immensely-popular-among-the-swedes/",
+      "domain": "scandasia.com",
+      "kind": "press",
+      "contentHash": "c8fb5481c601529fc6e6e857d93df83c955d283d4034b85346fb711824cd4d9b"
+    },
+    {
+      "url": "https://sekolykintana.org/",
+      "domain": "sekolykintana.org",
+      "kind": "hub-site",
+      "contentHash": "d807a494f1325553a91aae8e04ab424552029e8b4d05569624a4712a9c8d619c"
+    },
+    {
+      "url": "https://www.selongbayschool.com",
+      "domain": "selongbayschool.com",
+      "kind": "hub-site",
+      "contentHash": "baea48866b300971b71e92b8740595811570752242fbc004ac650dbf1c442652"
+    },
+    {
+      "url": "https://www.semillitasspanishinnature.com",
+      "domain": "semillitasspanishinnature.com",
+      "kind": "hub-site",
+      "contentHash": "e51c42728d90c96aa79a174f4146f347d28d367542b6afff0425e55da23e50eb"
+    },
+    {
+      "url": "https://shantivillage.com/worldschooling/",
+      "domain": "shantivillage.com",
+      "kind": "hub-site",
+      "contentHash": "228f2cb73dc920b79ac28ca2d4c58f07b1ca841f4bb9acaf64ec01e4cf2b633b"
+    },
+    {
+      "url": "https://shantivillage.com",
+      "domain": "shantivillage.com",
+      "kind": "hub-site",
+      "contentHash": "10d26e8f99c29ae236eeec2c872407a0161ff241b24107d22f2386b37ce90005"
+    },
+    {
+      "url": "https://shepherdsrest.org/",
+      "domain": "shepherdsrest.org",
+      "kind": "hub-site",
+      "contentHash": "d645630c3a87d3e80cfc36d3b14c67746e368a96bc2a38b066057a31fc8349e2"
+    },
+    {
+      "url": "https://silvermistacademy.co.za/",
+      "domain": "silvermistacademy.co.za",
+      "kind": "hub-site",
+      "contentHash": "8dcd6411b4c9bf8962d179dcb4e0d733dbf0c336d96d51106303b29655764753"
+    },
+    {
+      "url": "https://www.soymontesser.com/",
+      "domain": "soymontesser.com",
+      "kind": "hub-site",
+      "contentHash": "8791a0e205567a25b3f33a9b04e925357f126be370804e6184afd062fcc9927e"
+    },
+    {
+      "url": "https://www.spanishacademyantiguena.com/",
+      "domain": "spanishacademyantiguena.com",
+      "kind": "hub-site",
+      "contentHash": "620f555c00903901d91719420ff3c9841d8028dab02bc4a5e58f0e0686719427"
+    },
+    {
+      "url": "https://spiralaecovillage.com/",
+      "domain": "spiralaecovillage.com",
+      "kind": "hub-site",
+      "contentHash": "c25cc3ab8e57c244de2f10c0465be6e710277ca745aee64c36b0e5274e298e1d"
+    },
+    {
+      "url": "https://www.storylines.com/worldschooling",
+      "domain": "storylines.com",
+      "kind": "hub-site",
+      "contentHash": "cf98962457f3ae696d836006bb499ccf4797518fad351fe6e1e9308cbb04262a"
+    },
+    {
+      "url": "https://www.tabletmag.com/",
+      "domain": "tabletmag.com",
+      "kind": "press",
+      "contentHash": "a03e6156dbd2072543809566e6eb1e54c0a93e16d0c4d3a116926d8de40759ae"
+    },
+    {
+      "url": "https://www.tazgha.com",
+      "domain": "tazgha.com",
+      "kind": "hub-site",
+      "contentHash": "daa84db856e033c7f35e63755086d985a87eff3a1052cc5d1c6985b29715115b"
+    },
+    {
+      "url": "https://thefutureiswise.com",
+      "domain": "thefutureiswise.com",
+      "kind": "hub-site",
+      "contentHash": "41e9b81cfc7d3b19c664d2ead1b076a2f672199ea8b65937b78c858ebf029acd"
+    },
+    {
+      "url": "https://www.thegoodlifemountainclub.com/basecamp",
+      "domain": "thegoodlifemountainclub.com",
+      "kind": "hub-site",
+      "contentHash": "502dca657551bb04866651f22459a7190e8f5ba20013a34f9f9ed1641a7a6dd9"
+    },
+    {
+      "url": "https://www.thehiveadventure.com",
+      "domain": "thehiveadventure.com",
+      "kind": "hub-site",
+      "contentHash": "f43dcfe9898cc223e2040735cd54fbc6822adb318b9c924a544a258c335ef4c8"
+    },
+    {
+      "url": "https://thehub.community",
+      "domain": "thehub.community",
+      "kind": "hub-site",
+      "contentHash": "0b368595e4969d3bd6a4780f9eefaa4f87eaf3dcd3abf744d416d33ff543a212"
+    },
+    {
+      "url": "https://theredroadfoundation.org/sustainable-development-volunteer-program-in-cambodia/leadership-in-sustainable-development-internship/",
+      "domain": "theredroadfoundation.org",
+      "kind": "hub-site",
+      "contentHash": "a7bb370ad3ac4e14c8faf363b21f91aa6e524d4948e4fd52d87069e42a6f835f"
+    },
+    {
+      "url": "https://theworldschoolatlas.com/",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "contentHash": "4cd0a49a38e83ef55ce19ddb7fd0a125adc063ef47c6f7d65f84455ddcf83e18"
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "contentHash": "7bf721837a97963aeddd461cf1cf13596cc1b8e74b9a1bd37eac149c45a1b11a"
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "contentHash": "5cc52d09dff968f4fa77941f164c62ce0989297b420e68115f71bff77ef1623a"
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "contentHash": "df13abb96b9c1a299a563145da8b812d5c9eb8a7372666f8c5b09acd272eaf6f"
+    },
+    {
+      "url": "https://thinkglobalschool.org/",
+      "domain": "thinkglobalschool.org",
+      "kind": "hub-site",
+      "contentHash": "f82f4e6e5a238079f358008b1f65eaa257909f27f1feefd2a5e393986b4ea09f"
+    },
+    {
+      "url": "https://thinkingnomads.com/living-in-vietnam-with-children-hoi-an/",
+      "domain": "thinkingnomads.com",
+      "kind": "personal-blog",
+      "contentHash": "6b3521018936aca4e1758c97cf558abd69f45d564360046c1bdf6ca7afafdffe"
+    },
+    {
+      "url": "https://www.timesofisrael.com/",
+      "domain": "timesofisrael.com",
+      "kind": "press",
+      "contentHash": "75a3d7ef99f33b0bc41b793327eb9957df2d22471856c710d9a0aa00b0695949"
+    },
+    {
+      "url": "https://treehousebansko.com/summit2026/",
+      "domain": "treehousebansko.com",
+      "kind": "hub-site",
+      "contentHash": "766799b48f1b715df11ec2d186417c0bd3bbfbb4e6d914e33bc90b34c9b6e942"
+    },
+    {
+      "url": "https://www.trvbox.co.il/bansko-with-kids/",
+      "domain": "trvbox.co.il",
+      "kind": "personal-blog",
+      "contentHash": "bc2bf60c20894988caa2a152f01ada8cd7326eca8fb6ea44754457a960fc7eab"
+    },
+    {
+      "url": "https://www.twineagles.org",
+      "domain": "twineagles.org",
+      "kind": "hub-site",
+      "contentHash": "19b1d2c68a2a7096a4d066be8c8d484d34541f82fd8bffaea6bed16b45d66799"
+    },
+    {
+      "url": "https://valenciaforestschool.es",
+      "domain": "valenciaforestschool.es",
+      "kind": "hub-site",
+      "contentHash": "832d42fcab9817a279c3f0ff6bdd72db2db03cf229e6b1d01c1d1557bd4a6ca6"
+    },
+    {
+      "url": "https://www.virtuosity.art",
+      "domain": "virtuosity.art",
+      "kind": "hub-site",
+      "contentHash": "7db21ecbdccd6facc225136be0c3738c6c3052deb6c8a32a45ef819b452db593"
+    },
+    {
+      "url": "https://vitalandomer.co.il/kids",
+      "domain": "vitalandomer.co.il",
+      "kind": "personal-blog",
+      "contentHash": "c45fb65b4c8bc615e57f13965ab9c4d40f7de6be48380fd1a7452db6be412838"
+    },
+    {
+      "url": "https://wanderworks.life/camp/b0b5ad85-2532-44ff-a47b-6b8a4603cec5",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/d8d9a013-4b4f-41d5-bdfd-74db65691a53",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/43ed2f03-11f5-41a0-bb7f-8549386823db",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/4917a6e1-5605-490e-af33-83500e81e5a1",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/0326ed3f-997f-49cf-87f2-79b6d2ae733e",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/5319bf26-1872-436d-8708-47d753080f98",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/ea4085f8-8fb0-47f0-9151-3ca72e1c61a0",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://wanderworks.life/camp/becb5918-fc70-4c6a-a72e-1102e980f052",
+      "domain": "wanderworks.life",
+      "kind": "hub-site",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b"
+    },
+    {
+      "url": "https://whalecamp.com/",
+      "domain": "whalecamp.com",
+      "kind": "hub-site",
+      "contentHash": "19c82f7b727547be29c994ad241d4be41875e47aafd6d5da8dbdf29b48c0f3a0"
+    },
+    {
+      "url": "https://www.wildlingsforestschool.com/forest-kindy",
+      "domain": "wildlingsforestschool.com",
+      "kind": "hub-site",
+      "contentHash": "fa3e6b531e1941d9879ea91b1c0f2c0876535843005ae764a8cd9e5a5f8f20fa"
+    },
+    {
+      "url": "https://www.wildrootsworldschool.com",
+      "domain": "wildrootsworldschool.com",
+      "kind": "hub-site",
+      "contentHash": "7d45be51ec1590b9716b825a5b2aa753ecb2cb63d027014525627e89d898dd3a"
+    },
+    {
+      "url": "https://woodschoolbali.com/",
+      "domain": "woodschoolbali.com",
+      "kind": "hub-site",
+      "contentHash": "b2b016fe5562bf5096ebbfbc6797714de9ff437750a073f39844130d57500a9f"
+    },
+    {
+      "url": "https://worldlytribe.com/family-friendly-guide-to-living-in-chiang-mai-thailand-for-digital-nomads/",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "contentHash": "704c06a11c7c377cc04a77dc8c82395f4b108046cead6206f1896a0ef9480e63"
+    },
+    {
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "contentHash": "ce8377c678c8d24a15caaf878ef8a4e3ab82c7509f89ba6484cc169ddc2e5d1a"
+    },
+    {
+      "url": "https://www.worldschoolantigua.com",
+      "domain": "worldschoolantigua.com",
+      "kind": "hub-site",
+      "contentHash": "b385bee4a3f6e267353eb0450a16e029598279e0f37422182ef82da187d575ad"
+    },
+    {
+      "url": "https://worldschooling.life/",
+      "domain": "worldschooling.life",
+      "kind": "hub-site",
+      "contentHash": "3a0c457ca416b5858c1f79efe1034b25fb1d97e62c4ba868a568332e61394d10"
+    },
+    {
+      "url": "https://www.worldschoolinghub.my/",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "contentHash": "288cb9b60e0836366da1a6b51ec3c10c6cf00815e6bea6768c319289117de30c"
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "contentHash": "d800c5ec995482a32f2be5669f9720e64bf2f061675531e033f73beca75c56b8"
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "contentHash": "57bd11d3cd008b020cde8717e47278e97cc3f7a6baaf23f113c46cee8d3a8491"
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "contentHash": "c0f71f1bfd192e68fa4a1ef0be99dfe0a0e4742b100b2942ae078278b4886670"
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "contentHash": "6294f4fd431a30314c33240a2da4bcd853614562ababd5db6d67d68d5abca0e2"
+    },
+    {
+      "url": "https://worldschoolingjourneys.com",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "contentHash": "30cb1b0a1c94b270297bc532c49e3f120510946ec97d4fdc734796c4fd8b4ac7"
+    },
+    {
+      "url": "https://www.worldschoolpopuphub.com/",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "contentHash": "43644c33d39e5620d49abfc7e398e3f932cf7586920406666b8cc9e36208ad7f"
+    },
+    {
+      "url": "https://www.worldschoolpopuphub.com/upcoming-events",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "contentHash": "9a33fe3de7efec064c276c1cb3e2054c9c2095e5e4deb68bb3868ad065aa86d5"
+    },
+    {
+      "url": "https://www.worldschoolpopuphub.com/events/warsaw-poland-june-2026",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "contentHash": "af60a26b6cae82b74dccba92490a2466d16b67f5ed34c775544b3257545103d5"
+    },
+    {
+      "url": "https://worldschoolpopuphub.com",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "contentHash": "43644c33d39e5620d49abfc7e398e3f932cf7586920406666b8cc9e36208ad7f"
+    },
+    {
+      "url": "https://worldschooly.com/hubs/",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "contentHash": "195f4bdf2aa0114b2481f6359391488916603bb7e60b352428bbf485cfb740d5"
+    },
+    {
+      "url": "https://worldschooly.com/hub/we-are-tribe/",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "contentHash": "39b3ca140c52741139215909853c71ccb3c3f5005d1b296383206270d7386ee5"
+    },
+    {
+      "url": "https://worldschooly.com",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "contentHash": "bf61afdf8b30e565b7b11637a908ce93cac471894ee78af8a02f87507325df52"
+    },
+    {
+      "url": "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/",
+      "domain": "worldtravelambitions.com",
+      "kind": "personal-blog",
+      "contentHash": "a4655fc833480e27e270d0c9a60a8f73477993bf5705deef5f86ede35b280573"
+    },
+    {
+      "url": "https://www.worldwiselearningadventures.org/",
+      "domain": "worldwiselearningadventures.org",
+      "kind": "hub-site",
+      "contentHash": "394d9536e6709947a18da230e38cc43817a4b13249d90a6a818c42506c8cc464"
+    },
+    {
+      "url": "https://www.worldwiselearningadventures.org",
+      "domain": "worldwiselearningadventures.org",
+      "kind": "hub-site",
+      "contentHash": "394d9536e6709947a18da230e38cc43817a4b13249d90a6a818c42506c8cc464"
+    },
+    {
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "domain": "ynet.co.il",
+      "kind": "press",
+      "contentHash": "49e7888b286e0f2a228c283467a5a3977521f65146262278a6edf9bc3101f094"
+    }
+  ]
+}

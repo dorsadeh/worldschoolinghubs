@@ -5,6 +5,7 @@ import {
   kindWeight, recencyFactor, claimFactor, scorePlace, independentDomainCount, tierOf,
   ledgerUpsert, upsertPlace,
   haversineKm, findPlaceByCoords, matchExistingHub, domainOf, nextFrontierDomains,
+  changedUrls,
   type LedgerMention, type Place, type SourceRegistry,
 } from "../lib/intake/mentions";
 
@@ -169,5 +170,16 @@ describe("domainOf / nextFrontierDomains", () => {
       reg,
     );
     expect(out).toEqual(["new.blog"]);
+  });
+});
+
+describe("changedUrls", () => {
+  it("returns urls whose hash is new or changed", () => {
+    const fresh = { "u1": "h1", "u2": "h2new", "u3": "h3" };
+    const prev = { "u1": "h1", "u2": "h2old" };
+    expect(changedUrls(fresh, prev).sort()).toEqual(["u2", "u3"]);
+  });
+  it("treats no previous snapshot as all-changed", () => {
+    expect(changedUrls({ a: "x" }, null)).toEqual(["a"]);
   });
 });
