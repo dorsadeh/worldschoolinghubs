@@ -1,6 +1,12 @@
 // test/intake-mentions.test.ts
 import { describe, it, expect } from "vitest";
-import { placeId } from "../lib/intake/mentions";
+import {
+  placeId,
+  kindWeight, recencyFactor, claimFactor, scorePlace, independentDomainCount, tierOf,
+  ledgerUpsert, upsertPlace,
+  haversineKm, findPlaceByCoords, matchExistingHub, domainOf, nextFrontierDomains,
+  type LedgerMention, type Place, type SourceRegistry,
+} from "../lib/intake/mentions";
 
 describe("placeId", () => {
   it("slugifies name and lowercases the country code", () => {
@@ -8,11 +14,6 @@ describe("placeId", () => {
     expect(placeId("Chiang Mai", "th")).toBe("chiang-mai--th");
   });
 });
-
-import {
-  kindWeight, recencyFactor, claimFactor, scorePlace,
-  independentDomainCount, tierOf, type LedgerMention,
-} from "../lib/intake/mentions";
 
 const NOW = "2026-06-15";
 function m(over: Partial<LedgerMention>): LedgerMention {
@@ -83,8 +84,6 @@ describe("independentDomainCount / tierOf", () => {
   });
 });
 
-import { ledgerUpsert, upsertPlace, type Place } from "../lib/intake/mentions";
-
 function place(over: Partial<Place>): Place {
   return { placeId: "pai--th", canonicalName: "Pai", country: "Thailand", cc: "th",
     coords: [19.36, 98.44], aliases: ["Pai"], existingHubIds: [], firstSeen: NOW, ...over };
@@ -115,11 +114,6 @@ describe("upsertPlace", () => {
   });
 });
 
-import {
-  haversineKm, findPlaceByCoords, matchExistingHub,
-  domainOf, nextFrontierDomains, type SourceRegistry,
-} from "../lib/intake/mentions";
-
 describe("haversineKm", () => {
   it("≈0 for identical points and ~hundreds of km apart", () => {
     expect(haversineKm([19.36, 98.44], [19.36, 98.44])).toBeCloseTo(0, 3);
@@ -147,6 +141,13 @@ describe("matchExistingHub", () => {
   ];
   it("links hubs within 25km of the same country", () => {
     expect(matchExistingHub([19.40, 98.40], "Thailand", hubs, 25)).toEqual(["pai"]);
+  });
+  it("excludes a near hub whose known country differs from the query", () => {
+    expect(matchExistingHub([19.40, 98.40], "Laos", hubs, 25)).toEqual([]);
+  });
+  it("falls back to proximity when the hub country is unknown (guard needs both known)", () => {
+    const noCountry = [{ id: "x", coords: [19.36, 98.44] as [number, number], country: "" }];
+    expect(matchExistingHub([19.40, 98.40], "Thailand", noCountry, 25)).toEqual(["x"]);
   });
   it("returns [] for null coords", () => {
     expect(matchExistingHub(null, "Thailand", hubs, 25)).toEqual([]);

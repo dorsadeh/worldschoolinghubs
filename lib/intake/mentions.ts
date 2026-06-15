@@ -84,7 +84,9 @@ export function kindWeight(kind: SourceKind, override: number | null = null): nu
   return override ?? KIND_WEIGHTS[kind];
 }
 
-/** 1.0 ≤18mo, 0.5 ≤5y, 0.3 older; 0.6 for unknown/unparseable. */
+/** 1.0 ≤18mo, 0.5 ≤5y, 0.3 older; 0.6 for unknown/unparseable.
+ *  Precondition: `date` is "YYYY-MM", "YYYY-MM-DD", or "unknown" (the agent's asOfDate
+ *  contract). Other shapes fall through to Date.parse; the NaN→0.6 guard covers garbage. */
 export function recencyFactor(date: string, now: string = new Date().toISOString().slice(0, 10)): number {
   if (!date || date === "unknown") return 0.6;
   const norm = date.length === 7 ? `${date}-01` : date;
@@ -129,6 +131,9 @@ export function tierOf(independentDomains: number): Tier {
   return "watch";
 }
 
+/** Upsert by (placeId, domain) — one vote per domain. On collision the incoming `m`
+ *  overwrites the stored url/snippet/date (last-write-wins), so callers should process
+ *  pages in a consistent order to keep stored evidence deterministic across re-runs. */
 export function ledgerUpsert(ledger: LedgerMention[], m: LedgerMention): LedgerMention[] {
   const i = ledger.findIndex((x) => x.placeId === m.placeId && x.domain === m.domain);
   if (i >= 0) ledger[i] = { ...ledger[i], ...m };
@@ -171,6 +176,9 @@ export function findPlaceByCoords(
 
 export interface HubCoord { id: string; coords: [number, number] | null; country: string }
 
+/** Existing directory hubs within radiusKm. Per spec the country acts as a guard only
+ *  "when both are known": an empty query country OR an empty hub country skips the check
+ *  and falls back to pure proximity (two points ≤25km are the same locale). */
 export function matchExistingHub(
   coords: [number, number] | null, country: string, hubs: HubCoord[], radiusKm = 25,
 ): string[] {
