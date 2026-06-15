@@ -82,3 +82,35 @@ describe("independentDomainCount / tierOf", () => {
     expect(tierOf(2)).toBe("watch");
   });
 });
+
+import { ledgerUpsert, upsertPlace, type Place } from "../lib/intake/mentions";
+
+function place(over: Partial<Place>): Place {
+  return { placeId: "pai--th", canonicalName: "Pai", country: "Thailand", cc: "th",
+    coords: [19.36, 98.44], aliases: ["Pai"], existingHubIds: [], firstSeen: NOW, ...over };
+}
+
+describe("ledgerUpsert", () => {
+  it("adds a new (placeId,domain) row", () => {
+    const out = ledgerUpsert([], m({ domain: "a.blog" }));
+    expect(out).toHaveLength(1);
+  });
+  it("is idempotent for the same (placeId,domain) — one vote", () => {
+    let l: LedgerMention[] = [];
+    l = ledgerUpsert(l, m({ domain: "a.blog", snippet: "first" }));
+    l = ledgerUpsert(l, m({ domain: "a.blog", snippet: "second" }));
+    expect(l).toHaveLength(1);
+    expect(l[0].snippet).toBe("second"); // updates in place
+  });
+});
+
+describe("upsertPlace", () => {
+  it("merges aliases and existingHubIds, preserves firstSeen, fills null coords", () => {
+    let ps = upsertPlace([], place({ aliases: ["Pai"], firstSeen: "2026-01-01" }));
+    ps = upsertPlace(ps, place({ aliases: ["Pai Thailand"], existingHubIds: ["pai"], firstSeen: "2026-06-15" }));
+    expect(ps).toHaveLength(1);
+    expect(ps[0].aliases).toEqual(["Pai", "Pai Thailand"]);
+    expect(ps[0].existingHubIds).toEqual(["pai"]);
+    expect(ps[0].firstSeen).toBe("2026-01-01");
+  });
+});
