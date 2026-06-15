@@ -10,7 +10,7 @@
     "season": "July"
   },
   "algarve-worldschooling-hub-naturally-riche": {
-    "category": "organic"
+    "category": "permanent_commercial"
   },
   "amani-light-worldschool-hub-tanzania": {
     "website": "https://www.amanilight.com/worldschool",
@@ -28,7 +28,8 @@
     "region": "Antigua"
   },
   "bali-bliss-hub": {
-    "region": "Bali"
+    "region": "Bali",
+    "category": "permanent_community"
   },
   "bansko-town-base-city": {
     "website": "https://www.facebook.com/groups/1458088764967558",
@@ -39,23 +40,24 @@
     "websiteType": "social"
   },
   "bliss-hubs-bali": {
-    "category": "organic"
+    "category": "junk"
   },
   "bliss-hubs-koh-lanta": {
-    "category": "organic"
+    "category": "junk"
   },
   "bliss-hubs-krabi": {
-    "category": "organic"
+    "category": "permanent_community"
   },
   "bliss-hubs-kuala-lumpur": {
-    "category": "organic"
+    "category": "permanent_community"
   },
   "bliss-hubs-pai": {
     "website": "https://www.facebook.com/groups/worldschoolersinthailand/",
-    "websiteType": "social"
+    "websiteType": "social",
+    "category": "junk"
   },
   "bliss-hubs-siem-reap": {
-    "category": "organic",
+    "category": "junk",
     "website": "https://blissinvestor.com",
     "websiteType": "site"
   },
@@ -127,7 +129,8 @@
   },
   "hakuba-international-term-year": {
     "website": "https://www.hakuba-is.jp/",
-    "websiteType": "site"
+    "websiteType": "site",
+    "category": "permanent_commercial"
   },
   "harmony-learning-center": {
     "website": "https://harmonyeducation.net/",
@@ -140,7 +143,8 @@
   },
   "hoi-an-an-bang": {
     "website": "https://www.facebook.com/groups/1137478175223942",
-    "websiteType": "social"
+    "websiteType": "social",
+    "facebook": "https://www.facebook.com/groups/1137478175223942"
   },
   "homeschooling-hub-in-madeira-campus-da-ter": {
     "region": "Madeira"
@@ -164,7 +168,8 @@
   },
   "kuala-lumpur": {
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
-    "websiteType": "social"
+    "websiteType": "social",
+    "facebook": "https://www.facebook.com/groups/worldschoolersinmalaysia/"
   },
   "language-and-cultural-immersion-northern-s": {
     "region": "Basque Country"
@@ -281,7 +286,8 @@
     "websiteType": "site"
   },
   "siem-reap-bliss-hub-cambodia": {
-    "region": "Siem Reap"
+    "region": "Siem Reap",
+    "category": "permanent_community"
   },
   "silvermist-academy": {
     "website": "https://silvermistacademy.co.za/",
@@ -398,11 +404,13 @@
   },
   "worldschoolers-in-kuala-lumpur": {
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
-    "websiteType": "social"
+    "websiteType": "social",
+    "category": "junk"
   },
   "worldschoolers-of-hoi-an": {
     "website": "https://www.facebook.com/groups/1137478175223942",
-    "websiteType": "social"
+    "websiteType": "social",
+    "category": "junk"
   },
   "worldschooling-austria-mountain-retreat": {
     "website": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
@@ -453,5 +461,11 @@
   "worldwise-learning": {
     "website": "https://www.worldwiselearningadventures.org",
     "websiteType": "site"
+  },
+  "koh-lanta-bliss-hub-thailand": {
+    "category": "permanent_community"
+  },
+  "pai-bliss-hub-thailand": {
+    "category": "permanent_community"
   }
 }
