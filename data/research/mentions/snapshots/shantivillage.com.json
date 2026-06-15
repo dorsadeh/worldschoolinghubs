@@ -1,0 +1,54 @@
+{
+  "domain": "shantivillage.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://shantivillage.com/worldschooling/",
+      "contentHash": "228f2cb73dc920b79ac28ca2d4c58f07b1ca841f4bb9acaf64ec01e4cf2b633b",
+      "placeMentions": [
+        {
+          "place": "Kampot",
+          "country": "Cambodia",
+          "snippet": "a family-centered one week gathering in Kampot where learning unfolds through travel, play, connection, and shared experience",
+          "nestingClaim": true,
+          "asOfDate": "2026-11"
+        },
+        {
+          "place": "Koh Rong",
+          "country": "Cambodia",
+          "snippet": "gentle island continuation of our Kampot hub — designed for slowing down, integrating experiences, and deepening connection as a family",
+          "nestingClaim": true,
+          "asOfDate": "2026-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://camboticket.com/next-app", "anchor": "Camboticket" },
+        { "url": "https://drive.google.com/file/d/1e19SPgjCVAgHrDHnvWiu9Z4JstmPoY-4/view?usp=drive_link", "anchor": "download brochure" },
+        { "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKDBn0ZLlqh13ZVIbeCp7WdMFUlITwwydWfs__jFORS3bxGA/viewform", "anchor": "Fill out sign-up sheet" },
+        { "url": "https://calendly.com/levimelissa/introductory-call", "anchor": "Book a Free Intro Call" },
+        { "url": "https://maps.app.goo.gl/Xa4kS2hNZgkLAbGJ7", "anchor": "Read our reviews" }
+      ]
+    },
+    {
+      "url": "https://shantivillage.com",
+      "contentHash": "10d26e8f99c29ae236eeec2c872407a0161ff241b24107d22f2386b37ce90005",
+      "placeMentions": [
+        {
+          "place": "Kampot",
+          "country": "Cambodia",
+          "snippet": "Join our riverside hub in Kampot for nature play, connection, local adventures, and meaningful experiences for traveling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://shantivillage.com/worldschooling/", "anchor": "Explore the Hub" },
+        { "url": "https://shantivillage.com/motherhood/", "anchor": "Learn More" },
+        { "url": "https://shantivillage.com/womens-wellness/", "anchor": "Learn More" },
+        { "url": "https://calendly.com/levimelissa/introductory-call", "anchor": "SCHEDULE FREE CALL" },
+        { "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKDBn0ZLlqh13ZVIbeCp7WdMFUlITwwydWfs__jFORS3bxGA/viewform", "anchor": "Hub Sign-Up Form" },
+        { "url": "https://maps.app.goo.gl/Xa4kS2hNZgkLAbGJ7", "anchor": "Read our reviews" }
+      ]
+    }
+  ]
+}

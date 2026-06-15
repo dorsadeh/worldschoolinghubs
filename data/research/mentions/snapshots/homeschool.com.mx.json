@@ -1,0 +1,66 @@
+{
+  "domain": "homeschool.com.mx",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "contentHash": "5499805a13a38214984e85aa00e0855e907a4abb44f3c86f2a92b0b72f8821cc",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "se ha consolidado como uno de los hubs de worldschooling más activos de México y América Latina",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Playa del Carmen",
+          "country": "Mexico",
+          "snippet": "atraen familias nómadas de todo el mundo, muchas con hijos en edad escolar",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Tulum",
+          "country": "Mexico",
+          "snippet": "Tulum mentioned alongside Playa del Carmen as attracting nomadic families with school-age children",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "otro imán para familias que buscan inmersión cultural profunda",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Ciudad de México",
+          "country": "Mexico",
+          "snippet": "una base atractiva para worldschoolers que prefieren la ciudad",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Puerto Vallarta",
+          "country": "Mexico",
+          "snippet": "Listed as an active worldschooling hub in Mexico",
+          "nestingClaim": false,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Mérida",
+          "country": "Mexico",
+          "snippet": "Mentioned as a safe destination for worldschooling families",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://edupasion.com.mx/", "anchor": "Más información →" },
+        { "url": "https://latribuworldschooling.com", "anchor": "La Tribu Worldschooling" },
+        { "url": "https://planetaworldschool.com", "anchor": "Planeta Worldschool" }
+      ]
+    }
+  ]
+}

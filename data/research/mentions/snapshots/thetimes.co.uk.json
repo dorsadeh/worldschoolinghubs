@@ -1,0 +1,12 @@
+{
+  "domain": "thetimes.co.uk",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.thetimes.co.uk/article/meet-nomadic-families-worldschooling-pd2nlq08n",
+      "contentHash": "c67512994557bd87cd987403e5432e61ad072a08adcf59d8714806de243c37fd",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "domain": "cicerolearning.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://cicerolearning.com/worldschooling-hubs-school-from-anywhere/",
+      "contentHash": "91c344237d964a56393c16f4da4b75bde37f0e1c9f493ca22099967e661f6c11",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "has quickly gained popularity as a hub for skiing...coupled with a supportive community of fellow traveling families",
+          "nestingClaim": true,
+          "asOfDate": "2023-02"
+        },
+        {
+          "place": "Nosara",
+          "country": "Costa Rica",
+          "snippet": "HomeSchool Beach Worldschooling Hub in Nosara, Costa Rica...a family of diverse and like-minded learners who come from all over",
+          "nestingClaim": true,
+          "asOfDate": "2023-02"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "The World School Hub...was founded in January 2020...serves as an inclusive space for local, expat, and worldschooling students",
+          "nestingClaim": true,
+          "asOfDate": "2023-02"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "The Hive...programs are built around seventeen UN Sustainable Development Goals...perfect place for developing inner sense of safety and belonging",
+          "nestingClaim": true,
+          "asOfDate": "2023-02"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.facebook.com/groups/worldschoolingbansko",
+          "anchor": "Worldschooling Bansko Facebook Group"
+        },
+        {
+          "url": "https://homeschoolnosaracostarica.education/#",
+          "anchor": "HomeSchool Beach Nosara Costa Rica"
+        },
+        {
+          "url": "https://www.theworld.school/the-world-school-cabrera-hub/",
+          "anchor": "The World School Hub - Cabrera"
+        },
+        {
+          "url": "https://www.theworld.school/our-educational-approach/",
+          "anchor": "The World School - Educational Approach"
+        },
+        {
+          "url": "https://www.theworld.school/upcoming-locations/",
+          "anchor": "The World School - Upcoming Locations"
+        },
+        {
+          "url": "https://www.theworld.school/contact/",
+          "anchor": "The World School - Contact"
+        },
+        {
+          "url": "https://www.worldschoolpopuphub.com/",
+          "anchor": "WorldSchool Pop-Up Hub"
+        },
+        {
+          "url": "https://www.thehiveadventure.com/",
+          "anchor": "The Hive Adventure"
+        },
+        {
+          "url": "https://www.thehiveadventure.com/programmes/ocean-heroes-camp",
+          "anchor": "Ocean Heroes Camp"
+        },
+        {
+          "url": "https://www.thehiveadventure.com/programmes/nature-heroes-camp",
+          "anchor": "Nature Heroes Camp"
+        }
+      ]
+    }
+  ]
+}

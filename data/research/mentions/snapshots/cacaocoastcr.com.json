@@ -1,0 +1,18 @@
+{
+  "domain": "cacaocoastcr.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://cacaocoastcr.com/",
+      "contentHash": "7c583bca8d0377e9bbf52ddcbcf43edf3db5ea90be8b8b231a7e047ab038b22d",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.cacaocoastcr.com",
+      "contentHash": "7c583bca8d0377e9bbf52ddcbcf43edf3db5ea90be8b8b231a7e047ab038b22d",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

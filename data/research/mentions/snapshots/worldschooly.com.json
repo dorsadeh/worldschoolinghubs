@@ -1,0 +1,209 @@
+{
+  "domain": "worldschooly.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldschooly.com/hubs/",
+      "contentHash": "195f4bdf2aa0114b2481f6359391488916603bb7e60b352428bbf485cfb740d5",
+      "placeMentions": [
+        {
+          "place": "Mjåvatn",
+          "country": "Norway",
+          "snippet": "Norway Worldschool Hub — community-type hub, 30-day duration for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Antiguo Cuscatlán",
+          "country": "El Salvador",
+          "snippet": "Worldschool Pop Up El Salvador — pop-up hub, 21 days for worldschooling families to gather.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Moshi",
+          "country": "Tanzania",
+          "snippet": "Worldschooling Tanzania — coliving hub rated 5.0, families base themselves for 21+ days.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Upper Hutt, Wellington",
+          "country": "New Zealand",
+          "snippet": "Earth School Aotearoa — permanent hub, 14-day programs for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Talamanca Canton, Limón",
+          "country": "Costa Rica",
+          "snippet": "Cacao Coast CR — pop-up hub focusing on education and community for worldschooling families, 20 days.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Chinchiná, Caldas",
+          "country": "Colombia",
+          "snippet": "Minga House Worldschooling — permanent hub, 30-day stays at $370, families gather here.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Utrecht",
+          "country": "Netherlands",
+          "snippet": "Worldschool Gathering the Netherlands — pop-up, 14 days for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Egyptian Adventures — permanent hub, 30-day duration for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kampot",
+          "country": "Cambodia",
+          "snippet": "Shanti Shanti Kampot Worldschooling Hub Meetup — permanent hub for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Treehouse Summit — 5-day family gathering and worldschooling conference in Bansko.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lagodekhi, Kakheti",
+          "country": "Georgia",
+          "snippet": "Ecovillage Georgia — 10-day camp for worldschooling families at $300.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Project Worldschool — Peru Retreat, pop-up 15-day gathering for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bad Gastein, Salzburg",
+          "country": "Austria",
+          "snippet": "Austrian Mountain Fall Retreat — pop-up, 14-day worldschooling family retreat.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Oaxaca Pop-Up — 6-day worldschooling program for families gathering in Oaxaca.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Mendocino, California",
+          "country": "United States",
+          "snippet": "Mendocino Pop-Up — 7-day worldschooling family gathering in Mendocino.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Peștera, Moieciu, Brașov",
+          "country": "Romania",
+          "snippet": "Inside Romania — pop-up, 30-day family-focused worldschooling activities.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Ko Lanta, Krabi",
+          "country": "Thailand",
+          "snippet": "Global Classroom Project — full-term school, 60-day worldschooling hub for families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Playa del Carmen, Quintana Roo",
+          "country": "Mexico",
+          "snippet": "Wildroots Worldschool — 5-day camp for worldschooling families in Playa del Carmen.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Antigua Guatemala",
+          "country": "Guatemala",
+          "snippet": "Antigua Global Explorers (AGE) — permanent hub rated 5.0, families gather and base here.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Mirleft",
+          "country": "Morocco",
+          "snippet": "Mirleft Cultural Cove — permanent 7-day hub for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://community.worldschooly.com", "anchor": "Community" },
+        { "url": "https://safetywing.com/?referenceID=26060730&utm_source=26060730&utm_medium=Ambassador", "anchor": "Travel Insurance" }
+      ]
+    },
+    {
+      "url": "https://worldschooly.com/hub/we-are-tribe/",
+      "contentHash": "b5a401c25bac427c207655143b84e26e8b3a6d134e8f1e5c1222d22becc14eff",
+      "placeMentions": [
+        {
+          "place": "Ubud, Bali",
+          "country": "Indonesia",
+          "snippet": "Families enjoy the serenity of Bali while building lasting memories. Flexible offerings designed to accommodate worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://safetywing.com/?referenceID=26060730&utm_source=26060730&utm_medium=Ambassador", "anchor": "Travel Insurance" }
+      ]
+    },
+    {
+      "url": "https://worldschooly.com",
+      "contentHash": "bf61afdf8b30e565b7b11637a908ce93cac471894ee78af8a02f87507325df52",
+      "placeMentions": [
+        {
+          "place": "Antiguo Cuscatlán, La Libertad",
+          "country": "El Salvador",
+          "snippet": "Worldschool Pop Up El Salvador — pop-up hub, 21 days for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Moshi, Kilimanjaro",
+          "country": "Tanzania",
+          "snippet": "Worldschooling Tanzania — coliving hub, 21 days, worldschooling families gather here.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Mangaroa, Upper Hutt, Wellington",
+          "country": "New Zealand",
+          "snippet": "Earth School Aotearoa — permanent hub, 14-day programs for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Talamanca Canton, Limón",
+          "country": "Costa Rica",
+          "snippet": "Cacao Coast CR — pop-up hub, 20 days, educational experiences for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://safetywing.com/?referenceID=26060730&utm_source=26060730&utm_medium=Ambassador", "anchor": "Travel Insurance" }
+      ]
+    }
+  ]
+}

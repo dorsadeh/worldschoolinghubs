@@ -1,0 +1,16 @@
+{
+  "domain": "wildlingsforestschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.wildlingsforestschool.com/forest-kindy",
+      "contentHash": "fa3e6b531e1941d9879ea91b1c0f2c0876535843005ae764a8cd9e5a5f8f20fa",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.raisingwildlings.com.au", "anchor": "RAISING WILDLINGS PODCAST" },
+        { "url": "https://www.wildlingsforestschool.shop", "anchor": "SHOP" },
+        { "url": "https://www.raisingwildlings.com.au/login", "anchor": "Online Portal Login" }
+      ]
+    }
+  ]
+}

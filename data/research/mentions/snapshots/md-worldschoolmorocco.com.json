@@ -1,0 +1,27 @@
+{
+  "domain": "md-worldschoolmorocco.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.md-worldschoolmorocco.com",
+      "contentHash": "061d59102a1ded865ada61622ee48b77e039171f36094ec11560855b5c452e63",
+      "placeMentions": [
+        {
+          "place": "Ourika Valley (Belhouane)",
+          "country": "Morocco",
+          "snippet": "community space for Worldschooling families...educational hub and village, a home away from home nestled in the breathtaking Ourika valley",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "La Belle Verte (between Marrakech and the mountains)",
+          "country": "Morocco",
+          "snippet": "the home schooling community LA BELLE VERTE in farm fields between Marrakech and the mountains",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

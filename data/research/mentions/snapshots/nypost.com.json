@@ -1,0 +1,18 @@
+{
+  "domain": "nypost.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://nypost.com/2024/03/10/couple-unhappy-with-daily-grind-world-schooling-their-kids/",
+      "contentHash": "f2e7fb8dbee14e36d2fa04d6913ae3fef71bd2ac39989f91a47a199c8771335a",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://nypost.com/2025/06/23/lifestyle/parents-leave-us-to-world-school-their-three-daughters-across-40-countries/",
+      "contentHash": "2a11a4c73b1de37647d1d3af266418643c0783093a986e1d74834f2e777f85fb",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

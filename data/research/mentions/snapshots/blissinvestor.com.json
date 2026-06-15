@@ -1,0 +1,103 @@
+{
+  "domain": "blissinvestor.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://blissinvestor.com/",
+      "contentHash": "6b4e778b1eaef41751c8a19b94c38cacc771372f00bc7c02f2d989210d2e40ac",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "running from December 2026 to May 2027, this elegant solution provides the foundation, local support, and planning tools",
+          "nestingClaim": true,
+          "asOfDate": "2026-12"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "We decided to also attend the Kuala Lumpur Bliss Hub further down the line and that disappoint either.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sanur, Bali",
+          "country": "Indonesia",
+          "snippet": "After that we went to Sanur in Bali. We met more families and felt that Bliss feeling again.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.thebinaschool.com/referral", "anchor": "The Bina School" }
+      ]
+    },
+    {
+      "url": "https://blissinvestor.com",
+      "contentHash": "6b4e778b1eaef41751c8a19b94c38cacc771372f00bc7c02f2d989210d2e40ac",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "running from December 2026 to May 2027, this elegant solution provides the foundation, local support, and planning tools",
+          "nestingClaim": true,
+          "asOfDate": "2026-12"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "We decided to also attend the Kuala Lumpur Bliss Hub further down the line and that disappoint either.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sanur, Bali",
+          "country": "Indonesia",
+          "snippet": "After that we went to Sanur in Bali. We met more families and felt that Bliss feeling again.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.thebinaschool.com/referral", "anchor": "The Bina School" }
+      ]
+    },
+    {
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "contentHash": "a71576ddab1ef5a2c7caf056607f0909455ffb2722e144797bc8a5b68620bc99",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "organic worldschooling hub based on the beautiful, family-friendly island of Koh Lanta",
+          "nestingClaim": true,
+          "asOfDate": "2026-12"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "attended the Kuala Lumpur Bliss Hub further down the line",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "We have been to Pai, Koh Lanta and Kuala Lumpur",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Portugal",
+          "country": "Portugal",
+          "snippet": "some of whom we'll likely see again in Portugal",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.facebook.com/groups/1122133095576537", "anchor": "Join our Facebook Group" }
+      ]
+    }
+  ]
+}

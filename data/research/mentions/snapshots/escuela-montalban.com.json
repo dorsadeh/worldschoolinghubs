@@ -1,0 +1,40 @@
+{
+  "domain": "escuela-montalban.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.escuela-montalban.com/",
+      "contentHash": "33837713ed4ddf3e5907dd519e920bb1a201e715da89ce489273029c6ab4cda9",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.escuela-montalban.com/en/courses/spanish-for-families.php",
+      "contentHash": "496265c0d2c9b686412733ae7c689b18fdb4cb8c54c0cb7457aaad07348cf94a",
+      "placeMentions": [
+        {
+          "place": "Granada",
+          "country": "Spain",
+          "snippet": "Parents and teenagers can spend their language holidays with us in Andalusia, southern Spain.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "http://acreditacion.cervantes.es/", "anchor": "Instituto Cervantes accreditation" },
+        { "url": "https://fedele.org/escuela-responsable/", "anchor": "FEDELE responsible school" },
+        { "url": "http://dele.cervantes.es/", "anchor": "DELE exams" },
+        { "url": "https://siele.org/", "anchor": "SIELE exams" },
+        { "url": "http://www.tandem-schools.com/", "anchor": "TANDEM International" },
+        { "url": "http://aeea.org/", "anchor": "AEEA" },
+        { "url": "http://www.fedele.org/", "anchor": "FEDELE" },
+        { "url": "http://ec.europa.eu/programmes/erasmus-plus/", "anchor": "Erasmus+" },
+        { "url": "https://www.udima.es/", "anchor": "UDIMA" },
+        { "url": "https://altonet.org/", "anchor": "ALTO" },
+        { "url": "http://www.camaramadrid.es/", "anchor": "Cámara Madrid" },
+        { "url": "http://www.csn.se/", "anchor": "CSN grants" },
+        { "url": "https://spanishforyou.escuela-montalban.com/", "anchor": "Teachers' Blog" }
+      ]
+    }
+  ]
+}

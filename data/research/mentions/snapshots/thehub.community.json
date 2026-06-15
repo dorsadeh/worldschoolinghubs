@@ -1,0 +1,17 @@
+{
+  "domain": "thehub.community",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://thehub.community",
+      "contentHash": "0b368595e4969d3bd6a4780f9eefaa4f87eaf3dcd3abf744d416d33ff543a212",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://form.jotform.com/260004684318150", "anchor": "Fill out our interest form" },
+        { "url": "https://www.youtube.com/watch?v=i74zJZecV_k", "anchor": "short video (peer group inspiration)" },
+        { "url": "https://youtu.be/m6AbTKFgGOE", "anchor": "short video (curiosity-driven learning)" },
+        { "url": "https://unsplash.com/@jannerboy62", "anchor": "Nick Fewings (photo credit)" }
+      ]
+    }
+  ]
+}

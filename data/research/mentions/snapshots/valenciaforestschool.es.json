@@ -1,0 +1,25 @@
+{
+  "domain": "valenciaforestschool.es",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://valenciaforestschool.es",
+      "contentHash": "832d42fcab9817a279c3f0ff6bdd72db2db03cf229e6b1d01c1d1557bd4a6ca6",
+      "placeMentions": [
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "En la Play School también acogemos a worldschoolers de 3 a 12 años que están en Valencia de forma temporal.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://pecasverdes.es/",
+          "anchor": "Pecas Verdes"
+        }
+      ]
+    }
+  ]
+}

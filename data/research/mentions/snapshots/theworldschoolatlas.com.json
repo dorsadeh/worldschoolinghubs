@@ -1,0 +1,114 @@
+{
+  "domain": "theworldschoolatlas.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://theworldschoolatlas.com/",
+      "contentHash": "4cd0a49a38e83ef55ce19ddb7fd0a125adc063ef47c6f7d65f84455ddcf83e18",
+      "placeMentions": [
+        {
+          "place": "Ubud, Gianyar, Bali",
+          "country": "Indonesia",
+          "snippet": "\"The Creative World\" hub offering long-term stays with school/alternative education and independent community options for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2025-05"
+        },
+        {
+          "place": "Hakuba Mura, Nagano",
+          "country": "Japan",
+          "snippet": "International school accepting homeschool families for short or long-term enrollment in mountain setting.",
+          "nestingClaim": true,
+          "asOfDate": "2025-05"
+        },
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "\"EGYPTIAN ADVENTURES\" hub with long-term stays and activity-inclusive programs for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2025-04"
+        },
+        {
+          "place": "Antigua",
+          "country": "Guatemala",
+          "snippet": "Farm-based hub with organised programming, activities, and outdoor learning for multiple age groups of worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2024-03"
+        },
+        {
+          "place": "Dominican Republic",
+          "country": "Dominican Republic",
+          "snippet": "\"The Hive\" offering 6-week adventures focused on SDG learning with nervous system regulation and emotional skills training for families.",
+          "nestingClaim": true,
+          "asOfDate": "2024-03"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.google.com/maps/search/?api=1&query=-8.506872,115.262476", "anchor": "Ubud location map" },
+        { "url": "https://www.google.com/maps/search/?api=1&query=36.69767,137.863767", "anchor": "Hakuba location map" },
+        { "url": "https://www.google.com/maps/search/?api=1&query=25.702096,32.647186", "anchor": "Luxor location map" }
+      ]
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/",
+      "contentHash": "7bf721837a97963aeddd461cf1cf13596cc1b8e74b9a1bd37eac149c45a1b11a",
+      "placeMentions": [
+        {
+          "place": "Fuerteventura",
+          "country": "Spain",
+          "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+          "nestingClaim": true,
+          "asOfDate": "2024-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://hubs.planetaworldschool.com/", "anchor": "Hub website" },
+        { "url": "https://forms.gle/bNdcibnVW12WM9JCA", "anchor": "Mailing list signup" },
+        { "url": "https://www.facebook.com/groups/fuerteventuraworldschoolhub", "anchor": "Facebook group" },
+        { "url": "https://www.instagram.com/hubsplaneta/", "anchor": "Instagram" },
+        { "url": "https://theworldschoolatlas.com/listing/worldschool-antigua-guatemala/", "anchor": "Antigua Guatemala hub listing" },
+        { "url": "https://theworldschoolatlas.com/listing/the-hive-dominican-republic/", "anchor": "Dominican Republic hub listing" }
+      ]
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/",
+      "contentHash": "5cc52d09dff968f4fa77941f164c62ce0989297b420e68115f71bff77ef1623a",
+      "placeMentions": [
+        {
+          "place": "Gran Canaria",
+          "country": "Spain",
+          "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+          "nestingClaim": true,
+          "asOfDate": "2024-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://hubs.planetaworldschool.com/", "anchor": "Website" },
+        { "url": "https://forms.gle/bNdcibnVW12WM9JCA", "anchor": "Mailing list signup" },
+        { "url": "https://www.facebook.com/groups/grancanariaworldschoolhub", "anchor": "Facebook group" },
+        { "url": "https://www.instagram.com/hubsplaneta/", "anchor": "Instagram" },
+        { "url": "https://theworldschoolatlas.com/listing-category/hubs/", "anchor": "Worldschool Hubs category" }
+      ]
+    },
+    {
+      "url": "https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/",
+      "contentHash": "df13abb96b9c1a299a563145da8b812d5c9eb8a7372666f8c5b09acd272eaf6f",
+      "placeMentions": [
+        {
+          "place": "Tenerife",
+          "country": "Spain",
+          "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+          "nestingClaim": true,
+          "asOfDate": "2024-12"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://hubs.planetaworldschool.com/", "anchor": "Website" },
+        { "url": "https://forms.gle/bNdcibnVW12WM9JCA", "anchor": "Mailing list signup" },
+        { "url": "https://www.facebook.com/groups/tenerifeworldschoolhub", "anchor": "Facebook group" },
+        { "url": "https://www.instagram.com/hubsplaneta/", "anchor": "Instagram" },
+        { "url": "https://theworldschoolatlas.com/listing-category/hubs/", "anchor": "Worldschool Hubs directory" },
+        { "url": "https://theworldschoolatlas.com/blog/", "anchor": "Blog" }
+      ]
+    }
+  ]
+}

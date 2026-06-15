@@ -1,0 +1,20 @@
+{
+  "domain": "selongbayschool.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.selongbayschool.com",
+      "contentHash": "baea48866b300971b71e92b8740595811570752242fbc004ac650dbf1c442652",
+      "placeMentions": [
+        {
+          "place": "Selong Belanak",
+          "country": "Indonesia",
+          "snippet": "\"The community of parents that's here, is what makes this place special\" - World Schooling Family",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

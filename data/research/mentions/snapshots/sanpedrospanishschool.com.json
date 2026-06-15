@@ -1,0 +1,44 @@
+{
+  "domain": "sanpedrospanishschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://sanpedrospanishschool.com/",
+      "contentHash": "da40bcba287c2521b38c46564c24f6934b5eb0777ec1cb85418ba55816941164",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://sanpedrospanishschool.com/spanish-courses/", "anchor": "Courses & Programs" },
+        { "url": "https://sanpedrospanishschool.com/homestay-family/", "anchor": "Homestay" },
+        { "url": "https://sanpedrospanishschool.com/pricing/", "anchor": "Pricing" },
+        { "url": "https://sanpedrospanishschool.com/blog/", "anchor": "Blog" },
+        { "url": "https://sanpedrospanishschool.com/about-san-pedro-spanish-school/", "anchor": "About us" },
+        { "url": "https://sanpedrospanishschool.com/spanish-for-kids/", "anchor": "Spanish For Kids & Families" },
+        { "url": "https://sanpedrospanishschool.com/spanish-for-travelers/", "anchor": "Spanish Immersion Program" },
+        { "url": "https://sanpedrospanishschool.com/conversational-spanish-online/", "anchor": "Conversational Spanish Online Program" },
+        { "url": "https://sanpedrospanishschool.com/courses-programs/", "anchor": "See courses" }
+      ]
+    },
+    {
+      "url": "https://sanpedrospanishschool.com/spanish-for-kids/",
+      "contentHash": "6db54c7db0d0ada5d6a3ea6762e3afeb712460bdbe369615dae6383ccc1df97d",
+      "placeMentions": [
+        {
+          "place": "Lake Atitlán",
+          "country": "Guatemala",
+          "snippet": "Spanish Course for Kids and Families is not just a course; it is an immersive adventure. Together with your family, discover Spanish while delving into the rich Guatemalan culture.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://sanpedrospanishschool.com/spanish-courses/", "anchor": "Courses & Programs" },
+        { "url": "https://sanpedrospanishschool.com/homestay-family/", "anchor": "Homestay" },
+        { "url": "https://sanpedrospanishschool.com/pricing/", "anchor": "Pricing" },
+        { "url": "https://sanpedrospanishschool.com/blog/", "anchor": "Blog" },
+        { "url": "https://sanpedrospanishschool.com/about-san-pedro-spanish-school/", "anchor": "About us" },
+        { "url": "https://spanishschool.systeme.io/f780fa65", "anchor": "Book Now for $19!" },
+        { "url": "https://g.co/kgs/Fnp5eW", "anchor": "Google (5.0 rating)" }
+      ]
+    }
+  ]
+}

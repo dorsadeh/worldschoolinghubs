@@ -1,0 +1,28 @@
+{
+  "domain": "blattwerk-natur.de",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://blattwerk-natur.de/worldschooling-hub-2025/",
+      "contentHash": "c5e18918b8418c507873280c270bac70c80d907acbc78d009db1e2f446e61e61",
+      "placeMentions": [
+        {
+          "place": "Valle Gran Rey, La Gomera",
+          "country": "Spain",
+          "snippet": "\"Alegría\" center on La Gomera, Valle Gran Rey — seminar venue, coworking space, cultural and meeting centre for families, groups and individual work.",
+          "nestingClaim": true,
+          "asOfDate": "2025-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://blattwerk-natur.de/alegria/", "anchor": "Alegría Kulturzentrum" },
+        { "url": "https://blattwerk-natur.de/phoenix-heilraum/", "anchor": "Phoenix Natur Kunst Mensch" },
+        { "url": "https://blattwerk-natur.de/ausbildung-la-gomera/", "anchor": "Intensiv Ausbildung auf La Gomera" },
+        { "url": "http://phoenixkunst.de", "anchor": "Phoenix logo link" },
+        { "url": "http://bvnw.de/", "anchor": "BVNW" },
+        { "url": "https://www.greenpeace.de/", "anchor": "Greenpeace" },
+        { "url": "http://www.elf62.net", "anchor": "Umsetzung durch elf62.net" }
+      ]
+    }
+  ]
+}

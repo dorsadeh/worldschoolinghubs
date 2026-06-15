@@ -1,0 +1,16 @@
+{
+  "domain": "thehiveadventure.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.thehiveadventure.com",
+      "contentHash": "f43dcfe9898cc223e2040735cd54fbc6822adb318b9c924a544a258c335ef4c8",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://thehumanhive.wishpondpages.com/intro-to-hive-education/", "anchor": "HIVE EDUCATION PRACTITIONER TRAINING" },
+        { "url": "https://goo.gl/maps/syJqyPANAp3RTdmj8", "anchor": "LEAVE US A REVIEW" },
+        { "url": "https://forms.wix.com/r/7177015881409495213", "anchor": "BOOK NOW" }
+      ]
+    }
+  ]
+}

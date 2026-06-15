@@ -1,0 +1,17 @@
+{
+  "domain": "nyskool.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.nyskool.org",
+      "contentHash": "89c34407170135a617c95b355feedc0cffd43a87e90091a0dc61bea5f2c2905a",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://calendly.com/andrei-nyskool/30min",
+          "anchor": "Book a Zoom Call"
+        }
+      ]
+    }
+  ]
+}

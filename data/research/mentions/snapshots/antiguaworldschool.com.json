@@ -1,0 +1,20 @@
+{
+  "domain": "antiguaworldschool.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.antiguaworldschool.com",
+      "contentHash": "59774e7135f8fba105d2aa3315cd279948343df514c916ea97fc48d9c4324adb",
+      "placeMentions": [
+        {
+          "place": "Antigua Guatemala",
+          "country": "Guatemala",
+          "snippet": "Antigua Global Explorers Worldschool opened to the worldschool scene in Antigua Guatemala since November 2024.",
+          "nestingClaim": true,
+          "asOfDate": "2024-11"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

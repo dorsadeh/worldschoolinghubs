@@ -1,0 +1,167 @@
+{
+  "domain": "blog.worldschoolhubs.com",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "contentHash": "90d34f8408258cf4fb67a311a697adf042b240d7e7e95f49b7c0953bb469593e",
+      "placeMentions": [
+        {
+          "place": "Sintra",
+          "country": "Portugal",
+          "snippet": "Finnish-inspired education programme runs five days a week for families basing themselves in Sintra",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Syros",
+          "country": "Greece",
+          "snippet": "Permanent Boundless Life hub on Syros offering structured education and community for families staying 1–12 months",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Tuscany",
+          "country": "Italy",
+          "snippet": "Boundless Life location in Tuscany offering 1–12 month stays for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Estepona",
+          "country": "Spain",
+          "snippet": "Community aspect, families supporting families and kids forming friendships in Estepona",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kotor",
+          "country": "Montenegro",
+          "snippet": "Boundless Life permanent hub in Kotor for extended family stays",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Permanent Boundless Life location in Bali for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "La Barra",
+          "country": "Uruguay",
+          "snippet": "Boundless Life programme with structured education in La Barra, Uruguay",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kamakura",
+          "country": "Japan",
+          "snippet": "Boundless Life permanent hub location in Kamakura for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "Permanent school in Cabrera that accepts short-term worldschoolers in six-week sessions",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Noordhoek, Cape Town",
+          "country": "South Africa",
+          "snippet": "Hub in Noordhoek offering education, skills workshops, excursions for worldschooling families ages 5–16",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Culture and community hubs in Oaxaca with drop-off activities for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "2026"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Deliberate Detour programme in Cusco offering safe, structured, creative environment for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lago de Atitlán",
+          "country": "Guatemala",
+          "snippet": "11-day cultural and language immersion programmes at Lago de Atitlán for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hvar",
+          "country": "Croatia",
+          "snippet": "Hvar combines island exploration with group learning for worldschooling families in summer/autumn sessions",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Caribbean coast",
+          "country": "Costa Rica",
+          "snippet": "Nature-based hub on Costa Rica's Caribbean coast with cultural immersion and local experiences in two-week blocks",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lake Garda",
+          "country": "Italy",
+          "snippet": "Exploring Families gathering at Lake Garda, space for connection and spontaneous plans for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "2026-03"
+        },
+        {
+          "place": "Bornholm",
+          "country": "Denmark",
+          "snippet": "Community gathering hub on Bornholm for worldschooling families, already sold out for 2026",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Algarve",
+          "country": "Portugal",
+          "snippet": "Worldschooling hub in the Algarve with optional daily meetups including beach days, hikes, arts and crafts",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Pasiego Valleys, Cantabria",
+          "country": "Spain",
+          "snippet": "Combines worldschooling with co-living in rural, nature-rich Pasiego Valleys; families gather April & November 2026",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Moshi",
+          "country": "Tanzania",
+          "snippet": "Worldschooling hub in Moshi combining yoga, mindfulness, and cultural immersion for families; Feb, June, July 2026",
+          "nestingClaim": true,
+          "asOfDate": "2026-02"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.worldschoolhubs.com", "anchor": "Worldschool Hubs directory" },
+        { "url": "http://www.worldschoolcollective.com", "anchor": "Worldschool Collective" },
+        { "url": "http://boundless.life", "anchor": "Boundless Life" },
+        { "url": "http://www.passportexplorers.com", "anchor": "Passport Explorers" },
+        { "url": "http://www.withtheblinks.com", "anchor": "The Blink family blog" },
+        { "url": "http://www.deliberatedetour.com", "anchor": "Deliberate Detour" },
+        { "url": "http://www.worldschoolpopuphub.com", "anchor": "Worldschool Pop-Up Hub" },
+        { "url": "http://www.thetravellingtrowberrys.com", "anchor": "The Travelling Trowberrys" },
+        { "url": "http://projectworldschool.com", "anchor": "Project World School" },
+        { "url": "http://www.exploringfamilies.eu", "anchor": "Exploring Families" },
+        { "url": "http://www.naturallyricher.com", "anchor": "Algarve Worldschooling Hub" },
+        { "url": "http://www.espacioubuntu.org", "anchor": "Ubuntu Worldschool" },
+        { "url": "http://www.amanilight.com", "anchor": "Amani Light" }
+      ]
+    }
+  ]
+}

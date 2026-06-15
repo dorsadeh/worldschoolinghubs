@@ -1,0 +1,33 @@
+{
+  "domain": "storylines.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.storylines.com/worldschooling",
+      "contentHash": "cf98962457f3ae696d836006bb499ccf4797518fad351fe6e1e9308cbb04262a",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://www.sheldrickwildlifetrust.org",
+          "anchor": "animal sanctuaries"
+        },
+        {
+          "url": "https://www.shakespearesglobe.com",
+          "anchor": "living history"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Z1yl0MFYzXc",
+          "anchor": "learn by doing"
+        },
+        {
+          "url": "https://www.musicofvienna.com/palace-concerts.htm",
+          "anchor": "Vienna"
+        },
+        {
+          "url": "https://www.pblworks.org/what-is-pbl",
+          "anchor": "project based learning"
+        }
+      ]
+    }
+  ]
+}

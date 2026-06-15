@@ -1,0 +1,20 @@
+{
+  "domain": "sekolykintana.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://sekolykintana.org/",
+      "contentHash": "d807a494f1325553a91aae8e04ab424552029e8b4d05569624a4712a9c8d619c",
+      "placeMentions": [
+        {
+          "place": "Fort Dauphin (Tôlagnaro)",
+          "country": "Madagascar",
+          "snippet": "Sekoly Kintana est une école Montessori trilingue à Fort Dauphin, pour les enfants de 3 à 15 ans — welcomes familles malgaches, familles mixtes, familles internationales",
+          "nestingClaim": false,
+          "asOfDate": "2025"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

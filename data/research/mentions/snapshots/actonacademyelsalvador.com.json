@@ -1,0 +1,28 @@
+{
+  "domain": "actonacademyelsalvador.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "http://www.actonacademyelsalvador.com/worldschool-hub",
+      "contentHash": "4c1c649b05cae91edc9142e42ef83be6ac074b04cb59dbc3dd2839df04c3f1ae",
+      "placeMentions": [
+        {
+          "place": "Antiguo Cuscatlán",
+          "country": "El Salvador",
+          "snippet": "For families looking for structure, community and real-world learning: just the right mix of culture, adventure and stability.",
+          "nestingClaim": true,
+          "asOfDate": "2026-07"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://actonparentportal.mystrikingly.com/", "anchor": "Parent Portal" },
+        { "url": "https://share.hsforms.com/2h3skzeE0QYiYAQn0uWO0YQe5xzt", "anchor": "Schedule a Call" },
+        { "url": "https://forms.gle/bE3DZ2915vJ4cvKT9", "anchor": "Request Information" },
+        { "url": "https://www.actonacademyelsalvador.com/montessori-camp", "anchor": "Montessori Cultural Camp" },
+        { "url": "https://www.actonacademyelsalvador.com/bizcamp", "anchor": "Business Builders Camp" },
+        { "url": "https://www.childrensbusinessfair.org/elsalvador-acton", "anchor": "9th Children's Business Fair" },
+        { "url": "https://www.facebook.com/share/g/1ASNgZXHKZ/", "anchor": "Worldschool Hub El Salvador (Facebook)" }
+      ]
+    }
+  ]
+}

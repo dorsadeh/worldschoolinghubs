@@ -1,0 +1,265 @@
+{
+  "domain": "worldschoolpopuphub.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolpopuphub.com/",
+      "contentHash": "43644c33d39e5620d49abfc7e398e3f932cf7586920406666b8cc9e36208ad7f",
+      "placeMentions": [
+        {
+          "place": "San Francisco",
+          "country": "USA",
+          "snippet": "temporary, mobile, week-long gatherings designed to bring worldschoolers together",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Sibiu",
+          "country": "Romania",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Mendocino",
+          "country": "USA",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Warsaw",
+          "country": "Poland",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Austin",
+          "country": "USA",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Vienna",
+          "country": "Austria",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Dresden",
+          "country": "Germany",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-08"
+        },
+        {
+          "place": "Luang Prabang",
+          "country": "Laos",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-08"
+        },
+        {
+          "place": "Liverpool",
+          "country": "England",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "Cuenca",
+          "country": "Ecuador",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "London",
+          "country": "England",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "Osaka",
+          "country": "Japan",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-10"
+        },
+        {
+          "place": "Cape Town",
+          "country": "South Africa",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-10"
+        },
+        {
+          "place": "Buenos Aires",
+          "country": "Argentina",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-12"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.worldschoolpopuphub.com/upcoming-events",
+      "contentHash": "9a33fe3de7efec064c276c1cb3e2054c9c2095e5e4deb68bb3868ad065aa86d5",
+      "placeMentions": [
+        {
+          "place": "San Francisco",
+          "country": "USA",
+          "snippet": "temporary, mobile, week-long gatherings designed to bring worldschoolers together",
+          "nestingClaim": false,
+          "asOfDate": "2026-06-15"
+        },
+        {
+          "place": "Sibiu",
+          "country": "Romania",
+          "snippet": "Pop-up worldschool community event",
+          "nestingClaim": false,
+          "asOfDate": "2026-06-17"
+        },
+        {
+          "place": "Mendocino",
+          "country": "USA",
+          "snippet": "Pop-up worldschool community event",
+          "nestingClaim": false,
+          "asOfDate": "2026-06-24"
+        },
+        {
+          "place": "Warsaw",
+          "country": "Poland",
+          "snippet": "Pop-up worldschool community event",
+          "nestingClaim": false,
+          "asOfDate": "2026-06-28"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.worldschoolpopuphub.com/events/warsaw-poland-june-2026",
+      "contentHash": "af60a26b6cae82b74dccba92490a2466d16b67f5ed34c775544b3257545103d5",
+      "placeMentions": [
+        {
+          "place": "Warsaw",
+          "country": "Poland",
+          "snippet": "A week-long gathering for traveling families to explore Warsaw from June 28 - July 4, 2026. Fun-filled and community-centered worldschooling gathering.",
+          "nestingClaim": true,
+          "asOfDate": "2026-06-28"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://worldschoolpopuphub.com",
+      "contentHash": "43644c33d39e5620d49abfc7e398e3f932cf7586920406666b8cc9e36208ad7f",
+      "placeMentions": [
+        {
+          "place": "San Francisco",
+          "country": "USA",
+          "snippet": "temporary, mobile, week-long gatherings designed to bring worldschoolers together",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Sibiu",
+          "country": "Romania",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Mendocino",
+          "country": "USA",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Warsaw",
+          "country": "Poland",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Austin",
+          "country": "USA",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Vienna",
+          "country": "Austria",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Dresden",
+          "country": "Germany",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-08"
+        },
+        {
+          "place": "Luang Prabang",
+          "country": "Laos",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-08"
+        },
+        {
+          "place": "Liverpool",
+          "country": "England",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "Cuenca",
+          "country": "Ecuador",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "London",
+          "country": "England",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "Osaka",
+          "country": "Japan",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-10"
+        },
+        {
+          "place": "Cape Town",
+          "country": "South Africa",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-10"
+        },
+        {
+          "place": "Buenos Aires",
+          "country": "Argentina",
+          "snippet": "Pop-up worldschool community gathering",
+          "nestingClaim": false,
+          "asOfDate": "2026-12"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

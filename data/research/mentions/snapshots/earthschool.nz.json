@@ -1,0 +1,20 @@
+{
+  "domain": "earthschool.nz",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.earthschool.nz/worldschooling/",
+      "contentHash": "d76327e416d80dcc1ba67a0c7bb37b2ad045ffa4d0bbb3daf6928dc9434bb563",
+      "placeMentions": [
+        {
+          "place": "Upper Hutt (Mangaroa Farms)",
+          "country": "New Zealand",
+          "snippet": "Based at Mangaroa Farms, this pathway is designed for families staying for one or more months.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

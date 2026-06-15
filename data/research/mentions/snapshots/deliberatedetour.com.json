@@ -1,0 +1,111 @@
+{
+  "domain": "deliberatedetour.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://deliberatedetour.com/",
+      "contentHash": "bee430bdba5977b52770f4e65abf5981286a0b10ba2b351e3f1eb07dd937319c",
+      "placeMentions": [
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Discover a richly woven culture shining through cuisine, craft, weaving, parades, and dance — immersive 2-week and family programs run June–August and Oct–Nov.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Dive into a magical place blending traditions, nature, culinary delights, and stunning landscapes — immersive programs run July–August.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Budapest",
+          "country": "Hungary",
+          "snippet": "Experience the magnificent 'Pearl of the Danube' along with its folkloric past and nearby village life — immersive programs run June–October.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "London",
+          "country": "England",
+          "snippet": "Become fascinated by hidden corners, green spaces, and quirky gems along with world-famous British sites — custom programs only.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://deliberatedetour.com",
+      "contentHash": "bee430bdba5977b52770f4e65abf5981286a0b10ba2b351e3f1eb07dd937319c",
+      "placeMentions": [
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Discover a richly woven culture shining through cuisine, craft, weaving, parades, and dance — immersive 2-week and family programs run June–August and Oct–Nov.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Dive into a magical place blending traditions, nature, culinary delights, and stunning landscapes — immersive programs run July–August.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Budapest",
+          "country": "Hungary",
+          "snippet": "Experience the magnificent 'Pearl of the Danube' along with its folkloric past and nearby village life — immersive programs run June–October.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "London",
+          "country": "England",
+          "snippet": "Become fascinated by hidden corners, green spaces, and quirky gems along with world-famous British sites — custom programs only.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.deliberatedetour.com",
+      "contentHash": "bee430bdba5977b52770f4e65abf5981286a0b10ba2b351e3f1eb07dd937319c",
+      "placeMentions": [
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Discover a richly woven culture shining through cuisine, craft, weaving, parades, and dance — immersive 2-week and family programs run June–August and Oct–Nov.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Dive into a magical place blending traditions, nature, culinary delights, and stunning landscapes — immersive programs run July–August.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Budapest",
+          "country": "Hungary",
+          "snippet": "Experience the magnificent 'Pearl of the Danube' along with its folkloric past and nearby village life — immersive programs run June–October.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "London",
+          "country": "England",
+          "snippet": "Become fascinated by hidden corners, green spaces, and quirky gems along with world-famous British sites — custom programs only.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

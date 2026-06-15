@@ -1,0 +1,15 @@
+{
+  "domain": "mama-adama.pt",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.mama-adama.pt/",
+      "contentHash": "2b038fc6943f52a08c8a72287336186bb1bb0da4475ef1bbd1269c4668416508",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://booking.redforts.com/kuHB/", "anchor": "Check availability" },
+        { "url": "https://www.tripadvisor.com/Hotel_Review-g660495-d27993309-Reviews-Mama_Adama_Alpaca_Farm_Hotel-Grandola_Setubal_District_Alentejo.html", "anchor": "TripAdvisor" }
+      ]
+    }
+  ]
+}

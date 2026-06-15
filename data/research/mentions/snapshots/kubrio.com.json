@@ -1,0 +1,25 @@
+{
+  "domain": "kubrio.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://kubrio.com/blog/worldschooling-in-europe-navigating-hubs-borders-and-the-schengen-puzzle",
+      "contentHash": "a0c4c7c63b3770bcb2be9d7a11d52c81f8c600a7dc33c24f985609964f04035e",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://app.kubrio.com/",
+          "anchor": "Learn more / Summer Sprints"
+        },
+        {
+          "url": "https://x.com/kubrioai",
+          "anchor": "Twitter (X)"
+        },
+        {
+          "url": "https://app.kubrio.com/teachers",
+          "anchor": "Get Early Access"
+        }
+      ]
+    }
+  ]
+}

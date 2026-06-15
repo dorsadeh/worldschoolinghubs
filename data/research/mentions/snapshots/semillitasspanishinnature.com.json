@@ -1,0 +1,21 @@
+{
+  "domain": "semillitasspanishinnature.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.semillitasspanishinnature.com",
+      "contentHash": "e51c42728d90c96aa79a174f4146f347d28d367542b6afff0425e55da23e50eb",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://dpi.wi.gov/sites/default/files/imce/early-childhood/wmels_5theditionfinal.pdf",
+          "anchor": "WMELS standards"
+        },
+        {
+          "url": "https://form.jotform.com/242975577935880",
+          "anchor": "Leave Your Feedback"
+        }
+      ]
+    }
+  ]
+}

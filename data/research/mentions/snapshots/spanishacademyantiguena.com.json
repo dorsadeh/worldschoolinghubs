@@ -1,0 +1,20 @@
+{
+  "domain": "spanishacademyantiguena.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.spanishacademyantiguena.com/",
+      "contentHash": "620f555c00903901d91719420ff3c9841d8028dab02bc4a5e58f0e0686719427",
+      "placeMentions": [
+        {
+          "place": "Antigua Guatemala",
+          "country": "Guatemala",
+          "snippet": "A city full of tradition, color, culture and history — classes for kids and adults from many parts of the world.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

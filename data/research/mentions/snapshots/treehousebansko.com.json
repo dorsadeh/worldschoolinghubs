@@ -1,0 +1,25 @@
+{
+  "domain": "treehousebansko.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://treehousebansko.com/summit2026/",
+      "contentHash": "766799b48f1b715df11ec2d186417c0bd3bbfbb4e6d914e33bc90b34c9b6e942",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "a rare ecosystem where you no longer have to choose between a comfortable, modern life and a deep connection to the wild — international hub for those who already travel, vibrant community of worldschoolers and nomads",
+          "nestingClaim": true,
+          "asOfDate": "2026-08"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://treehousebansko.com", "anchor": "Treehouse Homepage" },
+        { "url": "https://chat.whatsapp.com/KAylpSiDWvl1iHATfFEvU5?mode=gi_t", "anchor": "WhatsApp Group" },
+        { "url": "https://treehousebansko.com/terms/", "anchor": "terms" },
+        { "url": "https://treehousebansko.com/privacy/", "anchor": "privacy" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "whalecamp.com",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://whalecamp.com/",
+      "contentHash": "19c82f7b727547be29c994ad241d4be41875e47aafd6d5da8dbdf29b48c0f3a0",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.canada.ca/en/environment-climate-change/services/migratory-bird-sanctuaries/locations/machias-seal-island.html", "anchor": "Machias Seal Island" }
+      ]
+    }
+  ]
+}

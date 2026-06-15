@@ -1,0 +1,14 @@
+{
+  "domain": "pelangischoolbali.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.pelangischoolbali.com",
+      "contentHash": "c554065cc72416ee5ccc7310d23ab610ba5ab5137a2a4663a601477c28690bc9",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://spacegoat.com", "anchor": "SPACEGOAT Interactive" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "domain": "culturechalk.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.culturechalk.org",
+      "contentHash": "d3b761d712b10cc36d63bb911b79cc45ded3caeeb22255883046547828e04610",
+      "placeMentions": [
+        {
+          "place": "San Juan La Laguna",
+          "country": "Guatemala",
+          "snippet": "Culture Chalk at San Juan La Laguna. Everyone there made it such a special time for my son and me, along with the other 'Widows in Wild with kids' group",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lake Atitlán region",
+          "country": "Guatemala",
+          "snippet": "see the beauty of Lake Atitlán and the community through planned activities such as tuk-tuk tours, learning about bees, cacao, and weaving",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://maps.app.goo.gl/v6aTf1d3YiMe5ACx9",
+          "anchor": "PAST GUEST REVIEWS AND PHOTOS"
+        },
+        {
+          "url": "https://mundoschool.com/roots-and-new-pots/",
+          "anchor": "A special testimonial"
+        },
+        {
+          "url": "http://thegivingexperiment.org",
+          "anchor": "Our family story"
+        }
+      ]
+    }
+  ]
+}

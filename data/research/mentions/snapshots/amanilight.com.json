@@ -1,0 +1,22 @@
+{
+  "domain": "amanilight.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.amanilight.com/worldschool",
+      "contentHash": "900610be9029f033c3d1fd0b83250474a2a914d6e85f7a9a892ccc178c7b4c0a",
+      "placeMentions": [
+        {
+          "place": "Moshi",
+          "country": "Tanzania",
+          "snippet": "We live in Tanzania and want to share our lives with you! Together we have curated a 3–4 week learning experience for the whole family.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.calendly.com/amanilight", "anchor": "Book a call to learn more" }
+      ]
+    }
+  ]
+}

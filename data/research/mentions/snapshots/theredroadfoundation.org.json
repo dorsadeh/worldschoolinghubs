@@ -1,0 +1,33 @@
+{
+  "domain": "theredroadfoundation.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://theredroadfoundation.org/sustainable-development-volunteer-program-in-cambodia/leadership-in-sustainable-development-internship/",
+      "contentHash": "a7bb370ad3ac4e14c8faf363b21f91aa6e524d4948e4fd52d87069e42a6f835f",
+      "placeMentions": [
+        {
+          "place": "Rural Cambodia",
+          "country": "Cambodia",
+          "snippet": "Experiential family travel education through service learning, sustainable development, and cross-cultural community living in rural Cambodia.",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ETY32TDAEHM2",
+          "anchor": "Donate Now"
+        },
+        {
+          "url": "http://garrettriggio.com",
+          "anchor": "Garrett Riggio"
+        },
+        {
+          "url": "https://youtu.be/Q1Or498Apfs",
+          "anchor": "PLAY SHORT VIDEO"
+        }
+      ]
+    }
+  ]
+}

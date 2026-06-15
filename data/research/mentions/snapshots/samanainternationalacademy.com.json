@@ -1,0 +1,20 @@
+{
+  "domain": "samanainternationalacademy.com",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://www.samanainternationalacademy.com/",
+      "contentHash": "5d676a50d55e6263b72c0203ff032f23c180fbf301286b285d0993817b33a34f",
+      "placeMentions": [
+        {
+          "place": "Juana Vicenta, Samaná",
+          "country": "Dominican Republic",
+          "snippet": "Rigorous, faith-based education in a vibrant outdoor learning environment in Juana Vicenta, Samaná — a unique alternative for expat families.",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

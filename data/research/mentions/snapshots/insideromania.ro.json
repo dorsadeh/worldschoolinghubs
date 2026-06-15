@@ -1,0 +1,23 @@
+{
+  "domain": "insideromania.ro",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://insideromania.ro/worldschool",
+      "contentHash": "54517a89ee909d5062ef5504f7db27ec3ecc2fc5f44e0e1f3b45ff81f2d13f10",
+      "placeMentions": [
+        {
+          "place": "Transylvania",
+          "country": "Romania",
+          "snippet": "month-long Worldschool community experience in the heart of the Carpathian Mountains",
+          "nestingClaim": true,
+          "asOfDate": "2026-06"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.facebook.com/Inside.Romania", "anchor": "Facebook page" },
+        { "url": "https://www.instagram.com/inside.romania", "anchor": "Instagram page" }
+      ]
+    }
+  ]
+}

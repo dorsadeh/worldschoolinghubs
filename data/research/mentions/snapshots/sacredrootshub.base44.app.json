@@ -1,0 +1,20 @@
+{
+  "domain": "sacredrootshub.base44.app",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://sacredrootshub.base44.app/",
+      "contentHash": "061ff7f24f8cb45a3610a1b39b5ceba3458f82161760648f1cfc569e4ed765cd",
+      "placeMentions": [
+        {
+          "place": "Sacred Valley",
+          "country": "Peru",
+          "snippet": "A home for families who learn, travel & grow together in Peru's Sacred Valley.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

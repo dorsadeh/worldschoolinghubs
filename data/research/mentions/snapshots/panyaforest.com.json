@@ -1,0 +1,45 @@
+{
+  "domain": "panyaforest.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://panyaforest.com",
+      "contentHash": "79abe8e197b703c97be880477a81b90968130fa2cfeeb070f6bd8541bebd4437",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Panya Forest welcomes worldschoolers, unschoolers, homeschoolers and life-long learners of all ages — ongoing community gathering place near Chiang Mai.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.gofundme.com/f/preserve-our-seeds-and-heritage",
+          "anchor": "Donate to Panya Forest"
+        },
+        {
+          "url": "https://gregorypettys.substack.com/?r=f1gey&utm_medium=ios",
+          "anchor": "Greg's Substack"
+        },
+        {
+          "url": "https://ecoversities.org",
+          "anchor": "Ecoversities"
+        },
+        {
+          "url": "https://punpunthailand.org",
+          "anchor": "Pun Pun"
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeQ8ESpPPznxEbNfjtIOv583_-SMqwsjL9yHm2-X6sqQHKzwA/viewform?usp=preview",
+          "anchor": "eARTh Resonance Retreat Event"
+        },
+        {
+          "url": "https://forms.gle/9WiNv2GUCZuf9cvn6",
+          "anchor": "What If… Course"
+        }
+      ]
+    }
+  ]
+}

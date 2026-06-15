@@ -1,0 +1,12 @@
+{
+  "domain": "bangkokpost.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai",
+      "contentHash": "8bdb6034a988550a1564ef6aa216cdc52475095a4a18f3f4f51d544055585e13",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "domain": "worldschoolantigua.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolantigua.com",
+      "contentHash": "b385bee4a3f6e267353eb0450a16e029598279e0f37422182ef82da187d575ad",
+      "placeMentions": [
+        {
+          "place": "Antigua Guatemala",
+          "country": "Guatemala",
+          "snippet": "Worldschool Antigua Guatemala — worldschooling hub in central america. Local and traveling hub for worldschooling families to gather.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

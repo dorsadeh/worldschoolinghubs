@@ -1,0 +1,57 @@
+{
+  "domain": "tazgha.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.tazgha.com",
+      "contentHash": "daa84db856e033c7f35e63755086d985a87eff3a1052cc5d1c6985b29715115b",
+      "placeMentions": [
+        {
+          "place": "Essaouira",
+          "country": "Morocco",
+          "snippet": "Exclusive 10-room villa in Essaouira, Morocco — sleeps 20, with private chef, airport transfers. Worldschooling program link referenced on site.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://brother.tazgha.com/",
+          "anchor": "Muslim MEN Retreat 2026"
+        },
+        {
+          "url": "https://wa.me/212616633544",
+          "anchor": "Instant WhatsApp Enquiry"
+        },
+        {
+          "url": "https://halalholiday.tazgha.com/",
+          "anchor": "Halal Family Reunions"
+        },
+        {
+          "url": "https://wedding.tazgha.com/",
+          "anchor": "Beach Weddings"
+        },
+        {
+          "url": "https://mart.tazgha.com/",
+          "anchor": "Corporate Retreats"
+        },
+        {
+          "url": "https://learnarabic.tazgha.com/",
+          "anchor": "Arabic Immersion"
+        },
+        {
+          "url": "https://assisted.tazgha.com/",
+          "anchor": "Accessible Holidays"
+        },
+        {
+          "url": "https://maps.app.goo.gl/3iP2o7cKusDQLyWWA",
+          "anchor": "GPS Directions"
+        },
+        {
+          "url": "https://holiday.tazgha.com/pay.html",
+          "anchor": "Booking Policy"
+        }
+      ]
+    }
+  ]
+}

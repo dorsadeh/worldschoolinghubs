@@ -1,0 +1,15 @@
+{
+  "domain": "worldschooling.life",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldschooling.life/",
+      "contentHash": "3a0c457ca416b5858c1f79efe1034b25fb1d97e62c4ba868a568332e61394d10",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://calendly.com/worldschoolingmx/entrevista-worldschooling?month=2025-02", "anchor": "Haz una cita / Make an appointment" },
+        { "url": "https://form.jotform.com/qqahoy/formato-de-inscripcin", "anchor": "Inscripción" }
+      ]
+    }
+  ]
+}

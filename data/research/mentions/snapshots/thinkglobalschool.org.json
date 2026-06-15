@@ -1,0 +1,25 @@
+{
+  "domain": "thinkglobalschool.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://thinkglobalschool.org/",
+      "contentHash": "f82f4e6e5a238079f358008b1f65eaa257909f27f1feefd2a5e393986b4ea09f",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.acswasc.org/", "anchor": "Western Association of Schools and Colleges" },
+        { "url": "https://www.ecis.org/", "anchor": "Educational Collaborative for International Schools" },
+        { "url": "https://www.nais.org/", "anchor": "National Association of Independent Schools" },
+        { "url": "https://www.case.org/", "anchor": "Council For Support And Development Of Education" },
+        { "url": "https://www.earcos.org/", "anchor": "Earcos East Asia Regional Council of Schools" },
+        { "url": "https://www.goodschoolsguide.co.uk/schools/501527/think-global-school/4U7QDL1", "anchor": "The Good Schools Guide to International Schools" },
+        { "url": "https://www.tabs.org/", "anchor": "The Association of Boarding Schools" },
+        { "url": "https://www.spears500.com/adviser/15229/think-global-school", "anchor": "Spear's School Index 2024" },
+        { "url": "https://www.schools-index.com/top-25-schools-to-watch", "anchor": "Global School's Index" },
+        { "url": "https://pieoneerawards.com/", "anchor": "Progressive International Education (PIE) Awards" },
+        { "url": "https://hundred.org/en/innovations/think-global-school-f58c2497-3493-4b1e-b8b9-61ab3472e8cb", "anchor": "hundrED K-12 Education Innovations" },
+        { "url": "https://noformat.com/", "anchor": "noformat" }
+      ]
+    }
+  ]
+}

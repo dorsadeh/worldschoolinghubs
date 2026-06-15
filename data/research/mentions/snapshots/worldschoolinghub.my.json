@@ -1,0 +1,55 @@
+{
+  "domain": "worldschoolinghub.my",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolinghub.my/",
+      "contentHash": "288cb9b60e0836366da1a6b51ec3c10c6cf00815e6bea6768c319289117de30c",
+      "placeMentions": [
+        {
+          "place": "Raub, Pahang",
+          "country": "Malaysia",
+          "snippet": "based in a dedicated location in Raub, Pahang, Malaysia with 8-week nomadic worldschooling program",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Fraser Hills, Pahang",
+          "country": "Malaysia",
+          "snippet": "exploring nature in Fraser Hills Raub Pahang as part of the nomadic worldschooling hub program",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Peninsular Malaysia",
+          "country": "Malaysia",
+          "snippet": "WFS program travels across Peninsular and Borneo Malaysia, Thailand, and Indonesia",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Borneo",
+          "country": "Malaysia",
+          "snippet": "Peninsular and Borneo Malaysia, Thailand, and Indonesia listed as WFS destinations",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Thailand",
+          "country": "Thailand",
+          "snippet": "WFS program operates across multiple hubs in Malaysia, Thailand, and Indonesia",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Indonesia",
+          "country": "Indonesia",
+          "snippet": "WFS program operates across multiple hubs in Malaysia, Thailand, and Indonesia",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

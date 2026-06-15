@@ -1,0 +1,25 @@
+{
+  "domain": "naturemind-ed.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://naturemind-ed.com/experiences/worldschooling/",
+      "contentHash": "1ef1559e16cb0f4a83695e64d44b2394dc6a1ef6d6d69ef1577fe8df0179f3c7",
+      "placeMentions": [
+        {
+          "place": "Krabi",
+          "country": "Thailand",
+          "snippet": "10 day eco-adventure community for worldschooling families in Krabi, Thailand",
+          "nestingClaim": true,
+          "asOfDate": "2026-04-10"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://docs.google.com/forms/d/e/1FAIpQLSdPFHRcAQDOwZq3ySWo8rBnzxRIsS2f--dzeP_gCMUHmzKZSQ/viewform", "anchor": "Register now" },
+        { "url": "https://drive.google.com/file/d/1RV8AnJml4jyrCmi-yV5WLjSbRxFX03Ni/view?usp=sharing", "anchor": "More Details" },
+        { "url": "https://spiritmountain-krabi.com/", "anchor": "Check availability" },
+        { "url": "https://mailchi.mp/24dfea2f34b7/naturemind-ed", "anchor": "Subscribe" }
+      ]
+    }
+  ]
+}

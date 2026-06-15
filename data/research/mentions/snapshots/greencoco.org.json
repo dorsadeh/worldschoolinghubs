@@ -1,0 +1,149 @@
+{
+  "domain": "greencoco.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.greencoco.org",
+      "contentHash": "2f5126230dc7261352e197355b421e14c7a4ab825c27059c7ba5f3ad9e6bd003",
+      "placeMentions": [
+        {
+          "place": "Seychelles",
+          "country": "Seychelles",
+          "snippet": "Starting in Seychelles in early 2024, we sailed Nesi...hosting visiting families",
+          "nestingClaim": true,
+          "asOfDate": "2024-01"
+        },
+        {
+          "place": "Madagascar",
+          "country": "Madagascar",
+          "snippet": "Sailed to Madagascar...hosting visiting families & adventurous travelers",
+          "nestingClaim": true,
+          "asOfDate": "2024"
+        },
+        {
+          "place": "South Africa",
+          "country": "South Africa",
+          "snippet": "Visited South Africa...hosting visiting families & adventurous travelers",
+          "nestingClaim": true,
+          "asOfDate": "2024"
+        },
+        {
+          "place": "Namibia",
+          "country": "Namibia",
+          "snippet": "Visited Namibia...hosting visiting families & adventurous travelers",
+          "nestingClaim": true,
+          "asOfDate": "2024"
+        },
+        {
+          "place": "Brazil",
+          "country": "Brazil",
+          "snippet": "Across the Atlantic Ocean to Brazil enroute to Caribbean...hosting visiting families",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Caribbean (Martinique to Bahamas)",
+          "country": "Caribbean",
+          "snippet": "We're sailing from Martinique to Virgin Islands...up to Bahamas — hosting visiting families",
+          "nestingClaim": true,
+          "asOfDate": "2026-01"
+        },
+        {
+          "place": "San Blas",
+          "country": "Panama",
+          "snippet": "San Blas roundtrip...Highlights: San Blas diving & kiting — visiting family trips",
+          "nestingClaim": true,
+          "asOfDate": "2026-12"
+        },
+        {
+          "place": "Galapagos",
+          "country": "Ecuador",
+          "snippet": "Come visit Galapagos with us in affordable 4 day port stays or expedition style 9 day boat trips",
+          "nestingClaim": true,
+          "asOfDate": "2027-02"
+        },
+        {
+          "place": "Hawaii",
+          "country": "USA",
+          "snippet": "We'll be in Hawaii for the year. Experience the Hawaiian islands...like you've never seen them before",
+          "nestingClaim": true,
+          "asOfDate": "2027"
+        },
+        {
+          "place": "Alaska",
+          "country": "USA",
+          "snippet": "Sail north to central Alaska during summertime...incredible glaciers, epic landscapes",
+          "nestingClaim": true,
+          "asOfDate": "2028"
+        },
+        {
+          "place": "British Columbia / Tofino",
+          "country": "Canada",
+          "snippet": "Head south...to British Columbia until Tofino by late summer — hosting visiting families",
+          "nestingClaim": true,
+          "asOfDate": "2028"
+        },
+        {
+          "place": "Baja / Sea of Cortez",
+          "country": "Mexico",
+          "snippet": "After a few trips in Sea of Cortez — family visits planned in Baja region",
+          "nestingClaim": true,
+          "asOfDate": "2029"
+        },
+        {
+          "place": "French Polynesia / Tahiti / Tuamotus",
+          "country": "French Polynesia",
+          "snippet": "Operated mostly in Tahiti & Tuamotus atolls during these 5 years; we'll head across the Pacific to our beloved French Polynesia",
+          "nestingClaim": true,
+          "asOfDate": "2019"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.youtube.com/@greencoconutrun",
+          "anchor": "Our Youtube"
+        },
+        {
+          "url": "https://www.instagram.com/greencocosailing",
+          "anchor": "Our Instagram"
+        },
+        {
+          "url": "https://buy.stripe.com/5kAaHefW1dSA41i288",
+          "anchor": "Email Subscribe ($10/month)"
+        },
+        {
+          "url": "https://buy.stripe.com/5kA9DacJP01KcxOdQT",
+          "anchor": "Email Subscribe ($100/year)"
+        },
+        {
+          "url": "https://buy.stripe.com/14k9Da5hneWEcxObIJ",
+          "anchor": "digital PDF copy"
+        },
+        {
+          "url": "https://www.instagram.com/joelie.anna",
+          "anchor": "Joelie's Instagram"
+        },
+        {
+          "url": "https://www.youtube.com/@joelierussell3006",
+          "anchor": "Joelie's Youtube"
+        },
+        {
+          "url": "https://greencoconutrun.com/category/background/",
+          "anchor": "read some background"
+        },
+        {
+          "url": "https://greencoconutrun.com/category/places",
+          "anchor": "blog posts"
+        },
+        {
+          "url": "https://greencoconutrun.com/category/tuamotos/",
+          "anchor": "Tuamotus atolls"
+        },
+        {
+          "url": "https://greencoconutrun.com/category/expedition/",
+          "anchor": "Expedition here"
+        }
+      ]
+    }
+  ]
+}

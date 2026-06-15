@@ -1,0 +1,27 @@
+{
+  "domain": "thegoodlifemountainclub.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.thegoodlifemountainclub.com/basecamp",
+      "contentHash": "502dca657551bb04866651f22459a7190e8f5ba20013a34f9f9ed1641a7a6dd9",
+      "placeMentions": [
+        {
+          "place": "Valle Laghi, Brenta Dolomiti region",
+          "country": "Italy",
+          "snippet": "Nestled at the base of the Brenta Dolomiti...Base Camp...for homeschool, worldschool families...June through September",
+          "nestingClaim": true,
+          "asOfDate": "2026"
+        },
+        {
+          "place": "Lago di Garda valley",
+          "country": "Italy",
+          "snippet": "Located near the base camp hub as a destination for family gatherings and lake-based community activities",
+          "nestingClaim": true,
+          "asOfDate": "2026"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

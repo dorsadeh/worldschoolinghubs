@@ -1,0 +1,20 @@
+{
+  "domain": "woodschoolbali.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://woodschoolbali.com/",
+      "contentHash": "b2b016fe5562bf5096ebbfbc6797714de9ff437750a073f39844130d57500a9f",
+      "placeMentions": [
+        {
+          "place": "Ubud, Bali",
+          "country": "Indonesia",
+          "snippet": "Worldschooling in Bali? See our short-stay options (1–5 weeks) — explicitly marketing to worldschooling families using Bali as a flexible seasonal base.",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

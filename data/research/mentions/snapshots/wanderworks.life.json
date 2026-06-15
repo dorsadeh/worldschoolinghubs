@@ -1,0 +1,68 @@
+{
+  "domain": "wanderworks.life",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://wanderworks.life/camp/b0b5ad85-2532-44ff-a47b-6b8a4603cec5",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.skitenfamily.com/en/skitensummercamp", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/d8d9a013-4b4f-41d5-bdfd-74db65691a53",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.cloudforestschool.org", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/43ed2f03-11f5-41a0-bb7f-8549386823db",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.explornatura.com/spanish-summer-camps/children-summer-spanish-camps/elementary", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/4917a6e1-5605-490e-af33-83500e81e5a1",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.nordangliaeducation.com/pbis-prague/outstanding-experiences/summer-camps", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/0326ed3f-997f-49cf-87f2-79b6d2ae733e",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.lcen.dk/copencamp", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/5319bf26-1872-436d-8708-47d753080f98",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://alpinefrenchschool.com/junior-french-summer-camp/french-day-camp/", "anchor": "Website" }
+      ]
+    },
+    {
+      "url": "https://wanderworks.life/camp/ea4085f8-8fb0-47f0-9151-3ca72e1c61a0",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://wanderworks.life/camp/becb5918-fc70-4c6a-a72e-1102e980f052",
+      "contentHash": "8ab828cdca45bfb91962cacf389d6a7772fe584811f553afa67f39be782b291b",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.icsparis.fr/student-life/ics-camps", "anchor": "Website" }
+      ]
+    }
+  ]
+}

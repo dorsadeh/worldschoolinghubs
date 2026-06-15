@@ -1,0 +1,18 @@
+{
+  "domain": "worldwiselearningadventures.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.worldwiselearningadventures.org/",
+      "contentHash": "394d9536e6709947a18da230e38cc43817a4b13249d90a6a818c42506c8cc464",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://www.worldwiselearningadventures.org",
+      "contentHash": "394d9536e6709947a18da230e38cc43817a4b13249d90a6a818c42506c8cc464",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

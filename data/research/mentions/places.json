@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:26:08.497Z",
+  "updatedAt": "2026-06-15T16:36:11.384Z",
   "places": [
     {
       "placeId": "bansko--bg",
@@ -28,7 +28,8 @@
         101.6942371
       ],
       "aliases": [
-        "Kuala Lumpur"
+        "Kuala Lumpur",
+        "Peninsular Malaysia"
       ],
       "existingHubIds": [
         "bliss-hubs-kuala-lumpur",
@@ -48,7 +49,9 @@
       ],
       "aliases": [
         "Chiang Mai",
-        "Nimman"
+        "Nimman",
+        "Nimmanhaemin",
+        "Santitham"
       ],
       "existingHubIds": [
         "chiang-mai"
@@ -605,7 +608,8 @@
         -2.2924853
       ],
       "aliases": [
-        "Oria"
+        "Oria",
+        "Oria, Andalucia"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -632,7 +636,8 @@
         37.3435249
       ],
       "aliases": [
-        "Moshi"
+        "Moshi",
+        "Moshi, Kilimanjaro"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -663,7 +668,8 @@
       ],
       "aliases": [
         "Muizenberg",
-        "Noordhoek"
+        "Noordhoek",
+        "Noordhoek, Cape Town"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -798,7 +804,9 @@
         -99.1514678
       ],
       "aliases": [
-        "Mexico"
+        "Ciudad de México",
+        "Mexico",
+        "Mexico City"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1144,7 +1152,8 @@
         -90.7337346
       ],
       "aliases": [
-        "Antigua"
+        "Antigua",
+        "Antigua Guatemala"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1220,7 +1229,8 @@
         115.2605838
       ],
       "aliases": [
-        "Sanur"
+        "Sanur",
+        "Sanur, Bali"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1265,11 +1275,12 @@
         99.0572888
       ],
       "aliases": [
-        "Ko Lanta"
+        "Ko Lanta",
+        "Ko Lanta, Krabi"
       ],
       "existingHubIds": [
-        "koh-lanta",
-        "bliss-hubs-koh-lanta"
+        "bliss-hubs-koh-lanta",
+        "koh-lanta"
       ],
       "firstSeen": "2026-06-15"
     },
@@ -1340,7 +1351,8 @@
         -75.6054129
       ],
       "aliases": [
-        "Chinchiná"
+        "Chinchiná",
+        "Chinchiná, Caldas"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1383,7 +1395,10 @@
       ],
       "aliases": [
         "Green School, Bali",
-        "Ubud"
+        "Ubud",
+        "Ubud (Mas)",
+        "Ubud, Bali",
+        "Ubud, Gianyar, Bali"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1455,7 +1470,8 @@
         -87.0809021
       ],
       "aliases": [
-        "Playa del Carmen"
+        "Playa del Carmen",
+        "Playa del Carmen, Quintana Roo"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1590,7 +1606,9 @@
         -91.186161
       ],
       "aliases": [
-        "Lake Atitlan"
+        "Lago de Atitlán",
+        "Lake Atitlan",
+        "Lake Atitlán"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -1702,6 +1720,1393 @@
       "coords": null,
       "aliases": [
         "Castelo Branco region (Spirela Eco Village)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "antiguo-cuscatl-n--sv",
+      "canonicalName": "Antiguo Cuscatlán",
+      "country": "El Salvador",
+      "cc": "sv",
+      "coords": [
+        13.673328,
+        -89.2416068
+      ],
+      "aliases": [
+        "Antiguo Cuscatlán",
+        "Antiguo Cuscatlán, La Libertad"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "valle-gran-rey-la-gomera--xx",
+      "canonicalName": "Valle Gran Rey, La Gomera",
+      "country": "Spain",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Valle Gran Rey, La Gomera"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "tuscany--it",
+      "canonicalName": "Tuscany",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        43.4586541,
+        11.1389204
+      ],
+      "aliases": [
+        "Tuscany"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "kamakura--jp",
+      "canonicalName": "Kamakura",
+      "country": "Japan",
+      "cc": "jp",
+      "coords": [
+        35.3192808,
+        139.5469627
+      ],
+      "aliases": [
+        "Kamakura"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "caribbean-coast--ni",
+      "canonicalName": "Caribbean coast",
+      "country": "Nicaragua",
+      "cc": "ni",
+      "coords": [
+        12.0112724,
+        -83.7618054
+      ],
+      "aliases": [
+        "Caribbean coast"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "lake-garda--it",
+      "canonicalName": "Lake Garda",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        45.6624314,
+        10.6861569
+      ],
+      "aliases": [
+        "Lake Garda"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "bornholm--dk",
+      "canonicalName": "Bornholm",
+      "country": "Denmark",
+      "cc": "dk",
+      "coords": [
+        55.1431224,
+        14.9226297
+      ],
+      "aliases": [
+        "Bornholm"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "algarve--pt",
+      "canonicalName": "Algarve",
+      "country": "Portugal",
+      "cc": "pt",
+      "coords": [
+        37.2449218,
+        -8.1959563
+      ],
+      "aliases": [
+        "Algarve"
+      ],
+      "existingHubIds": [
+        "algarve-worldschooling-hub-naturally-riche"
+      ],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "pasiego-valleys-cantabria--xx",
+      "canonicalName": "Pasiego Valleys, Cantabria",
+      "country": "Spain",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Pasiego Valleys, Cantabria"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "nosara--cr",
+      "canonicalName": "Nosara",
+      "country": "Costa Rica",
+      "cc": "cr",
+      "coords": [
+        9.9783661,
+        -85.6279024
+      ],
+      "aliases": [
+        "Nosara"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "san-juan-la-laguna--gt",
+      "canonicalName": "San Juan La Laguna",
+      "country": "Guatemala",
+      "cc": "gt",
+      "coords": [
+        14.6709938,
+        -91.3051395
+      ],
+      "aliases": [
+        "San Juan La Laguna"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "lake-atitl-n-region--xx",
+      "canonicalName": "Lake Atitlán region",
+      "country": "Guatemala",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Lake Atitlán region"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "budapest--hu",
+      "canonicalName": "Budapest",
+      "country": "Hungary",
+      "cc": "hu",
+      "coords": [
+        47.4978789,
+        19.0402383
+      ],
+      "aliases": [
+        "Budapest"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sucre--bo",
+      "canonicalName": "Sucre",
+      "country": "Bolivia",
+      "cc": "bo",
+      "coords": [
+        -19.0477251,
+        -65.2594306
+      ],
+      "aliases": [
+        "Sucre"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "upper-hutt-mangaroa-farms--xx",
+      "canonicalName": "Upper Hutt (Mangaroa Farms)",
+      "country": "New Zealand",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Upper Hutt (Mangaroa Farms)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "granada--es",
+      "canonicalName": "Granada",
+      "country": "Spain",
+      "cc": "es",
+      "coords": [
+        37.1734995,
+        -3.5995337
+      ],
+      "aliases": [
+        "Granada"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "tamarindo--cr",
+      "canonicalName": "Tamarindo",
+      "country": "Costa Rica",
+      "cc": "cr",
+      "coords": [
+        10.2984121,
+        -85.8399505
+      ],
+      "aliases": [
+        "Tamarindo"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "huacas--cr",
+      "canonicalName": "Huacas",
+      "country": "Costa Rica",
+      "cc": "cr",
+      "coords": [
+        10.0225427,
+        -85.3648121
+      ],
+      "aliases": [
+        "Huacas"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "seychelles--sc",
+      "canonicalName": "Seychelles",
+      "country": "Seychelles",
+      "cc": "sc",
+      "coords": [
+        -4.6742625,
+        55.5212004
+      ],
+      "aliases": [
+        "Seychelles"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "madagascar--mg",
+      "canonicalName": "Madagascar",
+      "country": "Madagascar",
+      "cc": "mg",
+      "coords": [
+        -18.7791487,
+        46.7121716
+      ],
+      "aliases": [
+        "Madagascar"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "south-africa--za",
+      "canonicalName": "South Africa",
+      "country": "South Africa",
+      "cc": "za",
+      "coords": [
+        -46.7775733,
+        37.7910321
+      ],
+      "aliases": [
+        "South Africa"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "namibia--na",
+      "canonicalName": "Namibia",
+      "country": "Namibia",
+      "cc": "na",
+      "coords": [
+        -24.9095034,
+        15.3320118
+      ],
+      "aliases": [
+        "Namibia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "brazil--nl",
+      "canonicalName": "Brazil",
+      "country": "Aruba",
+      "cc": "nl",
+      "coords": [
+        12.449018,
+        -69.920319
+      ],
+      "aliases": [
+        "Brazil"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "caribbean-martinique-to-bahamas--xx",
+      "canonicalName": "Caribbean (Martinique to Bahamas)",
+      "country": "Caribbean",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Caribbean (Martinique to Bahamas)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "san-blas--pa",
+      "canonicalName": "San Blas",
+      "country": "Panama",
+      "cc": "pa",
+      "coords": [
+        9.1875975,
+        -77.8713723
+      ],
+      "aliases": [
+        "San Blas"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "galapagos--ec",
+      "canonicalName": "Galapagos",
+      "country": "Ecuador",
+      "cc": "ec",
+      "coords": [
+        -0.0606899,
+        -90.673898
+      ],
+      "aliases": [
+        "Galapagos"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "hawaii--us",
+      "canonicalName": "Hawaii",
+      "country": "United States",
+      "cc": "us",
+      "coords": [
+        19.5938015,
+        -155.4283701
+      ],
+      "aliases": [
+        "Hawaii"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "alaska--us",
+      "canonicalName": "Alaska",
+      "country": "United States",
+      "cc": "us",
+      "coords": [
+        64.4459613,
+        -149.680909
+      ],
+      "aliases": [
+        "Alaska"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "british-columbia-tofino--ca",
+      "canonicalName": "British Columbia / Tofino",
+      "country": "Canada",
+      "cc": "ca",
+      "coords": [
+        49.1541145,
+        -125.9027031
+      ],
+      "aliases": [
+        "British Columbia / Tofino"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "baja-sea-of-cortez--xx",
+      "canonicalName": "Baja / Sea of Cortez",
+      "country": "Mexico",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Baja / Sea of Cortez"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "french-polynesia-tahiti-tuamotus--xx",
+      "canonicalName": "French Polynesia / Tahiti / Tuamotus",
+      "country": "French Polynesia",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "French Polynesia / Tahiti / Tuamotus"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "tulum--mx",
+      "canonicalName": "Tulum",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        20.429647,
+        -87.6529306
+      ],
+      "aliases": [
+        "Tulum"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "puerto-vallarta--mx",
+      "canonicalName": "Puerto Vallarta",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        20.6407176,
+        -105.220306
+      ],
+      "aliases": [
+        "Puerto Vallarta"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "m-rida--mx",
+      "canonicalName": "Mérida",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        20.9670759,
+        -89.6237402
+      ],
+      "aliases": [
+        "Mérida"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "transylvania--ro",
+      "canonicalName": "Transylvania",
+      "country": "Romania",
+      "cc": "ro",
+      "coords": [
+        46.5971623,
+        24.3740295
+      ],
+      "aliases": [
+        "Transylvania"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "el-puerto-de-santa-mar-a--es",
+      "canonicalName": "El Puerto de Santa María",
+      "country": "Spain",
+      "cc": "es",
+      "coords": [
+        36.6004006,
+        -6.2252702
+      ],
+      "aliases": [
+        "El Puerto de Santa María"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "ourika-valley-belhouane--xx",
+      "canonicalName": "Ourika Valley (Belhouane)",
+      "country": "Morocco",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Ourika Valley (Belhouane)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "la-belle-verte-between-marrakech-and-the-m--xx",
+      "canonicalName": "La Belle Verte (between Marrakech and the mountains)",
+      "country": "Morocco",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "La Belle Verte (between Marrakech and the mountains)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sardinia-east-coast--xx",
+      "canonicalName": "Sardinia, East Coast",
+      "country": "Italy",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Sardinia, East Coast"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "slovakia--sk",
+      "canonicalName": "Slovakia",
+      "country": "Slovakia",
+      "cc": "sk",
+      "coords": [
+        48.1534392,
+        17.1151016
+      ],
+      "aliases": [
+        "Slovakia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "high-tatras--sk",
+      "canonicalName": "High Tatras",
+      "country": "Slovakia",
+      "cc": "sk",
+      "coords": [
+        49.1193647,
+        20.0589292
+      ],
+      "aliases": [
+        "High Tatras"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "bansk-tiavnica--sk",
+      "canonicalName": "Banská Štiavnica",
+      "country": "Slovakia",
+      "cc": "sk",
+      "coords": [
+        48.4580926,
+        18.8988414
+      ],
+      "aliases": [
+        "Banská Štiavnica"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sardinia--it",
+      "canonicalName": "Sardinia",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        40.0912813,
+        9.0305773
+      ],
+      "aliases": [
+        "Sardinia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sacred-valley--pe",
+      "canonicalName": "Sacred Valley",
+      "country": "Peru",
+      "cc": "pe",
+      "coords": [
+        -13.3593912,
+        -72.0152012
+      ],
+      "aliases": [
+        "Sacred Valley"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "juana-vicenta-saman--do",
+      "canonicalName": "Juana Vicenta, Samaná",
+      "country": "Dominican Republic",
+      "cc": "do",
+      "coords": [
+        19.2352423,
+        -69.4176219
+      ],
+      "aliases": [
+        "Juana Vicenta, Samaná"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "fort-dauphin-t-lagnaro--mg",
+      "canonicalName": "Fort Dauphin (Tôlagnaro)",
+      "country": "Madagascar",
+      "cc": "mg",
+      "coords": [
+        -25.0267477,
+        46.9920046
+      ],
+      "aliases": [
+        "Fort Dauphin (Tôlagnaro)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "selong-belanak--id",
+      "canonicalName": "Selong Belanak",
+      "country": "Indonesia",
+      "cc": "id",
+      "coords": [
+        -8.8832436,
+        116.1662714
+      ],
+      "aliases": [
+        "Selong Belanak"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "kampot--kh",
+      "canonicalName": "Kampot",
+      "country": "Cambodia",
+      "cc": "kh",
+      "coords": [
+        10.6314754,
+        104.132637
+      ],
+      "aliases": [
+        "Kampot"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "koh-rong--kh",
+      "canonicalName": "Koh Rong",
+      "country": "Cambodia",
+      "cc": "kh",
+      "coords": [
+        10.715676,
+        103.2473427
+      ],
+      "aliases": [
+        "Koh Rong"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "essaouira--ma",
+      "canonicalName": "Essaouira",
+      "country": "Morocco",
+      "cc": "ma",
+      "coords": [
+        31.5118281,
+        -9.7620903
+      ],
+      "aliases": [
+        "Essaouira"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "valle-laghi-brenta-dolomiti-region--xx",
+      "canonicalName": "Valle Laghi, Brenta Dolomiti region",
+      "country": "Italy",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Valle Laghi, Brenta Dolomiti region"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "lago-di-garda-valley--xx",
+      "canonicalName": "Lago di Garda valley",
+      "country": "Italy",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Lago di Garda valley"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "rural-cambodia--kh",
+      "canonicalName": "Rural Cambodia",
+      "country": "Cambodia",
+      "cc": "kh",
+      "coords": [
+        11.5414284,
+        104.8836201
+      ],
+      "aliases": [
+        "Rural Cambodia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "hakuba-mura-nagano--jp",
+      "canonicalName": "Hakuba Mura, Nagano",
+      "country": "Japan",
+      "cc": "jp",
+      "coords": [
+        36.6981042,
+        137.862068
+      ],
+      "aliases": [
+        "Hakuba Mura, Nagano"
+      ],
+      "existingHubIds": [
+        "hakuba-international-term-year"
+      ],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "fuerteventura--es",
+      "canonicalName": "Fuerteventura",
+      "country": "Spain",
+      "cc": "es",
+      "coords": [
+        28.4003769,
+        -14.0048697
+      ],
+      "aliases": [
+        "Fuerteventura"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "gran-canaria--es",
+      "canonicalName": "Gran Canaria",
+      "country": "Spain",
+      "cc": "es",
+      "coords": [
+        27.9580004,
+        -15.6062305
+      ],
+      "aliases": [
+        "Gran Canaria"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "la-gomera--es",
+      "canonicalName": "La Gomera",
+      "country": "Spain",
+      "cc": "es",
+      "coords": [
+        28.1192356,
+        -17.2257471
+      ],
+      "aliases": [
+        "La Gomera"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sibiu-hermannstadt--ro",
+      "canonicalName": "Sibiu (Hermannstadt)",
+      "country": "Romania",
+      "cc": "ro",
+      "coords": [
+        45.7915978,
+        24.2085943
+      ],
+      "aliases": [
+        "Sibiu",
+        "Sibiu (Hermannstadt)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "utrecht-bruges--xx",
+      "canonicalName": "Utrecht / Bruges",
+      "country": "Netherlands / Belgium",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Utrecht / Bruges"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "porto-cesareo--it",
+      "canonicalName": "Porto Cesareo",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        40.262824,
+        17.898418
+      ],
+      "aliases": [
+        "Porto Cesareo"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "cast-lo-de-vide--pt",
+      "canonicalName": "Castêlo de Vide",
+      "country": "Portugal",
+      "cc": "pt",
+      "coords": [
+        39.4152274,
+        -7.4554188
+      ],
+      "aliases": [
+        "Castêlo de Vide"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "castiglione-del-lago--it",
+      "canonicalName": "Castiglione del Lago",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        43.127155,
+        12.0452096
+      ],
+      "aliases": [
+        "Castiglione del Lago"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "saint-honor-les-bains--fr",
+      "canonicalName": "Saint-Honoré-les-Bains",
+      "country": "France",
+      "cc": "fr",
+      "coords": [
+        46.9056018,
+        3.8406827
+      ],
+      "aliases": [
+        "Saint-Honoré-les-Bains"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "sereca--ro",
+      "canonicalName": "Sereca",
+      "country": "Romania",
+      "cc": "ro",
+      "coords": [
+        45.7817806,
+        23.1826101
+      ],
+      "aliases": [
+        "Sereca"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "bj-rkn-s--se",
+      "canonicalName": "Björknäs",
+      "country": "Sweden",
+      "cc": "se",
+      "coords": [
+        59.7552685,
+        18.863273
+      ],
+      "aliases": [
+        "Björknäs"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "staffordshire--gb",
+      "canonicalName": "Staffordshire",
+      "country": "United Kingdom",
+      "cc": "gb",
+      "coords": [
+        52.8246942,
+        -2.0074547
+      ],
+      "aliases": [
+        "Staffordshire"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "kas--tr",
+      "canonicalName": "Kas",
+      "country": "Turkey",
+      "cc": "tr",
+      "coords": [
+        36.1993752,
+        29.6413365
+      ],
+      "aliases": [
+        "Kas"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "ek-balam--mx",
+      "canonicalName": "Ek Balam",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        20.12324,
+        -89.064956
+      ],
+      "aliases": [
+        "Ek Balam"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "tipperary--ie",
+      "canonicalName": "Tipperary",
+      "country": "Ireland",
+      "cc": "ie",
+      "coords": [
+        52.4734839,
+        -8.1614446
+      ],
+      "aliases": [
+        "Tipperary"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "hang-dong--th",
+      "canonicalName": "Hang Dong",
+      "country": "Thailand",
+      "cc": "th",
+      "coords": [
+        18.6856866,
+        98.9192218
+      ],
+      "aliases": [
+        "Hang Dong"
+      ],
+      "existingHubIds": [
+        "chiang-mai"
+      ],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "ericeira--pt",
+      "canonicalName": "Ericeira",
+      "country": "Portugal",
+      "cc": "pt",
+      "coords": [
+        38.9632411,
+        -9.4170802
+      ],
+      "aliases": [
+        "Ericeira"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "raub-pahang--my",
+      "canonicalName": "Raub, Pahang",
+      "country": "Malaysia",
+      "cc": "my",
+      "coords": [
+        3.8843564,
+        101.7920275
+      ],
+      "aliases": [
+        "Raub, Pahang"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "fraser-hills-pahang--my",
+      "canonicalName": "Fraser Hills, Pahang",
+      "country": "Malaysia",
+      "cc": "my",
+      "coords": [
+        3.7168219,
+        101.7517032
+      ],
+      "aliases": [
+        "Fraser Hills, Pahang"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "borneo--my",
+      "canonicalName": "Borneo",
+      "country": "Malaysia",
+      "cc": "my",
+      "coords": [
+        1.4297828,
+        113.7090522
+      ],
+      "aliases": [
+        "Borneo"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "indonesia--id",
+      "canonicalName": "Indonesia",
+      "country": "Indonesia",
+      "cc": "id",
+      "coords": [
+        -6.1726007,
+        106.8785732
+      ],
+      "aliases": [
+        "Indonesia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "austrian-mountains--xx",
+      "canonicalName": "Austrian mountains",
+      "country": "Austria",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Austrian mountains"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "austrian-ski-region--xx",
+      "canonicalName": "Austrian ski region",
+      "country": "Austria",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Austrian ski region"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "san-francisco--us",
+      "canonicalName": "San Francisco",
+      "country": "United States",
+      "cc": "us",
+      "coords": [
+        37.7879363,
+        -122.4075201
+      ],
+      "aliases": [
+        "San Francisco"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "mendocino--us",
+      "canonicalName": "Mendocino",
+      "country": "United States",
+      "cc": "us",
+      "coords": [
+        39.3176491,
+        -123.4126399
+      ],
+      "aliases": [
+        "Mendocino",
+        "Mendocino, California"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "warsaw--pl",
+      "canonicalName": "Warsaw",
+      "country": "Poland",
+      "cc": "pl",
+      "coords": [
+        52.2319581,
+        21.0067249
+      ],
+      "aliases": [
+        "Warsaw"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "austin--us",
+      "canonicalName": "Austin",
+      "country": "United States",
+      "cc": "us",
+      "coords": [
+        30.2711286,
+        -97.7436995
+      ],
+      "aliases": [
+        "Austin"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "vienna--at",
+      "canonicalName": "Vienna",
+      "country": "Austria",
+      "cc": "at",
+      "coords": [
+        48.2083537,
+        16.3725042
+      ],
+      "aliases": [
+        "Vienna"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "dresden--de",
+      "canonicalName": "Dresden",
+      "country": "Germany",
+      "cc": "de",
+      "coords": [
+        51.0493286,
+        13.7381437
+      ],
+      "aliases": [
+        "Dresden"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "luang-prabang--la",
+      "canonicalName": "Luang Prabang",
+      "country": "Laos",
+      "cc": "la",
+      "coords": [
+        19.8887438,
+        102.135898
+      ],
+      "aliases": [
+        "Luang Prabang"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "liverpool--gb",
+      "canonicalName": "Liverpool",
+      "country": "United Kingdom",
+      "cc": "gb",
+      "coords": [
+        53.3933411,
+        -2.9166389
+      ],
+      "aliases": [
+        "Liverpool"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "cuenca--ec",
+      "canonicalName": "Cuenca",
+      "country": "Ecuador",
+      "cc": "ec",
+      "coords": [
+        -2.8974072,
+        -79.0041726
+      ],
+      "aliases": [
+        "Cuenca"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "osaka--jp",
+      "canonicalName": "Osaka",
+      "country": "Japan",
+      "cc": "jp",
+      "coords": [
+        34.6937569,
+        135.5014539
+      ],
+      "aliases": [
+        "Osaka"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "buenos-aires--ar",
+      "canonicalName": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "ar",
+      "coords": [
+        -34.6095579,
+        -58.3887904
+      ],
+      "aliases": [
+        "Buenos Aires"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "mj-vatn--no",
+      "canonicalName": "Mjåvatn",
+      "country": "Norway",
+      "cc": "no",
+      "coords": [
+        58.6643678,
+        8.1635708
+      ],
+      "aliases": [
+        "Mjåvatn"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "upper-hutt-wellington--nz",
+      "canonicalName": "Upper Hutt, Wellington",
+      "country": "New Zealand",
+      "cc": "nz",
+      "coords": [
+        -41.1240674,
+        175.0699589
+      ],
+      "aliases": [
+        "Mangaroa, Upper Hutt, Wellington",
+        "Upper Hutt, Wellington"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "talamanca-canton-lim-n--cr",
+      "canonicalName": "Talamanca Canton, Limón",
+      "country": "Costa Rica",
+      "cc": "cr",
+      "coords": [
+        9.599629,
+        -82.8162332
+      ],
+      "aliases": [
+        "Talamanca Canton, Limón"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "utrecht--nl",
+      "canonicalName": "Utrecht",
+      "country": "Netherlands",
+      "cc": "nl",
+      "coords": [
+        52.0907006,
+        5.1215634
+      ],
+      "aliases": [
+        "Utrecht"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "lagodekhi-kakheti--ge",
+      "canonicalName": "Lagodekhi, Kakheti",
+      "country": "Georgia",
+      "cc": "ge",
+      "coords": [
+        41.8242785,
+        46.2738235
+      ],
+      "aliases": [
+        "Lagodekhi, Kakheti"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "bad-gastein-salzburg--at",
+      "canonicalName": "Bad Gastein, Salzburg",
+      "country": "Austria",
+      "cc": "at",
+      "coords": [
+        47.0871124,
+        13.160853
+      ],
+      "aliases": [
+        "Bad Gastein, Salzburg"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "pe-tera-moieciu-bra-ov--xx",
+      "canonicalName": "Peștera, Moieciu, Brașov",
+      "country": "Romania",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Peștera, Moieciu, Brașov"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"

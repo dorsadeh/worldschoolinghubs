@@ -1,0 +1,28 @@
+{
+  "domain": "silvermistacademy.co.za",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://silvermistacademy.co.za/",
+      "contentHash": "8dcd6411b4c9bf8962d179dcb4e0d733dbf0c336d96d51106303b29655764753",
+      "placeMentions": [
+        {
+          "place": "Cape Town",
+          "country": "South Africa",
+          "snippet": "Adventure School in Cape Town welcomes worldschoolers and homeschoolers — city life, local communities, and outdoor adventures.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://elite-ed.com", "anchor": "Elite Ed" },
+        { "url": "https://upschool.co", "anchor": "Upschool" },
+        { "url": "https://nomadness.africa", "anchor": "NomadNess Africa" },
+        { "url": "https://boswa.co.za", "anchor": "Boswa Survival" },
+        { "url": "https://ready4learning.co.nz", "anchor": "Ready 4 Learning" },
+        { "url": "https://cambrilearn.com", "anchor": "Cambrilearn" },
+        { "url": "https://leadershipinpictures.com", "anchor": "Leadership in Pictures" }
+      ]
+    }
+  ]
+}

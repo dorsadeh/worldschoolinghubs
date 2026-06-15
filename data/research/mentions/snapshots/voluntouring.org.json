@@ -1,0 +1,66 @@
+{
+  "domain": "voluntouring.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "contentHash": "ebefe48cc6c67847e854ec12b0f076acd08eddefe5a5bdd670897348897e964f",
+      "placeMentions": [
+        {
+          "place": "Kas",
+          "country": "Turkey",
+          "snippet": "Hub where worldschooling families gather and base themselves.",
+          "nestingClaim": true,
+          "asOfDate": "2021-11"
+        },
+        {
+          "place": "Ek Balam",
+          "country": "Mexico",
+          "snippet": "Spanish language immersion experience in Yucatec-Maya village for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2021-11"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "School open to local families and world-schoolers as a community gathering point.",
+          "nestingClaim": true,
+          "asOfDate": "2021-11"
+        },
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Learning hub for families looking to attend 6-week educational immersion sessions.",
+          "nestingClaim": true,
+          "asOfDate": "2021-11"
+        },
+        {
+          "place": "Nosara",
+          "country": "Costa Rica",
+          "snippet": "Community centred on wellness, health, family, nature for intentional living — worldschooling families base here.",
+          "nestingClaim": false,
+          "asOfDate": "2021-11"
+        },
+        {
+          "place": "Tipperary",
+          "country": "Ireland",
+          "snippet": "Ecovillage with diverse group of people creating innovative community; draws worldschooling families.",
+          "nestingClaim": false,
+          "asOfDate": "2021-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.domainefraser.org/", "anchor": "Domaine Fraser" },
+        { "url": "https://campstompingground.org/", "anchor": "Stomping Ground camp" },
+        { "url": "https://www.333village.org/", "anchor": "3ndless 3arth 3covillage" },
+        { "url": "https://avalongardens.org/", "anchor": "Avalon Organic Gardens & Ecovillage" },
+        { "url": "https://www.twinoakscommunity.org/", "anchor": "Twin Oaks community" },
+        { "url": "https://www.pachamama.com", "anchor": "Pachamama eco-community" },
+        { "url": "https://stmichaelscr.com", "anchor": "St. Michael's sustainable community" },
+        { "url": "https://ranchomastatal.com", "anchor": "Rancho Mastatal Eco Lodge" },
+        { "url": "https://www.tribodar.com/", "anchor": "Tribodar (Portugal)" },
+        { "url": "https://krisnavolgy.hu", "anchor": "Krishna Valley (Hungary)" }
+      ]
+    }
+  ]
+}

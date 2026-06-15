@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:26:08.497Z",
+  "updatedAt": "2026-06-15T16:36:11.384Z",
   "mentions": [
     {
       "placeId": "bansko--bg",
@@ -2119,6 +2119,1866 @@
       "snippet": "Multicultural ecological community — 20 residents, rotating visitors staying months to years; explicit long-term family nesting",
       "nestingClaim": true,
       "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antiguo-cuscatl-n--sv",
+      "domain": "actonacademyelsalvador.com",
+      "kind": "hub-site",
+      "url": "http://www.actonacademyelsalvador.com/worldschool-hub",
+      "snippet": "For families looking for structure, community and real-world learning: just the right mix of culture, adventure and stability.",
+      "nestingClaim": true,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "moshi--tz",
+      "domain": "amanilight.com",
+      "kind": "hub-site",
+      "url": "https://www.amanilight.com/worldschool",
+      "snippet": "We live in Tanzania and want to share our lives with you! Together we have curated a 3–4 week learning experience for the whole family.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "antiguaworldschool.com",
+      "kind": "hub-site",
+      "url": "https://www.antiguaworldschool.com",
+      "snippet": "Antigua Global Explorers Worldschool opened to the worldschool scene in Antigua Guatemala since November 2024.",
+      "nestingClaim": true,
+      "date": "2024-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valle-gran-rey-la-gomera--xx",
+      "domain": "blattwerk-natur.de",
+      "kind": "hub-site",
+      "url": "https://blattwerk-natur.de/worldschooling-hub-2025/",
+      "snippet": "\"Alegría\" center on La Gomera, Valle Gran Rey — seminar venue, coworking space, cultural and meeting centre for families, groups and individual work.",
+      "nestingClaim": true,
+      "date": "2025-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "snippet": "organic worldschooling hub based on the beautiful, family-friendly island of Koh Lanta",
+      "nestingClaim": true,
+      "date": "2026-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "snippet": "attended the Kuala Lumpur Bliss Hub further down the line",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sanur--id",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "url": "https://blissinvestor.com",
+      "snippet": "After that we went to Sanur in Bali. We met more families and felt that Bliss feeling again.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "snippet": "We have been to Pai, Koh Lanta and Kuala Lumpur",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "blissinvestor.com",
+      "kind": "hub-site",
+      "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/",
+      "snippet": "some of whom we'll likely see again in Portugal",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sintra--pt",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Finnish-inspired education programme runs five days a week for families basing themselves in Sintra",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "syros--gr",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Permanent Boundless Life hub on Syros offering structured education and community for families staying 1–12 months",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tuscany--it",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Boundless Life location in Tuscany offering 1–12 month stays for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "estepona--es",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Community aspect, families supporting families and kids forming friendships in Estepona",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kotor--me",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Boundless Life permanent hub in Kotor for extended family stays",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Permanent Boundless Life location in Bali for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-barra--uy",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Boundless Life programme with structured education in La Barra, Uruguay",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kamakura--jp",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Boundless Life permanent hub location in Kamakura for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cabrera--do",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Permanent school in Cabrera that accepts short-term worldschoolers in six-week sessions",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "muizenberg--za",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Hub in Noordhoek offering education, skills workshops, excursions for worldschooling families ages 5–16",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Culture and community hubs in Oaxaca with drop-off activities for worldschooling families",
+      "nestingClaim": true,
+      "date": "2026",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Deliberate Detour programme in Cusco offering safe, structured, creative environment for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lake-atitlan--gt",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "11-day cultural and language immersion programmes at Lago de Atitlán for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hvar--hr",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Hvar combines island exploration with group learning for worldschooling families in summer/autumn sessions",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "caribbean-coast--ni",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Nature-based hub on Costa Rica's Caribbean coast with cultural immersion and local experiences in two-week blocks",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lake-garda--it",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Exploring Families gathering at Lake Garda, space for connection and spontaneous plans for worldschooling families",
+      "nestingClaim": true,
+      "date": "2026-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bornholm--dk",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Community gathering hub on Bornholm for worldschooling families, already sold out for 2026",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "algarve--pt",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Worldschooling hub in the Algarve with optional daily meetups including beach days, hikes, arts and crafts",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pasiego-valleys-cantabria--xx",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Combines worldschooling with co-living in rural, nature-rich Pasiego Valleys; families gather April & November 2026",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "moshi--tz",
+      "domain": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+      "snippet": "Worldschooling hub in Moshi combining yoga, mindfulness, and cultural immersion for families; Feb, June, July 2026",
+      "nestingClaim": true,
+      "date": "2026-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "chiangmaikidsclub.com",
+      "kind": "directory",
+      "url": "https://www.chiangmaikidsclub.com/worldschooling-hub-chiangmai",
+      "snippet": "Chiang Mai has quietly become one of the most popular places in Asia for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "cicerolearning.com",
+      "kind": "directory",
+      "url": "https://cicerolearning.com/worldschooling-hubs-school-from-anywhere/",
+      "snippet": "has quickly gained popularity as a hub for skiing...coupled with a supportive community of fellow traveling families",
+      "nestingClaim": true,
+      "date": "2023-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "nosara--cr",
+      "domain": "cicerolearning.com",
+      "kind": "directory",
+      "url": "https://cicerolearning.com/worldschooling-hubs-school-from-anywhere/",
+      "snippet": "HomeSchool Beach Worldschooling Hub in Nosara, Costa Rica...a family of diverse and like-minded learners who come from all over",
+      "nestingClaim": true,
+      "date": "2023-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cabrera--do",
+      "domain": "cicerolearning.com",
+      "kind": "directory",
+      "url": "https://cicerolearning.com/worldschooling-hubs-school-from-anywhere/",
+      "snippet": "The Hive...programs are built around seventeen UN Sustainable Development Goals...perfect place for developing inner sense of safety and belonging",
+      "nestingClaim": true,
+      "date": "2023-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-juan-la-laguna--gt",
+      "domain": "culturechalk.org",
+      "kind": "hub-site",
+      "url": "https://www.culturechalk.org",
+      "snippet": "Culture Chalk at San Juan La Laguna. Everyone there made it such a special time for my son and me, along with the other 'Widows in Wild with kids' group",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lake-atitl-n-region--xx",
+      "domain": "culturechalk.org",
+      "kind": "hub-site",
+      "url": "https://www.culturechalk.org",
+      "snippet": "see the beauty of Lake Atitlán and the community through planned activities such as tuk-tuk tours, learning about bees, cacao, and weaving",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "url": "https://www.deliberatedetour.com",
+      "snippet": "Discover a richly woven culture shining through cuisine, craft, weaving, parades, and dance — immersive 2-week and family programs run June–August and Oct–Nov.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "url": "https://www.deliberatedetour.com",
+      "snippet": "Dive into a magical place blending traditions, nature, culinary delights, and stunning landscapes — immersive programs run July–August.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "budapest--hu",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "url": "https://www.deliberatedetour.com",
+      "snippet": "Experience the magnificent 'Pearl of the Danube' along with its folkloric past and nearby village life — immersive programs run June–October.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "london--gb",
+      "domain": "deliberatedetour.com",
+      "kind": "hub-site",
+      "url": "https://www.deliberatedetour.com",
+      "snippet": "Become fascinated by hidden corners, green spaces, and quirky gems along with world-famous British sites — custom programs only.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sucre--bo",
+      "domain": "destinationlesstravel.com",
+      "kind": "hub-site",
+      "url": "https://destinationlesstravel.com/sucre-spanish-school/",
+      "snippet": "There is a huge population of travelers learning Spanish in Sucre. Because people generally stay longer, you can form really good friendships.",
+      "nestingClaim": false,
+      "date": "2023-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "upper-hutt-mangaroa-farms--xx",
+      "domain": "earthschool.nz",
+      "kind": "hub-site",
+      "url": "https://www.earthschool.nz/worldschooling/",
+      "snippet": "Based at Mangaroa Farms, this pathway is designed for families staying for one or more months.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "granada--es",
+      "domain": "escuela-montalban.com",
+      "kind": "hub-site",
+      "url": "https://www.escuela-montalban.com/en/courses/spanish-for-families.php",
+      "snippet": "Parents and teenagers can spend their language holidays with us in Andalusia, southern Spain.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "futurehumanschoolbali.com",
+      "kind": "hub-site",
+      "url": "https://www.futurehumanschoolbali.com/",
+      "snippet": "An exciting new, progressive, purpose-driven school for 9-16 year olds in Mas, Ubud...serving globally mobile families who've chosen to live beyond their home countries",
+      "nestingClaim": true,
+      "date": "2026",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tamarindo--cr",
+      "domain": "gccckids.com",
+      "kind": "hub-site",
+      "url": "https://www.gccckids.com",
+      "snippet": "Costa Rica's premier worldschooling hub for traveling families and digital nomads. Flexible Montessori inspired education, instant community connection, and nature-immersive learning in Tamarindo.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "huacas--cr",
+      "domain": "gccckids.com",
+      "kind": "hub-site",
+      "url": "https://www.gccckids.com",
+      "snippet": "Located in Huacas, Costa Rica — the heart of Guanacaste's worldschooling community",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "seychelles--sc",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Starting in Seychelles in early 2024, we sailed Nesi...hosting visiting families",
+      "nestingClaim": true,
+      "date": "2024-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "madagascar--mg",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Sailed to Madagascar...hosting visiting families & adventurous travelers",
+      "nestingClaim": true,
+      "date": "2024",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "south-africa--za",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Visited South Africa...hosting visiting families & adventurous travelers",
+      "nestingClaim": true,
+      "date": "2024",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "namibia--na",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Visited Namibia...hosting visiting families & adventurous travelers",
+      "nestingClaim": true,
+      "date": "2024",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "brazil--nl",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Across the Atlantic Ocean to Brazil enroute to Caribbean...hosting visiting families",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "caribbean-martinique-to-bahamas--xx",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "We're sailing from Martinique to Virgin Islands...up to Bahamas — hosting visiting families",
+      "nestingClaim": true,
+      "date": "2026-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-blas--pa",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "San Blas roundtrip...Highlights: San Blas diving & kiting — visiting family trips",
+      "nestingClaim": true,
+      "date": "2026-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "galapagos--ec",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Come visit Galapagos with us in affordable 4 day port stays or expedition style 9 day boat trips",
+      "nestingClaim": true,
+      "date": "2027-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hawaii--us",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "We'll be in Hawaii for the year. Experience the Hawaiian islands...like you've never seen them before",
+      "nestingClaim": true,
+      "date": "2027",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "alaska--us",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Sail north to central Alaska during summertime...incredible glaciers, epic landscapes",
+      "nestingClaim": true,
+      "date": "2028",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "british-columbia-tofino--ca",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Head south...to British Columbia until Tofino by late summer — hosting visiting families",
+      "nestingClaim": true,
+      "date": "2028",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "baja-sea-of-cortez--xx",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "After a few trips in Sea of Cortez — family visits planned in Baja region",
+      "nestingClaim": true,
+      "date": "2029",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "french-polynesia-tahiti-tuamotus--xx",
+      "domain": "greencoco.org",
+      "kind": "hub-site",
+      "url": "https://www.greencoco.org",
+      "snippet": "Operated mostly in Tahiti & Tuamotus atolls during these 5 years; we'll head across the Pacific to our beloved French Polynesia",
+      "nestingClaim": true,
+      "date": "2019",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "se ha consolidado como uno de los hubs de worldschooling más activos de México y América Latina",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "playa-del-carmen--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "atraen familias nómadas de todo el mundo, muchas con hijos en edad escolar",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tulum--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "Tulum mentioned alongside Playa del Carmen as attracting nomadic families with school-age children",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "otro imán para familias que buscan inmersión cultural profunda",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mexico--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "una base atractiva para worldschoolers que prefieren la ciudad",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "puerto-vallarta--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "Listed as an active worldschooling hub in Mexico",
+      "nestingClaim": false,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "m-rida--mx",
+      "domain": "homeschool.com.mx",
+      "kind": "directory",
+      "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+      "snippet": "Mentioned as a safe destination for worldschooling families",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "transylvania--ro",
+      "domain": "insideromania.ro",
+      "kind": "hub-site",
+      "url": "https://insideromania.ro/worldschool",
+      "snippet": "month-long Worldschool community experience in the heart of the Carpathian Mountains",
+      "nestingClaim": true,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "el-puerto-de-santa-mar-a--es",
+      "domain": "luminaedu.org",
+      "kind": "hub-site",
+      "url": "https://www.luminaedu.org",
+      "snippet": "Waldorf-based school directing and pedagogical coordination located in El Puerto de Santa María — summer camps, international day programs for families.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ourika-valley-belhouane--xx",
+      "domain": "md-worldschoolmorocco.com",
+      "kind": "hub-site",
+      "url": "https://www.md-worldschoolmorocco.com",
+      "snippet": "community space for Worldschooling families...educational hub and village, a home away from home nestled in the breathtaking Ourika valley",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-belle-verte-between-marrakech-and-the-m--xx",
+      "domain": "md-worldschoolmorocco.com",
+      "kind": "hub-site",
+      "url": "https://www.md-worldschoolmorocco.com",
+      "snippet": "the home schooling community LA BELLE VERTE in farm fields between Marrakech and the mountains",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sardinia-east-coast--xx",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://www.naturallyricher.com/hub-sardinia",
+      "snippet": "3 weeks of gentle living at a peaceful campsite on Sardinia's east coast, tucked between whispering pines and the turquoise sea.",
+      "nestingClaim": true,
+      "date": "2026-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "algarve--pt",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://naturallyricher.com",
+      "snippet": "HUB - ALGARVE PORTUGAL — worldschool hub with registration for connecting with like-minded homeschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "slovakia--sk",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://naturallyricher.com",
+      "snippet": "HUB - SLOVAKIA — worldschool hub for families with an adventurous spirit seeking seasonal gatherings",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "high-tatras--sk",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://www.naturallyricher.com/hubslovakia",
+      "snippet": "Spend an unforgettable week surrounded by the breathtaking beauty of the High Tatras, where adventure, connection, and relaxation come together for families.",
+      "nestingClaim": true,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansk-tiavnica--sk",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://www.naturallyricher.com/hubslovakia",
+      "snippet": "Two unforgettable weeks in the heart of Slovakia, surrounded by lakes, forests, and rich traditions; families coordinate daily meetups.",
+      "nestingClaim": true,
+      "date": "2026-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sardinia--it",
+      "domain": "naturallyricher.com",
+      "kind": "hub-site",
+      "url": "https://naturallyricher.com",
+      "snippet": "HUB - SARDINIA — worldschool hub for families on Sardinia's east coast",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "krabi--th",
+      "domain": "naturemind-ed.com",
+      "kind": "hub-site",
+      "url": "https://naturemind-ed.com/experiences/worldschooling/",
+      "snippet": "10 day eco-adventure community for worldschooling families in Krabi, Thailand",
+      "nestingClaim": true,
+      "date": "2026-04-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "panyaforest.com",
+      "kind": "hub-site",
+      "url": "https://panyaforest.com",
+      "snippet": "Panya Forest welcomes worldschoolers, unschoolers, homeschoolers and life-long learners of all ages — ongoing community gathering place near Chiang Mai.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sacred-valley--pe",
+      "domain": "sacredrootshub.base44.app",
+      "kind": "hub-site",
+      "url": "https://sacredrootshub.base44.app/",
+      "snippet": "A home for families who learn, travel & grow together in Peru's Sacred Valley.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "juana-vicenta-saman--do",
+      "domain": "samanainternationalacademy.com",
+      "kind": "hub-site",
+      "url": "https://www.samanainternationalacademy.com/",
+      "snippet": "Rigorous, faith-based education in a vibrant outdoor learning environment in Juana Vicenta, Samaná — a unique alternative for expat families.",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lake-atitlan--gt",
+      "domain": "sanpedrospanishschool.com",
+      "kind": "hub-site",
+      "url": "https://sanpedrospanishschool.com/spanish-for-kids/",
+      "snippet": "Spanish Course for Kids and Families is not just a course; it is an immersive adventure. Together with your family, discover Spanish while delving into the rich Guatemalan culture.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fort-dauphin-t-lagnaro--mg",
+      "domain": "sekolykintana.org",
+      "kind": "hub-site",
+      "url": "https://sekolykintana.org/",
+      "snippet": "Sekoly Kintana est une école Montessori trilingue à Fort Dauphin, pour les enfants de 3 à 15 ans — welcomes familles malgaches, familles mixtes, familles internationales",
+      "nestingClaim": false,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "selong-belanak--id",
+      "domain": "selongbayschool.com",
+      "kind": "hub-site",
+      "url": "https://www.selongbayschool.com",
+      "snippet": "\"The community of parents that's here, is what makes this place special\" - World Schooling Family",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kampot--kh",
+      "domain": "shantivillage.com",
+      "kind": "hub-site",
+      "url": "https://shantivillage.com",
+      "snippet": "Join our riverside hub in Kampot for nature play, connection, local adventures, and meaningful experiences for traveling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-rong--kh",
+      "domain": "shantivillage.com",
+      "kind": "hub-site",
+      "url": "https://shantivillage.com/worldschooling/",
+      "snippet": "gentle island continuation of our Kampot hub — designed for slowing down, integrating experiences, and deepening connection as a family",
+      "nestingClaim": true,
+      "date": "2026-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oria--es",
+      "domain": "shepherdsrest.org",
+      "kind": "hub-site",
+      "url": "https://shepherdsrest.org/",
+      "snippet": "Rural Worldschool Community offering accommodation where families stay to connect and take a break from travelling",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cape-town--za",
+      "domain": "silvermistacademy.co.za",
+      "kind": "hub-site",
+      "url": "https://silvermistacademy.co.za/",
+      "snippet": "Adventure School in Cape Town welcomes worldschoolers and homeschoolers — city life, local communities, and outdoor adventures.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "spanishacademyantiguena.com",
+      "kind": "hub-site",
+      "url": "https://www.spanishacademyantiguena.com/",
+      "snippet": "A city full of tradition, color, culture and history — classes for kids and adults from many parts of the world.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "essaouira--ma",
+      "domain": "tazgha.com",
+      "kind": "hub-site",
+      "url": "https://www.tazgha.com",
+      "snippet": "Exclusive 10-room villa in Essaouira, Morocco — sleeps 20, with private chef, airport transfers. Worldschooling program link referenced on site.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valle-laghi-brenta-dolomiti-region--xx",
+      "domain": "thegoodlifemountainclub.com",
+      "kind": "hub-site",
+      "url": "https://www.thegoodlifemountainclub.com/basecamp",
+      "snippet": "Nestled at the base of the Brenta Dolomiti...Base Camp...for homeschool, worldschool families...June through September",
+      "nestingClaim": true,
+      "date": "2026",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lago-di-garda-valley--xx",
+      "domain": "thegoodlifemountainclub.com",
+      "kind": "hub-site",
+      "url": "https://www.thegoodlifemountainclub.com/basecamp",
+      "snippet": "Located near the base camp hub as a destination for family gatherings and lake-based community activities",
+      "nestingClaim": true,
+      "date": "2026",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "rural-cambodia--kh",
+      "domain": "theredroadfoundation.org",
+      "kind": "hub-site",
+      "url": "https://theredroadfoundation.org/sustainable-development-volunteer-program-in-cambodia/leadership-in-sustainable-development-internship/",
+      "snippet": "Experiential family travel education through service learning, sustainable development, and cross-cultural community living in rural Cambodia.",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/",
+      "snippet": "\"The Creative World\" hub offering long-term stays with school/alternative education and independent community options for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2025-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hakuba-mura-nagano--jp",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/",
+      "snippet": "International school accepting homeschool families for short or long-term enrollment in mountain setting.",
+      "nestingClaim": true,
+      "date": "2025-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/",
+      "snippet": "\"EGYPTIAN ADVENTURES\" hub with long-term stays and activity-inclusive programs for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2025-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/",
+      "snippet": "Farm-based hub with organised programming, activities, and outdoor learning for multiple age groups of worldschooling families.",
+      "nestingClaim": true,
+      "date": "2024-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "dominican-republic--do",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/",
+      "snippet": "\"The Hive\" offering 6-week adventures focused on SDG learning with nervous system regulation and emotional skills training for families.",
+      "nestingClaim": true,
+      "date": "2024-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fuerteventura--es",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/",
+      "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+      "nestingClaim": true,
+      "date": "2024-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "gran-canaria--es",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/",
+      "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+      "nestingClaim": true,
+      "date": "2024-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tenerife--es",
+      "domain": "theworldschoolatlas.com",
+      "kind": "directory",
+      "url": "https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/",
+      "snippet": "gather with more worldschooler families in an informal but with a nice itinerary provided by locals",
+      "nestingClaim": true,
+      "date": "2024-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "treehousebansko.com",
+      "kind": "hub-site",
+      "url": "https://treehousebansko.com/summit2026/",
+      "snippet": "a rare ecosystem where you no longer have to choose between a comfortable, modern life and a deep connection to the wild — international hub for those who already travel, vibrant community of worldschoolers and nomads",
+      "nestingClaim": true,
+      "date": "2026-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-gomera--es",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "cultural and meeting place for people of all ages...circle of free and travelling families",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sibiu-hermannstadt--ro",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "week-long gathering for traveling families to explore Sibiu",
+      "nestingClaim": true,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "utrecht-bruges--xx",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "spending some time together with other homeschooling and travelling families in Utrecht and Bruges",
+      "nestingClaim": true,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bornholm--dk",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "spending some time together with other homeschooling families on Bornholm",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "porto-cesareo--it",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "An- und Abreise jederzeit möglich; community fire circles — recurring seasonal gathering for travelling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-herradura--es",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "Weekly Worldschooling Meet-Up on beaches in La Herradura (Andalucía) — recurring Friday gatherings",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cast-lo-de-vide--pt",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "Portugal AutumnCamp — gathering for worldschooling and homeschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "castiglione-del-lago--it",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "S-COOL weekend — Italian homeschooling family gathering in Castiglione del Lago",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "saint-honor-les-bains--fr",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "French LED'A gathering — family education freedom festival at Saint-Honoré-les-Bains",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sereca--ro",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "Romania International Free-Learning Festival in Sereca — gathering of worldschooling and free-learning families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bj-rkn-s--se",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "Swedish worldschooling hub at Björknäs Camping — gathering of homeschooling and travelling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "staffordshire--gb",
+      "domain": "vagabundenliebe.de",
+      "kind": "directory",
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "snippet": "English HEFF festival in Staffordshire — gathering of home-educating families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valencia--es",
+      "domain": "valenciaforestschool.es",
+      "kind": "hub-site",
+      "url": "https://valenciaforestschool.es",
+      "snippet": "En la Play School también acogemos a worldschoolers de 3 a 12 años que están en Valencia de forma temporal.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kas--tr",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "Hub where worldschooling families gather and base themselves.",
+      "nestingClaim": true,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ek-balam--mx",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "Spanish language immersion experience in Yucatec-Maya village for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cabrera--do",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "School open to local families and world-schoolers as a community gathering point.",
+      "nestingClaim": true,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "Learning hub for families looking to attend 6-week educational immersion sessions.",
+      "nestingClaim": true,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "nosara--cr",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "Community centred on wellness, health, family, nature for intentional living — worldschooling families base here.",
+      "nestingClaim": false,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tipperary--ie",
+      "domain": "voluntouring.org",
+      "kind": "directory",
+      "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+      "snippet": "Ecovillage with diverse group of people creating innovative community; draws worldschooling families.",
+      "nestingClaim": false,
+      "date": "2021-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "playa-del-carmen--mx",
+      "domain": "wildrootsworldschool.com",
+      "kind": "hub-site",
+      "url": "https://www.wildrootsworldschool.com",
+      "snippet": "Wild Roots Worldschool Summer Camp — Playa del Carmen. Beach days. Cenotes. Marine life. Bare feet.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mexico--mx",
+      "domain": "wildrootsworldschool.com",
+      "kind": "hub-site",
+      "url": "https://www.wildrootsworldschool.com",
+      "snippet": "We're heading to Mexico City next week... If your family joined us for a 2-week Mexico City experience in mid-August.",
+      "nestingClaim": true,
+      "date": "2026-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "woodschoolbali.com",
+      "kind": "hub-site",
+      "url": "https://woodschoolbali.com/",
+      "snippet": "Worldschooling in Bali? See our short-stay options (1–5 weeks) — explicitly marketing to worldschooling families using Bali as a flexible seasonal base.",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Chiang Mai has been a favourite for nomadic families for well over a decade. It's safe, welcoming, and remarkably affordable.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hang-dong--th",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/family-friendly-guide-to-living-in-chiang-mai-thailand-for-digital-nomads/",
+      "snippet": "Ideal for families wanting a house with space. Many gated communities and international schools",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valencia--es",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/family-friendly-guide-to-living-in-chiang-mai-thailand-for-digital-nomads/",
+      "snippet": "Valencia Is One of the Best Places for Digital Nomad Families in 2026",
+      "nestingClaim": true,
+      "date": "2026",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Ubud is widely considered the worldschooling capital of the world. It has one of the largest, most connected family communities",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thailand--th",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "You will find a more urban worldschooling experience in Bangkok. Elate is a structured hub based in the city",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kampot--kh",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Shanti Shanti in Kampot draws families who prefer a slower, riverside pace. It's popular with longer-stay worldschoolers",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "goa--in",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Worldschooling Hub Goa serves families in one of India's most beloved coastal states.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Lisbon has a strong nomad community, progressive home education laws, and superb internet infrastructure.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Deliberate Detour runs one of the most acclaimed worldschooling programs in Oaxaca. Small groups of up to 16 children",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Worldschool Mexico launched in 2025 in San Miguel de Allende. It offers month-long and semester-based programs",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Deliberate Detour also runs its Signature Immersion program in Cusco, Peru, with optional family excursions",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "medell-n--co",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Medellín also has a growing informal community of nomadic families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "essaouira--ma",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Tazgha Hub: Community hub in the beautiful coastal city of Essaouira.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Antigua Global Explorers Worldschool opened 2024 and already earning a strong reputation. Permanent hub in Antigua.",
+      "nestingClaim": true,
+      "date": "2024",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Bliss Hubs Koh Lanta: Popular slow-travel community base for longer-stay families in Southern Thailand.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "syros--gr",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Boundless Life operates a beautiful hub on the island of Syros.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tuscany--it",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Boundless Life Tuscany: Full hub experience in the heart of the Italian countryside.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Arctic Terns Bansko: Pop-up hub based in Bulgaria's mountain town of Bansko.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Egyptian Adventures — The Hub Project: One of the most established community hubs in the region",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ericeira--pt",
+      "domain": "worldlytribe.com",
+      "kind": "directory",
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "snippet": "Ericeira, just north of Lisbon, is a favourite for surf families with a growing hub presence.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "worldschoolantigua.com",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolantigua.com",
+      "snippet": "Worldschool Antigua Guatemala — worldschooling hub in central america. Local and traveling hub for worldschooling families to gather.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "raub-pahang--my",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "based in a dedicated location in Raub, Pahang, Malaysia with 8-week nomadic worldschooling program",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fraser-hills-pahang--my",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "exploring nature in Fraser Hills Raub Pahang as part of the nomadic worldschooling hub program",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "WFS program travels across Peninsular and Borneo Malaysia, Thailand, and Indonesia",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "borneo--my",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "Peninsular and Borneo Malaysia, Thailand, and Indonesia listed as WFS destinations",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thailand--th",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "WFS program operates across multiple hubs in Malaysia, Thailand, and Indonesia",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "indonesia--id",
+      "domain": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "url": "https://www.worldschoolinghub.my/",
+      "snippet": "WFS program operates across multiple hubs in Malaysia, Thailand, and Indonesia",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "austrian-mountains--xx",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+      "snippet": "September Austrian Mountain Fall Retreat — group trip for homeschooling/worldschooling families in the Austrian mountains.",
+      "nestingClaim": false,
+      "date": "2026-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "austrian-ski-region--xx",
+      "domain": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+      "snippet": "December Austrian Skiing & Christmas Markets Retreat — group trip for homeschooling/worldschooling families.",
+      "nestingClaim": false,
+      "date": "2026-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-francisco--us",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "temporary, mobile, week-long gatherings designed to bring worldschoolers together",
+      "nestingClaim": false,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sibiu-hermannstadt--ro",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mendocino--us",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "warsaw--pl",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "austin--us",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "vienna--at",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "dresden--de",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luang-prabang--la",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "liverpool--gb",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cuenca--ec",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "london--gb",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "osaka--jp",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cape-town--za",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "buenos-aires--ar",
+      "domain": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "url": "https://worldschoolpopuphub.com",
+      "snippet": "Pop-up worldschool community gathering",
+      "nestingClaim": false,
+      "date": "2026-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mj-vatn--no",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Norway Worldschool Hub — community-type hub, 30-day duration for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antiguo-cuscatl-n--sv",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com",
+      "snippet": "Worldschool Pop Up El Salvador — pop-up hub, 21 days for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "moshi--tz",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com",
+      "snippet": "Worldschooling Tanzania — coliving hub, 21 days, worldschooling families gather here.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "upper-hutt-wellington--nz",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com",
+      "snippet": "Earth School Aotearoa — permanent hub, 14-day programs for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "talamanca-canton-lim-n--cr",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com",
+      "snippet": "Cacao Coast CR — pop-up hub, 20 days, educational experiences for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chinchin--co",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Minga House Worldschooling — permanent hub, 30-day stays at $370, families gather here.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "utrecht--nl",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Worldschool Gathering the Netherlands — pop-up, 14 days for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Egyptian Adventures — permanent hub, 30-day duration for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kampot--kh",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Shanti Shanti Kampot Worldschooling Hub Meetup — permanent hub for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Treehouse Summit — 5-day family gathering and worldschooling conference in Bansko.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lagodekhi-kakheti--ge",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Ecovillage Georgia — 10-day camp for worldschooling families at $300.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Project Worldschool — Peru Retreat, pop-up 15-day gathering for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bad-gastein-salzburg--at",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Austrian Mountain Fall Retreat — pop-up, 14-day worldschooling family retreat.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Oaxaca Pop-Up — 6-day worldschooling program for families gathering in Oaxaca.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mendocino--us",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Mendocino Pop-Up — 7-day worldschooling family gathering in Mendocino.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pe-tera-moieciu-bra-ov--xx",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Inside Romania — pop-up, 30-day family-focused worldschooling activities.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ko-lanta--th",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Global Classroom Project — full-term school, 60-day worldschooling hub for families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "playa-del-carmen--mx",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Wildroots Worldschool — 5-day camp for worldschooling families in Playa del Carmen.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Antigua Global Explorers (AGE) — permanent hub rated 5.0, families gather and base here.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mirleft--ma",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hubs/",
+      "snippet": "Mirleft Cultural Cove — permanent 7-day hub for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "worldschooly.com",
+      "kind": "directory",
+      "url": "https://worldschooly.com/hub/we-are-tribe/",
+      "snippet": "Families enjoy the serenity of Bali while building lasting memories. Flexible offerings designed to accommodate worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
       "addedAt": "2026-06-15"
     }
   ]

@@ -1,0 +1,20 @@
+{
+  "domain": "futurehumanschoolbali.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.futurehumanschoolbali.com/",
+      "contentHash": "813b0baa20658dd71669a99dd637df5494d0ab5b0faab7705b37cfba6f3308e4",
+      "placeMentions": [
+        {
+          "place": "Ubud (Mas)",
+          "country": "Indonesia",
+          "snippet": "An exciting new, progressive, purpose-driven school for 9-16 year olds in Mas, Ubud...serving globally mobile families who've chosen to live beyond their home countries",
+          "nestingClaim": true,
+          "asOfDate": "2026"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

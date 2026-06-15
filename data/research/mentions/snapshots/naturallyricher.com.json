@@ -1,0 +1,106 @@
+{
+  "domain": "naturallyricher.com",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://www.naturallyricher.com/hub-sardinia",
+      "contentHash": "09ecc11af89f9268ed1bae9feca75f564749acea13801e617edf4a69b6387aa6",
+      "placeMentions": [
+        {
+          "place": "Sardinia, East Coast",
+          "country": "Italy",
+          "snippet": "3 weeks of gentle living at a peaceful campsite on Sardinia's east coast, tucked between whispering pines and the turquoise sea.",
+          "nestingClaim": true,
+          "asOfDate": "2026-09"
+        },
+        {
+          "place": "Algarve",
+          "country": "Portugal",
+          "snippet": "HUB - ALGARVE PORTUGAL listed as a dedicated worldschool hub for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Slovakia",
+          "country": "Slovakia",
+          "snippet": "HUB - SLOVAKIA listed as a worldschool hub for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.calapineta.it", "anchor": "Calapineta Campsite" },
+        { "url": "https://booking.myguestcare.com/.eshop?idcliente=calapinetacamping", "anchor": "Villaggio Camping Calapineta reservation" }
+      ]
+    },
+    {
+      "url": "https://www.naturallyricher.com/hubslovakia",
+      "contentHash": "3940d21b5cce9a7fcc5402a47c963447071d65dac24997b6d94541be450a4439",
+      "placeMentions": [
+        {
+          "place": "High Tatras",
+          "country": "Slovakia",
+          "snippet": "Spend an unforgettable week surrounded by the breathtaking beauty of the High Tatras, where adventure, connection, and relaxation come together for families.",
+          "nestingClaim": true,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Banská Štiavnica",
+          "country": "Slovakia",
+          "snippet": "Two unforgettable weeks in the heart of Slovakia, surrounded by lakes, forests, and rich traditions; families coordinate daily meetups.",
+          "nestingClaim": true,
+          "asOfDate": "2026-08"
+        },
+        {
+          "place": "Algarve",
+          "country": "Portugal",
+          "snippet": "HUB - ALGARVE PORTUGAL listed as a dedicated worldschool hub for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sardinia",
+          "country": "Italy",
+          "snippet": "HUB - SARDINIA listed as a worldschool hub for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://tatragolf.sk/", "anchor": "Tatragolf Resort" },
+        { "url": "https://www.booking.com/searchresults.html", "anchor": "booking.com" },
+        { "url": "https://www.megaubytovanie.sk/banska-stiavnica", "anchor": "megaubytovanie.sk" },
+        { "url": "https://www.hauzi.sk/banska-stiavnica/", "anchor": "hauzi.sk" },
+        { "url": "https://www.discovercars.com/", "anchor": "discovercars.com" }
+      ]
+    },
+    {
+      "url": "https://naturallyricher.com",
+      "contentHash": "7d971bb0e17fbeb9f8eec157860236d081794ab76d8dc8ec0a248c1126081973",
+      "placeMentions": [
+        {
+          "place": "Algarve",
+          "country": "Portugal",
+          "snippet": "HUB - ALGARVE PORTUGAL — worldschool hub with registration for connecting with like-minded homeschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Slovakia",
+          "country": "Slovakia",
+          "snippet": "HUB - SLOVAKIA — worldschool hub for families with an adventurous spirit seeking seasonal gatherings",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sardinia",
+          "country": "Italy",
+          "snippet": "HUB - SARDINIA — worldschool hub for families on Sardinia's east coast",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

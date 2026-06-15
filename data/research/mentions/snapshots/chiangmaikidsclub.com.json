@@ -1,0 +1,22 @@
+{
+  "domain": "chiangmaikidsclub.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.chiangmaikidsclub.com/worldschooling-hub-chiangmai",
+      "contentHash": "e26920835da1d378d6c8735c76cfe223dca927467beb7dd9713a69a9cd2d4d95",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Chiang Mai has quietly become one of the most popular places in Asia for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://maps.app.goo.gl/Meku8Ho82rqbPZ7D9", "anchor": "Find us" }
+      ]
+    }
+  ]
+}

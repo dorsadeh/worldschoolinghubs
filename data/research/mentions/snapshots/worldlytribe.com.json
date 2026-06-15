@@ -1,0 +1,263 @@
+{
+  "domain": "worldlytribe.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://worldlytribe.com/family-friendly-guide-to-living-in-chiang-mai-thailand-for-digital-nomads/",
+      "contentHash": "704c06a11c7c377cc04a77dc8c82395f4b108046cead6206f1896a0ef9480e63",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "evolved into a thriving hub for digital nomad families seeking a vibrant, cost-effective lifestyle",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Nimmanhaemin",
+          "country": "Thailand",
+          "snippet": "Trendy and modern, Nimman is the heart of Chiang Mai's digital nomad scene",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Santitham",
+          "country": "Thailand",
+          "snippet": "Just north of Nimman, Santitham offers a more local feel while still being close to the action",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hang Dong",
+          "country": "Thailand",
+          "snippet": "Ideal for families wanting a house with space. Many gated communities and international schools",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "Valencia Is One of the Best Places for Digital Nomad Families in 2026",
+          "nestingClaim": true,
+          "asOfDate": "2026"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.altcoliving.com/alt-chiangmai/",
+          "anchor": "Alt_ChiangMai"
+        }
+      ]
+    },
+    {
+      "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+      "contentHash": "ce8377c678c8d24a15caaf878ef8a4e3ab82c7509f89ba6484cc169ddc2e5d1a",
+      "placeMentions": [
+        {
+          "place": "Ubud, Bali",
+          "country": "Indonesia",
+          "snippet": "Ubud is widely considered the worldschooling capital of the world. It has one of the largest, most connected family communities",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Chiang Mai has been a favourite for nomadic families for well over a decade. It's safe, welcoming, and remarkably affordable.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bangkok",
+          "country": "Thailand",
+          "snippet": "You will find a more urban worldschooling experience in Bangkok. Elate is a structured hub based in the city",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kampot",
+          "country": "Cambodia",
+          "snippet": "Shanti Shanti in Kampot draws families who prefer a slower, riverside pace. It's popular with longer-stay worldschoolers",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Goa",
+          "country": "India",
+          "snippet": "Worldschooling Hub Goa serves families in one of India's most beloved coastal states.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lisbon",
+          "country": "Portugal",
+          "snippet": "Lisbon has a strong nomad community, progressive home education laws, and superb internet infrastructure.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Deliberate Detour runs one of the most acclaimed worldschooling programs in Oaxaca. Small groups of up to 16 children",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "Worldschool Mexico launched in 2025 in San Miguel de Allende. It offers month-long and semester-based programs",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Deliberate Detour also runs its Signature Immersion program in Cusco, Peru, with optional family excursions",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Medellín",
+          "country": "Colombia",
+          "snippet": "Medellín also has a growing informal community of nomadic families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Essaouira",
+          "country": "Morocco",
+          "snippet": "Tazgha Hub: Community hub in the beautiful coastal city of Essaouira.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Antigua",
+          "country": "Guatemala",
+          "snippet": "Antigua Global Explorers Worldschool opened 2024 and already earning a strong reputation. Permanent hub in Antigua.",
+          "nestingClaim": true,
+          "asOfDate": "2024"
+        },
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Bliss Hubs Koh Lanta: Popular slow-travel community base for longer-stay families in Southern Thailand.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Syros",
+          "country": "Greece",
+          "snippet": "Boundless Life operates a beautiful hub on the island of Syros.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Tuscany",
+          "country": "Italy",
+          "snippet": "Boundless Life Tuscany: Full hub experience in the heart of the Italian countryside.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Arctic Terns Bansko: Pop-up hub based in Bulgaria's mountain town of Bansko.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Egyptian Adventures — The Hub Project: One of the most established community hubs in the region",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Ericeira",
+          "country": "Portugal",
+          "snippet": "Ericeira, just north of Lisbon, is a favourite for surf families with a growing hub presence.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.boundless.life",
+          "anchor": "Boundless Life"
+        },
+        {
+          "url": "https://www.worldschoolpopuphub.com",
+          "anchor": "World School Pop Up Hub"
+        },
+        {
+          "url": "https://www.projectworldschool.com",
+          "anchor": "Project World School"
+        },
+        {
+          "url": "https://deliberatedetour.com",
+          "anchor": "Deliberate Detour"
+        },
+        {
+          "url": "https://www.blissinvestor.com",
+          "anchor": "Bliss Hubs"
+        },
+        {
+          "url": "https://trips.everyavenue.com",
+          "anchor": "Worldschooling Journeys"
+        },
+        {
+          "url": "https://www.outsidetheboxadventures.com",
+          "anchor": "Outside the Box Adventures"
+        },
+        {
+          "url": "https://www.dreambigtravels.com.au",
+          "anchor": "Dream Big Travels"
+        },
+        {
+          "url": "https://www.unschooladventures.com",
+          "anchor": "Unschool Adventures"
+        },
+        {
+          "url": "https://www.arcticterns.global",
+          "anchor": "Arctic Terns"
+        },
+        {
+          "url": "https://www.theworld.school",
+          "anchor": "The World School"
+        },
+        {
+          "url": "https://worldschooly.com",
+          "anchor": "Worldschooly"
+        },
+        {
+          "url": "https://theworldschoolatlas.com",
+          "anchor": "Worldschool Atlas"
+        },
+        {
+          "url": "https://www.greenschool.org",
+          "anchor": "Green School Bali"
+        },
+        {
+          "url": "https://www.wonderschool.cc",
+          "anchor": "Wonder Intercultural School"
+        },
+        {
+          "url": "https://www.worldschoolinghubgoa.com",
+          "anchor": "Worldschooling Hub Goa"
+        },
+        {
+          "url": "https://www.questcommunity.in",
+          "anchor": "Quest Community"
+        },
+        {
+          "url": "https://www.elateth.com",
+          "anchor": "Elate"
+        },
+        {
+          "url": "https://www.ourlandthailand.com",
+          "anchor": "Our Land Thailand"
+        }
+      ]
+    }
+  ]
+}

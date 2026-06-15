@@ -1,0 +1,29 @@
+{
+  "domain": "luminaedu.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.luminaedu.org",
+      "contentHash": "d3e0fca42992c6c1d576fdbcd59175a56d5e72d30fa73e3014c73c7760dbc1e8",
+      "placeMentions": [
+        {
+          "place": "El Puerto de Santa María",
+          "country": "Spain",
+          "snippet": "Waldorf-based school directing and pedagogical coordination located in El Puerto de Santa María — summer camps, international day programs for families.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gibraltar_Wave_F.C._Ladies",
+          "anchor": "Gibraltar Wave F.C. Ladies"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-gontier-b0ba6a18/",
+          "anchor": "LinkedIn profile"
+        }
+      ]
+    }
+  ]
+}

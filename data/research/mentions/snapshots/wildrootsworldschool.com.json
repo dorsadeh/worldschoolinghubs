@@ -1,0 +1,30 @@
+{
+  "domain": "wildrootsworldschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.wildrootsworldschool.com",
+      "contentHash": "7d45be51ec1590b9716b825a5b2aa753ecb2cb63d027014525627e89d898dd3a",
+      "placeMentions": [
+        {
+          "place": "Playa del Carmen",
+          "country": "Mexico",
+          "snippet": "Wild Roots Worldschool Summer Camp — Playa del Carmen. Beach days. Cenotes. Marine life. Bare feet.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Mexico City",
+          "country": "Mexico",
+          "snippet": "We're heading to Mexico City next week... If your family joined us for a 2-week Mexico City experience in mid-August.",
+          "nestingClaim": true,
+          "asOfDate": "2026-08"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://form.jotform.com/242938854513869", "anchor": "Enroll Now" },
+        { "url": "https://big-click-energy.com/", "anchor": "BigClickEnergy" }
+      ]
+    }
+  ]
+}

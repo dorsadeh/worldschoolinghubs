@@ -1,0 +1,17 @@
+{
+  "domain": "hakuba-is.jp",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.hakuba-is.jp/",
+      "contentHash": "799b64e4894aa403db472d0afdbd770fa0ed9a0a0cd8da51a4ce1dcb6f8eb92e",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://docs.google.com/forms/d/e/1FAIpQLScnje7-kvuDGhKb6fdrpuyI9LQ4tMkH9s0WAT_t_4JfHL7lUQ/viewform", "anchor": "Apply" },
+        { "url": "https://hakubahospitalitygroup.com/", "anchor": "Hakuba Hospitality Group" },
+        { "url": "https://spicy.co.jp/en/", "anchor": "Spicy" },
+        { "url": "https://rhythmjapan.com/", "anchor": "Rhythm Japan" }
+      ]
+    }
+  ]
+}

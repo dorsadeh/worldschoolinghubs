@@ -1,0 +1,48 @@
+{
+  "domain": "gccckids.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.gccckids.com",
+      "contentHash": "364e080bc05af1906685c80c2ef4fd9624d91495c2c3b12f0ebbc83a13a5dd64",
+      "placeMentions": [
+        {
+          "place": "Tamarindo",
+          "country": "Costa Rica",
+          "snippet": "Costa Rica's premier worldschooling hub for traveling families and digital nomads. Flexible Montessori inspired education, instant community connection, and nature-immersive learning in Tamarindo.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Huacas",
+          "country": "Costa Rica",
+          "snippet": "Located in Huacas, Costa Rica — the heart of Guanacaste's worldschooling community",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://halfwayhometamarindo.com/",
+          "anchor": "Halfway Home Tamarindo community partner logo worldschooling Costa Rica"
+        },
+        {
+          "url": "https://www.thecleanwave.org/",
+          "anchor": "The Clean Wave community partner logo worldschooling Costa Rica"
+        },
+        {
+          "url": "https://www.amigosofcostarica.org/affiliates/asociacion-alimentando-corazones",
+          "anchor": "Alimentando Corazones community partner logo worldschooling Costa Rica"
+        },
+        {
+          "url": "https://www.hopeacrossborders.com/projects/",
+          "anchor": "Learn More - Support Our Mission"
+        },
+        {
+          "url": "https://www.bridgetohopemedia.com",
+          "anchor": "Bridge to Hope Media"
+        }
+      ]
+    }
+  ]
+}

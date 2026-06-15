@@ -1,0 +1,52 @@
+{
+  "domain": "worldschoolingjourneys.com",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+      "contentHash": "831d131f814ac34710b244cfdd99dd6c8176b7a651692c0acbf736ad8b1de202",
+      "placeMentions": [
+        {
+          "place": "Austrian mountains",
+          "country": "Austria",
+          "snippet": "September Austrian Mountain Fall Retreat — group trip for homeschooling/worldschooling families in the Austrian mountains.",
+          "nestingClaim": false,
+          "asOfDate": "2026-09"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+      "contentHash": "e8255352c632e9121b8dd936f01b08bb989d6a9d6fdf38de15d61ab776fb15e3",
+      "placeMentions": [
+        {
+          "place": "Austrian ski region",
+          "country": "Austria",
+          "snippet": "December Austrian Skiing & Christmas Markets Retreat — group trip for homeschooling/worldschooling families.",
+          "nestingClaim": false,
+          "asOfDate": "2026-12"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/",
+      "contentHash": "55903a36acab5c7dcfac0a0dc54aee185c1ca565e88dd74219890178499e4a44",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
+      "contentHash": "a33598c64759baa2f998e09995363d06e35a2b88b1b20d249e22dc856aaf6fed",
+      "placeMentions": [],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://worldschoolingjourneys.com",
+      "contentHash": "f5e2c55a56e5344019f208998a78d840160232fa3c70fdeaba4a9b25c2f77b4e",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

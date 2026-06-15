@@ -1,0 +1,20 @@
+{
+  "domain": "shepherdsrest.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://shepherdsrest.org/",
+      "contentHash": "d645630c3a87d3e80cfc36d3b14c67746e368a96bc2a38b066057a31fc8349e2",
+      "placeMentions": [
+        {
+          "place": "Oria, Andalucia",
+          "country": "Spain",
+          "snippet": "Rural Worldschool Community offering accommodation where families stay to connect and take a break from travelling",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

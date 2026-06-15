@@ -1,0 +1,19 @@
+{
+  "domain": "thefutureiswise.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://thefutureiswise.com",
+      "contentHash": "41e9b81cfc7d3b19c664d2ead1b076a2f672199ea8b65937b78c858ebf029acd",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://thefutureiswise.com/about-us/", "anchor": "About Us" },
+        { "url": "https://thefutureiswise.com/our-vision/", "anchor": "Mission & Vision" },
+        { "url": "https://thefutureiswise.com/curriculum/", "anchor": "Pedagogy" },
+        { "url": "https://thefutureiswise.com/calendar/", "anchor": "Calendar" },
+        { "url": "https://thefutureiswise.com/contact/", "anchor": "Contact" },
+        { "url": "https://thefutureiswise.com/jobs-volunteering/", "anchor": "Jobs/Volunteering" }
+      ]
+    }
+  ]
+}

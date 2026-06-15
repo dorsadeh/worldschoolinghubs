@@ -1,0 +1,14 @@
+{
+  "domain": "ecovillagegeorgia.ge",
+  "extractedAt": "2026-06-15T16:29:58Z",
+  "pages": [
+    {
+      "url": "https://ecovillagegeorgia.ge/summercamp/",
+      "contentHash": "a794a16b01c39e889963c12420f33913eb127021083af87a6ac29d1ce0f2f361",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDMh91NL5FNz9LCGK8SEDV8WXuqEGVY9YY94aLqhTkN5OyYw/viewform", "anchor": "Book a Place" }
+      ]
+    }
+  ]
+}

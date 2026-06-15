@@ -1,0 +1,154 @@
+{
+  "domain": "vagabundenliebe.de",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+      "contentHash": "73ab10fadc98514ab4c9a1d4d03d3c170adc0e2f6c3c53d2adc7221683de2d11",
+      "placeMentions": [
+        {
+          "place": "La Gomera",
+          "country": "Spain",
+          "snippet": "cultural and meeting place for people of all ages...circle of free and travelling families",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Sibiu (Hermannstadt)",
+          "country": "Romania",
+          "snippet": "week-long gathering for traveling families to explore Sibiu",
+          "nestingClaim": true,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Utrecht / Bruges",
+          "country": "Netherlands / Belgium",
+          "snippet": "spending some time together with other homeschooling and travelling families in Utrecht and Bruges",
+          "nestingClaim": true,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Bornholm",
+          "country": "Denmark",
+          "snippet": "spending some time together with other homeschooling families on Bornholm",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "Porto Cesareo",
+          "country": "Italy",
+          "snippet": "An- und Abreise jederzeit möglich; community fire circles — recurring seasonal gathering for travelling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "La Herradura",
+          "country": "Spain",
+          "snippet": "Weekly Worldschooling Meet-Up on beaches in La Herradura (Andalucía) — recurring Friday gatherings",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Castêlo de Vide",
+          "country": "Portugal",
+          "snippet": "Portugal AutumnCamp — gathering for worldschooling and homeschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Castiglione del Lago",
+          "country": "Italy",
+          "snippet": "S-COOL weekend — Italian homeschooling family gathering in Castiglione del Lago",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Saint-Honoré-les-Bains",
+          "country": "France",
+          "snippet": "French LED'A gathering — family education freedom festival at Saint-Honoré-les-Bains",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sereca",
+          "country": "Romania",
+          "snippet": "Romania International Free-Learning Festival in Sereca — gathering of worldschooling and free-learning families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Björknäs",
+          "country": "Sweden",
+          "snippet": "Swedish worldschooling hub at Björknäs Camping — gathering of homeschooling and travelling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Staffordshire",
+          "country": "United Kingdom",
+          "snippet": "English HEFF festival in Staffordshire — gathering of home-educating families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://bornholms-familiecamping.dk/",
+          "anchor": "Bornholms Familiecamping"
+        },
+        {
+          "url": "https://exploringfamilies.eu/worldschool-hub-bornholm/",
+          "anchor": "Worldschool Hub Bornholm"
+        },
+        {
+          "url": "https://bvnl.de/events/freilerner-sommercamp-in-bayern-11062026/",
+          "anchor": "Freilerner Sommercamp in Bayern"
+        },
+        {
+          "url": "https://rise-and-shine.now/",
+          "anchor": "Rise & Shine summer camp"
+        },
+        {
+          "url": "https://septre.de/",
+          "anchor": "Septré festival"
+        },
+        {
+          "url": "https://hefestivals.co.uk/",
+          "anchor": "HEFF festival"
+        },
+        {
+          "url": "https://www.campinglesbains.com/",
+          "anchor": "Camping les Bains"
+        },
+        {
+          "url": "https://www.enfance-libre.fr/festival-enfance-liberte-2026",
+          "anchor": "Festival Enfance Liberté 2026"
+        },
+        {
+          "url": "https://www.worldschoolpopuphub.com/",
+          "anchor": "WorldSchool Pop-Up Hub"
+        },
+        {
+          "url": "https://www.s-cool.it/",
+          "anchor": "S-COOL weekend"
+        },
+        {
+          "url": "https://stella-verde.jimdosite.com/aktuell/",
+          "anchor": "Stella Verde community meetups"
+        },
+        {
+          "url": "https://blattwerk-natur.de/worldschooling-hub-2025/",
+          "anchor": "Worldschooling Hub La Gomera"
+        },
+        {
+          "url": "https://vagabundenwerk.de/",
+          "anchor": "Vagabundenwerk - deregistration guide"
+        },
+        {
+          "url": "http://askofamilycamp.info/",
+          "anchor": "Asko Family Camp (Sweden)"
+        }
+      ]
+    }
+  ]
+}

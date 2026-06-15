@@ -1,0 +1,33 @@
+{
+  "domain": "destinationlesstravel.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://destinationlesstravel.com/sucre-spanish-school/",
+      "contentHash": "9fa2236cf62dba1692b2c755c976b872fadfd6ba766b8ef36b28beaf7154215f",
+      "placeMentions": [
+        {
+          "place": "Sucre",
+          "country": "Bolivia",
+          "snippet": "There is a huge population of travelers learning Spanish in Sucre. Because people generally stay longer, you can form really good friendships.",
+          "nestingClaim": false,
+          "asOfDate": "2023-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.booking.com/hotel/bo/colors-house.en.html", "anchor": "Colors Hostel" },
+        { "url": "https://hostelworld.tp.st/IritOaLU", "anchor": "Hostelworld (Colors Hostel)" },
+        { "url": "https://www.booking.com/hotel/bo/kulturberlin.en.html", "anchor": "Kultur Berlin" },
+        { "url": "https://hostelworld.tp.st/LGoAktXG", "anchor": "Hostelworld (Kultur Berlin)" },
+        { "url": "https://www.booking.com/hotel/bo/spanish-friends.en.html", "anchor": "Spanish Friends" },
+        { "url": "https://hostelworld.tp.st/OxgOArLB", "anchor": "Hostelworld (Spanish Friends)" },
+        { "url": "https://www.viator.com/pt-BR/tours/Sucre/Sucre-City-Tour-Includes-Visit-to-Cretacic-Park/d23958-21789P71", "anchor": "Sucre City Tour" },
+        { "url": "https://www.viator.com/tours/Sucre/Traditional-Bolivian-cooking-class-with-cocktail-making-experience/d23958-264193P1", "anchor": "Bolivian cooking class" },
+        { "url": "https://www.booking.com/hotel/bo/villa-oropeza-guest-house.en.html", "anchor": "Villa Oropeza Hostel" },
+        { "url": "https://hostelworld.tp.st/WQNBQ722", "anchor": "Hostelworld (Villa Oropeza)" },
+        { "url": "https://www.booking.com/hotel/bo/el-jardin-de-su-merced-b-amp-b.en.html", "anchor": "El Jardin De Su Merced B&B" },
+        { "url": "https://airalo.pxf.io/554y0n", "anchor": "Airalo eSIM" }
+      ]
+    }
+  ]
+}
