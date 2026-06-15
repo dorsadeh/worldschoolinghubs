@@ -868,5 +868,45 @@
   "able-summer-camp": null,
   "camp-crusoe": null,
   "mill-on-the-brue-outdoor-activity-centre-s": null,
-  "wild-outdoors": null
+  "wild-outdoors": null,
+  "bali": [
+    -8.2271303,
+    115.1919203
+  ],
+  "oaxaca": [
+    17,
+    -96.5
+  ],
+  "san-miguel-de-allende": [
+    20.9130501,
+    -100.73566
+  ],
+  "luxor": [
+    25.702096,
+    32.647186
+  ],
+  "cusco": [
+    -13.5170887,
+    -71.9785356
+  ],
+  "krabi": [
+    8.1111653,
+    99.1097298
+  ],
+  "la-barra": [
+    -34.914587,
+    -54.8614131
+  ],
+  "la-herradura": [
+    36.7345524,
+    -3.7379332
+  ],
+  "antigua-guatemala": [
+    14.5567814,
+    -90.7337346
+  ],
+  "playa-del-carmen": [
+    20.6461095,
+    -87.0809021
+  ]
 }
