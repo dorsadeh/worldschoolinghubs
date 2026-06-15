@@ -1,0 +1,18 @@
+{
+  "domain": "weareworldschoolers.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://weareworldschoolers.org/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://projectworldschool.com/", "anchor": "Project World School" },
+        { "url": "https://worldschoolfamilysummit.com/", "anchor": "World School Family Summit" },
+        { "url": "https://worldschoolingummit.com/", "anchor": "Worldschooling Summit" },
+        { "url": "https://transformativementoringforteens.com/", "anchor": "Transformative Mentoring for Teens" },
+        { "url": "https://partnershipparent.com/", "anchor": "Partnership Parent" }
+      ]
+    }
+  ]
+}

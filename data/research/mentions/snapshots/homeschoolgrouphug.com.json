@@ -1,0 +1,33 @@
+{
+  "domain": "homeschoolgrouphug.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://homeschoolgrouphug.com/homeschool-workbooks/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.amazon.com/dp/1985897997", "anchor": "multiplication and division math workbook" },
+        { "url": "https://www.amazon.com/My-Revision-Notes-International-Specification/dp/1510446923", "anchor": "revision notes book for iGCSE maths" },
+        { "url": "https://www.amazon.com/dp/1946755761", "anchor": "grade 3" },
+        { "url": "https://www.amazon.com/dp/194675577X", "anchor": "grade 4" },
+        { "url": "https://www.amazon.com/dp/1946755788", "anchor": "grade 5" },
+        { "url": "https://www.amazon.com/dp/0938256440", "anchor": "School Zone Time, Money and Fractions" },
+        { "url": "https://www.amazon.com/dp/1542790530", "anchor": "Advanced Time Telling" },
+        { "url": "https://www.amazon.com/Melissa-Doug-Shape-Sorting-Clock/dp/B00B4EJO1C", "anchor": "wooden clock face" },
+        { "url": "https://www.amazon.com/dp/1541940415", "anchor": "Practicing Roman Numerals" },
+        { "url": "https://www.amazon.com/dp/0823422550", "anchor": "Fun With Roman Numerals" },
+        { "url": "https://www.amazon.com/dp/1465417273", "anchor": "Kindergarten science workbook" },
+        { "url": "https://www.amazon.com/dp/1465417281", "anchor": "1st grade science workbook" },
+        { "url": "https://www.amazon.com/dp/146541729X", "anchor": "2nd grade science workbook" },
+        { "url": "https://www.amazon.com/dp/1465417303", "anchor": "3rd grade science workbook" },
+        { "url": "https://www.amazon.com/Sntieecr-Magnetism-Experiment-Education-Educational/dp/B09B6TRBSS", "anchor": "magnet set for kids" },
+        { "url": "https://www.amazon.com/dp/0439365627", "anchor": "sight words practice workbook" },
+        { "url": "https://www.amazon.com/dp/1540695174", "anchor": "cursive practice workbook" },
+        { "url": "https://www.amazon.com/Reading-Comprehension-Grade-Skill-Builders/dp/1936023342", "anchor": "Reading Comprehension Grade 6" },
+        { "url": "https://www.amazon.com/dp/0545200814", "anchor": "Scholastic Success With Reading Comprehension Grade 4" },
+        { "url": "https://www.amazon.com/dp/0887438415", "anchor": "School Zone Reading Activities workbook" }
+      ]
+    }
+  ]
+}

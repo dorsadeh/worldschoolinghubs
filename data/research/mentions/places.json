@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:36:11.384Z",
+  "updatedAt": "2026-06-15T16:45:05.301Z",
   "places": [
     {
       "placeId": "bansko--bg",
@@ -1653,7 +1653,8 @@
         -0.1277653
       ],
       "aliases": [
-        "London"
+        "London",
+        "United Kingdom"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"
@@ -3107,6 +3108,213 @@
       "coords": null,
       "aliases": [
         "Peștera, Moieciu, Brașov"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "the-netherlands--nl",
+      "canonicalName": "The Netherlands",
+      "country": "Netherlands",
+      "cc": "nl",
+      "coords": [
+        52.2434979,
+        5.6343227
+      ],
+      "aliases": [
+        "The Netherlands"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "croatia--hr",
+      "canonicalName": "Croatia",
+      "country": "Croatia",
+      "cc": "hr",
+      "coords": [
+        45.8163562,
+        15.9729523
+      ],
+      "aliases": [
+        "Croatia"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "willemstad-otrobanda-punda-neighborhoods--xx",
+      "canonicalName": "Willemstad (Otrobanda & Punda neighborhoods)",
+      "country": "Curaçao",
+      "cc": "xx",
+      "coords": null,
+      "aliases": [
+        "Willemstad (Otrobanda & Punda neighborhoods)"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "austria--at",
+      "canonicalName": "Austria",
+      "country": "Austria",
+      "cc": "at",
+      "coords": [
+        48.2817813,
+        15.7632457
+      ],
+      "aliases": [
+        "Austria"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "morocco--ma",
+      "canonicalName": "Morocco",
+      "country": "Morocco",
+      "cc": "ma",
+      "coords": [
+        28.3347722,
+        -10.3713379
+      ],
+      "aliases": [
+        "Morocco"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "zihuatanejo--mx",
+      "canonicalName": "Zihuatanejo",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        17.6467874,
+        -101.551974
+      ],
+      "aliases": [
+        "Zihuatanejo"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "guanajuato--mx",
+      "canonicalName": "Guanajuato",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        20.9876996,
+        -101
+      ],
+      "aliases": [
+        "Guanajuato"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "xalapa--mx",
+      "canonicalName": "Xalapa",
+      "country": "Mexico",
+      "cc": "mx",
+      "coords": [
+        19.5408338,
+        -96.9146374
+      ],
+      "aliases": [
+        "Xalapa"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "south-goa--in",
+      "canonicalName": "South Goa",
+      "country": "India",
+      "cc": "in",
+      "coords": [
+        15.3376121,
+        73.9937035
+      ],
+      "aliases": [
+        "South Goa"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "naples--it",
+      "canonicalName": "Naples",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        40.8358846,
+        14.2487679
+      ],
+      "aliases": [
+        "Naples"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "italy--it",
+      "canonicalName": "Italy",
+      "country": "Italy",
+      "cc": "it",
+      "coords": [
+        41.7536374,
+        12.2857399
+      ],
+      "aliases": [
+        "Italy"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "costa-rica--br",
+      "canonicalName": "Costa Rica",
+      "country": "Brazil",
+      "cc": "br",
+      "coords": [
+        -18.3481935,
+        -53.3070077
+      ],
+      "aliases": [
+        "Costa Rica"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "vietnam--fr",
+      "canonicalName": "Vietnam",
+      "country": "France",
+      "cc": "fr",
+      "coords": [
+        5.4861406,
+        -54.0277528
+      ],
+      "aliases": [
+        "Vietnam"
+      ],
+      "existingHubIds": [],
+      "firstSeen": "2026-06-15"
+    },
+    {
+      "placeId": "india--in",
+      "canonicalName": "India",
+      "country": "India",
+      "cc": "in",
+      "coords": [
+        20,
+        78
+      ],
+      "aliases": [
+        "India"
       ],
       "existingHubIds": [],
       "firstSeen": "2026-06-15"

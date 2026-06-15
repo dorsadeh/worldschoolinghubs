@@ -1,0 +1,15 @@
+{
+  "domain": "worldschoolinghub.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldschoolinghub.com/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://family-profile.paperform.co", "anchor": "Join For Free" },
+        { "url": "https://audience.ninja", "anchor": "Audience Ninja" }
+      ]
+    }
+  ]
+}

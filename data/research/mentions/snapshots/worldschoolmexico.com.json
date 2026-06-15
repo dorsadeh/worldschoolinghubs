@@ -1,0 +1,40 @@
+{
+  "domain": "worldschoolmexico.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolmexico.com/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "colonial architecture meets contemporary creativity in our arts, cooking, and family programs",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "immersive students in one of Mexico's most culturally rich regions, offering Zapotec traditions and weaving",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Tulum",
+          "country": "Mexico",
+          "snippet": "connects learners with Mayan wisdom, ancient ruins, and rich history plus jungle and lagoon activities",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://calendly.com/ashleyencantada/worldschool-mexico-introduction", "anchor": "Book An Info Call!" },
+        { "url": "http://moctezumamktd.com", "anchor": "Moctezuma Agencia Digital" },
+        { "url": "https://www.facebook.com/share/g/1Bq9vyBeCe/", "anchor": "Facebook group link" },
+        { "url": "https://www.instagram.com/worldschoolmexico/", "anchor": "Instagram profile" },
+        { "url": "https://api.whatsapp.com/send?phone=19168908224", "anchor": "WhatsApp contact" }
+      ]
+    }
+  ]
+}

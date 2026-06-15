@@ -1,0 +1,25 @@
+{
+  "domain": "howdoihomeschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://howdoihomeschool.com/homeschool-legal-illegal/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://howdoihomeschool.com/why-homeschool-reasons/homeschool-vs-public-school-test-scores/", "anchor": "score above average on standardized tests" },
+        { "url": "https://howdoihomeschool.com/why-homeschool-reasons/homeschool-socialization/", "anchor": "socialization skills are just fine" },
+        { "url": "https://howdoihomeschool.com/should-homeschooling-be-banned/", "anchor": "why homeschooling is banned" },
+        { "url": "https://amzn.to/3Qqe2tI", "anchor": "Why on Earth Homeschool" },
+        { "url": "https://howdoihomeschool.com/why-homeschool-reasons/reasons-to-homeschool-your-child/", "anchor": "list of 100 reasons to homeschool" },
+        { "url": "https://amzn.to/3eP1ZSh", "anchor": "Why on Earth Homeschool" },
+        { "url": "https://www.uniongospelpress.com/shop/hdih-homeschool.html", "anchor": "sidebar widget link" },
+        { "url": "https://www.christianityexplored.org/", "anchor": "sidebar widget link" },
+        { "url": "https://www.bjupresshomeschooling.com/site/include.php?id=63", "anchor": "sidebar widget link" },
+        { "url": "https://schoolhouseteachers.com/dap/a/?a=33093", "anchor": "sidebar widget link" },
+        { "url": "https://id.memoriapress.com//idevaffiliate.php?id=226", "anchor": "sidebar widget link" },
+        { "url": "https://www.kqzyfj.com/click-100178796-10572958", "anchor": "sidebar widget link" }
+      ]
+    }
+  ]
+}

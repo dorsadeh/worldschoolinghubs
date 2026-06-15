@@ -1,0 +1,42 @@
+{
+  "domain": "trips.everyavenue.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://trips.everyavenue.com",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Austria",
+          "country": "Austria",
+          "snippet": "Austrian Mountain Summer Retreat / Austrian Mountain Fall Retreat / Austrian Skiing and Christmas Markets Retreat — families base themselves in Austria for multi-day retreats.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Morocco",
+          "country": "Morocco",
+          "snippet": "Morocco Family Journey — land trip destination where families base themselves for a guided journey.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Singapore to Bali Cruise — cruise destination visited by worldschooling families.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://facebook.com/worldschoolingjourneys", "anchor": "Facebook" },
+        { "url": "https://www.instagram.com/worldschoolingjourneys", "anchor": "Instagram" },
+        { "url": "https://www.tiktok.com/@worldschoolingjourneys", "anchor": "TikTok" },
+        { "url": "https://facebook.com/groups/everyavenuetravel", "anchor": "Every Avenue Travel Facebook Group" },
+        { "url": "https://people.com/mom-enlists-daughter-worldschooling-now-they-travel-the-globe-exclusive-11908606", "anchor": "People Magazine feature" },
+        { "url": "https://www.dailymail.com/lifestyle/article-14838677/I-pulled-children-school-travel-world-why.html", "anchor": "Daily Mail feature" },
+        { "url": "https://app.zipchat.ai/iframe/?widget_token=lbcwQPr6HjDbhwzA3XOo", "anchor": "Chat" }
+      ]
+    }
+  ]
+}

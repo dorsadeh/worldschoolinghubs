@@ -1,0 +1,14 @@
+{
+  "domain": "hslda.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://hslda.org/post/thailand",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.homeschoolnetwork.org/", "anchor": "www.homeschoolnetwork.org" }
+      ]
+    }
+  ]
+}

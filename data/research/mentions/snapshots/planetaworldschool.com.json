@@ -1,0 +1,23 @@
+{
+  "domain": "planetaworldschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://planetaworldschool.com",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://shop.beacons.ai/planetaworldschool/b5b9d009-f3c0-4de2-8235-9bb68e28f944", "anchor": "ENTRA AHORA!" },
+        { "url": "https://planetaworldschool.com/worldschooling-para-tods/", "anchor": "Más información +" },
+        { "url": "https://www.planetaworldschool.com/actualidadworldschool", "anchor": "aquí" },
+        { "url": "https://t.me/planetaworldschool", "anchor": "Canal de Telegram" },
+        { "url": "https://beacons.ai/planetaworldschool", "anchor": "#no disponible" },
+        { "url": "https://www.facebook.com/groups/214930539895005/", "anchor": "quiero unirme / entrar" },
+        { "url": "https://t.me/+Oy7Z9CemXYdmMmM0", "anchor": "quiero unirme" },
+        { "url": "https://theworldschooledition.com/es/diario-de-viaje-tt/", "anchor": "Travel books" },
+        { "url": "https://stan.store/carliflawer/", "anchor": "Crianza y educación- worldschooling" },
+        { "url": "https://ligronesenruta.com/", "anchor": "Ligrones en Ruta" }
+      ]
+    }
+  ]
+}

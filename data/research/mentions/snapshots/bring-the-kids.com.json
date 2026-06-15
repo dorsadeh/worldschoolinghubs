@@ -1,0 +1,29 @@
+{
+  "domain": "bring-the-kids.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://bring-the-kids.com/worldschooling-the-exact-curriculum-you-need-to-take-your-kids-education-on-the-road/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://amzn.to/2KHh0Ib", "anchor": "flashcard practice" },
+        { "url": "https://amzn.to/2zxkN6w", "anchor": "game of 24" },
+        { "url": "https://amzn.to/2KImjHA", "anchor": "Singapore Primary mathematics" },
+        { "url": "https://amzn.to/2P9r0uE", "anchor": "Saxon" },
+        { "url": "https://amzn.to/2Rjeevs", "anchor": "IEW's Student Writing Intensive" },
+        { "url": "https://www.jennyphillips.com/course/language-arts-literature/", "anchor": "The Good and The Beautiful" },
+        { "url": "https://amzn.to/2DPXDvs", "anchor": "Handwriting Without Tears" },
+        { "url": "https://amzn.to/2P6EUNV", "anchor": "Teach Your Child To Read In 100 Easy Lessons" },
+        { "url": "https://www.jennyphillips.com/good-beautiful-book-list/", "anchor": "The Good and The Beautiful Book Lists" },
+        { "url": "https://amzn.to/2TScMSc", "anchor": "Frog and Toad" },
+        { "url": "https://amzn.to/2Rip9FL", "anchor": "Amelia Bedelia" },
+        { "url": "https://amzn.to/2r7rAiH", "anchor": "Billy and Blaze" },
+        { "url": "https://amzn.to/2ZAlnM8", "anchor": "kindle / Kindle Fire" },
+        { "url": "https://www.teacherspayteachers.com/", "anchor": "Teachers Pay Teachers" },
+        { "url": "https://amzn.to/2TQ3BSn", "anchor": "How To Be an Explorer of the World" },
+        { "url": "https://amzn.to/31j0B3J", "anchor": "Story of The World" }
+      ]
+    }
+  ]
+}

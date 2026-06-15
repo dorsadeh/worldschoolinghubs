@@ -1,0 +1,31 @@
+{
+  "domain": "sproutsschools.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://sproutsschools.com/unschooling-why-parents-remove-their-kids-from-school/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://en.wikipedia.org/wiki/Play_(activity)", "anchor": "play" },
+        { "url": "https://en.wikipedia.org/wiki/Prussian_education_system#Drivers_and_hindrances", "anchor": "Prussian education systems" },
+        { "url": "https://en.wikipedia.org/wiki/Unschooling", "anchor": "Unschooling" },
+        { "url": "https://de.wikipedia.org/wiki/Schulpflicht", "anchor": "Schulpflicth" },
+        { "url": "https://de.wikipedia.org/wiki/Generallandschulreglement", "anchor": "Generallandschulreglement" },
+        { "url": "https://en.wikipedia.org/wiki/Homeschooling", "anchor": "Homeschooling" },
+        { "url": "https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics", "anchor": "Homeschooling international status and statistics" },
+        { "url": "https://en.wikipedia.org/wiki/Compulsory_education#Countries_without_compulsory_education", "anchor": "Compulsory education" },
+        { "url": "https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate", "anchor": "List of countries by literacy rate" },
+        { "url": "https://www.stitcher.com/show/liberated-podcast/episode/thoughts-on-unschooling-david-d-friedman-on-why-unschooling-is-the-best-way-for-kids-to-learn-204246216", "anchor": "Listen to David D. Friedman" },
+        { "url": "https://schoolsucksproject.com/", "anchor": "school sucks project" },
+        { "url": "https://www.imdb.com/title/tt3182558/", "anchor": "Class Dismissed" },
+        { "url": "https://en.wikipedia.org/wiki/Ivan_Illich", "anchor": "Ivan Illic's" },
+        { "url": "https://en.wikipedia.org/wiki/Deschooling_Society", "anchor": "Deschooling Society" },
+        { "url": "https://old.amu.ac.in/emp/studym/99997040.pdf", "anchor": "Schools helped achieve" },
+        { "url": "https://en.wikipedia.org/wiki/Thomas_Edison", "anchor": "Thomas Edison" },
+        { "url": "https://www.amazon.com/Unschoolers-Educational-Dictionary-Lighthearted-Curriculum-Free/dp/168481359X/", "anchor": "The Book" },
+        { "url": "https://www.teacherspayteachers.com/store/sprouts-learning-materials", "anchor": "Teachers Pay Teachers" }
+      ]
+    }
+  ]
+}

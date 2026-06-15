@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:36:11.384Z",
+  "updatedAt": "2026-06-15T16:45:05.301Z",
   "mentions": [
     {
       "placeId": "bansko--bg",
@@ -3977,6 +3977,366 @@
       "kind": "directory",
       "url": "https://worldschooly.com/hub/we-are-tribe/",
       "snippet": "Families enjoy the serenity of Bali while building lasting memories. Flexible offerings designed to accommodate worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cantabria--es",
+      "domain": "espacioubuntu.org",
+      "kind": "directory",
+      "url": "http://www.espacioubuntu.org",
+      "snippet": "World Schooling en Cantabria — Casa Ubuntu en Cantabria described as a community and residential space hosting people seeking positive impact",
+      "nestingClaim": true,
+      "date": "2024",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bornholm--dk",
+      "domain": "exploringfamilies.eu",
+      "kind": "directory",
+      "url": "https://exploringfamilies.eu/worldschool-hub-bornholm/",
+      "snippet": "The Danish island of Bornholm is known for its stunning nature and home to many homeschooling families.",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "the-netherlands--nl",
+      "domain": "exploringfamilies.eu",
+      "kind": "directory",
+      "url": "https://exploringfamilies.eu/worldschool-hub-bornholm/",
+      "snippet": "Worldschool Gathering The Netherlands — upcoming gathering for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2026-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "croatia--hr",
+      "domain": "exploringfamilies.eu",
+      "kind": "directory",
+      "url": "https://exploringfamilies.eu/worldschool-hub-bornholm/",
+      "snippet": "Worldschool Gathering Croatia – teens and tweens edition, gathering for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2026-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valencia--es",
+      "domain": "hubs.planetaworldschool.com",
+      "kind": "directory",
+      "url": "https://hubs.planetaworldschool.com/",
+      "snippet": "Valencia is where my mum was born and a place where I have a lot of family and friends — a hub where traveling families come together in the same place at the same time.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fuerteventura--es",
+      "domain": "hubs.planetaworldschool.com",
+      "kind": "directory",
+      "url": "https://hubs.planetaworldschool.com/",
+      "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "gran-canaria--es",
+      "domain": "hubs.planetaworldschool.com",
+      "kind": "directory",
+      "url": "https://hubs.planetaworldschool.com/",
+      "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tenerife--es",
+      "domain": "hubs.planetaworldschool.com",
+      "kind": "directory",
+      "url": "https://hubs.planetaworldschool.com/",
+      "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cura-ao--nl",
+      "domain": "ileo.life",
+      "kind": "directory",
+      "url": "https://ileo.life/",
+      "snippet": "Safe, culturally rich island with reliable high-speed internet, 35+ beaches, and a thriving remote professional community outside the hurricane belt.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "willemstad-otrobanda-punda-neighborhoods--xx",
+      "domain": "ileo.life",
+      "kind": "directory",
+      "url": "https://ileo.life/",
+      "snippet": "Seasonal cohorts of 6-10 worldschooling/homeschooling families living together in curated housing in Otrobanda and Punda within Willemstad for Fall, Winter, Spring stays.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "austria--at",
+      "domain": "trips.everyavenue.com",
+      "kind": "directory",
+      "url": "https://trips.everyavenue.com",
+      "snippet": "Austrian Mountain Summer Retreat / Austrian Mountain Fall Retreat / Austrian Skiing and Christmas Markets Retreat — families base themselves in Austria for multi-day retreats.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "morocco--ma",
+      "domain": "trips.everyavenue.com",
+      "kind": "directory",
+      "url": "https://trips.everyavenue.com",
+      "snippet": "Morocco Family Journey — land trip destination where families base themselves for a guided journey.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "trips.everyavenue.com",
+      "kind": "directory",
+      "url": "https://trips.everyavenue.com",
+      "snippet": "Singapore to Bali Cruise — cruise destination visited by worldschooling families.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "veracruz--mx",
+      "domain": "worldschoolfamilysummit.com",
+      "kind": "directory",
+      "url": "https://worldschoolfamilysummit.com/home-new/",
+      "snippet": "The 2023 Project World School Family Summit will include 5 full days of conference talks, community connections, learning and play.",
+      "nestingClaim": true,
+      "date": "2023-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "zihuatanejo--mx",
+      "domain": "worldschoolfamilysummit.com",
+      "kind": "directory",
+      "url": "https://worldschoolfamilysummit.com/home-new/",
+      "snippet": "In 2021 Project World School broke the cycle of isolation...hosted a small Project World School Family Summit in Zihuatanejo.",
+      "nestingClaim": true,
+      "date": "2021",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "guanajuato--mx",
+      "domain": "worldschoolfamilysummit.com",
+      "kind": "directory",
+      "url": "https://worldschoolfamilysummit.com/home-new/",
+      "snippet": "In the Spring of 2022, 200 worldschoolers traveled to Guanajuato, Mexico for the 9th Project World School Family Summit.",
+      "nestingClaim": true,
+      "date": "2022",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "xalapa--mx",
+      "domain": "worldschoolfamilysummit.com",
+      "kind": "directory",
+      "url": "https://worldschoolfamilysummit.com/home-new/",
+      "snippet": "The Week following the 2023 Project World School Family Summit, we will be hosting a Project World School INTRO COMMUNITY Xalapa.",
+      "nestingClaim": true,
+      "date": "2023-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "south-goa--in",
+      "domain": "worldschoolinghubgoa.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolinghubgoa.com",
+      "snippet": "Nestled in the heart of South Goa, our hub is a sanctuary for families seeking a holistic, nature-inspired learning experience.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "goa--in",
+      "domain": "worldschoolinghubgoa.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolinghubgoa.com",
+      "snippet": "Worldschooling Hub Goa — now taking bookings for 2027! A dedicated hub for worldschooling families to gather and base themselves in Goa, India.",
+      "nestingClaim": true,
+      "date": "2027",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "naples--it",
+      "domain": "worldschoolingmamanetwork.substack.com",
+      "kind": "directory",
+      "url": "https://worldschoolingmamanetwork.substack.com/",
+      "snippet": "Pizza, Broken Metros, and 3,000-Year-Old Steps: Surviving Naples with 15 Worldschooling Families!",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "budapest--hu",
+      "domain": "worldschoolingmamanetwork.substack.com",
+      "kind": "directory",
+      "url": "https://worldschoolingmamanetwork.substack.com/",
+      "snippet": "From Budapest to Bulgaria, here's what expat life really looks like.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bulgaria--bg",
+      "domain": "worldschoolingmamanetwork.substack.com",
+      "kind": "directory",
+      "url": "https://worldschoolingmamanetwork.substack.com/",
+      "snippet": "From Budapest to Bulgaria, here's what expat life really looks like.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "romania--ro",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Worldschool Pop-Up Hub — Romania (June 2026). Hub-style gathering where worldschooling families come together for a season.",
+      "nestingClaim": true,
+      "date": "2026-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "italy--it",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "La Stella — Waldorf school. Follows school year. School-year enrollment for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Antigua Green School — Guatemala. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "guatemala--gt",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Escuela Caracol — Guatemala. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "costa-rica--br",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Franco Education — Costa Rica. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "vietnam--fr",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Cocoon Montessori Preschool and Green Shoots International School — Vietnam. Follows school year.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "dominican-republic--do",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "ISLA Academy — Dominican Republic. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "india--in",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "River House Academy — India. Follows school year. School-year enrollment for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thailand--th",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Waldorf Steiner School — Thailand. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lombok--id",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Wonder Intercultural School Lombok — Indonesia. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "london--gb",
+      "domain": "worldschoolingpopups.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolingpopups.com/events",
+      "snippet": "Lerntree — United Kingdom. Follows school year. School-year base for worldschooling families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "worldschoolmexico.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolmexico.com/",
+      "snippet": "colonial architecture meets contemporary creativity in our arts, cooking, and family programs",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "worldschoolmexico.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolmexico.com/",
+      "snippet": "immersive students in one of Mexico's most culturally rich regions, offering Zapotec traditions and weaving",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tulum--mx",
+      "domain": "worldschoolmexico.com",
+      "kind": "directory",
+      "url": "https://www.worldschoolmexico.com/",
+      "snippet": "connects learners with Mayan wisdom, ancient ruins, and rich history plus jungle and lagoon activities",
       "nestingClaim": true,
       "date": "unknown",
       "addedAt": "2026-06-15"

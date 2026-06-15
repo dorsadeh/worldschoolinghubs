@@ -1,0 +1,45 @@
+{
+  "domain": "hubs.planetaworldschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://hubs.planetaworldschool.com/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "Valencia is where my mum was born and a place where I have a lot of family and friends — a hub where traveling families come together in the same place at the same time.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Fuerteventura",
+          "country": "Spain",
+          "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Gran Canaria",
+          "country": "Spain",
+          "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Tenerife",
+          "country": "Spain",
+          "snippet": "Worldschool hub gathering point where traveling families come together to explore the destination and build deep relationships with like-minded families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://planetaworldschool.com", "anchor": "planetaworldschool.com" },
+        { "url": "https://ligronesenruta.com", "anchor": "Ligrones en Ruta" },
+        { "url": "https://geckocamper.com", "anchor": "Gecko Camper" }
+      ]
+    }
+  ]
+}

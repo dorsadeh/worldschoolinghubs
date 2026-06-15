@@ -1,0 +1,53 @@
+{
+  "domain": "worldschoolacademy.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolacademy.com/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://courses.extraordinaryfamilylife.com/courses/mentoring-accountability-program?ref=de33b0",
+          "anchor": "Apply Now"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com/pages/resources-for-teens",
+          "anchor": "Innovating Education"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com/pages/trips-retreats-adventures",
+          "anchor": "Trips & Adventures"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com/pages/do-more-with-less-stress-workshop-series-for-busy-overwhelmed-moms",
+          "anchor": "Education Coaching"
+        },
+        {
+          "url": "https://courses.extraordinaryfamilylife.com/",
+          "anchor": "Family Life Courses"
+        },
+        {
+          "url": "https://extraordinaryfamilylife.activehosted.com/f/26",
+          "anchor": "Let's Get Started"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com/pages/habits-for-a-successful-life-online-class-for-teens",
+          "anchor": "CLICK HERE TO JOIN THIS LIVE CLASS FOR TEENS"
+        },
+        {
+          "url": "https://extraordinaryfamilylife.activehosted.com/f/11",
+          "anchor": "Send Me Updates"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com",
+          "anchor": "Tell Me More!"
+        },
+        {
+          "url": "https://www.extraordinaryfamilylife.com/privacy-terms",
+          "anchor": "Terms & Conditions / Privacy Policy"
+        }
+      ]
+    }
+  ]
+}

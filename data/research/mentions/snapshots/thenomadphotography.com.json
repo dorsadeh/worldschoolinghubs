@@ -1,0 +1,16 @@
+{
+  "domain": "thenomadphotography.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://thenomadphotography.com/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.the5worldexplorers.com/", "anchor": "My Travel Blog" },
+        { "url": "https://shop.the5worldexplorers.com/photostock/", "anchor": "VIEW SHOP" },
+        { "url": "https://www.memeworx.co.za", "anchor": "Website Design & Development by Memeworx" }
+      ]
+    }
+  ]
+}

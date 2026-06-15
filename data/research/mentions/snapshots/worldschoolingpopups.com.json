@@ -1,0 +1,90 @@
+{
+  "domain": "worldschoolingpopups.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolingpopups.com/events",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Romania",
+          "country": "Romania",
+          "snippet": "Worldschool Pop-Up Hub — Romania (June 2026). Hub-style gathering where worldschooling families come together for a season.",
+          "nestingClaim": true,
+          "asOfDate": "2026-06"
+        },
+        {
+          "place": "Italy",
+          "country": "Italy",
+          "snippet": "La Stella — Waldorf school. Follows school year. School-year enrollment for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Antigua",
+          "country": "Guatemala",
+          "snippet": "Antigua Green School — Guatemala. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Guatemala",
+          "country": "Guatemala",
+          "snippet": "Escuela Caracol — Guatemala. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Costa Rica",
+          "country": "Costa Rica",
+          "snippet": "Franco Education — Costa Rica. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Vietnam",
+          "country": "Vietnam",
+          "snippet": "Cocoon Montessori Preschool and Green Shoots International School — Vietnam. Follows school year.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Dominican Republic",
+          "country": "Dominican Republic",
+          "snippet": "ISLA Academy — Dominican Republic. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "India",
+          "country": "India",
+          "snippet": "River House Academy — India. Follows school year. School-year enrollment for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Thailand",
+          "country": "Thailand",
+          "snippet": "Waldorf Steiner School — Thailand. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lombok",
+          "country": "Indonesia",
+          "snippet": "Wonder Intercultural School Lombok — Indonesia. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "United Kingdom",
+          "country": "United Kingdom",
+          "snippet": "Lerntree — United Kingdom. Follows school year. School-year base for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

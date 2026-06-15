@@ -1,0 +1,30 @@
+{
+  "domain": "ileo.life",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://ileo.life/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Curaçao",
+          "country": "Netherlands (Dutch Caribbean)",
+          "snippet": "Safe, culturally rich island with reliable high-speed internet, 35+ beaches, and a thriving remote professional community outside the hurricane belt.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Willemstad (Otrobanda & Punda neighborhoods)",
+          "country": "Curaçao",
+          "snippet": "Seasonal cohorts of 6-10 worldschooling/homeschooling families living together in curated housing in Otrobanda and Punda within Willemstad for Fall, Winter, Spring stays.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://childrensmuseumcuracao.org/", "anchor": "Children's Museum Curaçao" },
+        { "url": "https://curacaointeractiveexperience.com/", "anchor": "Curaçao Interactive Experience" }
+      ]
+    }
+  ]
+}

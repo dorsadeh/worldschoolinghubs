@@ -1,0 +1,15 @@
+{
+  "domain": "projectworldschool.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "http://projectworldschool.com",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://transformativementoringforteens.com/", "anchor": "Transformative Mentoring for Teens" },
+        { "url": "https://transformativementoringforteens.com/free-virtual-meet-ups/", "anchor": "Virtual Meet Ups" }
+      ]
+    }
+  ]
+}

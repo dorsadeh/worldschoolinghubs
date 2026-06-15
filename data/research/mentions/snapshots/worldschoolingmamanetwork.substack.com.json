@@ -1,0 +1,40 @@
+{
+  "domain": "worldschoolingmamanetwork.substack.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldschoolingmamanetwork.substack.com/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Naples",
+          "country": "Italy",
+          "snippet": "Pizza, Broken Metros, and 3,000-Year-Old Steps: Surviving Naples with 15 Worldschooling Families!",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Budapest",
+          "country": "Hungary",
+          "snippet": "From Budapest to Bulgaria, here's what expat life really looks like.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bulgaria",
+          "country": "Bulgaria",
+          "snippet": "From Budapest to Bulgaria, here's what expat life really looks like.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://suzymaywander.substack.com", "anchor": "Suzy @ Wander Money Coach" },
+        { "url": "https://theflowjourney.substack.com", "anchor": "The Flow Journey" },
+        { "url": "https://ihanatsuki.substack.com", "anchor": "Hana Tsuki" },
+        { "url": "https://rebelparent.substack.com", "anchor": "Rebel Parent" },
+        { "url": "https://bryayoga.substack.com", "anchor": "Bryanna Danielle" }
+      ]
+    }
+  ]
+}

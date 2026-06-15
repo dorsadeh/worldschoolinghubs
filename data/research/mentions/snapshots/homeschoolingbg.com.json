@@ -1,0 +1,17 @@
+{
+  "domain": "homeschoolingbg.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.homeschoolingbg.com/index.php?id=2",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://youtu.be/Mwk2cmXzuSM", "anchor": "YouTube video" },
+        { "url": "https://bnt.bg/news/", "anchor": "Bulgarian National Television" },
+        { "url": "https://www.bloombergtv.bg/a/16-biznes-start/123912-", "anchor": "Bloomberg TV Bulgaria" },
+        { "url": "https://www.youtube.com/watch?v=YMp-bOan9Io", "anchor": "YouTube video" }
+      ]
+    }
+  ]
+}

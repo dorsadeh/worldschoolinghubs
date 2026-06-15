@@ -1,0 +1,15 @@
+{
+  "domain": "amigosofcostarica.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.amigosofcostarica.org/affiliates/asociacion-alimentando-corazones",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://crusa.cr/", "anchor": "Learn More" },
+        { "url": "https://app.candid.org/profile/7350691/amigos-of-costa-rica-inc-31-1714653", "anchor": "View our Seal of Transparency on Guidestar/Candid!" }
+      ]
+    }
+  ]
+}

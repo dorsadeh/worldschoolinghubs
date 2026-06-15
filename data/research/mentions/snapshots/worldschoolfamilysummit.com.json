@@ -1,0 +1,53 @@
+{
+  "domain": "worldschoolfamilysummit.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldschoolfamilysummit.com/home-new/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Veracruz",
+          "country": "Mexico",
+          "snippet": "The 2023 Project World School Family Summit will include 5 full days of conference talks, community connections, learning and play.",
+          "nestingClaim": true,
+          "asOfDate": "2023-03"
+        },
+        {
+          "place": "Zihuatanejo",
+          "country": "Mexico",
+          "snippet": "In 2021 Project World School broke the cycle of isolation...hosted a small Project World School Family Summit in Zihuatanejo.",
+          "nestingClaim": true,
+          "asOfDate": "2021"
+        },
+        {
+          "place": "Guanajuato",
+          "country": "Mexico",
+          "snippet": "In the Spring of 2022, 200 worldschoolers traveled to Guanajuato, Mexico for the 9th Project World School Family Summit.",
+          "nestingClaim": true,
+          "asOfDate": "2022"
+        },
+        {
+          "place": "Xalapa",
+          "country": "Mexico",
+          "snippet": "The Week following the 2023 Project World School Family Summit, we will be hosting a Project World School INTRO COMMUNITY Xalapa.",
+          "nestingClaim": true,
+          "asOfDate": "2023-03"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.trynsomethingnew.com/", "anchor": "Try N Something New" },
+        { "url": "https://mexicodave.com/veracruz-travel", "anchor": "Veracruz travel information" },
+        { "url": "https://www.roughguides.com/mexico/veracruz/", "anchor": "Rough Guides: Veracruz" },
+        { "url": "http://www.houstonculture.org/mexico/veracruz.html", "anchor": "Veracruz history" },
+        { "url": "http://www.aquaticoinbursa.com.mx", "anchor": "Aquatico Inbursa Waterpark" },
+        { "url": "https://projectworldschool.com/mexico-2023/", "anchor": "Project World School INTRO COMMUNITY" },
+        { "url": "https://projectworldschool.com/", "anchor": "Project World School" },
+        { "url": "https://transformativementoringforteens.com/", "anchor": "Transformative Mentoring for Teens" },
+        { "url": "https://partnershipparent.com/", "anchor": "Partnership Parent" },
+        { "url": "https://weareworldschoolers.org/", "anchor": "We Are Worldschoolers" },
+        { "url": "https://worldschoolingssummit.com/", "anchor": "Worldschooling Summit" }
+      ]
+    }
+  ]
+}

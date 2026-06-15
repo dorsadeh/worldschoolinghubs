@@ -1,0 +1,45 @@
+{
+  "domain": "exploringfamilies.eu",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://exploringfamilies.eu/worldschool-hub-bornholm/",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Bornholm",
+          "country": "Denmark",
+          "snippet": "The Danish island of Bornholm is known for its stunning nature and home to many homeschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        },
+        {
+          "place": "The Netherlands",
+          "country": "Netherlands",
+          "snippet": "Worldschool Gathering The Netherlands — upcoming gathering for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2026-07"
+        },
+        {
+          "place": "Croatia",
+          "country": "Croatia",
+          "snippet": "Worldschool Gathering Croatia – teens and tweens edition, gathering for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2026-10"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://bornholms-familiecamping.dk/", "anchor": "Bornholms Familiecamping" },
+        { "url": "https://www.bornholmslinjen.com/", "anchor": "Bornholmslinjen" },
+        { "url": "https://www.kombardoexpressen.com/", "anchor": "Kombardoexpressen" },
+        { "url": "https://www.europcar.com/", "anchor": "Europcar" },
+        { "url": "https://www.avis.com/", "anchor": "AVIS" },
+        { "url": "https://www.bat.dk/", "anchor": "BAT" },
+        { "url": "https://dantaxi.dk/english/", "anchor": "Dantaxi" },
+        { "url": "https://www.lebara.dk/en/home.html", "anchor": "Lebara" },
+        { "url": "https://wordpress.org/", "anchor": "WordPress" },
+        { "url": "https://bizbergthemes.com/", "anchor": "Bizberg Themes" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "domain": "chicagoreviewpress.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.chicagoreviewpress.com/unschooled-products-9781641600637.php",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://www.chicagoreviewpress.com/mcdonald--kerry-contributor-446174.php", "anchor": "Kerry McDonald" },
+        { "url": "https://www.chicagoreviewpress.com/gray--peter-contributor-478277.php", "anchor": "Peter Gray" },
+        { "url": "https://www.chicagoreviewpress.com/will-it-work-on-my-e-reader--pages-494.php", "anchor": "Will it work on my eReader?" },
+        { "url": "https://www.chicagoreviewpress.com/media-request-pages-479.php", "anchor": "Media Copy" },
+        { "url": "http://www.orbitmedia.com/", "anchor": "Website Design" }
+      ]
+    }
+  ]
+}

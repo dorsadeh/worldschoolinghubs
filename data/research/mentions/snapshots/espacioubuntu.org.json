@@ -1,0 +1,31 @@
+{
+  "domain": "espacioubuntu.org",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "http://www.espacioubuntu.org",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "Cantabria",
+          "country": "Spain",
+          "snippet": "World Schooling en Cantabria — Casa Ubuntu en Cantabria described as a community and residential space hosting people seeking positive impact",
+          "nestingClaim": true,
+          "asOfDate": "2024"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "http://www.servicespace.org", "anchor": "ServiceSpace" },
+        { "url": "https://manavsadhna.org/", "anchor": "Manav Sadhna" },
+        { "url": "https://greenyogiadventure.com/", "anchor": "Green Yogui Adventure" },
+        { "url": "https://www.thesocial.mba/", "anchor": "MBA Social" },
+        { "url": "https://institutoelos.org/gsa/es/home-es/", "anchor": "Guerreros sin Armas (Brasil)" },
+        { "url": "https://ubuntuyatra.com/", "anchor": "Auroville and Gandhi Ashram trips" },
+        { "url": "https://greenyogiadventure.com/india-febrero-sur/", "anchor": "Kerala trip (February)" },
+        { "url": "https://greenyogiadventure.com/india-febrero-butan/", "anchor": "Northeast India & Bhutan trip (March)" },
+        { "url": "http://www.awakin.org", "anchor": "Awakin Circles" },
+        { "url": "http://www.karmakitchen.org", "anchor": "Karma Kitchen" }
+      ]
+    }
+  ]
+}

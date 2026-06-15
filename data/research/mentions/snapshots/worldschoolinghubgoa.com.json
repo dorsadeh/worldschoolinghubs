@@ -1,0 +1,44 @@
+{
+  "domain": "worldschoolinghubgoa.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.worldschoolinghubgoa.com",
+      "contentHash": "frontier",
+      "placeMentions": [
+        {
+          "place": "South Goa",
+          "country": "India",
+          "snippet": "Nestled in the heart of South Goa, our hub is a sanctuary for families seeking a holistic, nature-inspired learning experience.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Goa",
+          "country": "India",
+          "snippet": "Worldschooling Hub Goa — now taking bookings for 2027! A dedicated hub for worldschooling families to gather and base themselves in Goa, India.",
+          "nestingClaim": true,
+          "asOfDate": "2027"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.thetimes.com/life-style/property-home/article/meet-nomadic-families-worldschooling-pd2nlq08n",
+          "anchor": "The Times"
+        },
+        {
+          "url": "https://www.khaleejtimes.com/lifestyle/uae-families-worldschooling-trend",
+          "anchor": "Khaleej Times"
+        },
+        {
+          "url": "https://podcasts.apple.com/gb/podcast/are-you-mankeeping/id1440471823?i=1000720889698",
+          "anchor": "Apple Podcasts"
+        },
+        {
+          "url": "https://forms.fillout.com/t/72phaPZK3Jus",
+          "anchor": "Book a Call"
+        }
+      ]
+    }
+  ]
+}

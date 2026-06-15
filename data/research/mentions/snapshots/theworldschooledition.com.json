@@ -1,0 +1,22 @@
+{
+  "domain": "theworldschooledition.com",
+  "extractedAt": "2026-06-15T00:00:00Z",
+  "pages": [
+    {
+      "url": "https://theworldschooledition.com/",
+      "contentHash": "frontier",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://theworldschooledition.com/buy-book-1/", "anchor": "get it" },
+        { "url": "https://theworldschooledition.com/book-2/", "anchor": "get it" },
+        { "url": "https://www.instagram.com/ligronesenruta/", "anchor": "Follow on Instagram" },
+        { "url": "https://www.facebook.com/ligronesenruta", "anchor": "Follow on Facebook" },
+        { "url": "https://www.facebook.com/profile.php?id=61580118472134", "anchor": "Follow on Facebook" },
+        { "url": "https://www.instagram.com/theworldschooledition/", "anchor": "Follow on Instagram" },
+        { "url": "https://www.amazon.com/author/theworldschooledition", "anchor": "Follow on Amazon" },
+        { "url": "https://ligronesenruta.com/", "anchor": "Ligrones en Ruta" },
+        { "url": "https://planetaworldschool.com/politica-de-privacidad-aviso-legal/", "anchor": "Política de Privacidad y Aviso Legal" }
+      ]
+    }
+  ]
+}
