@@ -114,3 +114,59 @@ describe("upsertPlace", () => {
     expect(ps[0].firstSeen).toBe("2026-01-01");
   });
 });
+
+import {
+  haversineKm, findPlaceByCoords, matchExistingHub,
+  domainOf, nextFrontierDomains, type SourceRegistry,
+} from "../lib/intake/mentions";
+
+describe("haversineKm", () => {
+  it("≈0 for identical points and ~hundreds of km apart", () => {
+    expect(haversineKm([19.36, 98.44], [19.36, 98.44])).toBeCloseTo(0, 3);
+    expect(haversineKm([19.36, 98.44], [13.75, 100.50])).toBeGreaterThan(600); // Pai→Bangkok
+  });
+});
+
+describe("findPlaceByCoords", () => {
+  const places = [place({ placeId: "pai--th", coords: [19.36, 98.44], cc: "th" })];
+  it("matches a nearby same-country place (cluster radius)", () => {
+    expect(findPlaceByCoords(places, [19.37, 98.45], "th", 10)?.placeId).toBe("pai--th");
+  });
+  it("does not match a far point", () => {
+    expect(findPlaceByCoords(places, [13.75, 100.50], "th", 10)).toBeNull();
+  });
+  it("does not match across country codes", () => {
+    expect(findPlaceByCoords(places, [19.36, 98.44], "la", 10)).toBeNull();
+  });
+});
+
+describe("matchExistingHub", () => {
+  const hubs = [
+    { id: "pai", coords: [19.36, 98.44] as [number, number], country: "Thailand" },
+    { id: "bansko", coords: [41.83, 23.48] as [number, number], country: "Bulgaria" },
+  ];
+  it("links hubs within 25km of the same country", () => {
+    expect(matchExistingHub([19.40, 98.40], "Thailand", hubs, 25)).toEqual(["pai"]);
+  });
+  it("returns [] for null coords", () => {
+    expect(matchExistingHub(null, "Thailand", hubs, 25)).toEqual([]);
+  });
+});
+
+describe("domainOf / nextFrontierDomains", () => {
+  it("strips www and lowercases", () => {
+    expect(domainOf("https://www.Example.com/x")).toBe("example.com");
+    expect(domainOf("not a url")).toBeNull();
+  });
+  it("returns only unknown outbound domains", () => {
+    const reg: SourceRegistry = { updatedAt: NOW, sources: [
+      { domain: "known.com", name: "K", kind: "directory", lang: "en", weight: null,
+        status: "active", seedUrls: [], addedAt: NOW, notes: "" },
+    ] };
+    const out = nextFrontierDomains(
+      [{ url: "https://known.com/a", anchor: "" }, { url: "https://new.blog/b", anchor: "" }],
+      reg,
+    );
+    expect(out).toEqual(["new.blog"]);
+  });
+});
