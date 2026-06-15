@@ -1,0 +1,2125 @@
+{
+  "updatedAt": "2026-06-15T16:26:08.497Z",
+  "mentions": [
+    {
+      "placeId": "bansko--bg",
+      "domain": "2teachersontour.com",
+      "kind": "personal-blog",
+      "url": "https://www.2teachersontour.com/an-almost-normal-week-in-bansko-bulgaria/",
+      "snippet": "Families have gathered to have social interaction and be part of this worldschooling hub.",
+      "nestingClaim": true,
+      "date": "2022-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "5bylandandsea.com",
+      "kind": "personal-blog",
+      "url": "https://5bylandandsea.com/worldschool-pop-up-in-kuala-lumpur/",
+      "snippet": "pop-ups are weeklong affairs, where other worldschooling families congregate in a city",
+      "nestingClaim": true,
+      "date": "2024-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "5losttogether.com",
+      "kind": "personal-blog",
+      "url": "https://www.5losttogether.com/becoming-digital-nomad-family/",
+      "snippet": "real travelling families hub so we were able to meet up with loads of other families there",
+      "nestingClaim": true,
+      "date": "2018-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "adventuretravelfamily.co.uk",
+      "kind": "personal-blog",
+      "url": "https://adventuretravelfamily.co.uk/2018/07/07/worldschooling-a-typical-day-in-our-worldschooling-family-life/",
+      "snippet": "moved from our original home (the UK) to another country (Bali), and travel from a different base",
+      "nestingClaim": true,
+      "date": "2018-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "bambiweb.org",
+      "kind": "press",
+      "url": "https://www.bambiweb.org/news/school-go",
+      "snippet": "Lopez family travelled to this southern island as part of their nomadic base life in Thailand while worldschooling.",
+      "nestingClaim": false,
+      "date": "2023-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "khanom--th",
+      "domain": "bambiweb.org",
+      "kind": "press",
+      "url": "https://www.bambiweb.org/news/school-go",
+      "snippet": "Lopez family based their camper van in Khanom, Thailand, living nomadically while educating their children.",
+      "nestingClaim": false,
+      "date": "2023-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/destinations-2/",
+      "snippet": "Luxor worldschooling hub - families gather for historical adventures.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "siem-reap--kh",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "Worldschool Pop-Ups focuses on affordable short-term gatherings around the world for families.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "krabi--th",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "Nature-Mind educational organization offers programs for children and worldschoolers designed to foster love of nature.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cabrera--do",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "The Hive permanent school takes short-term worldschoolers in 6-week sessions following unschooling and project-based learning.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "greece--us",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+      "nestingClaim": true,
+      "date": "2023-07-14",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thailand--th",
+      "domain": "bostontribetravels.com",
+      "kind": "personal-blog",
+      "url": "https://bostontribetravels.com/worldschooling/",
+      "snippet": "Socialising with other parents at a Worldschool Hub in Thailand.",
+      "nestingClaim": true,
+      "date": "2023-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "buzzsprout.com",
+      "kind": "press",
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "snippet": "We've touched it down into Pai...to Koh Lanta, which is here — worldschooling families gathering at Bliss Hub",
+      "nestingClaim": true,
+      "date": "2025-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "buzzsprout.com",
+      "kind": "press",
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "snippet": "We've touched it down into Pai, which is in Northern Thailand — a worldschooling hub base for families",
+      "nestingClaim": true,
+      "date": "2025-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "buzzsprout.com",
+      "kind": "press",
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "snippet": "Kuala Lumpur in Malaysia and Bali — listed as Bliss worldschool hub gathering locations for families",
+      "nestingClaim": true,
+      "date": "2025-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "buzzsprout.com",
+      "kind": "press",
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "snippet": "Kuala Lumpur in Malaysia and Bali — listed as Bliss worldschool hub gathering locations for families",
+      "nestingClaim": true,
+      "date": "2025-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "johor-bahru--my",
+      "domain": "buzzsprout.com",
+      "kind": "press",
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "snippet": "Met in Chiang Mai and then we met again in Pai, then we met again in Johor Bahru — recurring family meetup pattern",
+      "nestingClaim": false,
+      "date": "2025-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "goa--in",
+      "domain": "cecilieconrad.com",
+      "kind": "personal-blog",
+      "url": "https://www.cecilieconrad.com/self-directed/amanda-ashworth",
+      "snippet": "Five-year project creating the World Schooling Hub; families gather for 3-month cohorts in this alternative education community",
+      "nestingClaim": true,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "short term enrollment options for traveling families at Green School Bali",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "da-nang--vn",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "pop-up worldschooling hubs providing structured yet flexible educational experiences for families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "penang--my",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "pop-up worldschooling hubs for families on the move",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "welcomes short term students into structured academics and cultural immersion for worldschooling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "krabi--th",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "short programs for families combining nature-based education with mindfulness",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kanchanaburi--th",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "runs camps for teenagers and families focused on wildlife conservation",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "phuket--th",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "summer camp for worldschooling families visiting Thailand",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pahang--my",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "8 week short term programs combining travel education and cultural immersion",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "seoul--kr",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "intensive Korean language and cultural immersion program for children aged 7-17",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "cultural programs for worldschooling families with 4 hub-based days per week",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "coffee-region--xx",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "4-12 week immersion experiences where children attend local Colombian schools",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "manabi--ec",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "coliving and coworking community with Montessori inspired program for traveling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "rio-de-janeiro--br",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "cultural program to complement language learning for worldschooling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ecuador-ecovillage--xx",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "ecovillage healing sanctuary and learning center welcoming worldschooling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "stockholm--se",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "nature school welcomes visiting families for outdoor education",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cantabria--es",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "community based worldschooling experience with scheduled childcare 5 days a week",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "saanenland--ch",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "immersive Alpine adventures combining outdoor exploration with hands-on learning for families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-sebastian--es",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "Spanish immersion program specifically designed for children aged 6-11",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tenerife--es",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "worldschooling program with intensive English and Spanish lessons combined with activities",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "laconia--gr",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "community space for worldschooling and homeschooling families offering WiFi and resources",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "pop up worldschooling hub with weekly activities and meetups for traveling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "amsterdam--nl",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "hub provides worldschooling activities and brings together traveling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hvar--hr",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "new independent school looking for entrepreneurial, community-oriented founding families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "s-dsteiermark--at",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "regional and international gathering center offering space for seminars, workshops, summer camps",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-herradura--es",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "community that brings together traveling families, digital nomads and local residents",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "bringing families together — lifelong friendships and meaningful connections are forged here",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oria--es",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "rural worldschooling community offering families a chance to connect, learn and have adventures",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "near-marrakech--xx",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "educational hub serves worldschooling families, local people, and homeschooling residents",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "moshi--tz",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "21-day coliving experience structured community experience exploring Tanzania's natural environments",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mirleft--ma",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "4 week worldschooling program for children 4-18 offering authentic Moroccan experience",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "muizenberg--za",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "welcomes worldschooling families immersed in South African culture and education",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "al-ayat--eg",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "welcome worldschooling families as volunteers and participants in their programs",
+      "nestingClaim": false,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "watamu--ke",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "immersive educational experience where families stay at resort while participating in educational activities",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "manitoulin--ca",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "worldschooling community offering a nature-based worldschooling experience welcoming traveling families",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "dominican-republic--do",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "family-friendly Hive Adventures for education, activism and wellbeing for changemakers",
+      "nestingClaim": false,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "catskill-mountains--us",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "summer education programs creating immersive community where children develop skills",
+      "nestingClaim": false,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "Deliberate Detour's amazing cultural immersion for kids 7-16 with structured community days",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "yucatan-peninsula--mx",
+      "domain": "changetheworldwithkaryn.com",
+      "kind": "personal-blog",
+      "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+      "snippet": "co-living community for worldschooling families welcoming families from all over the world",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "educateaway.co.uk",
+      "kind": "personal-blog",
+      "url": "https://educateaway.co.uk/worldschooling/",
+      "snippet": "Group of worldschoolers gather in Luxor for children to learn and play together at a dedicated worldschooling hub.",
+      "nestingClaim": true,
+      "date": "2023-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "educationnext.in",
+      "kind": "press",
+      "url": "https://www.educationnext.in/posts/bansko-the-world-schooling-capital-of-the-world",
+      "snippet": "More than 300 remote workers in any given month, with the population surging during ski season; town transformed into a worldschooling hub where families collaborate to create microschools.",
+      "nestingClaim": true,
+      "date": "2024-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "goa--in",
+      "domain": "educationnext.in",
+      "kind": "press",
+      "url": "https://www.educationnext.in/posts/goa-a-paradise-for-worldschooling-families-with-a-global-flair",
+      "snippet": "A hidden gem for worldschooling families seeking a vibrant cultural immersion, with affordability and accessibility making it attractive for longer stays.",
+      "nestingClaim": true,
+      "date": "2024-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "andalusia--es",
+      "domain": "eenmooigezin.nl",
+      "kind": "personal-blog",
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "snippet": "Gezinnen reizen niet alleen maar doelloos; ze spreken bewust af om voor een maand op exact dezelfde locatie te gaan zitten.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "eenmooigezin.nl",
+      "kind": "personal-blog",
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "snippet": "Bergen waar reizende gezinnen voor maanden samenkomen om samen projecten te doen en vriendschappen op te bouwen.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mexico--mx",
+      "domain": "eenmooigezin.nl",
+      "kind": "personal-blog",
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "snippet": "Pop-up communities waar families intensief met elkaar optrekken en diepe, kwalitatieve vriendschappen ontstaan.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal-coast--ca",
+      "domain": "eenmooigezin.nl",
+      "kind": "personal-blog",
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "snippet": "Bekende hub waar worldschooling gezinnen een maand of langer verblijven voor sociale ontwikkeling.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "eenmooigezin.nl",
+      "kind": "personal-blog",
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "snippet": "Wereldwijd hub waar reizende gezinnen samenkomen via Facebook-groepen en apps.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Organized community, kindergartens, yoga classes, sense of calm routine — framed as a family nesting base",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thailand--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Convenient, modern, full of expats with children, air-conditioned malls — framed as a comfortable family base",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Nature, quiet, creative village atmosphere — ideal for families preferring a campfire lifestyle; nesting-oriented framing",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Family-friendly island with a relaxed pace and an English garden — presented as long-stay family destination",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-samui--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Most convenient for long nesting with children — international schools, activities; explicit long-stay framing",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Small expat community, pleasant family-friendly side — described as a family base option",
+      "nestingClaim": true,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "isaan-region--xx",
+      "domain": "family-world-travel.com",
+      "kind": "personal-blog",
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "snippet": "Not for everyone, but for those seeking authentic quiet and rural life — ambiguous nesting framing",
+      "nestingClaim": false,
+      "date": "2025",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "fiveticketstoroam.com",
+      "kind": "personal-blog",
+      "url": "https://www.fiveticketstoroam.com/blog-posts/thailand/koh-lanta-worldschool-hub",
+      "snippet": "Koh Lanta is the first place on our trip where we have integrated ourselves into the BLISS Community with free activities and regular meetups organized for families.",
+      "nestingClaim": true,
+      "date": "2024-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fethiye--tr",
+      "domain": "gowatkinsgo.com",
+      "kind": "personal-blog",
+      "url": "https://gowatkinsgo.com/?p=11572",
+      "snippet": "We continue to enjoy Fethiye and have managed to figure out how to live here in a way that feels both exciting and comfortable.",
+      "nestingClaim": true,
+      "date": "2026-05",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "zlatibor--rs",
+      "domain": "gowatkinsgo.com",
+      "kind": "personal-blog",
+      "url": "https://gowatkinsgo.com/?p=10551",
+      "snippet": "At one point, there were seven families here together...representing Britain, New Zealand, Mexico, Canada, Belgium, Australia, Switzerland, and the U.S.",
+      "nestingClaim": true,
+      "date": "2025-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sintra--pt",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "Boundless Life program: family of four lived in Europe for three months with co-located community, education and activities.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "syros--gr",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "Boundless Life cohort gathered in Greece; families met up and built community connections across the season.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kotor--me",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "Smallest Boundless cohort with only seven families nesting together and building community bonds at this location.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pistoia--it",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "39-family Boundless cohort based in Tuscany/Pistoia with school, hub, and coordinated experiences for the season.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-barra--uy",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "Second Boundless cohort based at La Barra with beach housing and school for the season.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "estepona--es",
+      "domain": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "snippet": "39 Boundless families gathered in Andalusia/Estepona with education center and coworking space for the season.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "learnersandmakers.com",
+      "kind": "personal-blog",
+      "url": "https://www.learnersandmakers.com/is-chiang-mai-worth-visiting/",
+      "snippet": "Popular hub for travelers, digital nomads, and expats; families connected and met up regularly at local cafes during extended stays.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "ligronesenruta.com",
+      "kind": "personal-blog",
+      "url": "https://ligronesenruta.com/familias-por-el-mundo-2/",
+      "snippet": "Como familia nómada worldschooler, buscamos la comunidad en cada uno de nuestros destinos, eligiendo algunos.",
+      "nestingClaim": true,
+      "date": "2022-07-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valencia--es",
+      "domain": "ligronesenruta.com",
+      "kind": "personal-blog",
+      "url": "https://ligronesenruta.com/familias-por-el-mundo-2/",
+      "snippet": "Primer Congreso de familias Worldschoolers de habla hispana se celebrará en Valencia del 7 al 10 de Septiembre.",
+      "nestingClaim": false,
+      "date": "2023-06-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "stokk-ya--no",
+      "domain": "ligronesenruta.com",
+      "kind": "personal-blog",
+      "url": "https://ligronesenruta.com/worldschooling/",
+      "snippet": "Family establishing roots and working in this location as part of affincarse (settling in) worldschooling strategy.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "athens--gr",
+      "domain": "magpieeyekids.com",
+      "kind": "personal-blog",
+      "url": "https://www.magpieeyekids.com/blog/worldschoolingpopuphubathens2023",
+      "snippet": "pop-up events like this, where families come together to learn, share experiences, and create unforgettable memories — week-long gathering hub",
+      "nestingClaim": false,
+      "date": "2023-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "mako.co.il",
+      "kind": "press",
+      "url": "https://www.mako.co.il/home-family-kids/back_to_school/Article-0fb52656bdb0281027.htm",
+      "snippet": "~500-600 expat families, 200 of them Israeli, living on the island; island supports expat living with Western medicine and pleasant, simple life on modest budget",
+      "nestingClaim": true,
+      "date": "2022-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "me-bo-life.com",
+      "kind": "personal-blog",
+      "url": "https://www.me-bo-life.com/chris/chris-blog/2677326_collaboration-and-meetups-for-home-worldschooling-families-in-bansko",
+      "snippet": "Bansko—a small town that has quietly grown into a nexus for digital nomads and creative families",
+      "nestingClaim": true,
+      "date": "2025-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "obidim--bg",
+      "domain": "me-bo-life.com",
+      "kind": "personal-blog",
+      "url": "https://www.me-bo-life.com/chris/chris-blog/2677326_collaboration-and-meetups-for-home-worldschooling-families-in-bansko",
+      "snippet": "ubuntu-ubuntu stands as a haven for creative connection and holistic learning serving Home-/Worldschooling Families",
+      "nestingClaim": true,
+      "date": "2025-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "meetthearshads.com",
+      "kind": "personal-blog",
+      "url": "https://meetthearshads.com/koh-lanta-6-months-on-a-thai-island-worldschooling-our-4-kids/",
+      "snippet": "Being part of a 5-month worldschooling community on Koh Lanta enabled families to continually keep a routine together.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "mexicotravel.blog",
+      "kind": "personal-blog",
+      "url": "https://mexicotravel.blog/about/",
+      "snippet": "Author's family found a great community in San Miguel de Allende and fell in love with its colorful culture; family relocated here in 2021 and established community roots.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "קהילות נוודים בליסבון מציעות תמיכה חברתית ועסקית (nomad communities in Lisbon offering social and business support).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "madeira--pt",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "קהילות חזקות של משפחות נוודות שמציעות תמיכה הדדית (strong communities of nomadic families offering mutual support).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "porto--pt",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "תשתיות טובות, ויזות נוודים דיגיטליים וקהילות תוססות (good infrastructure, digital nomad visas and vibrant communities).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "barcelona--es",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "ערים מרכזות תוססות לנוודים, עם תשתיות מצוינות (vibrant nomad hub cities with excellent infrastructure).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "madrid--es",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "מרכזים תוססים לנוודים, עם תשתיות מצוינות וקהילות (vibrant nomad centers with excellent infrastructure and communities).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "ידועה בקהילות דינמיות, מפגשים קבועים וחיי חברה (known for dynamic communities, regular meetups and social life).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "מרכז נוודות מבוסס מזה שנים, עם קהילות פעילות (established nomad center for years, with active communities).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "medell-n--co",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "מושכת נוודים עם מזג אוויר נעים וקהילות מתפתחות (attracting nomads with pleasant weather and growing communities).",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cape-town--za",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "מתפתחת כמרכז נוודים בזכות עלויות מחיה נוחות (developing as a nomad hub thanks to affordable cost of living).",
+      "nestingClaim": false,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tenerife--es",
+      "domain": "mikanlesham.com",
+      "kind": "press",
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "snippet": "איי הקנרים מושכים משפחות, מאפשרים מסגרת חינוכית (Canary Islands attract families, enabling educational frameworks).",
+      "nestingClaim": false,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "mumsnet.com",
+      "kind": "forum",
+      "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/5308715-would-you-take-your-kids-out-of-school-to-go-travelling?page=3",
+      "snippet": "We also joined the Bliss Hub in Koh Lanta which was great — forum poster describing family-gathering hub experience",
+      "nestingClaim": true,
+      "date": "2025-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "mumsnet.com",
+      "kind": "forum",
+      "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/5308715-would-you-take-your-kids-out-of-school-to-go-travelling?page=3",
+      "snippet": "Our boys also spent six weeks in a little international school in Bali that took temporary enrolments — family basing for extended period",
+      "nestingClaim": true,
+      "date": "2025-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "antigua--gt",
+      "domain": "nobackhome.com",
+      "kind": "personal-blog",
+      "url": "https://nobackhome.com/spanish-schools-in-guatemala/",
+      "snippet": "UNESCO World Heritage town filled with all the places that foreigners like to frequent — local restaurants, shops, and Spanish schools; a base for traveling families.",
+      "nestingClaim": true,
+      "date": "2018-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-pedro--gt",
+      "domain": "nobackhome.com",
+      "kind": "personal-blog",
+      "url": "https://nobackhome.com/spanish-schools-in-guatemala/",
+      "snippet": "Hillside town at Lake Atitlan; those tourists who do visit tend to stay for a while — our unofficial calculation put this from 3 weeks to 13 years!",
+      "nestingClaim": true,
+      "date": "2018-12",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "notextingandtacking.com",
+      "kind": "personal-blog",
+      "url": "https://www.notextingandtacking.com/13-reasons-we-love-world-schooling-in-bulgaria-amazing-and-affordable/",
+      "snippet": "There is a World-schooling hub in Bulgaria...It is in one of the prettiest mountain towns – Bansko, in Pirin Mountain.",
+      "nestingClaim": true,
+      "date": "2022-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "ourhappylife.co",
+      "kind": "personal-blog",
+      "url": "https://ourhappylife.co/hoi-an-lanterns-rice-fields-and-warm-smiles/",
+      "snippet": "Wonderful worldschooling community here, with many families choosing to stay for months at a time.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+      "snippet": "Three-month pop-up worldschooling community offering weekly education activities, playdates, and winter adventures for traveling families.",
+      "nestingClaim": true,
+      "date": "2021-07-22",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "anahata--mx",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+      "snippet": "Established worldschooling learning community welcoming families seeking alternative education experiences.",
+      "nestingClaim": true,
+      "date": "2021-07-22",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tribodar--xx",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+      "snippet": "Established worldschooling community attracting families interested in alternative education.",
+      "nestingClaim": true,
+      "date": "2021-07-22",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "penang--my",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "snippet": "Penang (still our longest stay to date, at 10 months) — family based here for an extended period.",
+      "nestingClaim": true,
+      "date": "2021-04-29",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "snippet": "Best places to meet other world schoolers: Hoi An (Vietnam), Bali, and Kuala Lumpur (Malaysia).",
+      "nestingClaim": true,
+      "date": "2021-04-29",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "snippet": "Six months house sitting in Canggu, Bali. Best places to meet other world schoolers includes Bali.",
+      "nestingClaim": true,
+      "date": "2021-04-29",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "snippet": "Best places to meet other world schoolers: Hoi An (Vietnam), Bali, and Kuala Lumpur (Malaysia).",
+      "nestingClaim": true,
+      "date": "2021-04-29",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "snippet": "Best example of East meets West: Chiang Mai — named as a key slow-travel worldschooling destination.",
+      "nestingClaim": true,
+      "date": "2021-04-29",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "url": "https://parentingandpassports.com/",
+      "snippet": "Finding Home on a Thai Island: How Koh Lanta Changed Our Family Forever — framed as a long-term family nesting place.",
+      "nestingClaim": true,
+      "date": "2026-05-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sintra--pt",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Permanent Location: Sintra Portugal — providing accommodations, an education center for families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "syros--gr",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life permanent location opening around the world — Syros, Greece (an island near Mykonos)",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pistoia--it",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Pistoia, Italy (in Tuscany) — school, housing, co-working for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "sanur--id",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Sanur, Bali (on the coast) — offering accommodations and education center for nesting families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kotor--me",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Kotor Montenegro (on the coast, old town called Kotor) — worldschooling family base",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "estepona--es",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Estepona Spain (in Costa del Sol region of Andalusia) — family nesting program",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-barra--uy",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Boundless Life Uruguay (La Barra, near Punta del Este) — worldschooling family nesting location",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Located in San Miguel de Allende, this program just started in 2025 — worldschooling family hub",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cabrera--do",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "The Hive Location: Cabrera, Dominican Republic — welcomes worldschoolers in 6-week sessions",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Deliberate Detour Hub location — including Oaxaca Mexico, where worldschooling families gather",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cusco--pe",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Deliberate Detour Hub location — Cusco Peru, where worldschooling families base themselves",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "costa-da-morte--es",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "iSlowCoLiving — located in Costa da Morte on the Northwestern Coast of Spain for family gatherings",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "gaula--pt",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Campus Da Terra — located on the organic farm GroVerdi in Gaula on Madeira, Portugal for families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ko-lanta--th",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Global Classroom Term 1: Ko Lanta (Thailand) — worldschooling families based together for a term",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lombok--id",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Global Classroom Term 2: Lombok (Indonesia) — worldschooling families based together for a term",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Global Classroom Term 3: Hoi An (Vietnam) — worldschooling families based together for a term",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "goa--in",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Worldschool Hub Goa — located in southwestern India; worldschooling families gather and nest here",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "luxor--eg",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "The Hub Project (formerly Worldschool Luxor Egypt pre-2024) — established worldschooling family base",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cura-ao--nl",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "ÎleO Worldschool in Curaçao (Caribbean) — cohorts run in 1–3 month sessions for worldschooling families",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "palomino--co",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "HOLSS School / NAM: Located in Palomino, Colombia — about 5 hours from Cartagena; family school hub",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cacao-coast--xx",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Cacao Coast Worldschooling Hub — Costa Rica, on the Caribbean coast; families gather seasonally",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hvar--hr",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Field School of Hvar — off the coast of Croatia; summer and fall 2026 worldschooling family program",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chinchin--co",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Colegio Menfis / Minga House — bilingual local school in the coffee region of Colombia for worldschoolers",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "muizenberg--za",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Nature Lore — located in Cape Town, South Africa (in Noordhoek); worldschooling family gathering place",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "southern-tuscany--xx",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Earthbound — launching in southern Tuscany, Italy, Spring 2027; worldschooling family program",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "honduras--us",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Noma Collective — announced their Family Hub for 2026 in Honduras; worldschooling families expected to gather",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "valencia--es",
+      "domain": "passportexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "snippet": "Unschool Adventures — In 2026, they are going to Valencia; family program destination",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "pearceonearth.com",
+      "kind": "personal-blog",
+      "url": "https://pearceonearth.com/category/travel/san-miguel/",
+      "snippet": "growing worldschooling community, the many opportunities for our girls to take classes at reasonable prices, the eternal spring climate — family purchased a home there.",
+      "nestingClaim": true,
+      "date": "2017-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "pearceonearth.com",
+      "kind": "personal-blog",
+      "url": "https://pearceonearth.com/finding-home-in-san-miguel-de-allende/",
+      "snippet": "Some cities like San Miguel and Ubud have become great hubs for worldschoolers.",
+      "nestingClaim": true,
+      "date": "2017-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hua-hin--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "snippet": "Families have been visiting Hua Hin — one of the popular spots for worldschooling families in Thailand",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/koh-phangan/",
+      "snippet": "Over 300–500 families currently on the island; most work online. A thriving worldschooling community nesting on Koh Phangan.",
+      "nestingClaim": true,
+      "date": "2024-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-samui--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "snippet": "Families have been visiting Koh Samui — a popular spot for worldschooling families in Thailand",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "krabi--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "snippet": "Families have been visiting Krabi — a popular spot for worldschooling families in Thailand",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "snippet": "Families have been visiting Pai — a popular spot for worldschooling families in Thailand",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "snippet": "Families have been visiting Chiang Mai — a popular spot for worldschooling families in Thailand",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/hubsandfamilies/",
+      "snippet": "Worldschooling in Thailand — dedicated blog post covering Koh Lanta as a worldschooling family destination",
+      "nestingClaim": true,
+      "date": "2024-11",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ourland--xx",
+      "domain": "rebeccawegmann.com",
+      "kind": "personal-blog",
+      "url": "https://rebeccawegmann.com/koh-phangan/",
+      "snippet": "Referenced as alternative community for education-focused professionals near Bangkok, Thailand",
+      "nestingClaim": false,
+      "date": "2024-02",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "fethiye--tr",
+      "domain": "remoterebellion.com",
+      "kind": "press",
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "snippet": "Perennial favourite worldschooling hub destination where families gather and base themselves.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "remoterebellion.com",
+      "kind": "press",
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "snippet": "Listed among well-known worldschooling hubs where digital-nomad families gather and base themselves.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "remoterebellion.com",
+      "kind": "press",
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "snippet": "Named as an established gathering locale for worldschooling and nomadic families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "la-herradura--es",
+      "domain": "remoterebellion.com",
+      "kind": "press",
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "snippet": "Identified as a perennial worldschooling hub destination for families.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "remoterebellion.com",
+      "kind": "press",
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "snippet": "\"Only hub where both communities are so well represented\" — families and all nomads — a dual worldschooling/nomad hub.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "remoteworkeurope.eu",
+      "kind": "press",
+      "url": "https://remoteworkeurope.eu/insights/bansko-obidim-worldschooling/",
+      "snippet": "Remote-working families base themselves seasonally or long-term in Bansko; established hub for worldschooling and homeschooling communities.",
+      "nestingClaim": true,
+      "date": "2025-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "obidim--bg",
+      "domain": "remoteworkeurope.eu",
+      "kind": "press",
+      "url": "https://remoteworkeurope.eu/insights/bansko-obidim-worldschooling/",
+      "snippet": "Village near Bansko hosting Ubuntu Hub, a self-directed learning space specifically for remote-working families' children.",
+      "nestingClaim": true,
+      "date": "2025-07",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "pai--th",
+      "domain": "restlessmumma.substack.com",
+      "kind": "personal-blog",
+      "url": "https://restlessmumma.substack.com/p/the-great-arrival",
+      "snippet": "pop up community of world schooling families we'd hoped to find in Pai — community expected but not yet materialised.",
+      "nestingClaim": false,
+      "date": "2026-05-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "restlessmumma.substack.com",
+      "kind": "personal-blog",
+      "url": "https://restlessmumma.substack.com/p/the-nanny-wagon",
+      "snippet": "We'd made a few trips out to connect with the world schooling community we hoped to be a part of on Koh Lanta.",
+      "nestingClaim": true,
+      "date": "2026-05-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "scandasia.com",
+      "kind": "press",
+      "url": "https://scandasia.com/3397-taking-thaim-out-immensely-popular-among-the-swedes/",
+      "snippet": "Lanta has become known as a very popular destination for Swedes — 90% of all visitors during 2006/2007 high season were from the Nordic country",
+      "nestingClaim": true,
+      "date": "2007-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "varkala--in",
+      "domain": "scandasia.com",
+      "kind": "press",
+      "url": "https://scandasia.com/3397-taking-thaim-out-immensely-popular-among-the-swedes/",
+      "snippet": "Until more accommodation alternatives can be finalised they have meanwhile opened a franchise school in Varkala, India",
+      "nestingClaim": false,
+      "date": "2007-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "ubud--id",
+      "domain": "scientificamerican.com",
+      "kind": "press",
+      "url": "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/",
+      "snippet": "A well-known choice for parents who worldschool their children — established destination where families enroll their kids.",
+      "nestingClaim": true,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "huatulco--mx",
+      "domain": "scientificamerican.com",
+      "kind": "press",
+      "url": "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/",
+      "snippet": "Jungle School in Huatulco is a private alternative schooling option for worldschooling families.",
+      "nestingClaim": false,
+      "date": "2024-10",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "shoutoutuk.org",
+      "kind": "press",
+      "url": "https://www.shoutoutuk.org/2026/04/22/what-i-learned-about-education-at-a-worldschooling-hub/",
+      "snippet": "I recently volunteered as a facilitator at a world schooling hub in Bansko, Bulgaria — families stayed in a hotel complex, engaged in skiing, arts & crafts, and cultural trips.",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "playa-del-carmen--mx",
+      "domain": "simplehomeschool.net",
+      "kind": "personal-blog",
+      "url": "https://simplehomeschool.net/mexico-central-america/",
+      "snippet": "Playa del Carmen has a strong homeschooling/worldschooling community where families gather and base themselves.",
+      "nestingClaim": true,
+      "date": "2016-08",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "smithsontourblog.com",
+      "kind": "personal-blog",
+      "url": "https://www.smithsontourblog.com/chiang-mai/family-travel-chiang-mai-smiths-on-tour",
+      "snippet": "Trendy Chiang Mai neighbourhood packed with cafes, coworking spots, and other expats, suitable for extended family stays.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "veracruz--mx",
+      "domain": "the5worldexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://www.the5worldexplorers.com/worldschooling-pop-up/",
+      "snippet": "We just finished hosting our first two worldschooling pop-ups in Veracruz, Mexico — families gathering for week-long pop-up events",
+      "nestingClaim": false,
+      "date": "2023-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "florence--it",
+      "domain": "the5worldexplorers.com",
+      "kind": "personal-blog",
+      "url": "https://www.the5worldexplorers.com/worldschooling-pop-up/",
+      "snippet": "add one in Florence, Italy as well — potential future worldschooling pop-up gathering location",
+      "nestingClaim": false,
+      "date": "2023-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "thebinaschool.com",
+      "kind": "press",
+      "url": "https://www.thebinaschool.com/blog/worldschooling",
+      "snippet": "Popular hub where worldschooling families gather for meetups and community programs.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "thebinaschool.com",
+      "kind": "press",
+      "url": "https://www.thebinaschool.com/blog/worldschooling",
+      "snippet": "Worldschooling hub for traveling families and digital nomads; mentioned as seasonal gathering point.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "thebinaschool.com",
+      "kind": "press",
+      "url": "https://www.thebinaschool.com/blog/worldschooling",
+      "snippet": "Community immersion programs for traveling families and digital nomads; mentioned alongside other hubs.",
+      "nestingClaim": false,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bansko--bg",
+      "domain": "theflowjourney.substack.com",
+      "kind": "personal-blog",
+      "url": "https://theflowjourney.substack.com/p/worldschooling-part-one-the-why-of",
+      "snippet": "Weekly homeschooling/worldschooling family gathering in the forest. Bansko, Bulgaria. Summer 2025.",
+      "nestingClaim": true,
+      "date": "2026-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "dominican-republic--do",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "The Hive offers multiple programs for worldschooling families to connect through 1-week or year-long sessions.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "guatemala--gt",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Deliberate Detour runs two-to-four-week programs in Guatemala for traveling families with children ages 7-16.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "mexico--mx",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Deliberate Detour runs two-to-four-week programs in Mexico for traveling families with children ages 7-16.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "peru--us",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Deliberate Detour runs two-to-four-week programs in Peru for traveling families with children ages 7-16.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "yucatan--mx",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Anahata provides co-living environment bringing worldschoolers together in Yucatan for cultural immersion and adventure.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bali--id",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Green School in Bali operates as long-term option for international schooling and multicultural socialization for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "madeira--pt",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Campus da Terra welcomes worldschooling families for flexible, community-based homeschooling on an ecological farm.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oaxaca--mx",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Tlayudona connects worldschoolers with local hosts in Oaxaca for authentic experiences and language immersion.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "st-thomas--jm",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "The Source Farm functions as multicultural learning village and ecovillage community for worldschooling families.",
+      "nestingClaim": true,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cloughjordan--ie",
+      "domain": "theprofessionalhobo.com",
+      "kind": "personal-blog",
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "snippet": "Cloughjordan Ecovillage provides short-term accommodation and classes in sustainability for worldschooling families.",
+      "nestingClaim": false,
+      "date": "2025-03",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "phu-quoc--vn",
+      "domain": "thetravellingtrowberrys.com",
+      "kind": "personal-blog",
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "snippet": "Better Together Hubs set in Le Forest hotel and resort; hub runs for 3-week sessions between October and April for families with kids aged 3–13.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "oria--es",
+      "domain": "thetravellingtrowberrys.com",
+      "kind": "personal-blog",
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "snippet": "Located in the mountains in rural Spain, this place is very much a community driven worldschool hub — continuous open community with family apartments, no fixed start/end dates.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "lake-atitlan--gt",
+      "domain": "thetravellingtrowberrys.com",
+      "kind": "personal-blog",
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "snippet": "Culture Chalk hub in San Juan, Lake Atitlan; 11-day sessions with cultural immersion, Spanish lessons, and host family pairing program.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "kuala-lumpur--my",
+      "domain": "thetravellingtrowberrys.com",
+      "kind": "personal-blog",
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "snippet": "Bliss Hubs: free and flexible community-driven hub with members suggesting activities to join; WhatsApp-coordinated weekly activities.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-lanta--th",
+      "domain": "thetravellingtrowberrys.com",
+      "kind": "personal-blog",
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "snippet": "During the months November–April there is a huge worldschooling community on Koh Lanta.",
+      "nestingClaim": true,
+      "date": "unknown",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "thinkingnomads.com",
+      "kind": "personal-blog",
+      "url": "https://thinkingnomads.com/living-in-vietnam-with-children-hoi-an/",
+      "snippet": "Hoi An has a thriving expat community and is presented as a base for families with ancient history and beaches nearby.",
+      "nestingClaim": true,
+      "date": "2019-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "visaway.co.il",
+      "kind": "press",
+      "url": "https://visaway.co.il/thailand-relocation-with-kids/",
+      "snippet": "Strong, cohesive Israeli community on Koh Phangan; Israeli families have established Hebrew-language schools and active social support networks on the island.",
+      "nestingClaim": true,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-samui--th",
+      "domain": "visaway.co.il",
+      "kind": "press",
+      "url": "https://visaway.co.il/thailand-relocation-with-kids/",
+      "snippet": "Mentioned alongside Koh Phangan as having an established Israeli family community with schools in Hebrew and mutual support networks.",
+      "nestingClaim": true,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "san-miguel-de-allende--mx",
+      "domain": "wildjunket.com",
+      "kind": "personal-blog",
+      "url": "https://www.wildjunket.com/digital-nomad-family/",
+      "snippet": "\"We were part of an amazing community\" after moving to San Miguel de Allende for deeper cultural connection.",
+      "nestingClaim": true,
+      "date": "2026-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "cape-town--za",
+      "domain": "wildjunket.com",
+      "kind": "personal-blog",
+      "url": "https://www.wildjunket.com/digital-nomad-family/",
+      "snippet": "Family currently living in Cape Town, \"absolutely loving the accessible nature, outdoorsy life\" as their base.",
+      "nestingClaim": false,
+      "date": "2026-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "playa-del-carmen--mx",
+      "domain": "wildjunket.com",
+      "kind": "personal-blog",
+      "url": "https://www.wildjunket.com/digital-nomad-family/",
+      "snippet": "Daughter attended the El Arbol project-based school in Playa del Carmen while the family was based there.",
+      "nestingClaim": false,
+      "date": "2026-01",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "worldtravelambitions.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/",
+      "snippet": "Multiple families base themselves in beach villas near Hoi An's An Bang Beach area for extended worldschooling stays.",
+      "nestingClaim": true,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "phu-quoc--vn",
+      "domain": "worldtravelambitions.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/",
+      "snippet": "Families from other hubs migrate here; another family setting up a Phu Quoc hub that anyone could join.",
+      "nestingClaim": true,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "phong-nha--vn",
+      "domain": "worldtravelambitions.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/",
+      "snippet": "Family stayed four months during initial slow-travel phase in 2020.",
+      "nestingClaim": false,
+      "date": "2025-09",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "chiang-mai--th",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/",
+      "snippet": "Cheap, lovely, popular destination where it's easy to just hang out for a while — a recurring worldschooling base.",
+      "nestingClaim": false,
+      "date": "2025-01-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "hoi-an--vn",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling/",
+      "snippet": "There are also places where people just gravitate to, like Hoi An.",
+      "nestingClaim": true,
+      "date": "2025-11-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "koh-phangan--th",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/",
+      "snippet": "We lived right here, on Ko Phangan, for 6 weeks — family nesting on the island for an extended stay.",
+      "nestingClaim": true,
+      "date": "2025-01-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "romania--ro",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/",
+      "snippet": "Romania was the other place that we spent months on end. That was a very special time.",
+      "nestingClaim": true,
+      "date": "2025-01-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "london--gb",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/",
+      "snippet": "We spent 10 months in London in year 2 on the road and we did a couple of terms at Forest School.",
+      "nestingClaim": true,
+      "date": "2025-01-06",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "portugal--pt",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling/",
+      "snippet": "There are various worldschooling hubs and communities. There's one in Portugal.",
+      "nestingClaim": true,
+      "date": "2025-11-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "greece--us",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling/",
+      "snippet": "There are various worldschooling hubs and communities including Greece, Bulgaria, Hoi An.",
+      "nestingClaim": true,
+      "date": "2025-11-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "bulgaria--bg",
+      "domain": "worldtravelfamily.com",
+      "kind": "personal-blog",
+      "url": "https://worldtravelfamily.com/worldschooling/",
+      "snippet": "There are various worldschooling hubs and communities including Bulgaria, Hoi An.",
+      "nestingClaim": true,
+      "date": "2025-11-21",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "thessaloniki--gr",
+      "domain": "ynet.co.il",
+      "kind": "press",
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "snippet": "International community village (כפר קהילתי בינלאומי) — Neorama project with 23 Israeli families forming initial nucleus for long-term nesting",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "artz-sentira--xx",
+      "domain": "ynet.co.il",
+      "kind": "press",
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "snippet": "International kibbutz (קיבוץ בינלאומי) — families gathering for extended stays and seminars in community setting",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "tatouon-area--xx",
+      "domain": "ynet.co.il",
+      "kind": "press",
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "snippet": "Neighbor community (קהילת שכנים) — 6+ families interested, school planned for summer; community nesting in formation",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    },
+    {
+      "placeId": "castelo-branco-region-spirela-eco-village--xx",
+      "domain": "ynet.co.il",
+      "kind": "press",
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "snippet": "Multicultural ecological community — 20 residents, rotating visitors staying months to years; explicit long-term family nesting",
+      "nestingClaim": true,
+      "date": "2026-04",
+      "addedAt": "2026-06-15"
+    }
+  ]
+}

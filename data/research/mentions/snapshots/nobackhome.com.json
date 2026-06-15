@@ -1,0 +1,39 @@
+{
+  "domain": "nobackhome.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://nobackhome.com/spanish-schools-in-guatemala/",
+      "contentHash": "f7c91d8f1b845bbf327822c2b926c429df67f80424299abf4e6725d0b790dba5",
+      "placeMentions": [
+        {
+          "place": "Antigua",
+          "country": "Guatemala",
+          "snippet": "UNESCO World Heritage town filled with all the places that foreigners like to frequent — local restaurants, shops, and Spanish schools; a base for traveling families.",
+          "nestingClaim": true,
+          "asOfDate": "2018-12"
+        },
+        {
+          "place": "San Pedro",
+          "country": "Guatemala",
+          "snippet": "Hillside town at Lake Atitlan; those tourists who do visit tend to stay for a while — our unofficial calculation put this from 3 weeks to 13 years!",
+          "nestingClaim": true,
+          "asOfDate": "2018-12"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.ixchelschool.com/", "anchor": "Ixchel Spanish School" },
+        { "url": "http://www.launion.edu.gt/", "anchor": "La Union Spanish School" },
+        { "url": "https://spanish-school-don-pedro-de-alvarado.business.site/", "anchor": "Spanish School Don Pedro de Alvarado" },
+        { "url": "https://www.studyspanishinguatemala.com/", "anchor": "San Pedro Spanish School" },
+        { "url": "https://lakeatitlanspanishschool.com/", "anchor": "Lake Atitlan Spanish School" },
+        { "url": "http://cooperativeschoolsanpedro.edu.gt/", "anchor": "Cooperative" },
+        { "url": "http://www.celasmaya.edu.gt", "anchor": "Celas Maya Spanish School" },
+        { "url": "http://www.xelaspanish.org/", "anchor": "Kamalbe Spanish School Xela" },
+        { "url": "https://www.layerculture.com/blog/basic-spanish-conversation-tips/", "anchor": "Spanish conversation skills" },
+        { "url": "https://www.lonelyplanet.com/thorntree/welcome", "anchor": "Lonely Planet" },
+        { "url": "https://www.tripadvisor.com/Profile/nobackhome", "anchor": "TripAdvisor" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "domain": "ourhappylife.co",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://ourhappylife.co/hoi-an-lanterns-rice-fields-and-warm-smiles/",
+      "contentHash": "5e71c6b1928919a415b8f70f8fe0c47fd0627c71593e9e85f29ec3d00c7e32ea",
+      "placeMentions": [
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Wonderful worldschooling community here, with many families choosing to stay for months at a time.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

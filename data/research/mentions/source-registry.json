@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T15:40:03.476Z",
+  "updatedAt": "2026-06-15T16:26:08.497Z",
   "sources": [
     {
       "domain": "2teachersontour.com",
@@ -54,6 +54,28 @@
       "notes": ""
     },
     {
+      "domain": "acupod.se",
+      "name": "acupod.se",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "adrenalin.bg",
+      "name": "adrenalin.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "adventuretravelfamily.co.uk",
       "name": "Adventure Travel Family",
       "kind": "personal-blog",
@@ -67,6 +89,50 @@
       "notes": "LLM-discovered (blogs_1.txt; asOf 2018-07); places: Bali — A parent describes moving the family to Bali, using it as a worldschooling base, and encountering an increasing number of worldschooling families there."
     },
     {
+      "domain": "airbnb.co.uk",
+      "name": "airbnb.co.uk",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "airbnb.com",
+      "name": "airbnb.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "altspacecoworking.com",
+      "name": "altspacecoworking.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "amandaashworth.com",
+      "name": "amandaashworth.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "amanilight.com",
       "name": "amanilight.com",
       "kind": "hub-site",
@@ -78,6 +144,50 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "amazinglanta.com",
+      "name": "amazinglanta.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "amazon.co.uk",
+      "name": "amazon.co.uk",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "amazon.com",
+      "name": "amazon.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "amzn.to",
+      "name": "amzn.to",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "anahataworldschoolingcommunity.com",
@@ -119,6 +229,17 @@
       "notes": ""
     },
     {
+      "domain": "andysto.com",
+      "name": "andysto.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "ankorpavift.com",
       "name": "Ankor på vift",
       "kind": "personal-blog",
@@ -130,6 +251,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (blogs_1.txt; asOf 2020-03); places: Koh Lanta — A family travel account describes the seasonal worldschooling community around Long Beach and the concentration of Swedish families on Koh Lanta."
+    },
+    {
+      "domain": "ansa.it",
+      "name": "ansa.it",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "antiguaworldschool.com",
@@ -145,6 +277,17 @@
       "notes": ""
     },
     {
+      "domain": "archelon.gr",
+      "name": "archelon.gr",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "arcticterns.global",
       "name": "arcticterns.global",
       "kind": "directory",
@@ -156,6 +299,28 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "artgallery.gov.my",
+      "name": "artgallery.gov.my",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "babysits.pt",
+      "name": "babysits.pt",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "bambiweb.org",
@@ -182,6 +347,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "banskoski.com",
+      "name": "banskoski.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "name": "bbc.co.uk",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "beacons.ai",
+      "name": "beacons.ai",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "bigadventureswithlittlefeet.com",
@@ -227,6 +425,17 @@
       "notes": ""
     },
     {
+      "domain": "blog.bsnresort.com",
+      "name": "blog.bsnresort.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "blog.worldschoolhubs.com",
       "name": "blog.worldschoolhubs.com",
       "kind": "directory",
@@ -238,6 +447,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "bohemia.bg",
+      "name": "bohemia.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "booking.com",
+      "name": "booking.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "booking.stay22.com",
+      "name": "booking.stay22.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "bostontribetravels.com",
@@ -280,6 +522,61 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "bring-the-kids.com",
+      "name": "bring-the-kids.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "bulgariamonasteries.com",
+      "name": "bulgariamonasteries.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "bulgariatravel.org",
+      "name": "bulgariatravel.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "businessinyourbackpack.com",
+      "name": "businessinyourbackpack.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "buymeacoffee.com",
+      "name": "buymeacoffee.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "buzzsprout.com",
@@ -335,6 +632,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "cbsnews.com",
+      "name": "cbsnews.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "cecilieconrad.com",
       "name": "Cecilie Conrad",
       "kind": "personal-blog",
@@ -346,6 +654,28 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-09); places: Poinguinim, Goa — A long-form interview with a hub organizer describes the South Goa family community, cohort size, and why families settle there."
+    },
+    {
+      "domain": "celasmaya.edu.gt",
+      "name": "celasmaya.edu.gt",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "centralmarket.com.my",
+      "name": "centralmarket.com.my",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "changetheworldwithkaryn.com",
@@ -361,6 +691,17 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-03); places: La Herradura, Punta la Barca, Bansko, Oria — A worldschooling parent ranks named hubs for traveling families and discusses their community structures."
     },
     {
+      "domain": "chapkadirect.es",
+      "name": "chapkadirect.es",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "chiangmaikidsclub.com",
       "name": "Chiang Mai Kids Club",
       "kind": "directory",
@@ -372,6 +713,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Chiang Mai — A parent-built local hub page describes Chiang Mai's broader rise as a gathering place for homeschooling and worldschooling families."
+    },
+    {
+      "domain": "chicagoreviewpress.com",
+      "name": "chicagoreviewpress.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "cicerolearning.com",
@@ -387,6 +739,39 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-02); places: Bansko, Nosara, Cabrera, Istanbul, Osaka, Florence — A curated overview names specific worldschooling hubs and describes the communities and educational formats available in each place."
     },
     {
+      "domain": "clfb.org.il",
+      "name": "clfb.org.il",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "cnbc.com",
+      "name": "cnbc.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "coelectrix.com",
+      "name": "coelectrix.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "cohli.com",
       "name": "cohli.com",
       "kind": "directory",
@@ -398,6 +783,50 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "colibriwp.com",
+      "name": "colibriwp.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "contextsforlearning.com",
+      "name": "contextsforlearning.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "cooperativeschoolsanpedro.edu.gt",
+      "name": "cooperativeschoolsanpedro.edu.gt",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "criminalcodehelp.ca",
+      "name": "criminalcodehelp.ca",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "culturechalk.org",
@@ -428,6 +857,28 @@
       "notes": ""
     },
     {
+      "domain": "deliberatetravel.com",
+      "name": "deliberatetravel.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "delivery-kpg.com",
+      "name": "delivery-kpg.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "destinationlesstravel.com",
       "name": "destinationlesstravel.com",
       "kind": "hub-site",
@@ -441,6 +892,17 @@
       "notes": ""
     },
     {
+      "domain": "discovercars.com",
+      "name": "discovercars.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "dreambigtravels.com.au",
       "name": "dreambigtravels.com.au",
       "kind": "directory",
@@ -452,6 +914,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "dunster.co.za",
+      "name": "dunster.co.za",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "earthbound.living",
@@ -493,6 +966,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "easyrent.bg",
+      "name": "easyrent.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "ecovillagegeorgia.ge",
       "name": "ecovillagegeorgia.ge",
       "kind": "hub-site",
@@ -506,6 +990,17 @@
       "notes": ""
     },
     {
+      "domain": "ecovillagesembrandovida.wordpress.com",
+      "name": "ecovillagesembrandovida.wordpress.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "educateaway.co.uk",
       "name": "Educate Away",
       "kind": "personal-blog",
@@ -517,6 +1012,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (blogs_1.txt; asOf unknown); places: Luxor — A worldschooling family recounts joining a four-week community in Luxor with other traveling families and describes the resulting temporary village."
+    },
+    {
+      "domain": "educationnext.beehiiv.com",
+      "name": "educationnext.beehiiv.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "educationnext.in",
@@ -559,6 +1065,17 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: Bansko, Andalusia, Bali, Portugal — A Dutch mother of four explains how families gather for months or seasons in recurring worldschooling hubs."
     },
     {
+      "domain": "eggeby.se",
+      "name": "eggeby.se",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "elateth.com",
       "name": "elateth.com",
       "kind": "directory",
@@ -583,6 +1100,50 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "ellymcguinness.com",
+      "name": "ellymcguinness.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "en.syok.my",
+      "name": "en.syok.my",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "name": "en.wikipedia.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "erinulrichcreative.com",
+      "name": "erinulrichcreative.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "escuela-montalban.com",
@@ -610,6 +1171,28 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "evisa.gov.vn",
+      "name": "evisa.gov.vn",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "explore-education-statistics.service.gov.uk",
+      "name": "explore-education-statistics.service.gov.uk",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "exploringfamilies.eu",
@@ -645,6 +1228,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "falabrasilschool.com",
+      "name": "falabrasilschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "family-world-travel.com",
       "name": "Family World Travel",
       "kind": "personal-blog",
@@ -658,6 +1252,39 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-08); places: Chiang Mai, Pai, Koh Lanta, Koh Samui, Koh Phangan — A Hebrew family-travel guide has a dedicated nesting section describing Thai destinations with established communities of traveling families."
     },
     {
+      "domain": "familyadventuresummit.com",
+      "name": "familyadventuresummit.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "feeds.buzzsprout.com",
+      "name": "feeds.buzzsprout.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "fest-bg.com",
+      "name": "fest-bg.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "fieldschoolhvar.org",
       "name": "fieldschoolhvar.org",
       "kind": "directory",
@@ -669,6 +1296,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "files.eric.ed.gov",
+      "name": "files.eric.ed.gov",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "fiveticketstoroam.com",
@@ -697,6 +1335,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "foreverwildlt.com",
+      "name": "foreverwildlt.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "freedommontessoriacademy.com",
       "name": "freedommontessoriacademy.com",
       "kind": "hub-site",
@@ -708,6 +1357,28 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "frenchitivity.com",
+      "name": "frenchitivity.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "frontiersin.org",
+      "name": "frontiersin.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "futurehumanproject.co",
@@ -747,6 +1418,50 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "geckocamper.com",
+      "name": "geckocamper.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "genki.world",
+      "name": "genki.world",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "getyourguide.com",
+      "name": "getyourguide.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "goso.se",
+      "name": "goso.se",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "gowatkinsgo.com",
@@ -790,6 +1505,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "gyg.me",
+      "name": "gyg.me",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "hakuba-is.jp",
       "name": "hakuba-is.jp",
       "kind": "hub-site",
@@ -829,6 +1555,17 @@
       "notes": ""
     },
     {
+      "domain": "headstartphuket.com",
+      "name": "headstartphuket.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "heathandalyssa.com",
       "name": "heathandalyssa.com",
       "kind": "personal-blog",
@@ -840,6 +1577,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "holafly.sjv.io",
+      "name": "holafly.sjv.io",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "holss.org",
@@ -868,6 +1616,105 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: San Miguel de Allende, Puerto Vallarta, Playa del Carmen, Oaxaca, Mexico City — A Spanish-language guide identifies Mexican cities with active worldschooling-family communities and learning networks."
     },
     {
+      "domain": "homeschoolgrouphug.com",
+      "name": "homeschoolgrouphug.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "homeschoolingbg.com",
+      "name": "homeschoolingbg.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "homestayswithkids.com",
+      "name": "homestayswithkids.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "hotelscom.stay22.com",
+      "name": "hotelscom.stay22.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "howdoihomeschool.com",
+      "name": "howdoihomeschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "hslda.org",
+      "name": "hslda.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "hubscout.worldschooling.io",
+      "name": "hubscout.worldschooling.io",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "huffingtonpost.co.uk",
+      "name": "huffingtonpost.co.uk",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "iatiseguros.com",
+      "name": "iatiseguros.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "icomexico.com",
       "name": "icomexico.com",
       "kind": "hub-site",
@@ -892,6 +1739,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "inderscienceonline.com",
+      "name": "inderscienceonline.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "indianempire.oddle.me",
+      "name": "indianempire.oddle.me",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "inmuebles24.com",
+      "name": "inmuebles24.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "insideromania.ro",
@@ -922,6 +1802,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "isa.ac.th",
+      "name": "isa.ac.th",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "islowcoliving.com",
       "name": "islowcoliving.com",
       "kind": "directory",
@@ -933,6 +1824,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "ixchelschool.com",
+      "name": "ixchelschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "iyariplay.org",
@@ -948,6 +1850,50 @@
       "notes": ""
     },
     {
+      "domain": "jamiecmartin.com",
+      "name": "jamiecmartin.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "julia-digital.co.il",
+      "name": "julia-digital.co.il",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "jumpfoundation.org",
+      "name": "jumpfoundation.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "kadencewp.com",
+      "name": "kadencewp.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "kallipoli.org",
       "name": "kallipoli.org",
       "kind": "directory",
@@ -959,6 +1905,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "khanacademy.org",
+      "name": "khanacademy.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "kingsinterhigh.co.uk",
@@ -987,6 +1944,17 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Algarve, La Herradura, Bansko — A Europe-focused hub guide names seasonal family bases and explains when worldschoolers tend to gather in each."
     },
     {
+      "domain": "lakeatitlanspanishschool.com",
+      "name": "lakeatitlanspanishschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "lametayel.co.il",
       "name": "Lametayel Blogs",
       "kind": "forum",
@@ -1013,6 +1981,39 @@
       "notes": ""
     },
     {
+      "domain": "lantahideaways.com",
+      "name": "lantahideaways.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "launion.edu.gt",
+      "name": "launion.edu.gt",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "layerculture.com",
+      "name": "layerculture.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "learnersandmakers.com",
       "name": "Learners and Makers",
       "kind": "personal-blog",
@@ -1024,6 +2025,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (blogs_1.txt; asOf unknown); places: Chiang Mai — A full-time worldschooling family calls Chiang Mai a popular family hub and describes meeting other traveling families during its seasonal gathering period."
+    },
+    {
+      "domain": "lepaknlearn.com",
+      "name": "lepaknlearn.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "ligronesenruta.com",
@@ -1040,6 +2052,28 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-09); places: Valencia — A Spanish-speaking traveling-family site documents Valencia as a meeting point for the Spanish-language worldschooling community."
     },
     {
+      "domain": "link.springer.com",
+      "name": "link.springer.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "littleforestchiangmai.com",
+      "name": "littleforestchiangmai.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "littlenomadsworld.com",
       "name": "Little Nomads World",
       "kind": "directory",
@@ -1053,6 +2087,39 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: La Herradura, Bansko — A family-nomad directory and story collection surfaces specific worldschooling towns and community experiences."
     },
     {
+      "domain": "liveabroad-pt.com",
+      "name": "liveabroad-pt.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "lonelyplanet.com",
+      "name": "lonelyplanet.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "ltl-korea.com",
+      "name": "ltl-korea.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "luminaedu.org",
       "name": "luminaedu.org",
       "kind": "hub-site",
@@ -1064,6 +2131,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "luxorworldschoolhub.com",
+      "name": "luxorworldschoolhub.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "m.facebook.com",
@@ -1092,6 +2170,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "maevious.com",
+      "name": "maevious.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "magpieeyekids.com",
       "name": "Magpie Eye Kids",
       "kind": "personal-blog",
@@ -1116,6 +2205,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "malaysia.travel",
+      "name": "malaysia.travel",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "mama-adama.pt",
@@ -1263,6 +2363,17 @@
       "notes": ""
     },
     {
+      "domain": "ninelivesgreece.com",
+      "name": "ninelivesgreece.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "nobackhome.com",
       "name": "nobackhome.com",
       "kind": "personal-blog",
@@ -1287,6 +2398,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "nomadswithkids.org",
+      "name": "nomadswithkids.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "notextingandtacking.com",
@@ -1329,6 +2451,39 @@
       "notes": ""
     },
     {
+      "domain": "nyupress.org",
+      "name": "nyupress.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "onlinemarketingdone4you.com",
+      "name": "onlinemarketingdone4you.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "open.spotify.com",
+      "name": "open.spotify.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "ourhappylife.co",
       "name": "Our Happy Life",
       "kind": "personal-blog",
@@ -1355,6 +2510,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "outschool.com",
+      "name": "outschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "outsidetheboxadventures.com",
       "name": "outsidetheboxadventures.com",
       "kind": "directory",
@@ -1368,6 +2534,28 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "overcast.fm",
+      "name": "overcast.fm",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "pangiapass.com",
+      "name": "pangiapass.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "panyaforest.com",
       "name": "panyaforest.com",
       "kind": "hub-site",
@@ -1379,6 +2567,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "paradigmpress.org",
+      "name": "paradigmpress.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "parentingandpassports.com",
@@ -1409,6 +2608,17 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt, gemini-blogs.txt; asOf unknown); places: San Miguel de Allende, Bansko, Bali, Oaxaca, Cusco, Chinchina, Cabrera, Hvar — A worldschooling-family resource page focused specifically on communities and the destinations where traveling families connect."
     },
     {
+      "domain": "payhip.com",
+      "name": "payhip.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "pearceonearth.com",
       "name": "Pearce On Earth",
       "kind": "personal-blog",
@@ -1434,6 +2644,50 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "petronastwintowers.com.my",
+      "name": "petronastwintowers.com.my",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "phanganist.com",
+      "name": "phanganist.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "planetaworldschool.com",
+      "name": "planetaworldschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "podcasts.apple.com",
+      "name": "podcasts.apple.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "portograna.wixsite.com",
@@ -1462,6 +2716,17 @@
       "notes": ""
     },
     {
+      "domain": "progressiveeducation.org",
+      "name": "progressiveeducation.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "projectworldschool.com",
       "name": "projectworldschool.com",
       "kind": "directory",
@@ -1474,6 +2739,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "property24.co.za",
+      "name": "property24.co.za",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "puntalabarca.com",
@@ -1489,6 +2765,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "readingeggs.com",
+      "name": "readingeggs.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "rebeccawegmann.com",
       "name": "Rebecca Wegmann",
       "kind": "personal-blog",
@@ -1502,6 +2789,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Hua Hin, Koh Phangan, Koh Samui, Krabi, Pai, Chiang Mai, Koh Lanta — A worldschooling parent maps Thailand's family hubs and explains where communities and recurring meetups form."
+    },
+    {
+      "domain": "recess.gg",
+      "name": "recess.gg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "recreation.org",
@@ -1557,6 +2855,28 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-07); places: Bansko, Obidim — A current interview-driven article documents the family communities forming in Bansko and nearby Obidim."
     },
     {
+      "domain": "researchgate.net",
+      "name": "researchgate.net",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "resources.extraordinaryfamilylife.com",
+      "name": "resources.extraordinaryfamilylife.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "restlessmumma.substack.com",
       "name": "Restless Mumma",
       "kind": "personal-blog",
@@ -1571,6 +2891,39 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: Koh Lanta — A parent's slow-travel dispatches describe spending several months on Koh Lanta and connecting with its worldschooling community."
     },
     {
+      "domain": "rilskimanastir.org",
+      "name": "rilskimanastir.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "rosefestivalkazanlak.com",
+      "name": "rosefestivalkazanlak.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "rtwfamilies.com",
+      "name": "rtwfamilies.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "sacredrootshub.base44.app",
       "name": "sacredrootshub.base44.app",
       "kind": "hub-site",
@@ -1582,6 +2935,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "safe4you.co.il",
+      "name": "safe4you.co.il",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "safetywing.com",
+      "name": "safetywing.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "saltytoe.com",
+      "name": "saltytoe.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "samanainternationalacademy.com",
@@ -1637,6 +3023,17 @@
       "notes": ""
     },
     {
+      "domain": "sciencedirect.com",
+      "name": "sciencedirect.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "scientificamerican.com",
       "name": "Scientific American",
       "kind": "press",
@@ -1648,6 +3045,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2024-10); places: Bali — A major magazine overview identifies Bali as a well-known destination choice among worldschooling parents."
+    },
+    {
+      "domain": "search.paapmpaapm.com",
+      "name": "search.paapmpaapm.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "sekolykintana.org",
@@ -1701,6 +3109,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "sharkguardian.org",
+      "name": "sharkguardian.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "shepherdsrest.org",
@@ -1781,6 +3200,17 @@
       "notes": ""
     },
     {
+      "domain": "spanish-school-don-pedro-de-alvarado.business.site",
+      "name": "spanish-school-don-pedro-de-alvarado.business.site",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "spanishacademyantiguena.com",
       "name": "spanishacademyantiguena.com",
       "kind": "hub-site",
@@ -1807,6 +3237,17 @@
       "notes": ""
     },
     {
+      "domain": "sproutsschools.com",
+      "name": "sproutsschools.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "storylines.com",
       "name": "storylines.com",
       "kind": "hub-site",
@@ -1818,6 +3259,61 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "studyspanishinguatemala.com",
+      "name": "studyspanishinguatemala.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "suanmokkh.org",
+      "name": "suanmokkh.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "sunglassesrequired.com",
+      "name": "sunglassesrequired.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "superdoc.bg",
+      "name": "superdoc.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "suttontrust.com",
+      "name": "suttontrust.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "tabletmag.com",
@@ -1834,6 +3330,28 @@
       "notes": ""
     },
     {
+      "domain": "tandfonline.com",
+      "name": "tandfonline.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "tastevietnam.asia",
+      "name": "tastevietnam.asia",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "tazgha.com",
       "name": "tazgha.com",
       "kind": "hub-site",
@@ -1845,6 +3363,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "teartheabyss.com",
+      "name": "teartheabyss.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "the5worldexplorers.com",
@@ -1871,6 +3400,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Chiang Mai, Hoi An, Bali — A worldschooling explainer names broader destination hubs where nomadic families commonly settle and connect."
+    },
+    {
+      "domain": "theexchange.my",
+      "name": "theexchange.my",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "theflowjourney.substack.com",
@@ -1949,6 +3489,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "thenomadphotography.com",
+      "name": "thenomadphotography.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "theprofessionalhobo.com",
@@ -2058,6 +3609,17 @@
       "notes": ""
     },
     {
+      "domain": "theworldschooledition.com",
+      "name": "theworldschooledition.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "thinkglobalschool.org",
       "name": "thinkglobalschool.org",
       "kind": "hub-site",
@@ -2084,6 +3646,17 @@
       "notes": ""
     },
     {
+      "domain": "thompsons-vs-the-world.com",
+      "name": "thompsons-vs-the-world.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "tikaranch.com",
       "name": "tikaranch.com",
       "kind": "directory",
@@ -2095,6 +3668,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "time4learning.com",
+      "name": "time4learning.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "timesofisrael.com",
@@ -2110,6 +3694,17 @@
       "notes": ""
     },
     {
+      "domain": "toprentacar.bg",
+      "name": "toprentacar.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "travelingvillage.com",
       "name": "travelingvillage.com",
       "kind": "directory",
@@ -2122,6 +3717,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "travelinsight.net",
+      "name": "travelinsight.net",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "travelynnfamily.com",
@@ -2150,6 +3756,50 @@
       "notes": ""
     },
     {
+      "domain": "tripadvisor.com",
+      "name": "tripadvisor.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "tripadvisor.tp.st",
+      "name": "tripadvisor.tp.st",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "tropicalfoodgarden.com",
+      "name": "tropicalfoodgarden.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "trustedhousesitters.pxf.io",
+      "name": "trustedhousesitters.pxf.io",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "trvbox.co.il",
       "name": "trvbox.co.il",
       "kind": "personal-blog",
@@ -2176,6 +3826,17 @@
       "notes": ""
     },
     {
+      "domain": "ubuntu-ubuntu.com",
+      "name": "ubuntu-ubuntu.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "uncommonfamilyadventures.com",
       "name": "Uncommon Family Adventures",
       "kind": "personal-blog",
@@ -2200,6 +3861,28 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "unsplash.com",
+      "name": "unsplash.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "usitcolours.bg",
+      "name": "usitcolours.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "vagabundenliebe.de",
@@ -2254,6 +3937,17 @@
       "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-09); places: Koh Samui, Koh Phangan — A Hebrew relocation guide describes strong Israeli family communities, schools, and children's activities on the two Thai islands."
     },
     {
+      "domain": "visit-dobrinishte.bg",
+      "name": "visit-dobrinishte.bg",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "vitalandomer.co.il",
       "name": "vitalandomer.co.il",
       "kind": "personal-blog",
@@ -2300,6 +3994,17 @@
       "notes": ""
     },
     {
+      "domain": "weareworldschoolers.org",
+      "name": "weareworldschoolers.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "whalecamp.com",
       "name": "whalecamp.com",
       "kind": "hub-site",
@@ -2311,6 +4016,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "wheretostay.family-world-travel.com",
+      "name": "wheretostay.family-world-travel.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "wildjunket.com",
@@ -2405,6 +4121,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "worldschoolacademy.com",
+      "name": "worldschoolacademy.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "worldschoolantigua.com",
       "name": "worldschoolantigua.com",
       "kind": "hub-site",
@@ -2431,6 +4158,17 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "worldschoolfamilysummit.com",
+      "name": "worldschoolfamilysummit.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "worldschooling.life",
       "name": "worldschooling.life",
       "kind": "hub-site",
@@ -2444,6 +4182,28 @@
       "notes": ""
     },
     {
+      "domain": "worldschoolingcentral.com",
+      "name": "worldschoolingcentral.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "worldschoolinghub.com",
+      "name": "worldschoolinghub.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "worldschoolinghub.my",
       "name": "worldschoolinghub.my",
       "kind": "hub-site",
@@ -2455,6 +4215,17 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "worldschoolinghubgoa.com",
+      "name": "worldschoolinghubgoa.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "worldschoolingjourneys.com",
@@ -2472,6 +4243,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "worldschoolingjunction.com",
+      "name": "worldschoolingjunction.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "worldschoolingmamanetwork.substack.com",
+      "name": "worldschoolingmamanetwork.substack.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "worldschoolingpopups.com",
+      "name": "worldschoolingpopups.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     },
     {
       "domain": "worldschoolmexico.com",
@@ -2545,6 +4349,17 @@
       "notes": "LLM-discovered (blogs_1.txt; asOf 2025-11); places: Chiang Mai, Hoi An — A family that traveled and worldschooled for six years explains where traveling families meet, organize outings, and stay long enough to form communities."
     },
     {
+      "domain": "worldtravelingschool.com",
+      "name": "worldtravelingschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "worldwiselearningadventures.org",
       "name": "worldwiselearningadventures.org",
       "kind": "hub-site",
@@ -2572,6 +4387,17 @@
       "notes": ""
     },
     {
+      "domain": "xelaspanish.org",
+      "name": "xelaspanish.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
       "domain": "ynet.co.il",
       "name": "ynet.co.il",
       "kind": "press",
@@ -2583,6 +4409,39 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "youtu.be",
+      "name": "youtu.be",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "youtube.com",
+      "name": "youtube.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
+    },
+    {
+      "domain": "zhenski-pazar.com",
+      "name": "zhenski-pazar.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [],
+      "addedAt": "2026-06-15",
+      "notes": "discovered via outbound link — review before crawling"
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "domain": "educationnext.in",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.educationnext.in/posts/bansko-the-world-schooling-capital-of-the-world",
+      "contentHash": "e4eb30c9316dd025cbdc6366b2b9f59759e792f451c4b34bc073ec2116653e8d",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Families from around the globe have begun to recognize Bansko as more than just a holiday hideaway; it's quickly becoming a beacon for worldschoolers.",
+          "nestingClaim": true,
+          "asOfDate": "2024-02"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "More than 300 remote workers in any given month, with the population surging during ski season; town transformed into a worldschooling hub where families collaborate to create microschools.",
+          "nestingClaim": true,
+          "asOfDate": "2024-02"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://educationnext.beehiiv.com/", "anchor": "Newsletter subscription" },
+        { "url": "https://www.youtube.com/playlist?list=PL7dAUQmDeuY4988YWwdXtTfO-ruXDliT1", "anchor": "88 Thought Leaders" },
+        { "url": "https://www.educationnext.in/posts/the-surging-trend-the-rise-in-parents-choosing-homeschooling", "anchor": "The surging trend" },
+        { "url": "https://www.educationnext.in/posts/worldschooling-a-complete-guide-2023", "anchor": "Worldschooling guide" },
+        { "url": "https://www.educationnext.in/posts/teens-in-bansko-are-learning-film-making", "anchor": "Teens in Bansko are learning film making" },
+        { "url": "https://www.educationnext.in/posts/bansko-families-foster-outdoor-learning-creating-classrooms-in-the-forest", "anchor": "Bansko families foster outdoor learning" },
+        { "url": "https://www.educationnext.in/posts/bansko-a-worldschooling-haven-of-history-adventure-and-exploration", "anchor": "Bansko: a worldschooling haven" },
+        { "url": "https://www.educationnext.in/posts/unlocking-the-world-of-artificial-intelligence-a-day-at-bansko", "anchor": "Unlocking the world of AI: a day at Bansko" }
+      ]
+    },
+    {
+      "url": "https://www.educationnext.in/posts/goa-a-paradise-for-worldschooling-families-with-a-global-flair",
+      "contentHash": "fffe395a78812d62c90f47d0b0b7018d0dcda3f1c6af71a7a827e3330552aaf3",
+      "placeMentions": [
+        {
+          "place": "Goa",
+          "country": "India",
+          "snippet": "A hidden gem for worldschooling families seeking a vibrant cultural immersion, with affordability and accessibility making it attractive for longer stays.",
+          "nestingClaim": true,
+          "asOfDate": "2024-05"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

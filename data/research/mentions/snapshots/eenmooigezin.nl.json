@@ -1,0 +1,57 @@
+{
+  "domain": "eenmooigezin.nl",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://eenmooigezin.nl/worldschooling/",
+      "contentHash": "c2aadcdca90a46612e7d791b9e2866279352b3752158e54904796d84f42ee5d3",
+      "placeMentions": [
+        {
+          "place": "Andalusia",
+          "country": "Spain",
+          "snippet": "Gezinnen reizen niet alleen maar doelloos; ze spreken bewust af om voor een maand op exact dezelfde locatie te gaan zitten.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Bergen waar reizende gezinnen voor maanden samenkomen om samen projecten te doen en vriendschappen op te bouwen.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Mexico",
+          "country": "Mexico",
+          "snippet": "Pop-up communities waar families intensief met elkaar optrekken en diepe, kwalitatieve vriendschappen ontstaan.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Portugal coast",
+          "country": "Portugal",
+          "snippet": "Bekende hub waar worldschooling gezinnen een maand of langer verblijven voor sociale ontwikkeling.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Wereldwijd hub waar reizende gezinnen samenkomen via Facebook-groepen en apps.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://eenmooigezin.nl/thuisonderwijs-wet-nederland/",
+          "anchor": "Thuisonderwijs in de wet"
+        },
+        {
+          "url": "https://eenmooigezin.nl/online-ondernemerschap-en-thuisonderwijs/",
+          "anchor": "Online ondernemerschap en thuisonderwijs: Zo combineer je het slim"
+        }
+      ]
+    }
+  ]
+}

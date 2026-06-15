@@ -1,0 +1,24 @@
+{
+  "domain": "learnersandmakers.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.learnersandmakers.com/is-chiang-mai-worth-visiting/",
+      "contentHash": "600dd69c60396ae961f0810212d92ee90f2f231fcec6dea3b90a3c674caba8b5",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Popular hub for travelers, digital nomads, and expats; families connected and met up regularly at local cafes during extended stays.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://tripadvisor.tp.st/wlTD4GA1", "anchor": "Art in Paradise" },
+        { "url": "https://hotelscom.stay22.com/learnersandmakers/go5HYXdBba", "anchor": "D Condo Ping" },
+        { "url": "https://booking.stay22.com/learnersandmakers/ZdMp-DIeri", "anchor": "Canary House Rachawong" }
+      ]
+    }
+  ]
+}

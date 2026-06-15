@@ -1,0 +1,24 @@
+{
+  "domain": "shoutoutuk.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.shoutoutuk.org/2026/04/22/what-i-learned-about-education-at-a-worldschooling-hub/",
+      "contentHash": "194add4b51b39dd9513a1562f1bb0760870c91ea387beac80a8b7a1b18682f22",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "I recently volunteered as a facilitator at a world schooling hub in Bansko, Bulgaria — families stayed in a hotel complex, engaged in skiing, arts & crafts, and cultural trips.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://explore-education-statistics.service.gov.uk/find-statistics/elective-home-education/2025-26-autumn-term", "anchor": "126,000 children" },
+        { "url": "https://www.bbc.co.uk/bitesize/articles/zskhwsg", "anchor": "Worldschooling" },
+        { "url": "https://www.theguardian.com/lifeandstyle/2025/dec/14/the-adventure-can-turn-into-a-disaster-the-digital-nomad-families-worldschooling-their-children", "anchor": "detrimental to children's development" }
+      ]
+    }
+  ]
+}

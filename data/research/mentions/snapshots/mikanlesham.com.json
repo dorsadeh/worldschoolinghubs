@@ -1,0 +1,83 @@
+{
+  "domain": "mikanlesham.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://mikanlesham.com/digital-nomad/",
+      "contentHash": "cd31b08ac1349865ad9091c95565de3dd38d0d28fd2c61a0e3b68956549055b2",
+      "placeMentions": [
+        {
+          "place": "Lisbon",
+          "country": "Portugal",
+          "snippet": "קהילות נוודים בליסבון מציעות תמיכה חברתית ועסקית (nomad communities in Lisbon offering social and business support).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Madeira",
+          "country": "Portugal",
+          "snippet": "קהילות חזקות של משפחות נוודות שמציעות תמיכה הדדית (strong communities of nomadic families offering mutual support).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Porto",
+          "country": "Portugal",
+          "snippet": "תשתיות טובות, ויזות נוודים דיגיטליים וקהילות תוססות (good infrastructure, digital nomad visas and vibrant communities).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Barcelona",
+          "country": "Spain",
+          "snippet": "ערים מרכזות תוססות לנוודים, עם תשתיות מצוינות (vibrant nomad hub cities with excellent infrastructure).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Madrid",
+          "country": "Spain",
+          "snippet": "מרכזים תוססים לנוודים, עם תשתיות מצוינות וקהילות (vibrant nomad centers with excellent infrastructure and communities).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "ידועה בקהילות דינמיות, מפגשים קבועים וחיי חברה (known for dynamic communities, regular meetups and social life).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "מרכז נוודות מבוסס מזה שנים, עם קהילות פעילות (established nomad center for years, with active communities).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Medellín",
+          "country": "Colombia",
+          "snippet": "מושכת נוודים עם מזג אוויר נעים וקהילות מתפתחות (attracting nomads with pleasant weather and growing communities).",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Cape Town",
+          "country": "South Africa",
+          "snippet": "מתפתחת כמרכז נוודים בזכות עלויות מחיה נוחות (developing as a nomad hub thanks to affordable cost of living).",
+          "nestingClaim": false,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Canary Islands",
+          "country": "Spain",
+          "snippet": "איי הקנרים מושכים משפחות, מאפשרים מסגרת חינוכית (Canary Islands attract families, enabling educational frameworks).",
+          "nestingClaim": false,
+          "asOfDate": "2024-10"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

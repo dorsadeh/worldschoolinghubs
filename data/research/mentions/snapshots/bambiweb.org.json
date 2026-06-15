@@ -1,0 +1,35 @@
+{
+  "domain": "bambiweb.org",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.bambiweb.org/news/school-go",
+      "contentHash": "70bf00b4bf1e3ba35cdda2b281ac51f512ce417c1d990a57bb2033746c66ed80",
+      "placeMentions": [
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Lopez family travelled to this southern island as part of their nomadic base life in Thailand while worldschooling.",
+          "nestingClaim": false,
+          "asOfDate": "2023-11"
+        },
+        {
+          "place": "Khanom",
+          "country": "Thailand",
+          "snippet": "Lopez family based their camper van in Khanom, Thailand, living nomadically while educating their children.",
+          "nestingClaim": false,
+          "asOfDate": "2023-11"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://andysto.com/what-exactlyis-worldschooling-and-what-are-thebenefits/", "anchor": "What Exactly is Worldschooling and What are the Benefits?" },
+        { "url": "https://howdoihomeschool.com/homeschool-legal-illegal/", "anchor": "up-to-date list of countries in which homeschooling is legal" },
+        { "url": "https://www.youtube.com/watch?v=hfwrCnt6N34", "anchor": "full story on \"factory schools\"" },
+        { "url": "https://hslda.org/post/thailand", "anchor": "HSLDA Thailand homeschooling resources" },
+        { "url": "https://sproutsschools.com/unschooling-why-parents-remove-their-kids-from-school/", "anchor": "Unschooling: Why Parents Remove Their Kids From School" },
+        { "url": "https://criminalcodehelp.ca/offences/youth-offences/truancy/", "anchor": "Truancy Laws in Canada" },
+        { "url": "https://www.ansa.it/english/news/2023/09/07/jail-for-parents-who-dont-send-kids-to-school-nordio_1e67d56c-add8-46b3-be8e-a835014b4b39.html", "anchor": "Jail for parents who don't send kids to school" }
+      ]
+    }
+  ]
+}

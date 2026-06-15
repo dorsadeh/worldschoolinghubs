@@ -1,0 +1,72 @@
+{
+  "domain": "family-world-travel.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://family-world-travel.com/thailand-with-kids-start-here/",
+      "contentHash": "e50886eef915f96429a8cbf01d8d59245f0d8416f669cf27de785a5075270fb0",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Organized community, kindergartens, yoga classes, sense of calm routine — framed as a family nesting base",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Bangkok",
+          "country": "Thailand",
+          "snippet": "Convenient, modern, full of expats with children, air-conditioned malls — framed as a comfortable family base",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "Nature, quiet, creative village atmosphere — ideal for families preferring a campfire lifestyle; nesting-oriented framing",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Family-friendly island with a relaxed pace and an English garden — presented as long-stay family destination",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Koh Samui",
+          "country": "Thailand",
+          "snippet": "Most convenient for long nesting with children — international schools, activities; explicit long-stay framing",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Small expat community, pleasant family-friendly side — described as a family base option",
+          "nestingClaim": true,
+          "asOfDate": "2025"
+        },
+        {
+          "place": "Isaan Region",
+          "country": "Thailand",
+          "snippet": "Not for everyone, but for those seeking authentic quiet and rural life — ambiguous nesting framing",
+          "nestingClaim": false,
+          "asOfDate": "2025"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.getyourguide.com/nonthaburi-l124001/bangkok-kalanan-riverside-resort-flower-arranging-workshop-t837378/", "anchor": "Kalanan Riverside Resort flower arranging workshop" },
+        { "url": "https://www.getyourguide.com/bangkok-l169/bangkok-flower-market-thai-floral-art-t691552/", "anchor": "Bangkok flower market floral art workshop" },
+        { "url": "https://www.suanmokkh.org/", "anchor": "Wat Suan Mokkh" },
+        { "url": "https://blog.bsnresort.com/ดูห่างห้อย-อัมพวา/", "anchor": "Amphawa firefly cruise" },
+        { "url": "https://wheretostay.family-world-travel.com/", "anchor": "Find accommodation easily" },
+        { "url": "https://payhip.com/b/7RIHl", "anchor": "Thailand with kids info sheets" },
+        { "url": "https://payhip.com/b/5vIOf", "anchor": "Family on the road – complete guide" },
+        { "url": "https://payhip.com/Haleli", "anchor": "Downloadable content library" },
+        { "url": "https://family-world-travel.com/save-money-conversion-fees-travel/", "anchor": "Travel money – conversion fees" }
+      ]
+    }
+  ]
+}

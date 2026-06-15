@@ -1,0 +1,25 @@
+{
+  "domain": "magpieeyekids.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.magpieeyekids.com/blog/worldschoolingpopuphubathens2023",
+      "contentHash": "64879e24dfb66b91d1ded6ef1cd92deb04f0f54e35992c61bc604d54de08b781",
+      "placeMentions": [
+        {
+          "place": "Athens",
+          "country": "Greece",
+          "snippet": "pop-up events like this, where families come together to learn, share experiences, and create unforgettable memories — week-long gathering hub",
+          "nestingClaim": false,
+          "asOfDate": "2023-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.time4learning.com/homeschooling-styles/worldschooling.html", "anchor": "Worldschooling" },
+        { "url": "https://www.worldschoolpopuphub.com", "anchor": "The World School Pop-up Hub" },
+        { "url": "https://www.ninelivesgreece.com", "anchor": "Nine Lives Greece" },
+        { "url": "https://archelon.gr/en/project-areas", "anchor": "Archeleon Turtle Sanctuary" }
+      ]
+    }
+  ]
+}

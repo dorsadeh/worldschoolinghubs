@@ -1,0 +1,62 @@
+{
+  "domain": "heathandalyssa.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+      "contentHash": "5b8b6171f0f1d6d4ca4b5f54f85f6eae39a182a4f80a2807e79d4835e640162f",
+      "placeMentions": [
+        {
+          "place": "Sintra",
+          "country": "Portugal",
+          "snippet": "Boundless Life program: family of four lived in Europe for three months with co-located community, education and activities.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Syros",
+          "country": "Greece",
+          "snippet": "Boundless Life cohort gathered in Greece; families met up and built community connections across the season.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Kotor",
+          "country": "Montenegro",
+          "snippet": "Smallest Boundless cohort with only seven families nesting together and building community bonds at this location.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Pistoia",
+          "country": "Italy",
+          "snippet": "39-family Boundless cohort based in Tuscany/Pistoia with school, hub, and coordinated experiences for the season.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "La Barra",
+          "country": "Uruguay",
+          "snippet": "Second Boundless cohort based at La Barra with beach housing and school for the season.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Estepona",
+          "country": "Spain",
+          "snippet": "39 Boundless families gathered in Andalusia/Estepona with education center and coworking space for the season.",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "http://boundless.life", "anchor": "Boundless Life" },
+        { "url": "https://heathandalyssa.com/boundless-life-review/", "anchor": "our initial experience wasn't the best" },
+        { "url": "https://amzn.to/3OjHuVE", "anchor": "digital picture frame" },
+        { "url": "https://amzn.to/3Q2t9gS", "anchor": "This" },
+        { "url": "https://amzn.to/4cIFsHQ", "anchor": "multiple USB and USB-C ports" },
+        { "url": "https://amzn.to/3yvQqNc", "anchor": "book link" }
+      ]
+    }
+  ]
+}

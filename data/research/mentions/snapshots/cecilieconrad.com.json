@@ -1,0 +1,27 @@
+{
+  "domain": "cecilieconrad.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.cecilieconrad.com/self-directed/amanda-ashworth",
+      "contentHash": "a1e5d729ffd9975cb008cbc76a5e7bb5dadaba72878731ecacdb1774cb3e5525",
+      "placeMentions": [
+        {
+          "place": "Goa",
+          "country": "India",
+          "snippet": "Five-year project creating the World Schooling Hub; families gather for 3-month cohorts in this alternative education community",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.worldschoolinghubgoa.com/", "anchor": "World Schooling Hub Goa" },
+        { "url": "http://amandaashworth.com/", "anchor": "Amanda Ashworth personal website" },
+        { "url": "https://podcasts.apple.com/us/podcast/amanda-ashworth-building-community-creating-a/id1669444436?i=1000726016285", "anchor": "Apple Podcasts" },
+        { "url": "https://open.spotify.com/episode/3S6F4Xt9vtcqv1YCfAI1Rz", "anchor": "Spotify episode" },
+        { "url": "https://youtu.be/svjNn8xaaFk", "anchor": "YouTube video" },
+        { "url": "https://www.buymeacoffee.com/TheConradFamily", "anchor": "Buy Me a Coffee" }
+      ]
+    }
+  ]
+}

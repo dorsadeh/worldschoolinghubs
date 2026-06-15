@@ -1,0 +1,29 @@
+{
+  "domain": "meetthearshads.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://meetthearshads.com/koh-lanta-6-months-on-a-thai-island-worldschooling-our-4-kids/",
+      "contentHash": "5c1a6bcac07f7baa1bf1c184dff4fbaf3a455bd30b6283d0ec739218262968cc",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Being part of a 5-month worldschooling community on Koh Lanta enabled families to continually keep a routine together.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://blissinvestor.com/worldschoolers-in-koh-lanta-thailand/", "anchor": "Bliss Worldschooling community" },
+        { "url": "https://www.sharkguardian.org/", "anchor": "Shark Guardian" },
+        { "url": "https://blissinvestor.com/worldschooling/", "anchor": "Bliss Worldschooling" },
+        { "url": "http://www.lantahideaways.com", "anchor": "www.lantahideaways.com" },
+        { "url": "http://www.amazinglanta.com/koh-lanta-villas/", "anchor": "www.amazinglanta.com/koh-lanta-villas/" },
+        { "url": "http://www.airbnb.co.uk", "anchor": "www.airbnb.co.uk" },
+        { "url": "http://www.booking.com", "anchor": "www.booking.com" },
+        { "url": "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/", "anchor": "Bliss World Schooling Community" }
+      ]
+    }
+  ]
+}

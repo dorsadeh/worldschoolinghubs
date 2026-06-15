@@ -1,0 +1,31 @@
+{
+  "domain": "mumsnet.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/5308715-would-you-take-your-kids-out-of-school-to-go-travelling?page=3",
+      "contentHash": "1dab75d9539114fab9b3d74ed29a8dc0fe5d847f2748182c60d31326984c1b55",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "We also joined the Bliss Hub in Koh Lanta which was great — forum poster describing family-gathering hub experience",
+          "nestingClaim": true,
+          "asOfDate": "2025-04"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Our boys also spent six weeks in a little international school in Bali that took temporary enrolments — family basing for extended period",
+          "nestingClaim": true,
+          "asOfDate": "2025-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.worldschoolpopuphub.com/", "anchor": "Worldschooling Community | Worldschool Pop-Up Hub" },
+        { "url": "https://blissinvestor.com/", "anchor": "Bliss Hub" },
+        { "url": "https://thompsons-vs-the-world.com/", "anchor": "blog" }
+      ]
+    }
+  ]
+}

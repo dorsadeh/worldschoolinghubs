@@ -1,0 +1,50 @@
+{
+  "domain": "remoterebellion.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+      "contentHash": "0e8cb6d64ed34bf110b941144f586487fb90e1bf2230f38b10cca5c6ff1321b6",
+      "placeMentions": [
+        {
+          "place": "Fethiye",
+          "country": "Turkey",
+          "snippet": "Perennial favourite worldschooling hub destination where families gather and base themselves.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Listed among well-known worldschooling hubs where digital-nomad families gather and base themselves.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "Named as an established gathering locale for worldschooling and nomadic families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "La Herradura",
+          "country": "Spain",
+          "snippet": "Identified as a perennial worldschooling hub destination for families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "\"Only hub where both communities are so well represented\" — families and all nomads — a dual worldschooling/nomad hub.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.amazon.com/Digital-Nomad-Moms-Successful-Children/dp/B0BW23B1KG", "anchor": "Digital Nomad Moms: Women Who Carved Out Successful Careers to Travel The World With Their Children" }
+      ]
+    }
+  ]
+}

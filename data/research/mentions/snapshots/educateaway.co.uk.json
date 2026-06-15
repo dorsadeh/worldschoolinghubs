@@ -1,0 +1,24 @@
+{
+  "domain": "educateaway.co.uk",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://educateaway.co.uk/worldschooling/",
+      "contentHash": "16677521ca0708f4c11f21bf1ee9395abead88ea60695d312cf6a3e3812636fc",
+      "placeMentions": [
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Group of worldschoolers gather in Luxor for children to learn and play together at a dedicated worldschooling hub.",
+          "nestingClaim": true,
+          "asOfDate": "2023-03"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.luxorworldschoolhub.com/", "anchor": "worldschooling hub in Luxor" },
+        { "url": "https://educateaway.co.uk/diary-of-our-egypt-world-school-experience/", "anchor": "day-by-day diary" },
+        { "url": "https://unsplash.com", "anchor": "Unsplash.com" }
+      ]
+    }
+  ]
+}

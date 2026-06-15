@@ -1,0 +1,31 @@
+{
+  "domain": "smithsontourblog.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.smithsontourblog.com/chiang-mai/family-travel-chiang-mai-smiths-on-tour",
+      "contentHash": "4d4ea8b396f82ad29fc1a1bec421bc4e5dd02dccc098cb312ba0face7d6255d4",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Family considered living here long-term, noting international schools, tutors, and long-term visa options ideal for nomad families.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Nimman",
+          "country": "Thailand",
+          "snippet": "Trendy Chiang Mai neighbourhood packed with cafes, coworking spots, and other expats, suitable for extended family stays.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://littleforestchiangmai.com", "anchor": "Little Forest Chiang Mai" },
+        { "url": "https://www.saltytoe.com", "anchor": "Salty Toe Shop" },
+        { "url": "https://buymeacoffee.com/smithsontour", "anchor": "The £1 Club" }
+      ]
+    }
+  ]
+}

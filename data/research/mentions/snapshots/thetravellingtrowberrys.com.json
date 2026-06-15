@@ -1,0 +1,53 @@
+{
+  "domain": "thetravellingtrowberrys.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/",
+      "contentHash": "baa68e31b04d9346494fd8cbf28d4c5fcd12a8721f73801f83c1446f3132bb84",
+      "placeMentions": [
+        {
+          "place": "Phu Quoc",
+          "country": "Vietnam",
+          "snippet": "Better Together Hubs set in Le Forest hotel and resort; hub runs for 3-week sessions between October and April for families with kids aged 3–13.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oria",
+          "country": "Spain",
+          "snippet": "Located in the mountains in rural Spain, this place is very much a community driven worldschool hub — continuous open community with family apartments, no fixed start/end dates.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lake Atitlan",
+          "country": "Guatemala",
+          "snippet": "Culture Chalk hub in San Juan, Lake Atitlan; 11-day sessions with cultural immersion, Spanish lessons, and host family pairing program.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "Bliss Hubs: free and flexible community-driven hub with members suggesting activities to join; WhatsApp-coordinated weekly activities.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "During the months November–April there is a huge worldschooling community on Koh Lanta.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://blissinvestor.com/", "anchor": "Join our low cost Worldschooling Hubs – Bliss Investor" },
+        { "url": "https://www.culturechalk.org/", "anchor": "Home | Culture Chalk" },
+        { "url": "https://www.shepherdsrest.org/", "anchor": "Shepherd's Rest Rural Worldschool Community" },
+        { "url": "https://www.facebook.com/groups/1031842408551295/", "anchor": "Worldschoolers Hubs – Better Together | Facebook" }
+      ]
+    }
+  ]
+}

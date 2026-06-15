@@ -1,0 +1,12 @@
+{
+  "domain": "tabletmag.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.tabletmag.com/",
+      "contentHash": "a03e6156dbd2072543809566e6eb1e54c0a93e16d0c4d3a116926d8de40759ae",
+      "placeMentions": [],
+      "outboundLinks": []
+    }
+  ]
+}

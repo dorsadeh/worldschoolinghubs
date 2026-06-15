@@ -1,0 +1,56 @@
+{
+  "domain": "buzzsprout.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+      "contentHash": "3655e992ef97c999fe3e794547afa306c6ed0abb10d5a13b8e4533474db66259",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "We've touched it down into Pai...to Koh Lanta, which is here — worldschooling families gathering at Bliss Hub",
+          "nestingClaim": true,
+          "asOfDate": "2025-02"
+        },
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "We've touched it down into Pai, which is in Northern Thailand — a worldschooling hub base for families",
+          "nestingClaim": true,
+          "asOfDate": "2025-02"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "Kuala Lumpur in Malaysia and Bali — listed as Bliss worldschool hub gathering locations for families",
+          "nestingClaim": true,
+          "asOfDate": "2025-02"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Kuala Lumpur in Malaysia and Bali — listed as Bliss worldschool hub gathering locations for families",
+          "nestingClaim": true,
+          "asOfDate": "2025-02"
+        },
+        {
+          "place": "Johor Bahru",
+          "country": "Malaysia",
+          "snippet": "Met in Chiang Mai and then we met again in Pai, then we met again in Johor Bahru — recurring family meetup pattern",
+          "nestingClaim": false,
+          "asOfDate": "2025-02"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.instagram.com/frenchitivityfamily/?__d=1", "anchor": "Frenchitivity Instagram Page" },
+        { "url": "https://www.youtube.com/@Frenchitivity", "anchor": "Frenchitivity YouTube Channel" },
+        { "url": "https://frenchitivity.com/", "anchor": "Frenchitivity Website & Blog" },
+        { "url": "https://podcasts.apple.com/au/podcast/frenchitivity/id1767644957", "anchor": "Frenchitivity Podcast" },
+        { "url": "https://open.spotify.com/show/5LGRCZIiRYR9K0ioIZS6J8", "anchor": "Spotify" },
+        { "url": "https://overcast.fm/itunes1767644957", "anchor": "Overcast" },
+        { "url": "https://feeds.buzzsprout.com/2398956.rss", "anchor": "RSS Feed" }
+      ]
+    }
+  ]
+}

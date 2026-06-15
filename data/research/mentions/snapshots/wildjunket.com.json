@@ -1,0 +1,40 @@
+{
+  "domain": "wildjunket.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.wildjunket.com/digital-nomad-family/",
+      "contentHash": "39ad2c56f61917d6a4add77503f2396b11e9f520e130a1790bb32a8425a7363c",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "\"We were part of an amazing community\" after moving to San Miguel de Allende for deeper cultural connection.",
+          "nestingClaim": true,
+          "asOfDate": "2026-01"
+        },
+        {
+          "place": "Cape Town",
+          "country": "South Africa",
+          "snippet": "Family currently living in Cape Town, \"absolutely loving the accessible nature, outdoorsy life\" as their base.",
+          "nestingClaim": false,
+          "asOfDate": "2026-01"
+        },
+        {
+          "place": "Playa del Carmen",
+          "country": "Mexico",
+          "snippet": "Daughter attended the El Arbol project-based school in Playa del Carmen while the family was based there.",
+          "nestingClaim": false,
+          "asOfDate": "2026-01"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://safetywing.com", "anchor": "Safety Wing (Nomad Insurance)" },
+        { "url": "https://maevious.com", "anchor": "Maevious (online school)" },
+        { "url": "https://pangiapass.com", "anchor": "Pangia Pass eSIM" },
+        { "url": "https://www.property24.co.za", "anchor": "Property24" },
+        { "url": "https://www.inmuebles24.com", "anchor": "Inmuebles24" }
+      ]
+    }
+  ]
+}

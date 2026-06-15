@@ -1,0 +1,40 @@
+{
+  "domain": "notextingandtacking.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.notextingandtacking.com/13-reasons-we-love-world-schooling-in-bulgaria-amazing-and-affordable/",
+      "contentHash": "88677a843278daf242874b1a89c109257492ace967e91fb67ef222eb26f030c7",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "There is a World-schooling hub in Bulgaria...It is in one of the prettiest mountain towns – Bansko, in Pirin Mountain.",
+          "nestingClaim": true,
+          "asOfDate": "2022-08"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://worldtravelfamily.com/romania-travel-blog/", "anchor": "Guide to visiting Romania" },
+        { "url": "https://usitcolours.bg/en", "anchor": "Travel agency booking platform" },
+        { "url": "https://www.bohemia.bg/", "anchor": "Organized tour operator" },
+        { "url": "https://www.lonelyplanet.com/bulgaria/black-sea-coast/burgas", "anchor": "Burgas travel guide" },
+        { "url": "https://rilskimanastir.org/en/", "anchor": "Rila Monastery" },
+        { "url": "https://www.rosefestivalkazanlak.com/rosa-damascena-importance-bulgarian-rose-valley/", "anchor": "Rose Valley info" },
+        { "url": "https://www.bulgariamonasteries.com/en/", "anchor": "Bulgarian monasteries directory" },
+        { "url": "https://www.zhenski-pazar.com/", "anchor": "Zhenski Pazar market" },
+        { "url": "https://superdoc.bg/", "anchor": "Physician listings & reviews" },
+        { "url": "https://www.adrenalin.bg/clubadrenalin.com/en/index.html", "anchor": "Adrenaline Club" },
+        { "url": "https://fest-bg.com/festivals-en/?lang=en", "anchor": "Bulgarian festivals" },
+        { "url": "https://www.facebook.com/groups/worldschoolingbansko/", "anchor": "Bansko worldschooling group" },
+        { "url": "https://banskoski.com/en/page/summer-attractions", "anchor": "Bansko attractions" },
+        { "url": "https://visit-dobrinishte.bg/en/summer/item/4287-alpha-spa", "anchor": "Dobrinishte hot springs" },
+        { "url": "https://bulgariatravel.org/tourism-types/balneology-spa-and-wellness/", "anchor": "Mineral springs guide" },
+        { "url": "https://www.youtube.com/watch?v=0uZ038_15Fc", "anchor": "Rick Steves Bulgaria video" },
+        { "url": "https://www.youtube.com/watch?v=r0w6h4DHKKo", "anchor": "Nestinarstvo ritual dance" },
+        { "url": "https://toprentacar.bg/en", "anchor": "Car rental" },
+        { "url": "https://easyrent.bg/en", "anchor": "Car rental" }
+      ]
+    }
+  ]
+}

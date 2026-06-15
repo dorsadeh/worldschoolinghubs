@@ -1,0 +1,32 @@
+{
+  "domain": "me-bo-life.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.me-bo-life.com/chris/chris-blog/2677326_collaboration-and-meetups-for-home-worldschooling-families-in-bansko",
+      "contentHash": "65fb92d62d5881cec06ef8b3ae9cf3a77da1b7d1a97cf51d8c24b79dc04a9f75",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Bansko—a small town that has quietly grown into a nexus for digital nomads and creative families",
+          "nestingClaim": true,
+          "asOfDate": "2025-08"
+        },
+        {
+          "place": "Obidim",
+          "country": "Bulgaria",
+          "snippet": "ubuntu-ubuntu stands as a haven for creative connection and holistic learning serving Home-/Worldschooling Families",
+          "nestingClaim": true,
+          "asOfDate": "2025-08"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.ubuntu-ubuntu.com/", "anchor": "UBUNTU-UBUNTU" },
+        { "url": "https://www.teartheabyss.com/", "anchor": "Tear The Abyss - Music project" },
+        { "url": "http://www.goso.se", "anchor": "goso.se" },
+        { "url": "https://www.acupod.se/home-eng", "anchor": "Free Your Feet. Refresh Your Body" }
+      ]
+    }
+  ]
+}

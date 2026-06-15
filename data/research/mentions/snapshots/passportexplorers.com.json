@@ -1,0 +1,223 @@
+{
+  "domain": "passportexplorers.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://passportexplorers.com/worldschooling-communities/",
+      "contentHash": "b92d3e1e58a71eff4fc18d847e9ee929f974efaebba5f89484c4096646e5119a",
+      "placeMentions": [
+        {
+          "place": "Sintra",
+          "country": "Portugal",
+          "snippet": "Boundless Life Permanent Location: Sintra Portugal — providing accommodations, an education center for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Syros",
+          "country": "Greece",
+          "snippet": "Boundless Life permanent location opening around the world — Syros, Greece (an island near Mykonos)",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Pistoia",
+          "country": "Italy",
+          "snippet": "Boundless Life Pistoia, Italy (in Tuscany) — school, housing, co-working for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Sanur",
+          "country": "Indonesia",
+          "snippet": "Boundless Life Sanur, Bali (on the coast) — offering accommodations and education center for nesting families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Kotor",
+          "country": "Montenegro",
+          "snippet": "Boundless Life Kotor Montenegro (on the coast, old town called Kotor) — worldschooling family base",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Estepona",
+          "country": "Spain",
+          "snippet": "Boundless Life Estepona Spain (in Costa del Sol region of Andalusia) — family nesting program",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "La Barra",
+          "country": "Uruguay",
+          "snippet": "Boundless Life Uruguay (La Barra, near Punta del Este) — worldschooling family nesting location",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "Located in San Miguel de Allende, this program just started in 2025 — worldschooling family hub",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "The Hive Location: Cabrera, Dominican Republic — welcomes worldschoolers in 6-week sessions",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Deliberate Detour Hub location — including Oaxaca Mexico, where worldschooling families gather",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cusco",
+          "country": "Peru",
+          "snippet": "Deliberate Detour Hub location — Cusco Peru, where worldschooling families base themselves",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Costa da Morte",
+          "country": "Spain",
+          "snippet": "iSlowCoLiving — located in Costa da Morte on the Northwestern Coast of Spain for family gatherings",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Gaula",
+          "country": "Portugal",
+          "snippet": "Campus Da Terra — located on the organic farm GroVerdi in Gaula on Madeira, Portugal for families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Ko Lanta",
+          "country": "Thailand",
+          "snippet": "Global Classroom Term 1: Ko Lanta (Thailand) — worldschooling families based together for a term",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Lombok",
+          "country": "Indonesia",
+          "snippet": "Global Classroom Term 2: Lombok (Indonesia) — worldschooling families based together for a term",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Global Classroom Term 3: Hoi An (Vietnam) — worldschooling families based together for a term",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Goa",
+          "country": "India",
+          "snippet": "Worldschool Hub Goa — located in southwestern India; worldschooling families gather and nest here",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "The Hub Project (formerly Worldschool Luxor Egypt pre-2024) — established worldschooling family base",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Curaçao",
+          "country": "Netherlands Antilles",
+          "snippet": "ÎleO Worldschool in Curaçao (Caribbean) — cohorts run in 1–3 month sessions for worldschooling families",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Palomino",
+          "country": "Colombia",
+          "snippet": "HOLSS School / NAM: Located in Palomino, Colombia — about 5 hours from Cartagena; family school hub",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Cacao Coast",
+          "country": "Costa Rica",
+          "snippet": "Cacao Coast Worldschooling Hub — Costa Rica, on the Caribbean coast; families gather seasonally",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hvar",
+          "country": "Croatia",
+          "snippet": "Field School of Hvar — off the coast of Croatia; summer and fall 2026 worldschooling family program",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Chinchiná",
+          "country": "Colombia",
+          "snippet": "Colegio Menfis / Minga House — bilingual local school in the coffee region of Colombia for worldschoolers",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Noordhoek",
+          "country": "South Africa",
+          "snippet": "Nature Lore — located in Cape Town, South Africa (in Noordhoek); worldschooling family gathering place",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Southern Tuscany",
+          "country": "Italy",
+          "snippet": "Earthbound — launching in southern Tuscany, Italy, Spring 2027; worldschooling family program",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Honduras",
+          "country": "Honduras",
+          "snippet": "Noma Collective — announced their Family Hub for 2026 in Honduras; worldschooling families expected to gather",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "Unschool Adventures — In 2026, they are going to Valencia; family program destination",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://deliberatedetour.com/", "anchor": "Deliberate Detour" },
+        { "url": "http://boundless.life/", "anchor": "Boundless Life" },
+        { "url": "https://www.worldschoolmexico.com/", "anchor": "Worldschool Mexico" },
+        { "url": "https://www.worldschoolpopuphub.com/upcoming-events", "anchor": "Worldschool Pop-Ups" },
+        { "url": "http://www.cacaocoastcr.com", "anchor": "Cacao Coast Worldschooling Hub – Costa Rica" },
+        { "url": "https://www.fieldschoolhvar.org/", "anchor": "Field School of Hvar" },
+        { "url": "https://www.mingahousefoundation.org/worldschooling-colombia.html", "anchor": "Minga House" },
+        { "url": "https://www.worldschoolingpopups.com/events", "anchor": "Worldschooling Pop-Ups" },
+        { "url": "https://projectworldschool.com/", "anchor": "Project World School" },
+        { "url": "https://travelingvillage.com/", "anchor": "Traveling Village" },
+        { "url": "https://naturelore.co.za/", "anchor": "Nature Lore" },
+        { "url": "https://www.unschooladventures.com/", "anchor": "Unschool Adventures" },
+        { "url": "https://www.thehiveadventure.com/", "anchor": "The Hive" },
+        { "url": "https://www.noma-collective.com/", "anchor": "Noma Collective" },
+        { "url": "https://islowcoliving.com/", "anchor": "iSlowCoLiving" },
+        { "url": "https://campusdaterra.org/", "anchor": "Campus Da Terra" },
+        { "url": "https://www.harmonyalternative.com/global-classroom-project", "anchor": "Global Classroom by Harmony Alternative" },
+        { "url": "https://www.worldschoolinghubgoa.com/", "anchor": "Worldschool Hub Goa" },
+        { "url": "https://ileo.life/", "anchor": "ÎleO Worldschool in Curaçao" },
+        { "url": "https://www.earthbound.living/", "anchor": "Earthbound" }
+      ]
+    }
+  ]
+}

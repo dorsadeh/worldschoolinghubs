@@ -1,0 +1,41 @@
+{
+  "domain": "scientificamerican.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/",
+      "contentHash": "6d85f7d327313d90d9a908e30f8884344f8443f4e233680c92c3a299d24d5818",
+      "placeMentions": [
+        {
+          "place": "Green School, Bali",
+          "country": "Indonesia",
+          "snippet": "A well-known choice for parents who worldschool their children — established destination where families enroll their kids.",
+          "nestingClaim": true,
+          "asOfDate": "2024-10"
+        },
+        {
+          "place": "Huatulco",
+          "country": "Mexico",
+          "snippet": "Jungle School in Huatulco is a private alternative schooling option for worldschooling families.",
+          "nestingClaim": false,
+          "asOfDate": "2024-10"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.cbsnews.com/news/world-schooling-revolution-traveling-families/", "anchor": "mainstream" },
+        { "url": "https://www.cnbc.com/2024/06/03/worldschooling-this-family-is-educating-their-4-year-old-via-traveling.html", "anchor": "featured in the news" },
+        { "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTA.2018.096359", "anchor": "foster family bonding" },
+        { "url": "https://nyupress.org/9781479891689/the-world-is-our-classroom/", "anchor": "ethnographic research" },
+        { "url": "https://www.chicagoreviewpress.com/unschooled-products-9781641600637.php", "anchor": "unschooling" },
+        { "url": "https://www.greenschool.org/wp-content/uploads/2013/04/Green-Teacher.pdf", "anchor": "Green School" },
+        { "url": "https://www.sciencedirect.com/science/article/pii/S0190740924000525", "anchor": "social and academic outcomes" },
+        { "url": "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2022.982718/full", "anchor": "conservation behaviors" },
+        { "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75969-2.pdf", "anchor": "attitudes toward sustainability" },
+        { "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-18726-2.pdf", "anchor": "John Holt" },
+        { "url": "https://www.researchgate.net/profile/Gina-Riley-2/publication/305720294_Grown_Unschoolers%27_Experiences_with_Higher_Education_and_Employment_Report_II_on_a_Survey_of_75_Unschooled_Adults/links/579b87de08ae80bf6ea34274/Grown-Unschoolers-Experiences-with_Higher_Education_and_Employment_Report_II_on_a_Survey_of_75_Unschooled_Adults.pdf", "anchor": "survey data" },
+        { "url": "https://www.sciencedirect.com/science/article/pii/S1755458616301074", "anchor": "emotional curriculum" },
+        { "url": "https://www.tandfonline.com/doi/full/10.1080/21594937.2022.2152531", "anchor": "handle risk in a healthy way" }
+      ]
+    }
+  ]
+}

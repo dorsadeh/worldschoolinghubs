@@ -1,0 +1,28 @@
+{
+  "domain": "simplehomeschool.net",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://simplehomeschool.net/mexico-central-america/",
+      "contentHash": "6d094aaa975211654ce282bb9af66293f75c17e8e6396f0922fe0380158c9a24",
+      "placeMentions": [
+        {
+          "place": "Playa del Carmen",
+          "country": "Mexico",
+          "snippet": "Playa del Carmen has a strong homeschooling/worldschooling community where families gather and base themselves.",
+          "nestingClaim": true,
+          "asOfDate": "2016-08"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "http://www.sunglassesrequired.com", "anchor": "The Weary Family / Mickelle Weary" },
+        { "url": "http://www.contextsforlearning.com", "anchor": "Contexts in Education by Cathy Fosnot" },
+        { "url": "https://readingeggs.com/simple/", "anchor": "Reading Eggs/Reading Eggspress" },
+        { "url": "http://www.sunglassesrequired.com/blog/2015/7/02/house-sitting-costa-rica", "anchor": "How We Landed A House Sitting Gig in Costa Rica" },
+        { "url": "https://www.youtube.com/watch?v=I0v338l62fk", "anchor": "Worldschooling family hike video" },
+        { "url": "https://jamiecmartin.com/books/", "anchor": "Books" },
+        { "url": "https://erinulrichcreative.com", "anchor": "Site by Erin Ulrich Creative" }
+      ]
+    }
+  ]
+}

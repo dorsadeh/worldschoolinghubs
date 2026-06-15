@@ -1,0 +1,17 @@
+{
+  "domain": "vitalandomer.co.il",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://vitalandomer.co.il/kids",
+      "contentHash": "06eaf218b86ae3b994f4708ba462de45c5bb03e5d84fbc56f8525ee63b9fe6c2",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://liveabroad-pt.com/בית/", "anchor": "סוכנות Live Abroad" },
+        { "url": "https://vitalandomer.co.il/כל-הדרכים-ללמוד-פורטוגזית-אירופאית-כאו/", "anchor": "קורס פורטוגזית" },
+        { "url": "https://www.babysits.pt/babysitter/portugal/", "anchor": "בייביסיטר" },
+        { "url": "https://julia-digital.co.il/", "anchor": "Studio JWD" }
+      ]
+    }
+  ]
+}

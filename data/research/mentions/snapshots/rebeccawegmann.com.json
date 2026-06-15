@@ -1,0 +1,115 @@
+{
+  "domain": "rebeccawegmann.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+      "contentHash": "c91c43f4d540e9fcb8ad11da53f6e676e935ce06cc5b743135f628b8f6f5614e",
+      "placeMentions": [
+        {
+          "place": "Hua Hin",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Hua Hin — one of the popular spots for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Koh Phangan — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Koh Samui",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Koh Samui — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Krabi",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Krabi — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Pai — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Chiang Mai — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Families have been visiting Koh Lanta — a popular spot for worldschooling families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.facebook.com/groups/429152322487588", "anchor": "Worldschooling in Thailand group" }
+      ]
+    },
+    {
+      "url": "https://rebeccawegmann.com/hubsandfamilies/",
+      "contentHash": "81290f4fb41c04f7ac07695a6940c7e9b4e03e17b9ea1b1a35cf86ea797f85c9",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Worldschooling in Thailand — dedicated blog post covering Koh Lanta as a worldschooling family destination",
+          "nestingClaim": true,
+          "asOfDate": "2024-11"
+        },
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Referenced as worldschooling destination for families in Thailand",
+          "nestingClaim": true,
+          "asOfDate": "2024-02"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://theworldschoolatlas.com/listing-category/hubs/", "anchor": "The Worldschool Atlas" },
+        { "url": "https://hubscout.worldschooling.io/", "anchor": "Hubscout" },
+        { "url": "https://www.dunster.co.za/blog/naming-and-shaming-online/", "anchor": "Name shaming online" }
+      ]
+    },
+    {
+      "url": "https://rebeccawegmann.com/koh-phangan/",
+      "contentHash": "8799c5794d397c835d798b8c8a18d09379d8674024915debc23b9d89e0c9c2e0",
+      "placeMentions": [
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Over 300–500 families currently on the island; most work online. A thriving worldschooling community nesting on Koh Phangan.",
+          "nestingClaim": true,
+          "asOfDate": "2024-02"
+        },
+        {
+          "place": "OurLand",
+          "country": "Thailand",
+          "snippet": "Referenced as alternative community for education-focused professionals near Bangkok, Thailand",
+          "nestingClaim": false,
+          "asOfDate": "2024-02"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://safetywing.com/?referenceID=24762777&utm_source=24762777&utm_medium=Ambassador", "anchor": "Safety Wings Health Insurance for Digital Nomads and Families" },
+        { "url": "https://genki.world/products/native?with=safetravels", "anchor": "Genki – Worldwide Health Insurance" },
+        { "url": "http://delivery-kpg.com", "anchor": "Food delivery" },
+        { "url": "https://phanganist.com", "anchor": "General info" }
+      ]
+    }
+  ]
+}

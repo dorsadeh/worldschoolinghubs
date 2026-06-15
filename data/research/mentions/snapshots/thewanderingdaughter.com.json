@@ -1,0 +1,16 @@
+{
+  "domain": "thewanderingdaughter.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://thewanderingdaughter.com/destinations/",
+      "contentHash": "c89c8530e0e81dc3da42a025c39c1c241244ff7e4b1ced30a3d6e23706eb8828",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://thewanderingdaughter.com/worldschooling/", "anchor": "Worldschooling" },
+        { "url": "https://thewanderingdaughter.com/responsible-travel/", "anchor": "Responsible Family Travel" },
+        { "url": "https://thewanderingdaughter.com/travel-tips/", "anchor": "Travel Tips" }
+      ]
+    }
+  ]
+}

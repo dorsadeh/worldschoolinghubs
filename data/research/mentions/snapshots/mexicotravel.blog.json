@@ -1,0 +1,23 @@
+{
+  "domain": "mexicotravel.blog",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://mexicotravel.blog/about/",
+      "contentHash": "c684968bd23365c43c00fb3aa2470dd1cca2f229de9604ce7f62b9f26fe951b2",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "Author's family found a great community in San Miguel de Allende and fell in love with its colorful culture; family relocated here in 2021 and established community roots.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.wildjunket.com/", "anchor": "WildJunket.com" },
+        { "url": "https://www.amazon.com/stores/Nellie-Huang/author/B00GBC20FY", "anchor": "Book author page" }
+      ]
+    }
+  ]
+}

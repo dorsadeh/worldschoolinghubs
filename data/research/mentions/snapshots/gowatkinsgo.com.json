@@ -1,0 +1,48 @@
+{
+  "domain": "gowatkinsgo.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://gowatkinsgo.com/?p=11521",
+      "contentHash": "5e2e0a16e05cb68b9db1e4845781f878ea3cb71ebe59ed54a70f28cbbd484a43",
+      "placeMentions": [
+        {
+          "place": "Fethiye",
+          "country": "Turkey",
+          "snippet": "We're staying in an apartment building with three other families...which makes everything feel like a little community",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://gowatkinsgo.com/?p=11572",
+      "contentHash": "8ef3c5ead64879c68004c3261fcc118b97bbf623ac2d922f8de83b4c2f87beb7",
+      "placeMentions": [
+        {
+          "place": "Fethiye",
+          "country": "Turkey",
+          "snippet": "We continue to enjoy Fethiye and have managed to figure out how to live here in a way that feels both exciting and comfortable.",
+          "nestingClaim": true,
+          "asOfDate": "2026-05"
+        }
+      ],
+      "outboundLinks": []
+    },
+    {
+      "url": "https://gowatkinsgo.com/?p=10551",
+      "contentHash": "43291fb27a6a77c328e68960f93167652515d29dcefe5ef4a0faed53ad6f43cf",
+      "placeMentions": [
+        {
+          "place": "Zlatibor",
+          "country": "Serbia",
+          "snippet": "At one point, there were seven families here together...representing Britain, New Zealand, Mexico, Canada, Belgium, Australia, Switzerland, and the U.S.",
+          "nestingClaim": true,
+          "asOfDate": "2025-10"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

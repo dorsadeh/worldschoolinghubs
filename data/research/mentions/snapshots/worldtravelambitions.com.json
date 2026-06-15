@@ -1,0 +1,45 @@
+{
+  "domain": "worldtravelambitions.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/",
+      "contentHash": "a4655fc833480e27e270d0c9a60a8f73477993bf5705deef5f86ede35b280573",
+      "placeMentions": [
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "30+ families currently based in Hoi An with an organised worldschooling community offering activities and social groups.",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        },
+        {
+          "place": "An Bang Beach",
+          "country": "Vietnam",
+          "snippet": "Multiple families base themselves in beach villas near Hoi An's An Bang Beach area for extended worldschooling stays.",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        },
+        {
+          "place": "Phu Quoc",
+          "country": "Vietnam",
+          "snippet": "Families from other hubs migrate here; another family setting up a Phu Quoc hub that anyone could join.",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        },
+        {
+          "place": "Phong Nha",
+          "country": "Vietnam",
+          "snippet": "Family stayed four months during initial slow-travel phase in 2020.",
+          "nestingClaim": false,
+          "asOfDate": "2025-09"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://evisa.gov.vn", "anchor": "Vietnam e-visa application" },
+        { "url": "https://gyg.me/7cPFg6zv", "anchor": "Fast Track airport service" },
+        { "url": "https://meetthearshads.com", "anchor": "Photo credit" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "domain": "ynet.co.il",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.ynet.co.il/news/article/yokra14738200",
+      "contentHash": "49e7888b286e0f2a228c283467a5a3977521f65146262278a6edf9bc3101f094",
+      "placeMentions": [
+        {
+          "place": "Thessaloniki",
+          "country": "Greece",
+          "snippet": "International community village (כפר קהילתי בינלאומי) — Neorama project with 23 Israeli families forming initial nucleus for long-term nesting",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Artzо (Sentira)",
+          "country": "Italy",
+          "snippet": "International kibbutz (קיבוץ בינלאומי) — families gathering for extended stays and seminars in community setting",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Tatouon area",
+          "country": "Bulgaria",
+          "snippet": "Neighbor community (קהילת שכנים) — 6+ families interested, school planned for summer; community nesting in formation",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        },
+        {
+          "place": "Castelo Branco region (Spirela Eco Village)",
+          "country": "Portugal",
+          "snippet": "Multicultural ecological community — 20 residents, rotating visitors staying months to years; explicit long-term family nesting",
+          "nestingClaim": true,
+          "asOfDate": "2026-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.clfb.org.il/heb/main/?utm_source=referral&utm_medium=organic&utm_campaign=yedioth", "anchor": "Recorded by Center for Accessible Culture" }
+      ]
+    }
+  ]
+}

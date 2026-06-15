@@ -1,0 +1,37 @@
+{
+  "domain": "trvbox.co.il",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.trvbox.co.il/bansko-with-kids/",
+      "contentHash": "6fcb6a379e2156767778d64c254f554a7162d35598f6dacb55c6f64884c65831",
+      "placeMentions": [],
+      "outboundLinks": [
+        {
+          "url": "https://www.booking.com/hotel/bg/kempinskihotelgrandarenabanskobulgaria.he.html?aid=1167815",
+          "anchor": "מלון קמפינסקי"
+        },
+        {
+          "url": "https://search.paapmpaapm.com/?utm_source=affiliate&utm_campaign=box",
+          "anchor": "פאפם פאפם"
+        },
+        {
+          "url": "https://www.banskoski.com/en/page/summer-attractions",
+          "anchor": "לכל הפעילויות והמחירים"
+        },
+        {
+          "url": "https://www.getyourguide.com/bansko-l95633/bansko-guided-pirin-mountains-4x4-tour-and-thermal-baths-t430960/",
+          "anchor": "טיול ג׳יפים להרי פירין"
+        },
+        {
+          "url": "https://www.getyourguide.com/krupnik-l142322/krupnik-rafting-adventure-on-the-struma-river-t280122/",
+          "anchor": "רפטינג בנהר סטרומה"
+        },
+        {
+          "url": "https://safe4you.co.il/calculator/?provider=165&utm_content=bigBtnAdvert",
+          "anchor": "מחשבון מהיר להשוואת ביטוחי נסיעות"
+        }
+      ]
+    }
+  ]
+}

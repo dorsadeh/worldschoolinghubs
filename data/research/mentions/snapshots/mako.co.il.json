@@ -1,0 +1,20 @@
+{
+  "domain": "mako.co.il",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.mako.co.il/home-family-kids/back_to_school/Article-0fb52656bdb0281027.htm",
+      "contentHash": "9fec428aba2fa57ec910de05c58182fadc15185c97d11c6e0404eca7c6db1931",
+      "placeMentions": [
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "~500-600 expat families, 200 of them Israeli, living on the island; island supports expat living with Western medicine and pleasant, simple life on modest budget",
+          "nestingClaim": true,
+          "asOfDate": "2022-07"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}

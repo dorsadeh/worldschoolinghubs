@@ -1,0 +1,129 @@
+{
+  "domain": "parentingandpassports.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+      "contentHash": "f78b368b62bfc3d3c35f73144566f985286723e4420ea2a175eb9a9de0507965",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Three-month pop-up worldschooling community offering weekly education activities, playdates, and winter adventures for traveling families.",
+          "nestingClaim": true,
+          "asOfDate": "2021-07-22"
+        },
+        {
+          "place": "Anahata",
+          "country": "Mexico",
+          "snippet": "Established worldschooling learning community welcoming families seeking alternative education experiences.",
+          "nestingClaim": true,
+          "asOfDate": "2021-07-22"
+        },
+        {
+          "place": "Tribodar",
+          "country": "Portugal",
+          "snippet": "Established worldschooling community attracting families interested in alternative education.",
+          "nestingClaim": true,
+          "asOfDate": "2021-07-22"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://altspacecoworking.com/",
+          "anchor": "Altspace"
+        },
+        {
+          "url": "https://www.facebook.com/HealthClubHanuman/",
+          "anchor": "Club Hanuman"
+        },
+        {
+          "url": "https://www.facebook.com/lotusvibe777/",
+          "anchor": "Lotus Vibe"
+        },
+        {
+          "url": "https://ellymcguinness.com",
+          "anchor": "ellymcguinness.com"
+        },
+        {
+          "url": "https://www.buymeacoffee.com/colinandelly",
+          "anchor": "Buy Us A Coffee"
+        }
+      ]
+    },
+    {
+      "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+      "contentHash": "2277aeed329edd083c149be295f7055797a26d4bad6e496c300aaf87092ab869",
+      "placeMentions": [
+        {
+          "place": "Penang",
+          "country": "Malaysia",
+          "snippet": "Penang (still our longest stay to date, at 10 months) — family based here for an extended period.",
+          "nestingClaim": true,
+          "asOfDate": "2021-04-29"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Best places to meet other world schoolers: Hoi An (Vietnam), Bali, and Kuala Lumpur (Malaysia).",
+          "nestingClaim": true,
+          "asOfDate": "2021-04-29"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Six months house sitting in Canggu, Bali. Best places to meet other world schoolers includes Bali.",
+          "nestingClaim": true,
+          "asOfDate": "2021-04-29"
+        },
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "Best places to meet other world schoolers: Hoi An (Vietnam), Bali, and Kuala Lumpur (Malaysia).",
+          "nestingClaim": true,
+          "asOfDate": "2021-04-29"
+        },
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Best example of East meets West: Chiang Mai — named as a key slow-travel worldschooling destination.",
+          "nestingClaim": true,
+          "asOfDate": "2021-04-29"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://onlinemarketingdone4you.com/free-seo-report/",
+          "anchor": "Grab yourself a free website audit here"
+        },
+        {
+          "url": "https://ellymcguinness.com/meet-elly/",
+          "anchor": "I evolved from a face-to-face holistic health and fitness trainer into an online coach"
+        },
+        {
+          "url": "https://ellymcguinness.com",
+          "anchor": "ellymcguinness.com"
+        }
+      ]
+    },
+    {
+      "url": "https://parentingandpassports.com/",
+      "contentHash": "c07df1cba25573a112faa0b49043fffbe1471d3e905f15ad7df15ad74bf2aa89",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Finding Home on a Thai Island: How Koh Lanta Changed Our Family Forever — framed as a long-term family nesting place.",
+          "nestingClaim": true,
+          "asOfDate": "2026-05-21"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.huffingtonpost.co.uk",
+          "anchor": "Huffpost | Huffington Post"
+        }
+      ]
+    }
+  ]
+}

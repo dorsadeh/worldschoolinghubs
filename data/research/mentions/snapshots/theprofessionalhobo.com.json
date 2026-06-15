@@ -1,0 +1,104 @@
+{
+  "domain": "theprofessionalhobo.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+      "contentHash": "f58a3c42baf9b6b6064ed6c1784937faa05d751becabbcbc38bf8832454e40cb",
+      "placeMentions": [
+        {
+          "place": "Dominican Republic",
+          "country": "Dominican Republic",
+          "snippet": "The Hive offers multiple programs for worldschooling families to connect through 1-week or year-long sessions.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Guatemala",
+          "country": "Guatemala",
+          "snippet": "Deliberate Detour runs two-to-four-week programs in Guatemala for traveling families with children ages 7-16.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Mexico",
+          "country": "Mexico",
+          "snippet": "Deliberate Detour runs two-to-four-week programs in Mexico for traveling families with children ages 7-16.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Peru",
+          "country": "Peru",
+          "snippet": "Deliberate Detour runs two-to-four-week programs in Peru for traveling families with children ages 7-16.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Yucatan",
+          "country": "Mexico",
+          "snippet": "Anahata provides co-living environment bringing worldschoolers together in Yucatan for cultural immersion and adventure.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Green School in Bali operates as long-term option for international schooling and multicultural socialization for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Madeira",
+          "country": "Portugal",
+          "snippet": "Campus da Terra welcomes worldschooling families for flexible, community-based homeschooling on an ecological farm.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Oaxaca",
+          "country": "Mexico",
+          "snippet": "Tlayudona connects worldschoolers with local hosts in Oaxaca for authentic experiences and language immersion.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "St. Thomas",
+          "country": "Jamaica",
+          "snippet": "The Source Farm functions as multicultural learning village and ecovillage community for worldschooling families.",
+          "nestingClaim": true,
+          "asOfDate": "2025-03"
+        },
+        {
+          "place": "Cloughjordan",
+          "country": "Ireland",
+          "snippet": "Cloughjordan Ecovillage provides short-term accommodation and classes in sustainability for worldschooling families.",
+          "nestingClaim": false,
+          "asOfDate": "2025-03"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://bring-the-kids.com/worldschooling-the-exact-curriculum-you-need-to-take-your-kids-education-on-the-road/", "anchor": "World schooling curriculum" },
+        { "url": "https://worldtravelfamily.com/homeschool-and-travel/", "anchor": "resources" },
+        { "url": "https://www.facebook.com/groups/worldschoolers/", "anchor": "Worldschoolers" },
+        { "url": "https://weareworldschoolers.org/", "anchor": "We Are Worldschoolers" },
+        { "url": "https://www.facebook.com/groups/weareworldschoolers/members", "anchor": "vibrant Facebook community" },
+        { "url": "https://www.facebook.com/groups/worldschoolingcentral/members", "anchor": "Worldschooling Central" },
+        { "url": "https://worldschoolinghub.com/", "anchor": "Worldschooling Hub" },
+        { "url": "https://worldschoolingjunction.com", "anchor": "Worldschooling Junction" },
+        { "url": "https://www.worldtravelingschool.com", "anchor": "World Traveling School" },
+        { "url": "https://www.worldschoolacademy.com/", "anchor": "Worldschool Academy" },
+        { "url": "https://www.resources.extraordinaryfamilylife.com/", "anchor": "Extraordinary Family Life" },
+        { "url": "https://www.worldschoolingcentral.com/", "anchor": "Worldschooling Central" },
+        { "url": "https://www.theworld.school/", "anchor": "The World School" },
+        { "url": "https://www.khanacademy.org/", "anchor": "Khan Academy" },
+        { "url": "https://deliberatetravel.com/", "anchor": "Deliberate Travel Kids" },
+        { "url": "https://www.progressiveeducation.org/about/", "anchor": "Progressive Education" },
+        { "url": "https://bostontribetravels.com/educational-coaching-for-worldschooling-families/", "anchor": "The Worldschool Coach" },
+        { "url": "https://bostontribetravels.com/the-wanderhub/", "anchor": "The WanderHub" },
+        { "url": "https://www.worldschoolpopuphub.com/", "anchor": "World School Pop Up Hub" },
+        { "url": "https://projectworldschool.com/aboutpws/", "anchor": "Project World School" }
+      ]
+    }
+  ]
+}

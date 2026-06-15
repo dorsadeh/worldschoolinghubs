@@ -1,0 +1,33 @@
+{
+  "domain": "the5worldexplorers.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.the5worldexplorers.com/worldschooling-pop-up/",
+      "contentHash": "4c053dd326a6b37c2fafb3f033de8b408cbba20cf561c90ac57033a7e8d44e45",
+      "placeMentions": [
+        {
+          "place": "Veracruz",
+          "country": "Mexico",
+          "snippet": "We just finished hosting our first two worldschooling pop-ups in Veracruz, Mexico — families gathering for week-long pop-up events",
+          "nestingClaim": false,
+          "asOfDate": "2023-04"
+        },
+        {
+          "place": "Florence",
+          "country": "Italy",
+          "snippet": "add one in Florence, Italy as well — potential future worldschooling pop-up gathering location",
+          "nestingClaim": false,
+          "asOfDate": "2023-04"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.worldschoolpopuphub.com/", "anchor": "World School Popup Hub" },
+        { "url": "https://worldschoolfamilysummit.com/home-new/", "anchor": "Project World School Family summit" },
+        { "url": "https://www.worldschoolpopuphub.com/become-a-host", "anchor": "how it works" },
+        { "url": "https://www.worldschoolpopuphub.com/upcoming-events", "anchor": "future worldschooling pop-up locations" },
+        { "url": "https://thenomadphotography.com/", "anchor": "The Nomad Photography" }
+      ]
+    }
+  ]
+}

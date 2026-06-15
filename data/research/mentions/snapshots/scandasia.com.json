@@ -1,0 +1,29 @@
+{
+  "domain": "scandasia.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://scandasia.com/3397-taking-thaim-out-immensely-popular-among-the-swedes/",
+      "contentHash": "950505f1fdf4259a09b2d26fbe3bf42fb66274c736e0d9e0256f88727217862e",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Lanta has become known as a very popular destination for Swedes — 90% of all visitors during 2006/2007 high season were from the Nordic country",
+          "nestingClaim": true,
+          "asOfDate": "2007-06"
+        },
+        {
+          "place": "Varkala",
+          "country": "India",
+          "snippet": "Until more accommodation alternatives can be finalised they have meanwhile opened a franchise school in Varkala, India",
+          "nestingClaim": false,
+          "asOfDate": "2007-06"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "http://www.travelinsight.net", "anchor": "www.travelinsight.net" }
+      ]
+    }
+  ]
+}

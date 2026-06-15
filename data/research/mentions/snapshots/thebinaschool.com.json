@@ -1,0 +1,41 @@
+{
+  "domain": "thebinaschool.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.thebinaschool.com/blog/worldschooling",
+      "contentHash": "8639d80010c53ec915f1c0ba647e15664ed5589ee3f47a4683dcbdc3650d4c3b",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Popular hub where worldschooling families gather for meetups and community programs.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Worldschooling hub for traveling families and digital nomads; mentioned as seasonal gathering point.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Community immersion programs for traveling families and digital nomads; mentioned alongside other hubs.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://jumpfoundation.org/the-future-of-experiential-education/", "anchor": "University of Chicago study on experiential learning" },
+        { "url": "https://www.suttontrust.com/wp-content/uploads/2024/10/Life-Lessons-2024-1.pdf", "anchor": "Sutton Trust's Life Lessons 2024 report" },
+        { "url": "https://files.eric.ed.gov/fulltext/ED605578.pdf", "anchor": "Johns Hopkins University research on school moves" },
+        { "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1389269/", "anchor": "Frontiers in Psychology study on social interactions" },
+        { "url": "https://www.paradigmpress.org/SSSH/article/view/1328", "anchor": "Studies in Social Science & Humanities article" },
+        { "url": "https://passportexplorers.com/worldschooling-communities/", "anchor": "Worldschooling communities reference" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "domain": "adventuretravelfamily.co.uk",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://adventuretravelfamily.co.uk/2018/07/07/worldschooling-a-typical-day-in-our-worldschooling-family-life/",
+      "contentHash": "8a094101c6a8dc38f29ff35a36bf03a8c943e8017cd5bc32739a343adbe3f20d",
+      "placeMentions": [
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "moved from our original home (the UK) to another country (Bali), and travel from a different base",
+          "nestingClaim": true,
+          "asOfDate": "2018-07"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://adventuretravelfamily.co.uk/2016/12/12/homeschooling-uk-law-your-rights-and-responsibilities/", "anchor": "UK home education law" },
+        { "url": "https://youtu.be/XXWTAiUgYpg", "anchor": "on this day" },
+        { "url": "https://adventuretravelfamily.co.uk/2017/11/01/what-is-unschooling/", "anchor": "philosophy about education here" },
+        { "url": "https://adventuretravelfamily.co.uk/2016/12/31/socialisation-disadvantages-of-homeschooling/", "anchor": "homeschooling and socialisation" },
+        { "url": "https://worldtravelfamily.com", "anchor": "Alyson Long" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "domain": "bostontribetravels.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+      "contentHash": "6a82e42f6257ee88117a58607c64c0f198060bb52a786d13b9e64ceb1204601d",
+      "placeMentions": [
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Worldschool Hub in Luxor where families gather for educational experiences exploring ancient history.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Siem Reap",
+          "country": "Cambodia",
+          "snippet": "Worldschool Pop-Ups focuses on affordable short-term gatherings around the world for families.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Krabi",
+          "country": "Thailand",
+          "snippet": "Nature-Mind educational organization offers programs for children and worldschoolers designed to foster love of nature.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Wood School Bali offers progressive experiential learning; welcomes traveling worldschooling families for 1-5 week enrollments.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Cabrera",
+          "country": "Dominican Republic",
+          "snippet": "The Hive permanent school takes short-term worldschoolers in 6-week sessions following unschooling and project-based learning.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Portugal",
+          "country": "Portugal",
+          "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Greece",
+          "country": "Greece",
+          "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        },
+        {
+          "place": "Bali",
+          "country": "Indonesia",
+          "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+          "nestingClaim": true,
+          "asOfDate": "2023-07-14"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.luxorworldschoolhub.com/",
+          "anchor": "www.luxorworldschoolhub.com"
+        },
+        {
+          "url": "https://www.worldschoolpopuphub.com/past-pop-ups",
+          "anchor": "Worldschool Pop-Up Hub"
+        },
+        {
+          "url": "https://naturemind-ed.com",
+          "anchor": "Nature-Mind-Ed"
+        },
+        {
+          "url": "https://deliberatedetour.com/about-all-hubs/",
+          "anchor": "Deliberated Detour"
+        },
+        {
+          "url": "http://travelingvillage.com/",
+          "anchor": "Traveling Village"
+        },
+        {
+          "url": "http://www.unschooladventures.com/",
+          "anchor": "Unschool Adventures"
+        },
+        {
+          "url": "https://www.boundless.life/",
+          "anchor": "Boundless Life"
+        },
+        {
+          "url": "https://www.thehiveadventure.com/",
+          "anchor": "The Hive"
+        },
+        {
+          "url": "https://woodschoolbali.com",
+          "anchor": "The Wood School, Bali"
+        },
+        {
+          "url": "http://www.nomadswithkids.org/",
+          "anchor": "Nomads with Kids"
+        },
+        {
+          "url": "http://www.homestayswithkids.com/",
+          "anchor": "Homestays with Kids"
+        },
+        {
+          "url": "https://www.remotefamily.com/worldschooling-database/",
+          "anchor": "The Remote Family"
+        }
+      ]
+    },
+    {
+      "url": "https://bostontribetravels.com/worldschooling/",
+      "contentHash": "7c91156353e4e224167be36f9a5368b8fa9e1d991cba82140b7b0e529d07bc5e",
+      "placeMentions": [
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Worldschool Hub in Luxor where families gather for educational experiences.",
+          "nestingClaim": true,
+          "asOfDate": "2023-06"
+        },
+        {
+          "place": "Thailand",
+          "country": "Thailand",
+          "snippet": "Socialising with other parents at a Worldschool Hub in Thailand.",
+          "nestingClaim": true,
+          "asOfDate": "2023-06"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://en.syok.my/podcast/episode/114600",
+          "anchor": "interview on Lite Fm where I answer questions all about worldschooling"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/282490097_Travel_as_Relationship_Therapy_Examining_the_Effect_of_Vacation_Satisfaction_Applied_to_the_Investment_Model",
+          "anchor": "Durko & Petrick, 2013"
+        },
+        {
+          "url": "https://www.kadencewp.com/",
+          "anchor": "Kadence WP"
+        }
+      ]
+    },
+    {
+      "url": "https://bostontribetravels.com/destinations-2/",
+      "contentHash": "c4bb23c130fa67d504abcfe5c171146bd2a24d8368942f9ed669df61998230ae",
+      "placeMentions": [
+        {
+          "place": "Luxor",
+          "country": "Egypt",
+          "snippet": "Luxor worldschooling hub - families gather for historical adventures.",
+          "nestingClaim": false,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.kadencewp.com/",
+          "anchor": "Kadence WP"
+        }
+      ]
+    }
+  ]
+}

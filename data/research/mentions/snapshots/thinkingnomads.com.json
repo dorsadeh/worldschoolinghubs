@@ -1,0 +1,24 @@
+{
+  "domain": "thinkingnomads.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://thinkingnomads.com/living-in-vietnam-with-children-hoi-an/",
+      "contentHash": "6b3521018936aca4e1758c97cf558abd69f45d564360046c1bdf6ca7afafdffe",
+      "placeMentions": [
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "Hoi An has a thriving expat community and is presented as a base for families with ancient history and beaches nearby.",
+          "nestingClaim": true,
+          "asOfDate": "2019-09"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://tastevietnam.asia/yum-cha-house-restaurant-hoi-an", "anchor": "Yum Cha" },
+        { "url": "https://www.facebook.com/TRILONGCOFFEE.HOIAN/?ref=py_c", "anchor": "Tri Long Coffee" },
+        { "url": "https://thinkingnomads.com/why-you-need-travel-insurance-while-travelling-in-southeast-asia/", "anchor": "Travel Insurance" }
+      ]
+    }
+  ]
+}

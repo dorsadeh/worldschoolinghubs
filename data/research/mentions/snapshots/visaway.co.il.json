@@ -1,0 +1,32 @@
+{
+  "domain": "visaway.co.il",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://visaway.co.il/thailand-relocation-with-kids/",
+      "contentHash": "6d3e642280e781a87de92c5dbe2882cf28f55d40c70ce9ac97100559af1554cf",
+      "placeMentions": [
+        {
+          "place": "Koh Phangan",
+          "country": "Thailand",
+          "snippet": "Strong, cohesive Israeli community on Koh Phangan; Israeli families have established Hebrew-language schools and active social support networks on the island.",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        },
+        {
+          "place": "Koh Samui",
+          "country": "Thailand",
+          "snippet": "Mentioned alongside Koh Phangan as having an established Israeli family community with schools in Hebrew and mutual support networks.",
+          "nestingClaim": true,
+          "asOfDate": "2025-09"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://visaway.co.il/thailand-dtv-visa-2025/", "anchor": "המדריך המלא לויזת נווד דיגיטלי לתאילנד (DTV)" },
+        { "url": "https://visaway.co.il/new-thailand-visa-regulations-2025/", "anchor": "עדכון חשוב: תקנות חדשות בתאילנד" },
+        { "url": "https://visaway.co.il/thailand-entry-form-tdac-2025/", "anchor": "טופס כניסה לתאילנד (TDAC)" },
+        { "url": "https://visaway.co.il/vietnam-family-trip-guide/", "anchor": "טיול משפחות לויאטנם – המדריך המלא להורים" }
+      ]
+    }
+  ]
+}

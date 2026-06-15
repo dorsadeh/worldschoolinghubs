@@ -1,0 +1,22 @@
+{
+  "domain": "fiveticketstoroam.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.fiveticketstoroam.com/blog-posts/thailand/koh-lanta-worldschool-hub",
+      "contentHash": "27156e5f6c02bcc1115124eb74dde0945bbe878c15fa42b6d528bd0312fcc605",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "Koh Lanta is the first place on our trip where we have integrated ourselves into the BLISS Community with free activities and regular meetups organized for families.",
+          "nestingClaim": true,
+          "asOfDate": "2024-12"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.youtube.com/@FiveTicketstoRoam", "anchor": "YouTube Channel" }
+      ]
+    }
+  ]
+}

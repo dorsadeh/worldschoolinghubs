@@ -1,0 +1,125 @@
+{
+  "domain": "worldtravelfamily.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/",
+      "contentHash": "bc77a4e1d2923ca291aa1e9a08d8d62074c818a12462ebff9b278953a9aea6fc",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "Cheap, lovely, popular destination where it's easy to just hang out for a while — a recurring worldschooling base.",
+          "nestingClaim": false,
+          "asOfDate": "2025-01-06"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "We had two 3-month stays in Hoi An — families base themselves here for extended slow-travel periods.",
+          "nestingClaim": true,
+          "asOfDate": "2025-01-06"
+        },
+        {
+          "place": "Ko Phangan",
+          "country": "Thailand",
+          "snippet": "We lived right here, on Ko Phangan, for 6 weeks — family nesting on the island for an extended stay.",
+          "nestingClaim": true,
+          "asOfDate": "2025-01-06"
+        },
+        {
+          "place": "Romania",
+          "country": "Romania",
+          "snippet": "Romania was the other place that we spent months on end. That was a very special time.",
+          "nestingClaim": true,
+          "asOfDate": "2025-01-06"
+        },
+        {
+          "place": "London",
+          "country": "United Kingdom",
+          "snippet": "We spent 10 months in London in year 2 on the road and we did a couple of terms at Forest School.",
+          "nestingClaim": true,
+          "asOfDate": "2025-01-06"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.discovercars.com/?a_aid=AlysonLong",
+          "anchor": "this car rental comparison tool"
+        },
+        {
+          "url": "https://businessinyourbackpack.com/",
+          "anchor": "Kelly Kotanidis"
+        },
+        {
+          "url": "https://tropicalfoodgarden.com",
+          "anchor": "https://tropicalfoodgarden.com"
+        }
+      ]
+    },
+    {
+      "url": "https://worldtravelfamily.com/worldschooling/",
+      "contentHash": "d43663f125d8876218e60504e125581b57101e0b1ee4c19006b8af36d35fb89e",
+      "placeMentions": [
+        {
+          "place": "Portugal",
+          "country": "Portugal",
+          "snippet": "There are various worldschooling hubs and communities. There's one in Portugal.",
+          "nestingClaim": true,
+          "asOfDate": "2025-11-21"
+        },
+        {
+          "place": "Greece",
+          "country": "Greece",
+          "snippet": "There are various worldschooling hubs and communities including Greece, Bulgaria, Hoi An.",
+          "nestingClaim": true,
+          "asOfDate": "2025-11-21"
+        },
+        {
+          "place": "Bulgaria",
+          "country": "Bulgaria",
+          "snippet": "There are various worldschooling hubs and communities including Bulgaria, Hoi An.",
+          "nestingClaim": true,
+          "asOfDate": "2025-11-21"
+        },
+        {
+          "place": "Hoi An",
+          "country": "Vietnam",
+          "snippet": "There are also places where people just gravitate to, like Hoi An.",
+          "nestingClaim": true,
+          "asOfDate": "2025-11-21"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://homeschoolgrouphug.com/homeschooling-12-year-old/",
+          "anchor": "homeschooling a 12-year-old"
+        },
+        {
+          "url": "https://outschool.com/?signup=true&usid=VMERyUO7&utm_campaign=share_invite_link",
+          "anchor": "Outschool to find classes and tutors"
+        },
+        {
+          "url": "https://www.discovercars.com/?a_aid=AlysonLong",
+          "anchor": "car rental comparison tool"
+        },
+        {
+          "url": "https://adventuretravelfamily.co.uk/2017/11/01/what-is-unschooling/",
+          "anchor": "Hannah's post on \"What is Unschooling?\""
+        },
+        {
+          "url": "https://homeschoolgrouphug.com/homeschool-workbooks/",
+          "anchor": "homeschool workbooks"
+        },
+        {
+          "url": "https://tropicalfoodgarden.com",
+          "anchor": "tropicalfoodgarden.com"
+        },
+        {
+          "url": "https://tropicalfoodgarden.com/we-bought-a-farm/",
+          "anchor": "We bought a farm"
+        }
+      ]
+    }
+  ]
+}

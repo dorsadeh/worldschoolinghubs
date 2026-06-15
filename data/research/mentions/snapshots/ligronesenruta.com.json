@@ -1,0 +1,117 @@
+{
+  "domain": "ligronesenruta.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://ligronesenruta.com/worldschooling/",
+      "contentHash": "0f701fa5e0c898e99d36b94b997b9e215ca4782a0176e928d3131aa285efb057",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Como familia nómada worldschooler, buscamos la comunidad en cada uno de nuestros destinos, eligiendo algunos para más tiempo.",
+          "nestingClaim": true,
+          "asOfDate": "2022-07-21"
+        },
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "Primer Congreso de familias Worldschoolers de habla hispana se celebrará en Valencia del 7 al 10 de Septiembre.",
+          "nestingClaim": false,
+          "asOfDate": "2023-06-21"
+        },
+        {
+          "place": "Stokkøya",
+          "country": "Norway",
+          "snippet": "Family establishing roots and working in this location as part of affincarse (settling in) worldschooling strategy.",
+          "nestingClaim": true,
+          "asOfDate": "unknown"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://holafly.sjv.io/Qjj9B9",
+          "anchor": "holafly"
+        },
+        {
+          "url": "https://planetaworldschool.com/worldschooling-para-tods/",
+          "anchor": "TODA LA INFORMACIÓN"
+        },
+        {
+          "url": "https://coelectrix.com/ref/3/",
+          "anchor": "Electrical materials for camper conversions"
+        },
+        {
+          "url": "https://www.iatiseguros.com/?r=39601767975430",
+          "anchor": "Travel insurance"
+        },
+        {
+          "url": "https://www.chapkadirect.es/index.php?app=cd_ligronesenruta%20",
+          "anchor": "Chapka Direct"
+        },
+        {
+          "url": "https://geckocamper.com/",
+          "anchor": "Gecko Camper"
+        },
+        {
+          "url": "https://theworldschooledition.com/",
+          "anchor": "Travel books"
+        },
+        {
+          "url": "https://beacons.ai/planetaworldschool",
+          "anchor": "Planeta Worldschool"
+        }
+      ]
+    },
+    {
+      "url": "https://ligronesenruta.com/familias-por-el-mundo-2/",
+      "contentHash": "93e0c04862678b270329863ef63af8f914d65a4f92ee8b3bf682841f4d72f6c1",
+      "placeMentions": [
+        {
+          "place": "Valencia",
+          "country": "Spain",
+          "snippet": "Primer Congreso de familias Worldschoolers de habla hispana se celebrará en Valencia del 7 al 10 de Septiembre.",
+          "nestingClaim": false,
+          "asOfDate": "2023-06-21"
+        },
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Como familia nómada worldschooler, buscamos la comunidad en cada uno de nuestros destinos, eligiendo algunos.",
+          "nestingClaim": true,
+          "asOfDate": "2022-07-21"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://planetaworldschool.com/worldschooling-para-tods/",
+          "anchor": "WORLDSCHOOLING – Taller online"
+        },
+        {
+          "url": "https://holafly.sjv.io/Qjj9B9",
+          "anchor": "holafly"
+        },
+        {
+          "url": "https://coelectrix.com/ref/3/",
+          "anchor": "Todo el material eléctrico que necesitas para tu camperización"
+        },
+        {
+          "url": "https://www.iatiseguros.com/?r=39601767975430",
+          "anchor": "IATI Seguros"
+        },
+        {
+          "url": "https://www.chapkadirect.es/index.php?app=cd_ligronesenruta%20",
+          "anchor": "Chapka Direct"
+        },
+        {
+          "url": "https://geckocamper.com/",
+          "anchor": "Gecko Camper"
+        },
+        {
+          "url": "https://theworldschooledition.com/",
+          "anchor": "Travel books"
+        }
+      ]
+    }
+  ]
+}

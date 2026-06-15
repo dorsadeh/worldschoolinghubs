@@ -1,0 +1,29 @@
+{
+  "domain": "5losttogether.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://www.5losttogether.com/becoming-digital-nomad-family/",
+      "contentHash": "395c4508ae62e7d24f1e633b545575bfe7f507d7052d8521fabe96f8fe224215",
+      "placeMentions": [
+        {
+          "place": "Chiang Mai",
+          "country": "Thailand",
+          "snippet": "real travelling families hub so we were able to meet up with loads of other families there",
+          "nestingClaim": true,
+          "asOfDate": "2018-03"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.5losttogether.com/how-you-can-travel-more-as-a-family/", "anchor": "How You Can Travel More as a Family" },
+        { "url": "https://www.lonelyplanet.com/kids/lp-pathfinders-top-family-travel-posts-november-2017/", "anchor": "Lonely Planet Kids' Top Blogs" },
+        { "url": "http://rtwfamilies.com", "anchor": "RTW Families" },
+        { "url": "http://amzn.to/2FdtFmG", "anchor": "A Million Miles in A Thousand Years" },
+        { "url": "http://amzn.to/2oNCIjg", "anchor": "The 4 Hour Work Week" },
+        { "url": "http://rtwfamilies.com/the-big-travel-questions/travel-long-term-family", "anchor": "Their reasons for travelling" },
+        { "url": "http://rtwfamilies.com/the-big-travel-questions/travelling-families-afford/", "anchor": "How families afford travel" },
+        { "url": "http://rtwfamilies.com/worldschooling/how-we-worldschool/", "anchor": "Their worldschooling method" }
+      ]
+    }
+  ]
+}

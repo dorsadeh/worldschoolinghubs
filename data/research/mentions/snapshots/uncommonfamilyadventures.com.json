@@ -1,0 +1,22 @@
+{
+  "domain": "uncommonfamilyadventures.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://uncommonfamilyadventures.com/blog/what-is-worldschooling",
+      "contentHash": "6ab1a4d603c83c96fb2ae937a8556caadba4c39ce3f5f8c982b8611c1dba8303",
+      "placeMentions": [],
+      "outboundLinks": [
+        { "url": "https://uncommonfamilyadventures.com/blog/is-homeschooling-right-for-your-family", "anchor": "Is Homeschooling Right for Your Family?" },
+        { "url": "https://outschool.com/parents/a22b68fd-d3ca-4e99-9f29-a41e15101dc7/e5bfe903-2eb6-45a4-89f3-401af51e0e5d", "anchor": "Outschool" },
+        { "url": "https://recess.gg/hi/4X2QR", "anchor": "Recess" },
+        { "url": "https://uncommonfamilyadventures.com/blog/france-family-travel-itinerary", "anchor": "three months in France" },
+        { "url": "https://uncommonfamilyadventures.com/blog/trustedhousesitters-budget-family-travel", "anchor": "pet-sitting" },
+        { "url": "https://trustedhousesitters.pxf.io/DyboE5", "anchor": "TrustedHousesitters" },
+        { "url": "https://www.facebook.com/groups/worldschoolers", "anchor": "Worldschoolers" },
+        { "url": "https://www.facebook.com/groups/weareworldschoolersteensandtweens", "anchor": "Worldschooling Families with Tweens/Teens" },
+        { "url": "https://www.facebook.com/groups/budgetworldschooling", "anchor": "Worldschooling On A Budget" }
+      ]
+    }
+  ]
+}

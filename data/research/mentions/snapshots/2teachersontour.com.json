@@ -1,0 +1,25 @@
+{
+  "domain": "2teachersontour.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://www.2teachersontour.com/an-almost-normal-week-in-bansko-bulgaria/",
+      "contentHash": "98dccdcf67123f81ac62cfe36beeff0175eb84ddab6d8add8ef927492c896667",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Families have gathered to have social interaction and be part of this worldschooling hub.",
+          "nestingClaim": true,
+          "asOfDate": "2022-03"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://colibriwp.com",
+          "anchor": "Colibri"
+        }
+      ]
+    }
+  ]
+}

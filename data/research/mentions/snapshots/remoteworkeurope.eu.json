@@ -1,0 +1,29 @@
+{
+  "domain": "remoteworkeurope.eu",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://remoteworkeurope.eu/insights/bansko-obidim-worldschooling/",
+      "contentHash": "81ac2c32db509beb380232172ec8816e7f4c7dbccf17b8779c3a53377ee95046",
+      "placeMentions": [
+        {
+          "place": "Bansko",
+          "country": "Bulgaria",
+          "snippet": "Remote-working families base themselves seasonally or long-term in Bansko; established hub for worldschooling and homeschooling communities.",
+          "nestingClaim": true,
+          "asOfDate": "2025-07"
+        },
+        {
+          "place": "Obidim",
+          "country": "Bulgaria",
+          "snippet": "Village near Bansko hosting Ubuntu Hub, a self-directed learning space specifically for remote-working families' children.",
+          "nestingClaim": true,
+          "asOfDate": "2025-07"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.homeschoolingbg.com/index.php?id=2", "anchor": "official organisation in Bulgaria" }
+      ]
+    }
+  ]
+}

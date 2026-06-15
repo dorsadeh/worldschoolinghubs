@@ -1,0 +1,33 @@
+{
+  "domain": "5bylandandsea.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://5bylandandsea.com/worldschool-pop-up-in-kuala-lumpur/",
+      "contentHash": "400194710369f3632f9dee8676abe8471ac5ea87cb8901c44b6918f984a65d3c",
+      "placeMentions": [
+        {
+          "place": "Kuala Lumpur",
+          "country": "Malaysia",
+          "snippet": "pop-ups are weeklong affairs, where other worldschooling families congregate in a city",
+          "nestingClaim": true,
+          "asOfDate": "2024-01"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.worldschoolpopuphub.com/", "anchor": "Worldschool pop-up hub" },
+        { "url": "https://www.booking.com/hotel/my/the-robertson-kl.html", "anchor": "The Robertson Hotel" },
+        { "url": "https://indianempire.oddle.me/en_MY/", "anchor": "Indian Empire" },
+        { "url": "https://www.theexchange.my/", "anchor": "Exchange TRX" },
+        { "url": "https://centralmarket.com.my/", "anchor": "Central Market" },
+        { "url": "https://www.youtube.com/channel/UCyjhyJoPHcQRxPLnWPjOecg", "anchor": "Johnston Family" },
+        { "url": "https://www.petronastwintowers.com.my/", "anchor": "Petronas Twin Towers" },
+        { "url": "https://en.wikipedia.org/wiki/Entrapment_(film)", "anchor": "Entrapment" },
+        { "url": "https://www.artgallery.gov.my/en/homepage/", "anchor": "National Art Gallery" },
+        { "url": "https://en.wikipedia.org/wiki/National_Mosque_of_Malaysia", "anchor": "National Mosque of Malaysia" },
+        { "url": "https://www.malaysia.travel/explore/batu-caves", "anchor": "Batu Caves" },
+        { "url": "https://lepaknlearn.com/", "anchor": "Lepak n Learn" }
+      ]
+    }
+  ]
+}

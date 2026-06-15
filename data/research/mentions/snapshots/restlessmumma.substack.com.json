@@ -1,0 +1,59 @@
+{
+  "domain": "restlessmumma.substack.com",
+  "extractedAt": "2026-06-15T12:00:00Z",
+  "pages": [
+    {
+      "url": "https://restlessmumma.substack.com/p/the-great-arrival",
+      "contentHash": "d4a6c52ddc2f167eff0b27f5a27dc086b8fc9eaef3a28861564b3abdd00c25c1",
+      "placeMentions": [
+        {
+          "place": "Pai",
+          "country": "Thailand",
+          "snippet": "pop up community of world schooling families we'd hoped to find in Pai — community expected but not yet materialised.",
+          "nestingClaim": false,
+          "asOfDate": "2026-05-03"
+        },
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "haven for digital nomads who like the quiet life; same pop-up community of world schooling families also running a group down here.",
+          "nestingClaim": true,
+          "asOfDate": "2026-05-03"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.amazon.com/stores/Anna-McNuff/author",
+          "anchor": "six books"
+        },
+        {
+          "url": "https://restlessmumma.substack.com/p/we-came-for-community-and-found-fog",
+          "anchor": "we'd hoped to find in Pai (but hadn't materialised)"
+        }
+      ]
+    },
+    {
+      "url": "https://restlessmumma.substack.com/p/the-nanny-wagon",
+      "contentHash": "ec13d89d95a437ac7aa115b08b446d697f591bb4b9fbc20ed5639d39f95358fc",
+      "placeMentions": [
+        {
+          "place": "Koh Lanta",
+          "country": "Thailand",
+          "snippet": "We'd made a few trips out to connect with the world schooling community we hoped to be a part of on Koh Lanta.",
+          "nestingClaim": true,
+          "asOfDate": "2026-05-09"
+        }
+      ],
+      "outboundLinks": [
+        {
+          "url": "https://www.amazon.com/stores/Anna-McNuff/author",
+          "anchor": "six books"
+        },
+        {
+          "url": "https://www.amazon.co.uk/Bedtime-Adventure-Stories-Grown-Ups-ebook/dp/B0GZFPV1M3/",
+          "anchor": "Bedtime Adventure Stories for Grown Ups 2"
+        }
+      ]
+    }
+  ]
+}

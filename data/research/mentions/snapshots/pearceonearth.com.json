@@ -1,0 +1,45 @@
+{
+  "domain": "pearceonearth.com",
+  "extractedAt": "2026-06-15T00:00:00.000Z",
+  "pages": [
+    {
+      "url": "https://pearceonearth.com/finding-home-in-san-miguel-de-allende/",
+      "contentHash": "e281eeb98ba73096c2854742443f76bac3fa624b9f685b0a86a23e3d68a76665",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "Several other families we know are moving to San Miguel in the near future; growing worldschooling community and reasonable costs. Cities like San Miguel and Ubud have become great hubs for worldschoolers.",
+          "nestingClaim": true,
+          "asOfDate": "2017-07"
+        },
+        {
+          "place": "Ubud",
+          "country": "Indonesia",
+          "snippet": "Some cities like San Miguel and Ubud have become great hubs for worldschoolers.",
+          "nestingClaim": true,
+          "asOfDate": "2017-07"
+        }
+      ],
+      "outboundLinks": [
+        { "url": "https://www.airbnb.com/rooms/18925428", "anchor": "purchased a home" },
+        { "url": "https://www.airbnb.com/rooms/4767430", "anchor": "villa in Bali" },
+        { "url": "http://www.familyadventuresummit.com", "anchor": "Family Adventure Summit" }
+      ]
+    },
+    {
+      "url": "https://pearceonearth.com/category/travel/san-miguel/",
+      "contentHash": "b96442281d9940d9d7aff7b524638dbe1aa296f497de0f3020e383281500eba3",
+      "placeMentions": [
+        {
+          "place": "San Miguel de Allende",
+          "country": "Mexico",
+          "snippet": "growing worldschooling community, the many opportunities for our girls to take classes at reasonable prices, the eternal spring climate — family purchased a home there.",
+          "nestingClaim": true,
+          "asOfDate": "2017-07"
+        }
+      ],
+      "outboundLinks": []
+    }
+  ]
+}
