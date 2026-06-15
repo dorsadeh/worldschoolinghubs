@@ -210,3 +210,25 @@ describe("extractJsonArray", () => {
     expect(JSON.parse(extractJsonArray(text))).toEqual([{ why: "see [ref] here" }]);
   });
 });
+
+import { selectHubMentions, type ScoredSource } from "../lib/intake/mentions";
+
+const SRC = (over: Partial<ScoredSource>): ScoredSource => ({
+  domain: "x.com", kind: "personal-blog", url: "https://x.com/p", snippet: "s", date: "2025-01", ...over,
+});
+
+describe("selectHubMentions", () => {
+  it("orders blog/press/forum before directory/hub-site and maps to {domain,url,snippet,date}", () => {
+    const out = selectHubMentions([
+      SRC({ domain: "dir.com", kind: "directory" }),
+      SRC({ domain: "blog.com", kind: "personal-blog" }),
+      SRC({ domain: "press.com", kind: "press" }),
+    ]);
+    expect(out.map((m) => m.domain)).toEqual(["blog.com", "press.com", "dir.com"]);
+    expect(out[0]).toEqual({ domain: "blog.com", url: "https://x.com/p", snippet: "s", date: "2025-01" });
+  });
+  it("caps the list", () => {
+    const many = Array.from({ length: 20 }, (_, i) => SRC({ domain: `d${i}.com` }));
+    expect(selectHubMentions(many, 12)).toHaveLength(12);
+  });
+});

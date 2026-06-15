@@ -240,3 +240,19 @@ export function nextFrontierDomains(outbound: OutboundLink[], registry: SourceRe
 export function changedUrls(fresh: Record<string, string>, prev: Record<string, string> | null): string[] {
   return Object.keys(fresh).filter((u) => !prev || prev[u] !== fresh[u]);
 }
+
+/** One blog/press mention surfaced on a directory hub card (attached by placeId at build time). */
+export interface HubMention { domain: string; url: string; snippet: string; date: string }
+
+const MENTION_KIND_RANK: Record<SourceKind, number> = {
+  "personal-blog": 0, press: 1, forum: 2, directory: 3, "hub-site": 4,
+};
+
+/** Pick a hub's display mentions from its scored sources: independent (blog/press/forum)
+ *  first, then directories/hub-sites; capped. */
+export function selectHubMentions(sources: ScoredSource[], cap = 12): HubMention[] {
+  return [...sources]
+    .sort((a, b) => MENTION_KIND_RANK[a.kind] - MENTION_KIND_RANK[b.kind])
+    .slice(0, cap)
+    .map((s) => ({ domain: s.domain, url: s.url, snippet: s.snippet, date: s.date }));
+}

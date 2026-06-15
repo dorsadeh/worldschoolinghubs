@@ -1,4 +1,5 @@
 import rawImageBlocklist from "../data/image-blocklist.json";
+import type { HubMention } from "./intake/mentions";
 
 export type HubCategory =
   | "organic" | "permanent_commercial" | "permanent_community"
@@ -121,6 +122,7 @@ export interface DirectoryHub {
   image: string;
   coords: [number, number] | null;
   enrichment?: HubEnrichment; // deep-research overlay, attached by id at build time
+  mentions?: HubMention[];    // blog/press mentions, attached by placeId at build time (mined organic hubs)
 }
 
 export interface DirectoryFilter {
@@ -142,8 +144,8 @@ export const CATEGORY_META: Record<HubCategory, { label: string; color: string }
   popup: { label: "Pop-up", color: "#e11d48" },
   traveling: { label: "Traveling", color: "#2563eb" },
   spanish_immersion: { label: "Spanish", color: "#d97706" },
-  summer_camp: { label: "Summer camp", color: "#b45309" },
   // Hidden buckets — present for type-completeness only; filtered out before any UI renders.
+  summer_camp: { label: "Summer camp", color: "#b45309" },
   online_communities: { label: "Online community", color: "#7a8699" },
   junk: { label: "Junk", color: "#9aa0a6" },
   inactive: { label: "Inactive (no working link)", color: "#9aa0a6" },
@@ -154,10 +156,11 @@ export const CATEGORY_META: Record<HubCategory, { label: string; color: string }
  * listings parked for the record; `online_communities` = real virtual groups we
  * track but don't surface in the place-based explorer; `inactive` = real hubs
  * with no working link (current and proposed URLs both unreachable) — hidden
- * until a valid link is found. Filtered at the data boundary (see app/page.tsx)
- * so no card, pin, tab, filter, or count includes them.
+ * until a valid link is found; `summer_camp` = seasonal day-camps kept in the
+ * data but not surfaced to users for now. Filtered at the data boundary (see
+ * app/page.tsx) so no card, pin, tab, filter, or count includes them.
  */
-export const HIDDEN_CATEGORIES = new Set<HubCategory>(["online_communities", "junk", "inactive"]);
+export const HIDDEN_CATEGORIES = new Set<HubCategory>(["online_communities", "junk", "inactive", "summer_camp"]);
 
 /** Categories that actually appear in the UI (filter pills, legend) — hidden ones removed. */
 export const DISPLAY_CATEGORIES = (Object.keys(CATEGORY_META) as HubCategory[])
