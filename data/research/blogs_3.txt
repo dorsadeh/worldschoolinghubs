@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Worldschooly",
+    "domain": "worldschooly.com",
+    "kind": "directory",
+    "lang": "en",
+    "seedUrls": ["https://worldschooly.com/"],
+    "examplePlaces": ["Bansko", "Ubud", "Playa del Carmen", "Moshi", "Antiguo Cuscatlán"],
+    "why": "A dedicated directory for finding permanent and pop-up worldschooling hubs, filtered by location and type of community.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "Worldschool Pop-Up Hub",
+    "domain": "worldschoolpopuphub.com",
+    "kind": "directory",
+    "lang": "en",
+    "seedUrls": ["https://www.worldschoolpopuphub.com/"],
+    "examplePlaces": ["Sibiu", "Warsaw", "Cuenca", "Luang Prabang", "Austin"],
+    "why": "A central platform for self-organized, month-long community gatherings for traveling families; excellent for identifying current active clusters.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "Worldly Tribe",
+    "domain": "worldlytribe.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://worldlytribe.com/the-ultimate-guide-to-worldschooling-for-families/",
+      "https://worldlytribe.com/the-ultimate-10-family-friendly-hubs-with-game-changing-nomad-infrastructure/"
+    ],
+    "examplePlaces": ["Ubud", "Chiang Mai", "Tenerife", "Estonia", "Costa Rica"],
+    "why": "High-quality analytical blog that explicitly ranks destinations based on nomad infrastructure, schooling options, and community density.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "World Travel Ambitions",
+    "domain": "worldtravelambitions.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": ["https://worldtravelambitions.com/about/", "https://worldtravelambitions.com/"],
+    "examplePlaces": ["Hoi An", "Phu Quoc", "Bansko", "La Herradura", "Kas"],
+    "why": "A veteran worldschooling family (6 members) documenting years of slow travel; they provide detailed guides on specific towns they have 'nested' in.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "Little Nomads",
+    "domain": "littlenomadsworld.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": ["https://www.littlenomadsworld.com/"],
+    "examplePlaces": ["Cabrera", "Bansko", "Antigua"],
+    "why": "A community-focused blog that features interviews with families, highlighting the real-world logistics of choosing specific worldschooling bases.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "The Travelling Trowberrys",
+    "domain": "thetravellingtrowberrys.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": ["https://thetravellingtrowberrys.com/want-a-worldschool-hub-review-the-definitive-review-insider-guide/"],
+    "examplePlaces": ["Phu Quoc", "Oria", "Lago de Atitlan", "Koh Lanta", "Pai", "Sanur"],
+    "why": "Provides critical, honest reviews of established worldschooling hubs, helping distinguish between marketing hype and actual family-friendly infrastructure.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "The Wandering Daughter",
+    "domain": "thewanderingdaughter.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": ["https://thewanderingdaughter.com/destinations/"],
+    "examplePlaces": ["Bali", "Costa Rica", "Vietnam"],
+    "why": "Run by experienced worldschoolers, this site catalogs long-term family bases with a focus on educational and cultural immersion.",
+    "asOf": "2026-06"
+  }
+]

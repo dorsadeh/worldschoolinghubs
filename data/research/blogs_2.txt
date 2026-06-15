@@ -1,0 +1,38 @@
+[
+  {
+    "name": "The Travelling Trowberrys",
+    "domain": "thetravellingtrowberrys.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://thetravellingtrowberrys.com/want-a-worldschool-hub-review-the-definitive-review-insider-guide/"
+    ],
+    "examplePlaces": ["Phu Quoc", "Lake Atitlan", "Koh Lanta", "Pai", "Antigua"],
+    "why": "A live, personal blog of an LGBT+ family of four sharing details of their 16-month worldschooling gap year. This specific post explicitly reviews the regional hubs, infrastructure, and towns they utilized to gather with other traveling families.",
+    "asOf": "2026-03"
+  },
+  {
+    "name": "Parenting & Passports",
+    "domain": "parentingandpassports.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://parentingandpassports.com/worldschooling-hubs-koh-lanta/"
+    ],
+    "examplePlaces": ["Koh Lanta", "Pai"],
+    "why": "A personal worldschooling family travel site. This verified URL contains an extensive, firsthand account of a family of seven nesting in Pai and Koh Lanta, detailing how they organically built the local 'Bliss Hubs' community network for long-term nomad parents.",
+    "asOf": "2026-05"
+  },
+  {
+    "name": "Worldly Tribe",
+    "domain": "worldlytribe.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://worldlytribe.com/the-ultimate-guide-to-worldschooling-for-families/"
+    ],
+    "examplePlaces": ["Ubud", "Chiang Mai", "Puerto Escondido", "Tenerife"],
+    "why": "A dedicated, live personal family worldschooling portal. This foundational guide filters exact destination recommendations based specifically on where established, active networks of digital nomad families slow-travel and base themselves.",
+    "asOf": "2026-05"
+  }
+]

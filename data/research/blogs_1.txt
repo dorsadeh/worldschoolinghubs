@@ -1,0 +1,230 @@
+[
+{
+"name": "Go Watkins Go",
+"domain": "gowatkinsgo.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://gowatkinsgo.com/?p=11521](https://gowatkinsgo.com/?p=11521)",
+"[https://gowatkinsgo.com/?p=11572](https://gowatkinsgo.com/?p=11572)",
+"[https://gowatkinsgo.com/?p=10551](https://gowatkinsgo.com/?p=10551)"
+],
+"examplePlaces": [
+"Fethiye",
+"Zlatibor"
+],
+"why": "A full-time traveling family describes living near several other families in Fethiye and spending a summer with seven families in Zlatibor, showing real temporary family clusters.",
+"asOf": "2026-05"
+},
+{
+"name": "WildJunket",
+"domain": "wildjunket.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://www.wildjunket.com/digital-nomad-family/](https://www.wildjunket.com/digital-nomad-family/)"
+],
+"examplePlaces": [
+"San Miguel de Allende",
+"Cape Town",
+"Playa del Carmen"
+],
+"why": "A long-term traveling and worldschooling mother explains how her family chooses bases with strong international communities and describes settling into community life in named cities.",
+"asOf": "2026-05"
+},
+{
+"name": "TraveLynn Family",
+"domain": "travelynnfamily.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://travelynnfamily.com/hoi-an-with-kids/](https://travelynnfamily.com/hoi-an-with-kids/)",
+"[https://travelynnfamily.com/koh-lanta-with-kids/](https://travelynnfamily.com/koh-lanta-with-kids/)"
+],
+"examplePlaces": [
+"Hoi An",
+"Koh Lanta"
+],
+"why": "A family travel blog identifies Hoi An and Koh Lanta as leading worldschooling destinations where traveling families commonly extend their stays.",
+"asOf": "2025-06"
+},
+{
+"name": "Smiths On Tour",
+"domain": "smithsontourblog.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://www.smithsontourblog.com/chiang-mai/family-travel-chiang-mai-smiths-on-tour](https://www.smithsontourblog.com/chiang-mai/family-travel-chiang-mai-smiths-on-tour)"
+],
+"examplePlaces": [
+"Chiang Mai"
+],
+"why": "A full-time traveling family describes Chiang Mai as a place families repeatedly return to and emphasizes its established long-stay community.",
+"asOf": "2025-11"
+},
+{
+"name": "World Travel Family",
+"domain": "worldtravelfamily.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/](https://worldtravelfamily.com/worldschooling-hubs-groups-and-meet-ups/)",
+"[https://worldtravelfamily.com/worldschooling/](https://worldtravelfamily.com/worldschooling/)"
+],
+"examplePlaces": [
+"Chiang Mai",
+"Hoi An"
+],
+"why": "A family that traveled and worldschooled for six years explains where traveling families meet, organize outings, and stay long enough to form communities.",
+"asOf": "2025-11"
+},
+{
+"name": "Our Happy Life",
+"domain": "ourhappylife.co",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://ourhappylife.co/hoi-an-lanterns-rice-fields-and-warm-smiles/](https://ourhappylife.co/hoi-an-lanterns-rice-fields-and-warm-smiles/)"
+],
+"examplePlaces": [
+"Hoi An"
+],
+"why": "A traveling family reports that many worldschooling families remain in Hoi An for months and describes their children connecting with other traveling children.",
+"asOf": "2025-03"
+},
+{
+"name": "Big Adventures with Little Feet",
+"domain": "bigadventureswithlittlefeet.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://bigadventureswithlittlefeet.com/a-digital-nomad-family/](https://bigadventureswithlittlefeet.com/a-digital-nomad-family/)",
+"[https://bigadventureswithlittlefeet.com/things-to-do-antigua/](https://bigadventureswithlittlefeet.com/things-to-do-antigua/)"
+],
+"examplePlaces": [
+"Antigua"
+],
+"why": "Parents traveling with young children describe spending three winters in Antigua and meeting the same returning nomad families each season.",
+"asOf": "2024-07"
+},
+{
+"name": "5 By Land And Sea",
+"domain": "5bylandandsea.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://5bylandandsea.com/worldschool-pop-up-in-kuala-lumpur/](https://5bylandandsea.com/worldschool-pop-up-in-kuala-lumpur/)"
+],
+"examplePlaces": [
+"Kuala Lumpur"
+],
+"why": "A globetrotting family documents a Kuala Lumpur gathering attended by more than 100 worldschoolers and local homeschoolers, with several families extending their stay.",
+"asOf": "2024-11"
+},
+{
+"name": "Learners and Makers",
+"domain": "learnersandmakers.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://www.learnersandmakers.com/is-chiang-mai-worth-visiting/](https://www.learnersandmakers.com/is-chiang-mai-worth-visiting/)"
+],
+"examplePlaces": [
+"Chiang Mai"
+],
+"why": "A full-time worldschooling family calls Chiang Mai a popular family hub and describes meeting other traveling families during its seasonal gathering period.",
+"asOf": "unknown"
+},
+{
+"name": "5 Lost Together",
+"domain": "5losttogether.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://www.5losttogether.com/becoming-digital-nomad-family/](https://www.5losttogether.com/becoming-digital-nomad-family/)"
+],
+"examplePlaces": [
+"Chiang Mai"
+],
+"why": "A digital-nomad family describes Chiang Mai as a genuine traveling-family hub where they met numerous other long-term traveling families.",
+"asOf": "unknown"
+},
+{
+"name": "Educate Away",
+"domain": "educateaway.co.uk",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://educateaway.co.uk/worldschooling/](https://educateaway.co.uk/worldschooling/)"
+],
+"examplePlaces": [
+"Luxor"
+],
+"why": "A worldschooling family recounts joining a four-week community in Luxor with other traveling families and describes the resulting temporary village.",
+"asOf": "unknown"
+},
+{
+"name": "Pearce On Earth",
+"domain": "pearceonearth.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://pearceonearth.com/finding-home-in-san-miguel-de-allende/](https://pearceonearth.com/finding-home-in-san-miguel-de-allende/)",
+"[https://pearceonearth.com/category/travel/san-miguel/](https://pearceonearth.com/category/travel/san-miguel/)"
+],
+"examplePlaces": [
+"San Miguel de Allende"
+],
+"why": "A traveling family of five documents finding a home in San Miguel de Allende and participating in its growing worldschooling community and family gatherings.",
+"asOf": "2017-07"
+},
+{
+"name": "Simple Homeschool",
+"domain": "simplehomeschool.net",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://simplehomeschool.net/mexico-central-america/](https://simplehomeschool.net/mexico-central-america/)"
+],
+"examplePlaces": [
+"Playa del Carmen"
+],
+"why": "A homeschooling family explains that it based itself in Playa del Carmen for three months specifically because of the town's strong homeschool and worldschool community.",
+"asOf": "unknown"
+},
+{
+"name": "Adventure Travel Family",
+"domain": "adventuretravelfamily.co.uk",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://adventuretravelfamily.co.uk/2018/07/07/worldschooling-a-typical-day-in-our-worldschooling-family-life/](https://adventuretravelfamily.co.uk/2018/07/07/worldschooling-a-typical-day-in-our-worldschooling-family-life/)"
+],
+"examplePlaces": [
+"Bali"
+],
+"why": "A parent describes moving the family to Bali, using it as a worldschooling base, and encountering an increasing number of worldschooling families there.",
+"asOf": "2018-07"
+},
+{
+"name": "Ankor på vift",
+"domain": "ankorpavift.com",
+"kind": "personal-blog",
+"lang": "en",
+"seedUrls": [
+"[https://ankorpavift.com/blog/2020/03/04/long-beach-and-worldschooling/](https://ankorpavift.com/blog/2020/03/04/long-beach-and-worldschooling/)"
+],
+"examplePlaces": [
+"Koh Lanta"
+],
+"why": "A family travel account describes the seasonal worldschooling community around Long Beach and the concentration of Swedish families on Koh Lanta.",
+"asOf": "2020-03"
+}
+]
+
+
+
+
+
+
+
