@@ -14,6 +14,7 @@ import { join, basename } from "node:path";
 import { parseMonths } from "../lib/season";
 import { costBucket } from "../lib/cost";
 import type { DirectoryHub, HubCategory, HubEnrichment } from "../lib/directory";
+import { selectHubMentions, type HubMention, type ScoredFile } from "../lib/intake/mentions";
 
 const ROOT = process.cwd();
 const RESEARCH = join(ROOT, "data", "research");
@@ -21,6 +22,8 @@ const SRC = join(RESEARCH, "directory-consolidated-2026-06-09.json");
 const CENTROIDS = join(RESEARCH, "country-centroids.json");
 const GEOCODED = join(RESEARCH, "geocoded-coords.json");
 const ENRICH = join(RESEARCH, "enrichment.json");
+const NEW_ORGANIC_MAP = join(RESEARCH, "mentions", "new-organic-map.json");
+const SCORED = join(RESEARCH, "mentions", "organic-places-scored.json");
 const HUBS_JSON = join(ROOT, "public", "hubs.json");
 const IMG_OUT = join(ROOT, "public", "directory-images");
 const OUT = join(ROOT, "public", "directory.json");
@@ -44,6 +47,12 @@ function main() {
   const enrichment: Record<string, HubEnrichment> = existsSync(ENRICH)
     ? JSON.parse(readFileSync(ENRICH, "utf8"))
     : {};
+  const idToPlaceId: Record<string, string> = existsSync(NEW_ORGANIC_MAP)
+    ? JSON.parse(readFileSync(NEW_ORGANIC_MAP, "utf8")) : {};
+  const scoredByPlace = new Map<string, ScoredFile["places"][number]>();
+  if (existsSync(SCORED)) {
+    for (const p of (JSON.parse(readFileSync(SCORED, "utf8")) as ScoredFile).places) scoredByPlace.set(p.placeId, p);
+  }
   const hubs = JSON.parse(readFileSync(HUBS_JSON, "utf8")) as {
     id: string; location: { lat: number | null; lng: number | null };
   }[];
@@ -69,6 +78,9 @@ function main() {
     const categories = [...new Set<HubCategory>([category, ...extra])];
 
     const enrich = enrichment[id];
+    const placeId = idToPlaceId[id];
+    const place = placeId ? scoredByPlace.get(placeId) : undefined;
+    const mentions: HubMention[] = place ? selectHubMentions(place.sources) : [];
 
     let coords: [number, number] | null =
       hubCoords.get(id) ??          // 1. precise coords from curated hubs.json
@@ -125,6 +137,7 @@ function main() {
       image,
       coords,
       ...(enrich ? { enrichment: enrich } : {}),
+      ...(mentions.length ? { mentions } : {}),
     };
   });
 
