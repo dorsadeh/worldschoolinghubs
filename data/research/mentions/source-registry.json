@@ -1,0 +1,1809 @@
+{
+  "updatedAt": "2026-06-15T09:02:39.209Z",
+  "sources": [
+    {
+      "domain": "actonacademyelsalvador.com",
+      "name": "actonacademyelsalvador.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "http://www.actonacademyelsalvador.com/worldschool-hub"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "amanilight.com",
+      "name": "amanilight.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.amanilight.com/worldschool"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "anahataworldschoolingcommunity.com",
+      "name": "anahataworldschoolingcommunity.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://anahataworldschoolingcommunity.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "andeanglobalstudies.org",
+      "name": "andeanglobalstudies.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://www.andeanglobalstudies.org/spanish-schools-programs/cuenca-school-overview"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "andorra.agorainternationalschool.es",
+      "name": "andorra.agorainternationalschool.es",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://andorra.agorainternationalschool.es/en/school-life/summer-camp"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "antiguaworldschool.com",
+      "name": "antiguaworldschool.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.antiguaworldschool.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "arcticterns.global",
+      "name": "arcticterns.global",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://arcticterns.global"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "bangkokpost.com",
+      "name": "bangkokpost.com",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "blattwerk-natur.de",
+      "name": "blattwerk-natur.de",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://blattwerk-natur.de/worldschooling-hub-2025/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "blissinvestor.com",
+      "name": "blissinvestor.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://blissinvestor.com/",
+        "https://blissinvestor.com/community/world-schoolers-in-pai-thailand/",
+        "https://blissinvestor.com",
+        "https://blissinvestor.com/community/worldschoolers-in-koh-lanta-thailand/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "blog.worldschoolhubs.com",
+      "name": "blog.worldschoolhubs.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://blog.worldschoolhubs.com/worldschooling-hubs/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "boundless.life",
+      "name": "boundless.life",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://boundless.life",
+        "https://www.boundless.life/topic/destinations"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "brightsteps.worldschoolinghub.com",
+      "name": "brightsteps.worldschoolinghub.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://brightsteps.worldschoolinghub.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "cacaocoastcr.com",
+      "name": "cacaocoastcr.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://cacaocoastcr.com/",
+        "https://www.cacaocoastcr.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "campstompingground.org",
+      "name": "campstompingground.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://campstompingground.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "campusdaterra.org",
+      "name": "campusdaterra.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://campusdaterra.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "cohli.com",
+      "name": "cohli.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://cohli.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "culturechalk.org",
+      "name": "culturechalk.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.culturechalk.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "deliberatedetour.com",
+      "name": "deliberatedetour.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://deliberatedetour.com/",
+        "https://deliberatedetour.com",
+        "https://www.deliberatedetour.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "destinationlesstravel.com",
+      "name": "destinationlesstravel.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://destinationlesstravel.com/sucre-spanish-school/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "dreambigtravels.com.au",
+      "name": "dreambigtravels.com.au",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://dreambigtravels.com.au"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "earthbound.living",
+      "name": "earthbound.living",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://earthbound.living"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "earthschool.nz",
+      "name": "earthschool.nz",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.earthschool.nz/worldschooling/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "east34.com",
+      "name": "east34.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://east34.com/all-site/life-leisure/21542/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "ecovillagegeorgia.ge",
+      "name": "ecovillagegeorgia.ge",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://ecovillagegeorgia.ge/summercamp/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "educationnext.in",
+      "name": "educationnext.in",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.educationnext.in/posts/bansko-the-world-schooling-capital-of-the-world",
+        "https://www.educationnext.in/posts/goa-a-paradise-for-worldschooling-families-with-a-global-flair"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "educationthatinspires.com",
+      "name": "educationthatinspires.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.educationthatinspires.com/thecreativeworld/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "elateth.com",
+      "name": "elateth.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://elateth.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "elaulaazul.com",
+      "name": "elaulaazul.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://elaulaazul.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "escuela-montalban.com",
+      "name": "escuela-montalban.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.escuela-montalban.com/",
+        "https://www.escuela-montalban.com/en/courses/spanish-for-families.php"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "espacioubuntu.org",
+      "name": "espacioubuntu.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://espacioubuntu.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "exploringfamilies.eu",
+      "name": "exploringfamilies.eu",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://exploringfamilies.eu"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "facebook.com",
+      "name": "facebook.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "rejected",
+      "seedUrls": [
+        "https://www.facebook.com/WorldschoolersinKualaLumpur",
+        "https://facebook.com/groups/worldschoolersinthailand",
+        "https://www.facebook.com/groups/956900099",
+        "https://www.facebook.com/folkortationthailand",
+        "https://facebook.com/groups/1458088764967558 (Home/World Schooling Families Bansko)",
+        "https://www.facebook.com/egyptianadventure",
+        "https://www.facebook.com/groups/warsawpopup2026",
+        "https://www.facebook.com/InsideRomania"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "fieldschoolhvar.org",
+      "name": "fieldschoolhvar.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://fieldschoolhvar.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "fluenz.com",
+      "name": "fluenz.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://fluenz.com/spanish-immersion/chiapas"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "freedommontessoriacademy.com",
+      "name": "freedommontessoriacademy.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://freedommontessoriacademy.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "futurehumanproject.co",
+      "name": "futurehumanproject.co",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://futurehumanproject.co/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "futurehumanschoolbali.com",
+      "name": "futurehumanschoolbali.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.futurehumanschoolbali.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "gccckids.com",
+      "name": "gccckids.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.gccckids.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "greencoco.org",
+      "name": "greencoco.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.greencoco.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "greenschool.org",
+      "name": "greenschool.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://greenschool.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "hakuba-is.jp",
+      "name": "hakuba-is.jp",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.hakuba-is.jp/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "harmonyalternative.com",
+      "name": "harmonyalternative.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://harmonyalternative.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "harmonyeducation.net",
+      "name": "harmonyeducation.net",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://harmonyeducation.net/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "heathandalyssa.com",
+      "name": "heathandalyssa.com",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "holss.org",
+      "name": "holss.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://holss.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "icomexico.com",
+      "name": "icomexico.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.icomexico.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "ileo.life",
+      "name": "ileo.life",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://ileo.life"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "insideromania.ro",
+      "name": "insideromania.ro",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://insideromania.ro/worldschool"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "instagram.com",
+      "name": "instagram.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "rejected",
+      "seedUrls": [
+        "https://www.instagram.com/worldschoolingbali/",
+        "https://instagram.com/the.travelling.village",
+        "https://instagram.com/myworldschoolhub"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "islowcoliving.com",
+      "name": "islowcoliving.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://islowcoliving.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "iyariplay.org",
+      "name": "iyariplay.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.iyariplay.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "kallipoli.org",
+      "name": "kallipoli.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://kallipoli.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "languaventure.com",
+      "name": "languaventure.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://languaventure.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "luminaedu.org",
+      "name": "luminaedu.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.luminaedu.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "m.facebook.com",
+      "name": "m.facebook.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://m.facebook.com/groups/1137478175223942"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "maariv.co.il",
+      "name": "maariv.co.il",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://www.maariv.co.il/news/world/article-1251250"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "mako.co.il",
+      "name": "mako.co.il",
+      "kind": "press",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.mako.co.il/home-family-kids/back_to_school/Article-0fb52656bdb0281027.htm"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "mama-adama.pt",
+      "name": "mama-adama.pt",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.mama-adama.pt/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "md-worldschoolmorocco.com",
+      "name": "md-worldschoolmorocco.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.md-worldschoolmorocco.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "mingahousefoundation.org",
+      "name": "mingahousefoundation.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://mingahousefoundation.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "naturallyricher.com",
+      "name": "naturallyricher.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.naturallyricher.com/hub-sardinia",
+        "https://www.naturallyricher.com/hubslovakia",
+        "https://naturallyricher.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "naturelore.co.za",
+      "name": "naturelore.co.za",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://naturelore.co.za"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "naturemind-ed.com",
+      "name": "naturemind-ed.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://naturemind-ed.com/experiences/worldschooling/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "nobackhome.com",
+      "name": "nobackhome.com",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://nobackhome.com/spanish-schools-in-guatemala/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "noma-collective.com",
+      "name": "noma-collective.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.noma-collective.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "nyskool.org",
+      "name": "nyskool.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.nyskool.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "ourlandthailand.com",
+      "name": "ourlandthailand.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://ourlandthailand.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "outsidetheboxadventures.com",
+      "name": "outsidetheboxadventures.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://outsidetheboxadventures.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "panyaforest.com",
+      "name": "panyaforest.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://panyaforest.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "parentingandpassports.com",
+      "name": "parentingandpassports.com",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://parentingandpassports.com/worldschooling-community-bansko-bulgaria/",
+        "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+        "https://parentingandpassports.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "pelangischoolbali.com",
+      "name": "pelangischoolbali.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.pelangischoolbali.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "portograna.wixsite.com",
+      "name": "portograna.wixsite.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://portograna.wixsite.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "portugalpopup.com",
+      "name": "portugalpopup.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.portugalpopup.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "projectworldschool.com",
+      "name": "projectworldschool.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://projectworldschool.com",
+        "https://projectworldschool.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "puntalabarca.com",
+      "name": "puntalabarca.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://puntalabarca.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "recreation.org",
+      "name": "recreation.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://recreation.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "remotefamily.com",
+      "name": "remotefamily.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://remotefamily.com/",
+        "https://remotefamily.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "sacredrootshub.base44.app",
+      "name": "sacredrootshub.base44.app",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://sacredrootshub.base44.app/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "samanainternationalacademy.com",
+      "name": "samanainternationalacademy.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.samanainternationalacademy.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "sanpedrospanishschool.com",
+      "name": "sanpedrospanishschool.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://sanpedrospanishschool.com/",
+        "https://sanpedrospanishschool.com/spanish-for-kids/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "sas.ac",
+      "name": "sas.ac",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.sas.ac"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "scandasia.com",
+      "name": "scandasia.com",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://scandasia.com/3397-taking-thaim-out-immensely-popular-among-the-swedes/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "sekolykintana.org",
+      "name": "sekolykintana.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://sekolykintana.org/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "selongbayschool.com",
+      "name": "selongbayschool.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.selongbayschool.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "semillitasspanishinnature.com",
+      "name": "semillitasspanishinnature.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.semillitasspanishinnature.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "shantivillage.com",
+      "name": "shantivillage.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://shantivillage.com/worldschooling/",
+        "https://shantivillage.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "shepherdsrest.org",
+      "name": "shepherdsrest.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://shepherdsrest.org/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "silvermistacademy.co.za",
+      "name": "silvermistacademy.co.za",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://silvermistacademy.co.za/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "soymontesser.com",
+      "name": "soymontesser.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.soymontesser.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "spanishacademyantiguena.com",
+      "name": "spanishacademyantiguena.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.spanishacademyantiguena.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "spiralaecovillage.com",
+      "name": "spiralaecovillage.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://spiralaecovillage.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "storylines.com",
+      "name": "storylines.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.storylines.com/worldschooling"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "tabletmag.com",
+      "name": "tabletmag.com",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.tabletmag.com/sections/news/articles/lost-in-goa",
+        "https://www.tabletmag.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "tazgha.com",
+      "name": "tazgha.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.tazgha.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thefutureiswise.com",
+      "name": "thefutureiswise.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://thefutureiswise.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thegoodlifemountainclub.com",
+      "name": "thegoodlifemountainclub.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.thegoodlifemountainclub.com/basecamp"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thehiveadventure.com",
+      "name": "thehiveadventure.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.thehiveadventure.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thehub.community",
+      "name": "thehub.community",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://thehub.community"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "theredroadfoundation.org",
+      "name": "theredroadfoundation.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://theredroadfoundation.org/sustainable-development-volunteer-program-in-cambodia/leadership-in-sustainable-development-internship/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "theworld.school",
+      "name": "theworld.school",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.theworld.school/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "theworldschoolatlas.com",
+      "name": "theworldschoolatlas.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://theworldschoolatlas.com/",
+        "https://theworldschoolatlas.com/listing/fuerteventura-worldschool-hub/",
+        "https://theworldschoolatlas.com/listing/gran-canaria-worldschool-hub/",
+        "https://theworldschoolatlas.com/listing/tenerife-worldschool-hub/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thinkglobalschool.org",
+      "name": "thinkglobalschool.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://thinkglobalschool.org/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "thinkingnomads.com",
+      "name": "thinkingnomads.com",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://thinkingnomads.com/living-in-vietnam-with-children-hoi-an/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "tikaranch.com",
+      "name": "tikaranch.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://tikaranch.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "timesofisrael.com",
+      "name": "timesofisrael.com",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.timesofisrael.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "travelingvillage.com",
+      "name": "travelingvillage.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://travelingvillage.com",
+        "https://travelingvillage.com/village-3"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "travelynnfamily.com",
+      "name": "travelynnfamily.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://www.travelynnfamily.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "treehousebansko.com",
+      "name": "treehousebansko.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://treehousebansko.com/summit2026/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "trvbox.co.il",
+      "name": "trvbox.co.il",
+      "kind": "personal-blog",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.trvbox.co.il/bansko-with-kids/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "twineagles.org",
+      "name": "twineagles.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.twineagles.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "unschooladventures.com",
+      "name": "unschooladventures.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://unschooladventures.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "valenciaforestschool.es",
+      "name": "valenciaforestschool.es",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://valenciaforestschool.es"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "virtuosity.art",
+      "name": "virtuosity.art",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.virtuosity.art"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "vitalandomer.co.il",
+      "name": "vitalandomer.co.il",
+      "kind": "personal-blog",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://vitalandomer.co.il/kids"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "wanderworks.life",
+      "name": "wanderworks.life",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://wanderworks.life/camp/b0b5ad85-2532-44ff-a47b-6b8a4603cec5",
+        "https://wanderworks.life/camp/d8d9a013-4b4f-41d5-bdfd-74db65691a53",
+        "https://wanderworks.life/camp/43ed2f03-11f5-41a0-bb7f-8549386823db",
+        "https://wanderworks.life/camp/4917a6e1-5605-490e-af33-83500e81e5a1",
+        "https://wanderworks.life/camp/0326ed3f-997f-49cf-87f2-79b6d2ae733e",
+        "https://wanderworks.life/camp/5319bf26-1872-436d-8708-47d753080f98",
+        "https://wanderworks.life/camp/ea4085f8-8fb0-47f0-9151-3ca72e1c61a0",
+        "https://wanderworks.life/camp/becb5918-fc70-4c6a-a72e-1102e980f052"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "whalecamp.com",
+      "name": "whalecamp.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://whalecamp.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "wildlingsforestschool.com",
+      "name": "wildlingsforestschool.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.wildlingsforestschool.com/forest-kindy"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "wildrootsworldschool.com",
+      "name": "wildrootsworldschool.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.wildrootsworldschool.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "wonderschool.cc",
+      "name": "wonderschool.cc",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://wonderschool.cc/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "woodschoolbali.com",
+      "name": "woodschoolbali.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://woodschoolbali.com/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldlytribe.com",
+      "name": "worldlytribe.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://worldlytribe.com/family-friendly-guide-to-living-in-chiang-mai-thailand-for-digital-nomads/",
+        "https://worldlytribe.com/worldschooling-hubs-directory/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschool.au",
+      "name": "worldschool.au",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://worldschool.au"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "worldschoolantigua.com",
+      "name": "worldschoolantigua.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.worldschoolantigua.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschoolcollective.com",
+      "name": "worldschoolcollective.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://worldschoolcollective.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "worldschooling.life",
+      "name": "worldschooling.life",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://worldschooling.life/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschoolinghub.my",
+      "name": "worldschoolinghub.my",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.worldschoolinghub.my/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschoolingjourneys.com",
+      "name": "worldschoolingjourneys.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://worldschoolingjourneys.com/trips/september-austrian-mountain-fall-retreat/",
+        "https://worldschoolingjourneys.com/trips/december-austrian-skiing-christmas-markets-retreat/",
+        "https://worldschoolingjourneys.com/",
+        "https://worldschoolingjourneys.com/sep-horseback-riding-dude-ranch-experience-2027/",
+        "https://worldschoolingjourneys.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschoolmexico.com",
+      "name": "worldschoolmexico.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "frontier",
+      "seedUrls": [
+        "https://worldschoolmexico.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "worldschoolpopuphub.com",
+      "name": "worldschoolpopuphub.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.worldschoolpopuphub.com/",
+        "https://www.worldschoolpopuphub.com/upcoming-events",
+        "https://www.worldschoolpopuphub.com/events/warsaw-poland-june-2026",
+        "https://worldschoolpopuphub.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldschooly.com",
+      "name": "worldschooly.com",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://worldschooly.com/hubs/",
+        "https://worldschooly.com/hub/we-are-tribe/",
+        "https://worldschooly.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldtravelambitions.com",
+      "name": "worldtravelambitions.com",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "worldwiselearningadventures.org",
+      "name": "worldwiselearningadventures.org",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.worldwiselearningadventures.org/",
+        "https://www.worldwiselearningadventures.org"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "wshluxor.com",
+      "name": "wshluxor.com",
+      "kind": "hub-site",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://wshluxor.com"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    },
+    {
+      "domain": "ynet.co.il",
+      "name": "ynet.co.il",
+      "kind": "press",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.ynet.co.il/news/article/yokra14738200"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": ""
+    }
+  ]
+}

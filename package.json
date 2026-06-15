@@ -23,7 +23,8 @@
     "discover:aggregators": "tsx scripts/discover-aggregators.ts",
     "discover:sweep-prompt": "tsx scripts/sweep-prompt.ts",
     "inbox:review": "tsx scripts/inbox-review-page.ts",
-    "discover:browser": "tsx scripts/discover-browser.ts"
+    "discover:browser": "tsx scripts/discover-browser.ts",
+    "mentions:seed-registry": "tsx scripts/mentions-seed-registry.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
