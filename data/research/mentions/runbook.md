@@ -31,3 +31,5 @@ scriptable; the planner, resolve, score, and review steps ARE scripted.
 - Nothing here edits the directory / overrides.json. Approved decisions are the input to
   a SEPARATE later ingestion step (out of scope for this pipeline).
 - Keep batches small so a bad batch is easy to discard (snapshots are per-domain files).
+- `geocode-cache.json` is a derived local cache of Nominatim results — safe to delete and
+  need not be committed (it is not in the commit list above; re-runs rebuild it).

@@ -40,13 +40,19 @@ a{color:var(--green)} .page{max-width:880px;margin:0 auto;padding:24px 16px 64px
 .score{font-size:18px;font-weight:700;color:var(--zinc-900)} .indep{font-size:12px;color:var(--zinc-500)}
 .badge{font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;color:#fff;white-space:nowrap}
 .tier-established{background:#0e7a5f} .tier-emerging{background:#2563eb} .tier-watch{background:#6b7280}
-.indir{background:var(--amber)}
+.indir{background:var(--amber)} .needsloc{background:#9333ea}
+.geo{font-size:11px;color:var(--zinc-400)}
 .sources{margin-top:8px;font-size:12px;color:var(--zinc-600)} .src{margin-top:3px;padding-left:10px}
 .src .k{color:var(--zinc-400);margin-right:5px} .src .snip{color:var(--zinc-500)}
 .controls{display:flex;gap:8px;margin-top:12px}
 .btn{font-family:inherit;font-size:12px;font-weight:600;cursor:pointer;padding:5px 14px;border-radius:5px;border:1px solid transparent}
 .btn-approve{background:#fff;color:var(--green);border-color:var(--green)} .btn-approve.active{background:var(--green);color:#fff}
 .btn-reject{background:#fff;color:var(--red);border-color:var(--red)} .btn-reject.active{background:var(--red);color:#fff}
+.btn-edit{background:none;color:var(--zinc-500);border:1px solid var(--zinc-300)} .btn-edit:hover{border-color:var(--zinc-400);color:var(--zinc-800)}
+.edit{display:none;margin-top:12px;padding:12px;background:var(--zinc-50);border:1px solid var(--zinc-200);border-radius:6px} .edit.open{display:block}
+.edit-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.edit-group{display:flex;flex-direction:column;gap:3px} .edit-group label{font-size:11px;color:var(--zinc-500);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.edit-group input{font-family:inherit;font-size:12px;padding:5px 8px;border:1px solid var(--zinc-300);border-radius:4px;background:#fff;color:var(--zinc-800)}
 .export{margin-top:28px;padding:16px;background:#fff;border:1px solid var(--zinc-200);border-radius:8px}
 .btn-export{background:var(--zinc-800);color:#fff;border:none;font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;padding:8px 18px;border-radius:6px}
 .hint{margin-top:8px;font-size:12px;color:var(--zinc-500)} code{background:var(--zinc-100);border:1px solid var(--zinc-200);padding:1px 5px;border-radius:3px;font-family:ui-monospace,monospace;font-size:11px}
@@ -76,19 +82,37 @@ a{color:var(--green)} .page{max-width:880px;margin:0 auto;padding:24px 16px 64px
   function card(p){
     const tierBadge=el("span",{className:"badge tier-"+p.tier},p.tier);
     const inDir=(p.matchedExistingHubIds&&p.matchedExistingHubIds.length)?el("span",{className:"badge indir"},"already in directory: "+p.matchedExistingHubIds.join(", ")):null;
+    const geo=p.coords?el("span",{className:"geo"},"· "+p.coords[0].toFixed(3)+", "+p.coords[1].toFixed(3)):null;
+    const needsLoc=p.coords?null:el("span",{className:"badge needsloc"},"needs location confirmation");
     const head=el("div",{className:"card-head"},
       el("span",{className:"card-name"},p.canonicalName+(p.country?", "+p.country:"")),
       el("span",{className:"score"},String(p.score)),el("span",{className:"indep"},"· "+p.independentDomains+" indep"),
-      tierBadge,inDir);
+      geo,tierBadge,inDir,needsLoc);
     const srcs=el("div",{className:"sources"},el("div",{},"sources ("+p.sources.length+"):"),
       ...p.sources.map(s=>el("div",{className:"src"},el("span",{className:"k"},s.kind+" · "+s.date),link(s.url,s.domain),s.snippet?el("div",{className:"snip"},s.snippet):null)));
-    function set(dec){decisions[p.placeId]={decision:dec};save(decisions);cardState(p.placeId);stats()}
+    // Edit panel: correct canonicalName / country before approving (e.g. resolve a "needs location" place).
+    const nameInput=el("input",{type:"text",value:p.canonicalName||"",placeholder:"Name"});
+    const countryInput=el("input",{type:"text",value:p.country||"",placeholder:"Country"});
+    const editPanel=el("div",{className:"edit"},
+      el("div",{className:"edit-grid"},
+        el("div",{className:"edit-group"},el("label",{},"Name"),nameInput),
+        el("div",{className:"edit-group"},el("label",{},"Country"),countryInput)));
+    function approve(){
+      const d={decision:"approve"};
+      const nn=nameInput.value.trim(),nc=countryInput.value.trim();
+      if(nn&&nn!==p.canonicalName)d.canonicalName=nn;
+      if(nc!==(p.country||""))d.country=nc;
+      decisions[p.placeId]=d;save(decisions);cardState(p.placeId);stats();
+    }
+    function reject(){decisions[p.placeId]={decision:"reject"};save(decisions);cardState(p.placeId);stats()}
+    const btnEdit=el("button",{className:"btn btn-edit",onClick:()=>{editPanel.classList.toggle("open");btnEdit.textContent=editPanel.classList.contains("open")?"Close edit":"Edit"}},"Edit");
     const ctr=el("div",{className:"controls"},
-      el("button",{className:"btn btn-approve",onClick:()=>set("approve")},"Approve"),
-      el("button",{className:"btn btn-reject",onClick:()=>set("reject")},"Reject"));
-    return el("div",{className:"card",id:"c-"+p.placeId},head,srcs,ctr);
+      el("button",{className:"btn btn-approve",onClick:approve},"Approve"),
+      el("button",{className:"btn btn-reject",onClick:reject},"Reject"),
+      btnEdit);
+    return el("div",{className:"card",id:"c-"+p.placeId},head,srcs,ctr,editPanel);
   }
-  function exportBtn(){document.getElementById("export").addEventListener("click",()=>{const out={};for(const[id,d]of Object.entries(decisions)){if(d&&d.decision)out[id]={decision:d.decision}}const blob=new Blob([JSON.stringify(out,null,2)+"\\n"],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="organic-places-decisions.json";a.click();URL.revokeObjectURL(a.href)})}
+  function exportBtn(){document.getElementById("export").addEventListener("click",()=>{const out={};for(const[id,d]of Object.entries(decisions)){if(!d||!d.decision)continue;const e={decision:d.decision};for(const[k,v]of Object.entries(d)){if(k!=="decision")e[k]=v}out[id]=e}const blob=new Blob([JSON.stringify(out,null,2)+"\\n"],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="organic-places-decisions.json";a.click();URL.revokeObjectURL(a.href)})}
   function init(){document.getElementById("meta").textContent="Computed "+(DATA.computedAt||"—")+" — "+DATA.places.length+" places";buildFilters();const list=document.getElementById("list");DATA.places.forEach(p=>{list.appendChild(card(p));cardState(p.placeId)});exportBtn();stats()}
   init();
 })();
