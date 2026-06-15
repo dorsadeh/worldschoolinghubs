@@ -196,6 +196,39 @@ export function domainOf(url: string): string | null {
   catch { return null; }
 }
 
+/** Unwrap a markdown-link-wrapped url (`[text](href)`) and validate it. Returns a clean
+ *  http(s) URL or null (internal whitespace or non-http ⇒ malformed). */
+export function cleanSeedUrl(raw: string): string | null {
+  let s = raw.trim();
+  const md = s.match(/^\[[^\]]*\]\(([^)]+)\)$/);
+  if (md) s = md[1].trim();
+  if (/\s/.test(s)) return null;
+  if (!/^https?:\/\//i.test(s)) return null;
+  return s;
+}
+
+/** Extract the first balanced top-level JSON array substring from text, tolerating trailing
+ *  content (e.g. an LLM's markdown footnote list after the array). String-aware so brackets
+ *  inside string values don't fool the depth counter. Returns the input if no '[' is found. */
+export function extractJsonArray(text: string): string {
+  const start = text.indexOf("[");
+  if (start < 0) return text;
+  let depth = 0, inStr = false, esc = false;
+  for (let i = start; i < text.length; i++) {
+    const ch = text[i];
+    if (inStr) {
+      if (esc) esc = false;
+      else if (ch === "\\") esc = true;
+      else if (ch === '"') inStr = false;
+      continue;
+    }
+    if (ch === '"') inStr = true;
+    else if (ch === "[") depth++;
+    else if (ch === "]" && --depth === 0) return text.slice(start, i + 1);
+  }
+  return text.slice(start);
+}
+
 export function nextFrontierDomains(outbound: OutboundLink[], registry: SourceRegistry): string[] {
   const known = new Set(registry.sources.map((s) => s.domain));
   const found = new Set<string>();

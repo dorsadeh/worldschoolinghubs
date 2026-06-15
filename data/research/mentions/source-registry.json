@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-06-15T09:02:39.209Z",
+  "updatedAt": "2026-06-15T14:41:30.351Z",
   "sources": [
+    {
+      "domain": "2teachersontour.com",
+      "name": "2 Teachers on Tour",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.2teachersontour.com/an-almost-normal-week-in-bansko-bulgaria/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2022-03); places: Bansko — A family travel diary shows the everyday rhythm of living among the Bansko worldschooling community."
+    },
     {
       "domain": "actonacademyelsalvador.com",
       "name": "actonacademyelsalvador.com",
@@ -93,6 +106,19 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "bambiweb.org",
+      "name": "BAMBI Bangkok",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.bambiweb.org/news/school-go"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-11); places: Krabi, Koh Lanta — Bangkok Mothers and Babies International explains mobile schooling and points families to active regional worldschooling groups in southern Thailand."
+    },
+    {
       "domain": "bangkokpost.com",
       "name": "bangkokpost.com",
       "kind": "press",
@@ -148,6 +174,21 @@
       "notes": ""
     },
     {
+      "domain": "bostontribetravels.com",
+      "name": "Boston Tribe Travels",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+        "https://bostontribetravels.com/worldschooling/",
+        "https://bostontribetravels.com/destinations-2/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt, gemini-blogs.txt; asOf unknown); places: Luxor, Siem Reap, Krabi, Cabrera, Bali, Borneo, Lombok, Gili Islands — A worldschooling family profiles communities in several destinations and explains how they add peer connection to long-term travel."
+    },
+    {
       "domain": "boundless.life",
       "name": "boundless.life",
       "kind": "directory",
@@ -173,6 +214,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "buzzsprout.com",
+      "name": "Frenchitivity Podcast",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-02); places: Koh Lanta, Pai — An interview with a traveling family discusses organic Bliss-style worldschooling communities in Thailand."
     },
     {
       "domain": "cacaocoastcr.com",
@@ -213,6 +267,58 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "cecilieconrad.com",
+      "name": "Cecilie Conrad",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.cecilieconrad.com/self-directed/amanda-ashworth"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-09); places: Poinguinim, Goa — A long-form interview with a hub organizer describes the South Goa family community, cohort size, and why families settle there."
+    },
+    {
+      "domain": "changetheworldwithkaryn.com",
+      "name": "Change the World with Karyn",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-03); places: La Herradura, Punta la Barca, Bansko, Oria — A worldschooling parent ranks named hubs for traveling families and discusses their community structures."
+    },
+    {
+      "domain": "chiangmaikidsclub.com",
+      "name": "Chiang Mai Kids Club",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.chiangmaikidsclub.com/worldschooling-hub-chiangmai"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Chiang Mai — A parent-built local hub page describes Chiang Mai's broader rise as a gathering place for homeschooling and worldschooling families."
+    },
+    {
+      "domain": "cicerolearning.com",
+      "name": "Cicero Learning",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://cicerolearning.com/worldschooling-hubs-school-from-anywhere/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-02); places: Bansko, Nosara, Cabrera, Istanbul, Osaka, Florence — A curated overview names specific worldschooling hubs and describes the communities and educational formats available in each place."
     },
     {
       "domain": "cohli.com",
@@ -361,6 +467,19 @@
       "notes": ""
     },
     {
+      "domain": "eenmooigezin.nl",
+      "name": "Een Mooi Gezin",
+      "kind": "personal-blog",
+      "lang": "nl",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://eenmooigezin.nl/worldschooling/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: Bansko, Andalusia, Bali, Portugal — A Dutch mother of four explains how families gather for months or seasons in recurring worldschooling hubs."
+    },
+    {
       "domain": "elateth.com",
       "name": "elateth.com",
       "kind": "directory",
@@ -447,6 +566,19 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "family-world-travel.com",
+      "name": "Family World Travel",
+      "kind": "personal-blog",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://family-world-travel.com/thailand-with-kids-start-here/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-08); places: Chiang Mai, Pai, Koh Lanta, Koh Samui, Koh Phangan — A Hebrew family-travel guide has a dedicated nesting section describing Thai destinations with established communities of traveling families."
+    },
+    {
       "domain": "fieldschoolhvar.org",
       "name": "fieldschoolhvar.org",
       "kind": "directory",
@@ -458,6 +590,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "fiveticketstoroam.com",
+      "name": "Five Tickets to Roam",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.fiveticketstoroam.com/blog-posts/thailand/koh-lanta-worldschool-hub"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2024-12); places: Koh Lanta — A traveling family describes the island's free hub activities, tween meetups, and daily beach gatherings."
     },
     {
       "domain": "fluenz.com",
@@ -616,6 +761,19 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "homeschool.com.mx",
+      "name": "Homeschool México",
+      "kind": "directory",
+      "lang": "es",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: San Miguel de Allende, Puerto Vallarta, Playa del Carmen, Oaxaca, Mexico City — A Spanish-language guide identifies Mexican cities with active worldschooling-family communities and learning networks."
+    },
+    {
       "domain": "icomexico.com",
       "name": "icomexico.com",
       "kind": "hub-site",
@@ -709,6 +867,45 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "kingsinterhigh.co.uk",
+      "name": "King's InterHigh",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://kingsinterhigh.co.uk/blog/articles/worldschooling/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-02); places: Hoi An, Da Nang, Bali, Malaysia — An education editorial names established Asian worldschooling hubs where traveling families can find community."
+    },
+    {
+      "domain": "kubrio.com",
+      "name": "Kubrio",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://kubrio.com/blog/worldschooling-in-europe-navigating-hubs-borders-and-the-schengen-puzzle"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Algarve, La Herradura, Bansko — A Europe-focused hub guide names seasonal family bases and explains when worldschoolers tend to gather in each."
+    },
+    {
+      "domain": "lametayel.co.il",
+      "name": "Lametayel Blogs",
+      "kind": "forum",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.lametayel.co.il/posts/m1n55w"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (gemini-blogs.txt; asOf 2026-02); places: Bansko — Israel's biggest independent travel hub featuring deep community journals tracking micro-nesting experiences of family digital nomads."
+    },
+    {
       "domain": "languaventure.com",
       "name": "languaventure.com",
       "kind": "hub-site",
@@ -720,6 +917,33 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "ligronesenruta.com",
+      "name": "Ligrones en Ruta",
+      "kind": "personal-blog",
+      "lang": "es",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://ligronesenruta.com/worldschooling/",
+        "https://ligronesenruta.com/familias-por-el-mundo-2/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-09); places: Valencia — A Spanish-speaking traveling-family site documents Valencia as a meeting point for the Spanish-language worldschooling community."
+    },
+    {
+      "domain": "littlenomadsworld.com",
+      "name": "Little Nomads World",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.littlenomadsworld.com/world-schooling-stories"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: La Herradura, Bansko — A family-nomad directory and story collection surfaces specific worldschooling towns and community experiences."
     },
     {
       "domain": "luminaedu.org",
@@ -761,6 +985,19 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "magpieeyekids.com",
+      "name": "Magpie Eye Kids",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.magpieeyekids.com/blog/worldschoolingpopuphubathens2023"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-04); places: Athens — A parent-written account of an Athens worldschooling pop-up documents the temporary family community and its shared activities."
+    },
+    {
       "domain": "mako.co.il",
       "name": "mako.co.il",
       "kind": "press",
@@ -800,6 +1037,58 @@
       "notes": ""
     },
     {
+      "domain": "me-bo-life.com",
+      "name": "Me & Bo Life",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.me-bo-life.com/chris/chris-blog/2677326_collaboration-and-meetups-for-home-worldschooling-families-in-bansko"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-08); places: Bansko, Obidim — A parent-focused post documents collaboration and meetups for home- and worldschooling families around Bansko and Obidim."
+    },
+    {
+      "domain": "meetthearshads.com",
+      "name": "Meet The Arshads",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://meetthearshads.com/koh-lanta-6-months-on-a-thai-island-worldschooling-our-4-kids/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Koh Lanta — A family of six documents living on Koh Lanta from December to May and describes the island as a long-stay worldschooling base for families."
+    },
+    {
+      "domain": "mexicotravel.blog",
+      "name": "Mexico Travel Blog",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://mexicotravel.blog/about/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: San Miguel de Allende — A worldschooling mother explains that her family settled in San Miguel de Allende and found a strong community there."
+    },
+    {
+      "domain": "mikanlesham.com",
+      "name": "Mikan Lesham",
+      "kind": "press",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://mikanlesham.com/digital-nomad/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Lisbon, Madeira, Bali, Canary Islands, Koh Phangan — A Hebrew relocation and nomadism article identifies destinations with active digital-nomad family communities."
+    },
+    {
       "domain": "mingahousefoundation.org",
       "name": "mingahousefoundation.org",
       "kind": "directory",
@@ -811,6 +1100,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "mumsnet.com",
+      "name": "Mumsnet",
+      "kind": "forum",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.mumsnet.com/talk/am_i_being_unreasonable/5308715-would-you-take-your-kids-out-of-school-to-go-travelling?page=3"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-04); places: Koh Lanta, Bali — A firsthand forum contribution reports joining the Koh Lanta family hub and using a school community in Bali."
     },
     {
       "domain": "naturallyricher.com",
@@ -880,6 +1182,33 @@
       "notes": ""
     },
     {
+      "domain": "notextingandtacking.com",
+      "name": "No Texting & Tacking",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.notextingandtacking.com/13-reasons-we-love-world-schooling-in-bulgaria-amazing-and-affordable/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2022-08); places: Bansko — A worldschooling family explains why Bulgaria worked as a base and highlights meeting other traveling families in Bansko."
+    },
+    {
+      "domain": "nypost.com",
+      "name": "New York Post",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://nypost.com/2024/03/10/couple-unhappy-with-daily-grind-world-schooling-their-kids/",
+        "https://nypost.com/2025/06/23/lifestyle/parents-leave-us-to-world-school-their-three-daughters-across-40-countries/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-06); places: Ko Samui, Portugal, Bulgaria, Morocco — Two family profiles name the hubs and recurring destinations used by worldschooling parents across multiple countries."
+    },
+    {
       "domain": "nyskool.org",
       "name": "nyskool.org",
       "kind": "hub-site",
@@ -945,6 +1274,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "passportexplorers.com",
+      "name": "Passport Explorers",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://passportexplorers.com/worldschooling-communities/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt, gemini-blogs.txt; asOf unknown); places: San Miguel de Allende, Bansko, Bali, Oaxaca, Cusco, Chinchina, Cabrera, Hvar — A worldschooling-family resource page focused specifically on communities and the destinations where traveling families connect."
     },
     {
       "domain": "pelangischoolbali.com",
@@ -1013,6 +1355,21 @@
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
     },
     {
+      "domain": "rebeccawegmann.com",
+      "name": "Rebecca Wegmann",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://rebeccawegmann.com/worldschooling-in-thailand/",
+        "https://rebeccawegmann.com/hubsandfamilies/",
+        "https://rebeccawegmann.com/koh-phangan/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Hua Hin, Koh Phangan, Koh Samui, Krabi, Pai, Chiang Mai, Koh Lanta — A worldschooling parent maps Thailand's family hubs and explains where communities and recurring meetups form."
+    },
+    {
       "domain": "recreation.org",
       "name": "recreation.org",
       "kind": "directory",
@@ -1038,6 +1395,46 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "remoterebellion.com",
+      "name": "Remote Rebellion",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://remoterebellion.com/blog/nomad-parent-lifestyle"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt, gemini-blogs.txt; asOf 2025-10); places: Fethiye, Hoi An, Pai, La Herradura, Bansko — An editorial guide to nomad parenting identifies perennial family bases where worldschoolers repeatedly congregate."
+    },
+    {
+      "domain": "remoteworkeurope.eu",
+      "name": "Remote Work Europe",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://remoteworkeurope.eu/insights/bansko-obidim-worldschooling/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-07); places: Bansko, Obidim — A current interview-driven article documents the family communities forming in Bansko and nearby Obidim."
+    },
+    {
+      "domain": "restlessmumma.substack.com",
+      "name": "Restless Mumma",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://restlessmumma.substack.com/p/the-great-arrival",
+        "https://restlessmumma.substack.com/p/the-nanny-wagon"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-05); places: Koh Lanta — A parent's slow-travel dispatches describe spending several months on Koh Lanta and connecting with its worldschooling community."
     },
     {
       "domain": "sacredrootshub.base44.app",
@@ -1106,6 +1503,19 @@
       "notes": ""
     },
     {
+      "domain": "scientificamerican.com",
+      "name": "Scientific American",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2024-10); places: Bali — A major magazine overview identifies Bali as a well-known destination choice among worldschooling parents."
+    },
+    {
       "domain": "sekolykintana.org",
       "name": "sekolykintana.org",
       "kind": "hub-site",
@@ -1170,6 +1580,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "shoutoutuk.org",
+      "name": "Shout Out UK",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.shoutoutuk.org/2026/04/22/what-i-learned-about-education-at-a-worldschooling-hub/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-04); places: Bansko — A first-person reported essay describes education and community life at a Bansko worldschooling hub."
     },
     {
       "domain": "silvermistacademy.co.za",
@@ -1264,6 +1687,45 @@
       "notes": ""
     },
     {
+      "domain": "the5worldexplorers.com",
+      "name": "The 5 World Explorers",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.the5worldexplorers.com/worldschooling-pop-up/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2023-04); places: Veracruz, Florence — A traveling family describes organizing and joining worldschooling pop-ups that bring families together in named destinations."
+    },
+    {
+      "domain": "thebinaschool.com",
+      "name": "The Bina School",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.thebinaschool.com/blog/worldschooling"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf unknown); places: Chiang Mai, Hoi An, Bali — A worldschooling explainer names broader destination hubs where nomadic families commonly settle and connect."
+    },
+    {
+      "domain": "theflowjourney.substack.com",
+      "name": "The Flow Journey",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://theflowjourney.substack.com/p/worldschooling-part-one-the-why-of"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-01); places: Bansko — A family's account describes the weekly gatherings and temporary family village they experienced in Bansko."
+    },
+    {
       "domain": "thefutureiswise.com",
       "name": "thefutureiswise.com",
       "kind": "hub-site",
@@ -1288,6 +1750,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "theguardian.com",
+      "name": "The Guardian",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.theguardian.com/lifeandstyle/2025/dec/14/the-adventure-can-turn-into-a-disaster-the-digital-nomad-families-worldschooling-their-children"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-12); places: An Bang, Hoi An, Bali, Tagounite — A reported feature follows digital-nomad families living alongside other worldschoolers in several long-stay destinations."
     },
     {
       "domain": "thehiveadventure.com",
@@ -1316,6 +1791,19 @@
       "notes": ""
     },
     {
+      "domain": "theprofessionalhobo.com",
+      "name": "The Professional Hobo",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-03); places: Ek Balam, Madeira, Oaxaca, Cloughjordan — A long-running travel writer compiles location-based worldschooling communities, courses, and hubs with named destinations."
+    },
+    {
       "domain": "theredroadfoundation.org",
       "name": "theredroadfoundation.org",
       "kind": "hub-site",
@@ -1327,6 +1815,45 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "thesun.co.uk",
+      "name": "The Sun",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.thesun.co.uk/fabulous/38698762/pulled-children-out-bonkers-school-system/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-04); places: South Goa, Bulgaria, Portugal — A family profile names the school hubs and longer-term bases used during their worldschooling journey."
+    },
+    {
+      "domain": "thetimes.co.uk",
+      "name": "The Times",
+      "kind": "press",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://www.thetimes.co.uk/article/meet-nomadic-families-worldschooling-pd2nlq08n"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-05); places: Poinguinim, Goa, Patnem, Palolem, Vietnam — A reported profile examines nomadic families at a South Goa hub and references established communities elsewhere."
+    },
+    {
+      "domain": "thetravellingtrowberrys.com",
+      "name": "The Travelling Trowberrys",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt, gemini-blogs.txt; asOf 2025-09); places: Kuala Lumpur, Koh Lanta, Sanur, Pai, Antigua, Hoi An, Penang, Phu Quoc — A traveling family reviews multiple hubs from direct experience and compares the communities, activities, and practical fit for children."
     },
     {
       "domain": "theworld.school",
@@ -1476,6 +2003,19 @@
       "notes": ""
     },
     {
+      "domain": "uncommonfamilyadventures.com",
+      "name": "Uncommon Family Adventures",
+      "kind": "personal-blog",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://uncommonfamilyadventures.com/blog/what-is-worldschooling"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (gemini-blogs.txt; asOf 2026-01); places: Normandy, Lisbon, Chiang Mai — A slow-travel family resource detailing the tactical criteria and location choices required to balance heavy client work with full experiential education."
+    },
+    {
       "domain": "unschooladventures.com",
       "name": "unschooladventures.com",
       "kind": "directory",
@@ -1487,6 +2027,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": "auto-added (unknown domain) — review kind/status before crawling"
+    },
+    {
+      "domain": "vagabundenliebe.de",
+      "name": "Vagabundenliebe",
+      "kind": "directory",
+      "lang": "de",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://vagabundenliebe.de/freilerner-treffen-weltweit/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2026-06); places: La Herradura, Canary Islands — A German-language calendar of free-learner and worldschooling gatherings names recurring destination communities for 2026."
     },
     {
       "domain": "valenciaforestschool.es",
@@ -1515,6 +2068,19 @@
       "notes": ""
     },
     {
+      "domain": "visaway.co.il",
+      "name": "VisaWay",
+      "kind": "press",
+      "lang": "he",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://visaway.co.il/thailand-relocation-with-kids/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2025-09); places: Koh Samui, Koh Phangan — A Hebrew relocation guide describes strong Israeli family communities, schools, and children's activities on the two Thai islands."
+    },
+    {
       "domain": "vitalandomer.co.il",
       "name": "vitalandomer.co.il",
       "kind": "personal-blog",
@@ -1526,6 +2092,19 @@
       ],
       "addedAt": "2026-06-15",
       "notes": ""
+    },
+    {
+      "domain": "voluntouring.org",
+      "name": "Voluntouring.org",
+      "kind": "directory",
+      "lang": "en",
+      "weight": null,
+      "status": "active",
+      "seedUrls": [
+        "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/"
+      ],
+      "addedAt": "2026-06-15",
+      "notes": "LLM-discovered (chat-gpt-blogs.txt; asOf 2021-11); places: Ek Balam, Oaxaca, Cloughjordan — A directory-style roundup lists worldschooling communities around the world and ties each one to a concrete destination."
     },
     {
       "domain": "wanderworks.life",

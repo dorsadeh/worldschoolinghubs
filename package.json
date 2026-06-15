@@ -28,7 +28,8 @@
     "discover:mentions": "tsx scripts/discover-mentions.ts",
     "mentions:resolve": "tsx scripts/mentions-resolve.ts",
     "mentions:score": "tsx scripts/mentions-score.ts",
-    "mentions:review": "tsx scripts/mentions-review-page.ts"
+    "mentions:review": "tsx scripts/mentions-review-page.ts",
+    "mentions:ingest-sources": "tsx scripts/mentions-ingest-sources.ts"
   },
   "dependencies": {
     "leaflet": "^1.9.4",

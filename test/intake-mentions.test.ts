@@ -5,7 +5,7 @@ import {
   kindWeight, recencyFactor, claimFactor, scorePlace, independentDomainCount, tierOf,
   ledgerUpsert, upsertPlace,
   haversineKm, findPlaceByCoords, matchExistingHub, domainOf, nextFrontierDomains,
-  changedUrls,
+  changedUrls, cleanSeedUrl, extractJsonArray,
   type LedgerMention, type Place, type SourceRegistry,
 } from "../lib/intake/mentions";
 
@@ -181,5 +181,32 @@ describe("changedUrls", () => {
   });
   it("treats no previous snapshot as all-changed", () => {
     expect(changedUrls({ a: "x" }, null)).toEqual(["a"]);
+  });
+});
+
+describe("cleanSeedUrl", () => {
+  it("unwraps a markdown-link-wrapped url", () => {
+    expect(cleanSeedUrl("[https://x.com/p](https://x.com/p)")).toBe("https://x.com/p");
+  });
+  it("passes a plain http(s) url through, trimmed", () => {
+    expect(cleanSeedUrl("  https://blog.com/best-towns/  ")).toBe("https://blog.com/best-towns/");
+  });
+  it("rejects urls with internal whitespace (malformed)", () => {
+    expect(cleanSeedUrl("https://x.com/a b/")).toBeNull();
+  });
+  it("rejects non-http strings", () => {
+    expect(cleanSeedUrl("not a url")).toBeNull();
+    expect(cleanSeedUrl("ftp://x.com")).toBeNull();
+  });
+});
+
+describe("extractJsonArray", () => {
+  it("returns the first balanced array, ignoring trailing footnotes", () => {
+    const text = `[\n  { "domain": "a.com" }\n]\n\n[1]: https://a.com "title"\n[2]: https://b.com`;
+    expect(JSON.parse(extractJsonArray(text))).toEqual([{ domain: "a.com" }]);
+  });
+  it("is not confused by brackets inside strings", () => {
+    const text = `[ { "why": "see [ref] here" } ] trailing`;
+    expect(JSON.parse(extractJsonArray(text))).toEqual([{ why: "see [ref] here" }]);
   });
 });

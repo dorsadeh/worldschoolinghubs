@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Worldly Tribe",
+    "domain": "worldlytribe.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://worldlytribe.com/the-ultimate-guide-to-worldschooling for-families/",
+      "https://worldlytribe.com/destinations/"
+    ],
+    "examplePlaces": ["Ubud", "Chiang Mai", "Puerto Escondido", "Tenerife"],
+    "why": "A personal family worldschooling and digital nomad blog profiling key regions where global traveling families slow-travel and establish seasonal nesting nests.",
+    "asOf": "2026-03"
+  },
+  {
+    "name": "The Travelling Trowberrys",
+    "domain": "thetravellingtrowberrys.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://thetravellingtrowberrys.com/worldschool-hub-reviews-and-insight/"
+    ],
+    "examplePlaces": ["Phu Quoc", "Oria", "Lago de Atitlan", "Koh Lanta", "Pai", "Sanur"],
+    "why": "An active worldschooling family blog evaluating both operational pop-up community hubs and established organic nesting areas for nomadic parents.",
+    "asOf": "2026-02"
+  },
+  {
+    "name": "Passport Explorers",
+    "domain": "passportexplorers.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://passportexplorers.com/worldschooling-communities/"
+    ],
+    "examplePlaces": ["San Miguel de Allende", "Oaxaca", "Cusco", "Chinchina", "Cabrera", "Hvar"],
+    "why": "A long-term traveling family site cataloging organized educational programs and the exact small towns where parents pool remote-work resources.",
+    "asOf": "2026-04"
+  },
+  {
+    "name": "Remote Rebellion",
+    "domain": "remoterebellion.com",
+    "kind": "press",
+    "lang": "en",
+    "seedUrls": [
+      "https://remoterebellion.com/blog/nomad-parent-lifestyle"
+    ],
+    "examplePlaces": ["Fethiye", "Hoi An", "Pai", "La Herradura", "Bansko"],
+    "why": "A remote work and digital nomad lifestyle publication highlighting the social shifting dynamics of family-centric clusters over standard backpacker hubs.",
+    "asOf": "2025-11"
+  },
+  {
+    "name": "Worldschool Pop-Up Hub",
+    "domain": "worldschoolpopuphub.com",
+    "kind": "directory",
+    "lang": "en",
+    "seedUrls": [
+      "https://www.worldschoolpopuphub.com/"
+    ],
+    "examplePlaces": ["Sibiu", "Warsaw", "Cuenca", "Luang Prabang"],
+    "why": "The premier programmatic global community event calendar where roaming families self-organize month-long community frameworks to nest collectively.",
+    "asOf": "2026-06"
+  },
+  {
+    "name": "Worldschooly",
+    "domain": "worldschooly.com",
+    "kind": "directory",
+    "lang": "en",
+    "seedUrls": [
+      "https://worldschooly.com/hubs/",
+      "https://worldschooly.com/"
+    ],
+    "examplePlaces": ["Upper Hutt", "Talamanca", "Chinchina", "Kampot", "Lagodekhi", "Moshi"],
+    "why": "Comprehensive directory profiling permanent, pop-up, eco-village, and coliving family-nesting zones across five continents.",
+    "asOf": "2026-05"
+  },
+  {
+    "name": "Boston Tribe Travels",
+    "domain": "bostontribetravels.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://bostontribetravels.com/worldschooling/",
+      "https://bostontribetravels.com/destinations-2/"
+    ],
+    "examplePlaces": ["Borneo", "Lombok", "Gili Islands", "Koh Lipe", "An Bang"],
+    "why": "Family travel blog providing explicit breakdowns of coastal bases, local school pop-ups, and alternative educational hubs for full-time travelers.",
+    "asOf": "2025-10"
+  },
+  {
+    "name": "Uncommon Family Adventures",
+    "domain": "uncommonfamilyadventures.com",
+    "kind": "personal-blog",
+    "lang": "en",
+    "seedUrls": [
+      "https://uncommonfamilyadventures.com/blog/what-is-worldschooling"
+    ],
+    "examplePlaces": ["Normandy", "Lisbon", "Chiang Mai"],
+    "why": "A slow-travel family resource detailing the tactical criteria and location choices required to balance heavy client work with full experiential education.",
+    "asOf": "2026-01"
+  },
+  {
+    "name": "Mako",
+    "domain": "mako.co.il",
+    "kind": "press",
+    "lang": "he",
+    "seedUrls": [
+      "https://www.mako.co.il/home-family-weekend/Article-751018af1546871027.htm"
+    ],
+    "examplePlaces": ["Bangkok", "Koh Phangan", "Chiang Mai"],
+    "why": "Major Hebrew news and lifestyle magazine covering the prominent wave of Israeli families opting out of standard local structures to slow-travel in Southeast Asia.",
+    "asOf": "2024-12"
+  },
+  {
+    "name": "Lametayel Blogs",
+    "domain": "lametayel.co.il",
+    "kind": "forum",
+    "lang": "he",
+    "seedUrls": [
+      "https://www.lametayel.co.il/posts/m1n55w"
+    ],
+    "examplePlaces": ["Bansko"],
+    "why": "Israel's biggest independent travel hub featuring deep community journals tracking micro-nesting experiences of family digital nomads.",
+    "asOf": "2026-02"
+  }
+]
