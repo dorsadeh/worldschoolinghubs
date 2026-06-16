@@ -92,7 +92,7 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
           )}
           {hub.mentions && hub.mentions.length > 0 && (
             <div className="mt-5 border-t border-line pt-3">
-              <h3 className={SECTION_TITLE}>Mentioned on these blogs</h3>
+              <h3 className={SECTION_TITLE}>Mentioned online</h3>
               <ul className="space-y-2 text-[13px]">
                 {hub.mentions.map((m, i) => (
                   <li key={i}>
