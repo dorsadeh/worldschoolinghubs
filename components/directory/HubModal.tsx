@@ -90,6 +90,20 @@ export default function HubModal({ hub, onClose }: { hub: DirectoryHub; onClose:
               </ul>
             </div>
           )}
+          {hub.mentions && hub.mentions.length > 0 && (
+            <div className="mt-5 border-t border-line pt-3">
+              <h3 className={SECTION_TITLE}>Mentioned on these blogs</h3>
+              <ul className="space-y-2 text-[13px]">
+                {hub.mentions.map((m, i) => (
+                  <li key={i}>
+                    <a href={m.url} target="_blank" rel="noopener noreferrer" className="text-accent underline">{m.domain}</a>
+                    {m.date && m.date !== "unknown" && <span className="ml-2 opacity-50">{m.date}</span>}
+                    {m.snippet && <p className="mt-0.5 leading-snug opacity-80">&ldquo;{m.snippet}&rdquo;</p>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </div>
     </div>
