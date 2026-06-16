@@ -75,6 +75,63 @@
     "fit": "cover"
   },
   {
+    "name": "Luxor",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Egypt",
+    "region": "Luxor",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (7 independent sources)",
+    "id": "luxor",
+    "summary": "Organic place surfaced by mention-mining (7 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELuxor%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELuxor%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "Antigua, Guatemala",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Guatemala",
+    "region": "Antigua",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (5 independent sources)",
+    "id": "antigua-guatemala",
+    "summary": "Organic place surfaced by mention-mining (5 independent sources)",
+    "references": [
+      [
+        "Antigüeña Spanish Academy (R110)",
+        "https://www.spanishacademyantiguena.com/"
+      ],
+      [
+        "No Back Home — Guatemala schools (R110)",
+        "https://nobackhome.com/spanish-schools-in-guatemala/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAntigua%2C%20Guatemala%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAntigua%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Goa (Arambol/Mandrem)",
     "host": "",
     "category": "organic",
@@ -108,9 +165,33 @@
     "fit": "cover"
   },
   {
-    "name": "Hakuba International (term/year)",
+    "name": "Bali",
     "host": "",
     "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Indonesia",
+    "region": "Bali",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (12 independent sources)",
+    "id": "bali",
+    "summary": "Organic place surfaced by mention-mining (12 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "Hakuba International (term/year)",
+    "host": "",
+    "category": "permanent_commercial",
     "spanish": false,
     "participation": "family",
     "country": "Japan",
@@ -137,7 +218,7 @@
         "https://theworldschoolatlas.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EHakuba%20International%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28term/year%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EHakuba%20Mura%2C%20Nagano%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EHakuba%20International%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3E%28term/year%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EHakuba%20Mura%2C%20Nagano%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/hakuba-international-term-year.jpg",
     "fit": "cover"
   },
@@ -155,13 +236,17 @@
     "nationality": "Mixed intl",
     "validity": "High",
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "kuala-lumpur",
     "websiteType": "social",
     "summary": "Year-round Malaysian city repeatedly named the best SE-Asia base for homeschooling community and flexible long stays.",
     "references": [
+      [
+        "Facebook / Instagram",
+        "https://www.facebook.com/groups/worldschoolersinmalaysia/"
+      ],
       [
         "Parenting&Passports — KL (R2)",
         "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/"
@@ -204,7 +289,7 @@
   {
     "name": "Worldschoolers in Kuala Lumpur",
     "host": "",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Malaysia",
@@ -235,8 +320,113 @@
         "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschoolers%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EKuala%20Lumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschoolers%20in%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EKuala%20Lumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschoolers-in-kuala-lumpur.jpg",
+    "fit": "cover"
+  },
+  {
+    "name": "Oaxaca",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "Oaxaca",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (8 independent sources)",
+    "id": "oaxaca",
+    "summary": "Organic place surfaced by mention-mining (8 independent sources)",
+    "references": [
+      [
+        "Instituto Cultural Oaxaca (R112)",
+        "https://www.icomexico.com/"
+      ],
+      [
+        "Deliberate Detour (R76)",
+        "https://deliberatedetour.com/"
+      ]
+    ],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EOaxaca%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EOaxaca%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "Playa del Carmen",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "Playa del Carmen",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (4 independent sources)",
+    "id": "playa-del-carmen",
+    "summary": "Organic place surfaced by mention-mining (4 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPlaya%20del%20Carmen%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPlaya%20del%20Carmen%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "San Miguel de Allende",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "San Miguel de Allende",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (7 independent sources)",
+    "id": "san-miguel-de-allende",
+    "summary": "Organic place surfaced by mention-mining (7 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESan%20Miguel%20de%20Allende%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESan%20Miguel%20de%20Allende%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
+    "name": "Cusco",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Peru",
+    "region": "Cusco",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (5 independent sources)",
+    "id": "cusco",
+    "summary": "Organic place surfaced by mention-mining (5 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ECusco%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECusco%3C/text%3E%3C/svg%3E",
+    "photo": "",
     "fit": "cover"
   },
   {
@@ -269,9 +459,33 @@
     "fit": "cover"
   },
   {
+    "name": "La Herradura",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Spain",
+    "region": "La Herradura",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (3 independent sources)",
+    "id": "la-herradura",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELa%20Herradura%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Herradura%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Bliss Hubs Pai",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Thailand",
@@ -306,7 +520,7 @@
         "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Pai%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPai%20%28northern%20highlands%29%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Pai%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPai%20%28northern%20highlands%29%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-pai.jpg",
     "fit": "cover"
   },
@@ -413,6 +627,30 @@
     "fit": "cover"
   },
   {
+    "name": "Krabi",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Thailand",
+    "region": "Krabi",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (3 independent sources)",
+    "id": "krabi",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKrabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Pai",
     "host": "",
     "category": "organic",
@@ -447,6 +685,30 @@
     "fit": "cover"
   },
   {
+    "name": "La Barra",
+    "host": "",
+    "category": "organic",
+    "spanish": false,
+    "participation": "",
+    "country": "Uruguay",
+    "region": "La Barra",
+    "season": "",
+    "ages": "",
+    "price": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "source": "inbox (mention-mining)",
+    "notes": "Organic place surfaced by mention-mining (3 independent sources)",
+    "id": "la-barra",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELa%20Barra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Barra%3C/text%3E%3C/svg%3E",
+    "photo": "",
+    "fit": "cover"
+  },
+  {
     "name": "Hoi An / An Bang",
     "host": "",
     "category": "organic",
@@ -460,13 +722,17 @@
     "nationality": "Anglophone intl + Israeli",
     "validity": "High",
     "website": "https://www.facebook.com/groups/1137478175223942",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/groups/1137478175223942",
     "source": "web research (gathering-places + Spanish cut + traveling)",
     "notes": "",
     "id": "hoi-an-an-bang",
     "websiteType": "social",
     "summary": "Charming, walkable, affordable central-Vietnam base with a 30+ family worldschool community; comfortable Jan–May, avoid Oct–Nov floods.",
     "references": [
+      [
+        "Facebook / Instagram",
+        "https://www.facebook.com/groups/1137478175223942"
+      ],
       [
         "World Travel Ambitions — Hoi An (R15)",
         "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/"
@@ -483,7 +749,7 @@
   {
     "name": "Worldschoolers of Hoi An",
     "host": "Liessl",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Vietnam",
@@ -518,7 +784,7 @@
         "https://thinkingnomads.com/living-in-vietnam-with-children-hoi-an/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschoolers%20of%20Hoi%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EAn%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EHoi%20An%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EWorldschoolers%20of%20Hoi%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EAn%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EHoi%20An%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/worldschoolers-of-hoi-an.jpg",
     "fit": "cover"
   },
@@ -785,7 +1051,7 @@
   {
     "name": "Siem Reap Bliss Hub - Cambodia",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "dropoff",
     "country": "Cambodia",
@@ -807,7 +1073,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESiem%20Reap%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ECambodia%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESiem%20Reap%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ECambodia%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/siem-reap-bliss-hub-cambodia.jpg",
     "fit": "cover"
   },
@@ -1546,7 +1812,7 @@
   {
     "name": "Bali Bliss Hub",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "dropoff",
     "country": "Indonesia",
@@ -1568,7 +1834,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBali%20Bliss%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBali%20Bliss%20Hub%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bali-bliss-hub.jpg",
     "fit": "cover"
   },
@@ -3038,7 +3304,7 @@
   {
     "name": "Koh Lanta Bliss Hub - Thailand",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "dropoff",
     "country": "Thailand",
@@ -3068,7 +3334,7 @@
         "https://parentingandpassports.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKoh%20Lanta%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKoh%20Lanta%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
     "photo": "",
     "fit": "cover"
   },
@@ -3171,7 +3437,7 @@
   {
     "name": "Pai Bliss Hub - Thailand",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "dropoff",
     "country": "Thailand",
@@ -3201,7 +3467,7 @@
         "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPai%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPai%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
     "photo": "",
     "fit": "cover"
   },
@@ -7571,7 +7837,7 @@
   {
     "name": "Bliss Hubs Siem Reap",
     "host": "Bliss Hubs",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "",
     "country": "Cambodia",
@@ -7598,7 +7864,7 @@
         "https://worldschooly.com/hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Siem%20Reap%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Siem%20Reap%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESiem%20Reap%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-siem-reap.jpg",
     "fit": "cover"
   },
@@ -7676,7 +7942,7 @@
   {
     "name": "Bliss Hubs Bali",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "",
     "country": "Indonesia",
@@ -7702,14 +7968,14 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Bali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Bali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-bali.jpg",
     "fit": "cover"
   },
   {
     "name": "Bliss Hubs Kuala Lumpur",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "",
     "country": "Malaysia",
@@ -7739,14 +8005,14 @@
         "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Kuala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ELumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Kuala%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3ELumpur%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKuala%20Lumpur%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-kuala-lumpur.jpg",
     "fit": "cover"
   },
   {
     "name": "Algarve Worldschooling Hub (Naturally Richer)",
     "host": "Katarina Garnett",
-    "category": "organic",
+    "category": "permanent_commercial",
     "spanish": false,
     "participation": "dropoff",
     "country": "Portugal",
@@ -7772,7 +8038,7 @@
         "https://blog.worldschoolhubs.com/worldschooling-hubs/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAlgarve%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%20%28Naturally%20Richer%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAlgarve%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAlgarve%20Worldschooling%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EHub%20%28Naturally%20Richer%29%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAlgarve%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/algarve-worldschooling-hub-naturally-riche.jpg",
     "fit": "cover"
   },
@@ -7911,7 +8177,7 @@
   {
     "name": "Bliss Hubs Koh Lanta",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "junk",
     "spanish": false,
     "participation": "family",
     "country": "Thailand",
@@ -7949,14 +8215,14 @@
         "https://parentingandpassports.com/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Koh%20Lanta%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Lanta%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23475569%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232a333f%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Koh%20Lanta%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKoh%20Lanta%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-koh-lanta.jpg",
     "fit": "cover"
   },
   {
     "name": "Bliss Hubs Krabi",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "permanent_community",
     "spanish": false,
     "participation": "family",
     "country": "Thailand",
@@ -7971,7 +8237,7 @@
     "source": "web research (WorldlyTribe)",
     "notes": "Different from Krabi Family Fun (separate organizer) - verify.",
     "id": "bliss-hubs-krabi",
-    "summary": "A whole-family family-gathering destination in Krabi (Andaman coast).",
+    "summary": "A whole-family intentional community / eco-village in Krabi (Andaman coast).",
     "references": [
       [
         "Website",
@@ -7982,7 +8248,7 @@
         "https://worldlytribe.com/worldschooling-hubs-directory/"
       ]
     ],
-    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Krabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%20%28Andaman%20coast%29%3C/text%3E%3C/svg%3E",
+    "thumb": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBliss%20Hubs%20Krabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%20%28Andaman%20coast%29%3C/text%3E%3C/svg%3E",
     "photo": "hub-images/bliss-hubs-krabi.jpg",
     "fit": "cover"
   },

@@ -228,6 +228,167 @@
     }
   },
   {
+    "id": "luxor",
+    "name": "Luxor",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Egypt",
+    "region": "Luxor",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (7 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELuxor%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELuxor%3C/text%3E%3C/svg%3E",
+    "coords": [
+      25.702096,
+      32.647186
+    ],
+    "mentions": [
+      {
+        "domain": "bostontribetravels.com",
+        "url": "https://bostontribetravels.com/destinations-2/",
+        "snippet": "Luxor worldschooling hub - families gather for historical adventures.",
+        "date": "unknown"
+      },
+      {
+        "domain": "educateaway.co.uk",
+        "url": "https://educateaway.co.uk/worldschooling/",
+        "snippet": "Group of worldschoolers gather in Luxor for children to learn and play together at a dedicated worldschooling hub.",
+        "date": "2023-03"
+      },
+      {
+        "domain": "passportexplorers.com",
+        "url": "https://passportexplorers.com/worldschooling-communities/",
+        "snippet": "The Hub Project (formerly Worldschool Luxor Egypt pre-2024) — established worldschooling family base",
+        "date": "unknown"
+      },
+      {
+        "domain": "theworldschoolatlas.com",
+        "url": "https://theworldschoolatlas.com/",
+        "snippet": "\"EGYPTIAN ADVENTURES\" hub with long-term stays and activity-inclusive programs for worldschooling families.",
+        "date": "2025-04"
+      },
+      {
+        "domain": "voluntouring.org",
+        "url": "https://voluntouring.org/2021/11/04/worldschooling-communities-around-the-world/",
+        "snippet": "Learning hub for families looking to attend 6-week educational immersion sessions.",
+        "date": "2021-11"
+      },
+      {
+        "domain": "worldlytribe.com",
+        "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+        "snippet": "Egyptian Adventures — The Hub Project: One of the most established community hubs in the region",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschooly.com",
+        "url": "https://worldschooly.com/hubs/",
+        "snippet": "Egyptian Adventures — permanent hub, 30-day duration for worldschooling families.",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "antigua-guatemala",
+    "name": "Antigua, Guatemala",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Guatemala",
+    "region": "Antigua",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (5 independent sources)",
+    "references": [
+      [
+        "Antigüeña Spanish Academy (R110)",
+        "https://www.spanishacademyantiguena.com/"
+      ],
+      [
+        "No Back Home — Guatemala schools (R110)",
+        "https://nobackhome.com/spanish-schools-in-guatemala/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EAntigua%2C%20Guatemala%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EAntigua%3C/text%3E%3C/svg%3E",
+    "coords": [
+      14.5567814,
+      -90.7337346
+    ],
+    "mentions": [
+      {
+        "domain": "nobackhome.com",
+        "url": "https://nobackhome.com/spanish-schools-in-guatemala/",
+        "snippet": "UNESCO World Heritage town filled with all the places that foreigners like to frequent — local restaurants, shops, and Spanish schools; a base for traveling families.",
+        "date": "2018-12"
+      },
+      {
+        "domain": "theworldschoolatlas.com",
+        "url": "https://theworldschoolatlas.com/",
+        "snippet": "Farm-based hub with organised programming, activities, and outdoor learning for multiple age groups of worldschooling families.",
+        "date": "2024-03"
+      },
+      {
+        "domain": "worldlytribe.com",
+        "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+        "snippet": "Antigua Global Explorers Worldschool opened 2024 and already earning a strong reputation. Permanent hub in Antigua.",
+        "date": "2024"
+      },
+      {
+        "domain": "worldschooly.com",
+        "url": "https://worldschooly.com/hubs/",
+        "snippet": "Antigua Global Explorers (AGE) — permanent hub rated 5.0, families gather and base here.",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschoolingpopups.com",
+        "url": "https://www.worldschoolingpopups.com/events",
+        "snippet": "Antigua Green School — Guatemala. Follows school year. School-year base for worldschooling families.",
+        "date": "unknown"
+      },
+      {
+        "domain": "antiguaworldschool.com",
+        "url": "https://www.antiguaworldschool.com",
+        "snippet": "Antigua Global Explorers Worldschool opened to the worldschool scene in Antigua Guatemala since November 2024.",
+        "date": "2024-11"
+      },
+      {
+        "domain": "spanishacademyantiguena.com",
+        "url": "https://www.spanishacademyantiguena.com/",
+        "snippet": "A city full of tradition, color, culture and history — classes for kids and adults from many parts of the world.",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschoolantigua.com",
+        "url": "https://www.worldschoolantigua.com",
+        "snippet": "Worldschool Antigua Guatemala — worldschooling hub in central america. Local and traveling hub for worldschooling families to gather.",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
     "id": "goa-arambol-mandrem",
     "name": "Goa (Arambol/Mandrem)",
     "host": "",
@@ -334,12 +495,115 @@
     }
   },
   {
-    "id": "hakuba-international-term-year",
-    "name": "Hakuba International (term/year)",
+    "id": "bali",
+    "name": "Bali",
     "host": "",
     "category": "organic",
     "categories": [
       "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Indonesia",
+    "region": "Bali",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (12 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EBali%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EBali%3C/text%3E%3C/svg%3E",
+    "coords": [
+      -8.2271303,
+      115.1919203
+    ],
+    "mentions": [
+      {
+        "domain": "adventuretravelfamily.co.uk",
+        "url": "https://adventuretravelfamily.co.uk/2018/07/07/worldschooling-a-typical-day-in-our-worldschooling-family-life/",
+        "snippet": "moved from our original home (the UK) to another country (Bali), and travel from a different base",
+        "date": "2018-07"
+      },
+      {
+        "domain": "bostontribetravels.com",
+        "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+        "snippet": "Boundless Life has permanent locations providing accommodations, education centers for kids, and co-working hubs for parents.",
+        "date": "2023-07-14"
+      },
+      {
+        "domain": "changetheworldwithkaryn.com",
+        "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+        "snippet": "short term enrollment options for traveling families at Green School Bali",
+        "date": "2025-03"
+      },
+      {
+        "domain": "eenmooigezin.nl",
+        "url": "https://eenmooigezin.nl/worldschooling/",
+        "snippet": "Wereldwijd hub waar reizende gezinnen samenkomen via Facebook-groepen en apps.",
+        "date": "unknown"
+      },
+      {
+        "domain": "parentingandpassports.com",
+        "url": "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/",
+        "snippet": "Six months house sitting in Canggu, Bali. Best places to meet other world schoolers includes Bali.",
+        "date": "2021-04-29"
+      },
+      {
+        "domain": "theprofessionalhobo.com",
+        "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+        "snippet": "Green School in Bali operates as long-term option for international schooling and multicultural socialization for worldschooling families.",
+        "date": "2025-03"
+      },
+      {
+        "domain": "buzzsprout.com",
+        "url": "https://www.buzzsprout.com/2398956/episodes/16589196-the-way-to-bliss-worldschool-hubs-and-worldschooling",
+        "snippet": "Kuala Lumpur in Malaysia and Bali — listed as Bliss worldschool hub gathering locations for families",
+        "date": "2025-02"
+      },
+      {
+        "domain": "mikanlesham.com",
+        "url": "https://mikanlesham.com/digital-nomad/",
+        "snippet": "ידועה בקהילות דינמיות, מפגשים קבועים וחיי חברה (known for dynamic communities, regular meetups and social life).",
+        "date": "2024-10"
+      },
+      {
+        "domain": "thebinaschool.com",
+        "url": "https://www.thebinaschool.com/blog/worldschooling",
+        "snippet": "Community immersion programs for traveling families and digital nomads; mentioned alongside other hubs.",
+        "date": "unknown"
+      },
+      {
+        "domain": "mumsnet.com",
+        "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/5308715-would-you-take-your-kids-out-of-school-to-go-travelling?page=3",
+        "snippet": "Our boys also spent six weeks in a little international school in Bali that took temporary enrolments — family basing for extended period",
+        "date": "2025-04"
+      },
+      {
+        "domain": "blog.worldschoolhubs.com",
+        "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+        "snippet": "Permanent Boundless Life location in Bali for worldschooling families",
+        "date": "unknown"
+      },
+      {
+        "domain": "trips.everyavenue.com",
+        "url": "https://trips.everyavenue.com",
+        "snippet": "Singapore to Bali Cruise — cruise destination visited by worldschooling families.",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "hakuba-international-term-year",
+    "name": "Hakuba International (term/year)",
+    "host": "",
+    "category": "permanent_commercial",
+    "categories": [
+      "permanent_commercial"
     ],
     "spanish": false,
     "participation": "family",
@@ -467,9 +731,13 @@
     "nationality": "Mixed intl",
     "validity": "High",
     "website": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/groups/worldschoolersinmalaysia/",
     "summary": "Year-round Malaysian city repeatedly named the best SE-Asia base for homeschooling community and flexible long stays.",
     "references": [
+      [
+        "Facebook / Instagram",
+        "https://www.facebook.com/groups/worldschoolersinmalaysia/"
+      ],
       [
         "Parenting&Passports — KL (R2)",
         "https://parentingandpassports.com/worldschooling-slow-travel-southeast-asia/"
@@ -532,9 +800,9 @@
     "id": "worldschoolers-in-kuala-lumpur",
     "name": "Worldschoolers in Kuala Lumpur",
     "host": "",
-    "category": "organic",
+    "category": "junk",
     "categories": [
-      "organic"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -581,6 +849,301 @@
     "coords": [
       3.1516964,
       101.6942371
+    ]
+  },
+  {
+    "id": "oaxaca",
+    "name": "Oaxaca",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "Oaxaca",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (8 independent sources)",
+    "references": [
+      [
+        "Instituto Cultural Oaxaca (R112)",
+        "https://www.icomexico.com/"
+      ],
+      [
+        "Deliberate Detour (R76)",
+        "https://deliberatedetour.com/"
+      ]
+    ],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EOaxaca%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EOaxaca%3C/text%3E%3C/svg%3E",
+    "coords": [
+      17,
+      -96.5
+    ],
+    "mentions": [
+      {
+        "domain": "changetheworldwithkaryn.com",
+        "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+        "snippet": "Deliberate Detour's amazing cultural immersion for kids 7-16 with structured community days",
+        "date": "2025-03"
+      },
+      {
+        "domain": "passportexplorers.com",
+        "url": "https://passportexplorers.com/worldschooling-communities/",
+        "snippet": "Deliberate Detour Hub location — including Oaxaca Mexico, where worldschooling families gather",
+        "date": "unknown"
+      },
+      {
+        "domain": "theprofessionalhobo.com",
+        "url": "https://www.theprofessionalhobo.com/worldschooling-communities-courses-and-hubs/",
+        "snippet": "Tlayudona connects worldschoolers with local hosts in Oaxaca for authentic experiences and language immersion.",
+        "date": "2025-03"
+      },
+      {
+        "domain": "blog.worldschoolhubs.com",
+        "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+        "snippet": "Culture and community hubs in Oaxaca with drop-off activities for worldschooling families",
+        "date": "2026"
+      },
+      {
+        "domain": "homeschool.com.mx",
+        "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+        "snippet": "otro imán para familias que buscan inmersión cultural profunda",
+        "date": "2026-05"
+      },
+      {
+        "domain": "worldlytribe.com",
+        "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+        "snippet": "Deliberate Detour runs one of the most acclaimed worldschooling programs in Oaxaca. Small groups of up to 16 children",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschooly.com",
+        "url": "https://worldschooly.com/hubs/",
+        "snippet": "Oaxaca Pop-Up — 6-day worldschooling program for families gathering in Oaxaca.",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschoolmexico.com",
+        "url": "https://www.worldschoolmexico.com/",
+        "snippet": "immersive students in one of Mexico's most culturally rich regions, offering Zapotec traditions and weaving",
+        "date": "unknown"
+      },
+      {
+        "domain": "deliberatedetour.com",
+        "url": "https://www.deliberatedetour.com",
+        "snippet": "Discover a richly woven culture shining through cuisine, craft, weaving, parades, and dance — immersive 2-week and family programs run June–August and Oct–Nov.",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "playa-del-carmen",
+    "name": "Playa del Carmen",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "Playa del Carmen",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (4 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPlaya%20del%20Carmen%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EPlaya%20del%20Carmen%3C/text%3E%3C/svg%3E",
+    "coords": [
+      20.6461095,
+      -87.0809021
+    ],
+    "mentions": [
+      {
+        "domain": "simplehomeschool.net",
+        "url": "https://simplehomeschool.net/mexico-central-america/",
+        "snippet": "Playa del Carmen has a strong homeschooling/worldschooling community where families gather and base themselves.",
+        "date": "2016-08"
+      },
+      {
+        "domain": "wildjunket.com",
+        "url": "https://www.wildjunket.com/digital-nomad-family/",
+        "snippet": "Daughter attended the El Arbol project-based school in Playa del Carmen while the family was based there.",
+        "date": "2026-01"
+      },
+      {
+        "domain": "homeschool.com.mx",
+        "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+        "snippet": "atraen familias nómadas de todo el mundo, muchas con hijos en edad escolar",
+        "date": "2026-05"
+      },
+      {
+        "domain": "worldschooly.com",
+        "url": "https://worldschooly.com/hubs/",
+        "snippet": "Wildroots Worldschool — 5-day camp for worldschooling families in Playa del Carmen.",
+        "date": "unknown"
+      },
+      {
+        "domain": "wildrootsworldschool.com",
+        "url": "https://www.wildrootsworldschool.com",
+        "snippet": "Wild Roots Worldschool Summer Camp — Playa del Carmen. Beach days. Cenotes. Marine life. Bare feet.",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "san-miguel-de-allende",
+    "name": "San Miguel de Allende",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Mexico",
+    "region": "San Miguel de Allende",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (7 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ESan%20Miguel%20de%20Allende%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ESan%20Miguel%20de%20Allende%3C/text%3E%3C/svg%3E",
+    "coords": [
+      20.9130501,
+      -100.73566
+    ],
+    "mentions": [
+      {
+        "domain": "mexicotravel.blog",
+        "url": "https://mexicotravel.blog/about/",
+        "snippet": "Author's family found a great community in San Miguel de Allende and fell in love with its colorful culture; family relocated here in 2021 and established community roots.",
+        "date": "unknown"
+      },
+      {
+        "domain": "passportexplorers.com",
+        "url": "https://passportexplorers.com/worldschooling-communities/",
+        "snippet": "Located in San Miguel de Allende, this program just started in 2025 — worldschooling family hub",
+        "date": "unknown"
+      },
+      {
+        "domain": "pearceonearth.com",
+        "url": "https://pearceonearth.com/category/travel/san-miguel/",
+        "snippet": "growing worldschooling community, the many opportunities for our girls to take classes at reasonable prices, the eternal spring climate — family purchased a home there.",
+        "date": "2017-07"
+      },
+      {
+        "domain": "wildjunket.com",
+        "url": "https://www.wildjunket.com/digital-nomad-family/",
+        "snippet": "\"We were part of an amazing community\" after moving to San Miguel de Allende for deeper cultural connection.",
+        "date": "2026-01"
+      },
+      {
+        "domain": "homeschool.com.mx",
+        "url": "https://homeschool.com.mx/worldschooling-mexico-aprender-viajando/",
+        "snippet": "se ha consolidado como uno de los hubs de worldschooling más activos de México y América Latina",
+        "date": "2026-05"
+      },
+      {
+        "domain": "worldlytribe.com",
+        "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+        "snippet": "Worldschool Mexico launched in 2025 in San Miguel de Allende. It offers month-long and semester-based programs",
+        "date": "2025"
+      },
+      {
+        "domain": "worldschoolmexico.com",
+        "url": "https://www.worldschoolmexico.com/",
+        "snippet": "colonial architecture meets contemporary creativity in our arts, cooking, and family programs",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "cusco",
+    "name": "Cusco",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Peru",
+    "region": "Cusco",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (5 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ECusco%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ECusco%3C/text%3E%3C/svg%3E",
+    "coords": [
+      -13.5170887,
+      -71.9785356
+    ],
+    "mentions": [
+      {
+        "domain": "changetheworldwithkaryn.com",
+        "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+        "snippet": "cultural programs for worldschooling families with 4 hub-based days per week",
+        "date": "2025-03"
+      },
+      {
+        "domain": "passportexplorers.com",
+        "url": "https://passportexplorers.com/worldschooling-communities/",
+        "snippet": "Deliberate Detour Hub location — Cusco Peru, where worldschooling families base themselves",
+        "date": "unknown"
+      },
+      {
+        "domain": "blog.worldschoolhubs.com",
+        "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+        "snippet": "Deliberate Detour programme in Cusco offering safe, structured, creative environment for worldschooling families",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldlytribe.com",
+        "url": "https://worldlytribe.com/worldschooling-hubs-directory/",
+        "snippet": "Deliberate Detour also runs its Signature Immersion program in Cusco, Peru, with optional family excursions",
+        "date": "unknown"
+      },
+      {
+        "domain": "worldschooly.com",
+        "url": "https://worldschooly.com/hubs/",
+        "snippet": "Project Worldschool — Peru Retreat, pop-up 15-day gathering for worldschooling families.",
+        "date": "unknown"
+      },
+      {
+        "domain": "deliberatedetour.com",
+        "url": "https://www.deliberatedetour.com",
+        "snippet": "Dive into a magical place blending traditions, nature, culinary delights, and stunning landscapes — immersive programs run July–August.",
+        "date": "unknown"
+      }
     ]
   },
   {
@@ -631,12 +1194,61 @@
     ]
   },
   {
-    "id": "bliss-hubs-pai",
-    "name": "Bliss Hubs Pai",
-    "host": "Bliss Investor",
+    "id": "la-herradura",
+    "name": "La Herradura",
+    "host": "",
     "category": "organic",
     "categories": [
       "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Spain",
+    "region": "La Herradura",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELa%20Herradura%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Herradura%3C/text%3E%3C/svg%3E",
+    "coords": [
+      36.7345524,
+      -3.7379332
+    ],
+    "mentions": [
+      {
+        "domain": "changetheworldwithkaryn.com",
+        "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+        "snippet": "community that brings together traveling families, digital nomads and local residents",
+        "date": "2025-03"
+      },
+      {
+        "domain": "remoterebellion.com",
+        "url": "https://remoterebellion.com/blog/nomad-parent-lifestyle",
+        "snippet": "Identified as a perennial worldschooling hub destination for families.",
+        "date": "unknown"
+      },
+      {
+        "domain": "vagabundenliebe.de",
+        "url": "https://vagabundenliebe.de/freilerner-treffen-weltweit/",
+        "snippet": "Weekly Worldschooling Meet-Up on beaches in La Herradura (Andalucía) — recurring Friday gatherings",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "bliss-hubs-pai",
+    "name": "Bliss Hubs Pai",
+    "host": "Bliss Investor",
+    "category": "junk",
+    "categories": [
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -863,6 +1475,61 @@
     }
   },
   {
+    "id": "krabi",
+    "name": "Krabi",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Thailand",
+    "region": "Krabi",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKrabi%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EKrabi%3C/text%3E%3C/svg%3E",
+    "coords": [
+      8.1111653,
+      99.1097298
+    ],
+    "mentions": [
+      {
+        "domain": "bostontribetravels.com",
+        "url": "https://bostontribetravels.com/world-schooling-communities-to-enhance-family-travel/",
+        "snippet": "Nature-Mind educational organization offers programs for children and worldschoolers designed to foster love of nature.",
+        "date": "2023-07-14"
+      },
+      {
+        "domain": "changetheworldwithkaryn.com",
+        "url": "https://changetheworldwithkaryn.com/top-worldschool-hubs-for-traveling-families/",
+        "snippet": "short programs for families combining nature-based education with mindfulness",
+        "date": "2025-03"
+      },
+      {
+        "domain": "rebeccawegmann.com",
+        "url": "https://rebeccawegmann.com/worldschooling-in-thailand/",
+        "snippet": "Families have been visiting Krabi — a popular spot for worldschooling families in Thailand",
+        "date": "unknown"
+      },
+      {
+        "domain": "naturemind-ed.com",
+        "url": "https://naturemind-ed.com/experiences/worldschooling/",
+        "snippet": "10 day eco-adventure community for worldschooling families in Krabi, Thailand",
+        "date": "2026-04-10"
+      }
+    ]
+  },
+  {
     "id": "pai",
     "name": "Pai",
     "host": "",
@@ -927,6 +1594,55 @@
     }
   },
   {
+    "id": "la-barra",
+    "name": "La Barra",
+    "host": "",
+    "category": "organic",
+    "categories": [
+      "organic"
+    ],
+    "spanish": false,
+    "participation": "",
+    "country": "Uruguay",
+    "region": "La Barra",
+    "season": "",
+    "months": [],
+    "price": "",
+    "costBucket": "unlisted",
+    "ages": "",
+    "nationality": "",
+    "validity": "inbox-approved",
+    "website": "",
+    "facebook": "",
+    "summary": "Organic place surfaced by mention-mining (3 independent sources)",
+    "references": [],
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e7d32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231b4b1e%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%8D%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3ELa%20Barra%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3ELa%20Barra%3C/text%3E%3C/svg%3E",
+    "coords": [
+      -34.914587,
+      -54.8614131
+    ],
+    "mentions": [
+      {
+        "domain": "heathandalyssa.com",
+        "url": "https://heathandalyssa.com/we-tried-6-boundless-life-locations-heres-how-they-rank/",
+        "snippet": "Second Boundless cohort based at La Barra with beach housing and school for the season.",
+        "date": "2026-04"
+      },
+      {
+        "domain": "passportexplorers.com",
+        "url": "https://passportexplorers.com/worldschooling-communities/",
+        "snippet": "Boundless Life Uruguay (La Barra, near Punta del Este) — worldschooling family nesting location",
+        "date": "unknown"
+      },
+      {
+        "domain": "blog.worldschoolhubs.com",
+        "url": "https://blog.worldschoolhubs.com/worldschooling-hubs/",
+        "snippet": "Boundless Life programme with structured education in La Barra, Uruguay",
+        "date": "unknown"
+      }
+    ]
+  },
+  {
     "id": "hoi-an-an-bang",
     "name": "Hoi An / An Bang",
     "host": "",
@@ -952,9 +1668,13 @@
     "nationality": "Anglophone intl + Israeli",
     "validity": "High",
     "website": "https://www.facebook.com/groups/1137478175223942",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/groups/1137478175223942",
     "summary": "Charming, walkable, affordable central-Vietnam base with a 30+ family worldschool community; comfortable Jan–May, avoid Oct–Nov floods.",
     "references": [
+      [
+        "Facebook / Instagram",
+        "https://www.facebook.com/groups/1137478175223942"
+      ],
       [
         "World Travel Ambitions — Hoi An (R15)",
         "https://worldtravelambitions.com/blog/worldschooling-hoi-an-vietnam-5-year-journey-accident-to-intention/"
@@ -974,9 +1694,9 @@
     "id": "worldschoolers-of-hoi-an",
     "name": "Worldschoolers of Hoi An",
     "host": "Liessl",
-    "category": "organic",
+    "category": "junk",
     "categories": [
-      "organic"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -1387,9 +2107,9 @@
     "id": "siem-reap-bliss-hub-cambodia",
     "name": "Siem Reap Bliss Hub - Cambodia",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "categories": [
-      "permanent_commercial"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -2636,9 +3356,9 @@
     "id": "bali-bliss-hub",
     "name": "Bali Bliss Hub",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "categories": [
-      "permanent_commercial"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -5817,9 +6537,9 @@
     "id": "koh-lanta-bliss-hub-thailand",
     "name": "Koh Lanta Bliss Hub - Thailand",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "categories": [
-      "permanent_commercial"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -5849,7 +6569,7 @@
         "https://parentingandpassports.com/"
       ]
     ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKoh%20Lanta%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EKoh%20Lanta%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
     "coords": [
       14.8971921,
       100.83273
@@ -6005,9 +6725,9 @@
     "id": "pai-bliss-hub-thailand",
     "name": "Pai Bliss Hub - Thailand",
     "host": "",
-    "category": "permanent_commercial",
+    "category": "permanent_community",
     "categories": [
-      "permanent_commercial"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -6037,7 +6757,7 @@
         "https://www.bangkokpost.com/thailand/general/2964833/israelis-under-immigration-microscope-in-pai"
       ]
     ],
-    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231565c0%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230c3c73%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8F%AB%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPai%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22300%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2300897b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23005249%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22480%22%20height%3D%22300%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%2226%22%20y%3D%2296%22%20font-size%3D%2262%22%3E%F0%9F%8C%B1%3C/text%3E%3Ctext%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23fff%22%20y%3D%22184%22%3E%3Ctspan%20x%3D%2226%22%20dy%3D%220%22%3EPai%20Bliss%20Hub%20-%3C/tspan%3E%3Ctspan%20x%3D%2226%22%20dy%3D%2234%22%3EThailand%3C/tspan%3E%3C/text%3E%3Ctext%20x%3D%2226%22%20y%3D%22262%22%20font-family%3D%22system-ui%2CArial%2Csans-serif%22%20font-size%3D%2219%22%20fill%3D%22%23ffffffcc%22%3EThailand%3C/text%3E%3C/svg%3E",
     "coords": [
       14.8971921,
       100.83273
@@ -12018,9 +12738,9 @@
     "id": "bliss-hubs-siem-reap",
     "name": "Bliss Hubs Siem Reap",
     "host": "Bliss Hubs",
-    "category": "organic",
+    "category": "junk",
     "categories": [
-      "organic"
+      "junk"
     ],
     "spanish": false,
     "participation": "",
@@ -12136,9 +12856,9 @@
     "id": "bliss-hubs-bali",
     "name": "Bliss Hubs Bali",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "junk",
     "categories": [
-      "organic"
+      "junk"
     ],
     "spanish": false,
     "participation": "",
@@ -12187,9 +12907,9 @@
     "id": "bliss-hubs-kuala-lumpur",
     "name": "Bliss Hubs Kuala Lumpur",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "permanent_community",
     "categories": [
-      "organic"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "",
@@ -12242,9 +12962,9 @@
     "id": "algarve-worldschooling-hub-naturally-riche",
     "name": "Algarve Worldschooling Hub (Naturally Richer)",
     "host": "Katarina Garnett",
-    "category": "organic",
+    "category": "permanent_commercial",
     "categories": [
-      "organic"
+      "permanent_commercial"
     ],
     "spanish": false,
     "participation": "dropoff",
@@ -12440,9 +13160,9 @@
     "id": "bliss-hubs-koh-lanta",
     "name": "Bliss Hubs Koh Lanta",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "junk",
     "categories": [
-      "organic"
+      "junk"
     ],
     "spanish": false,
     "participation": "family",
@@ -12497,9 +13217,9 @@
     "id": "bliss-hubs-krabi",
     "name": "Bliss Hubs Krabi",
     "host": "Bliss Investor",
-    "category": "organic",
+    "category": "permanent_community",
     "categories": [
-      "organic"
+      "permanent_community"
     ],
     "spanish": false,
     "participation": "family",
@@ -12527,7 +13247,7 @@
     "validity": "web candidate (Medium)",
     "website": "blissinvestor.com",
     "facebook": "",
-    "summary": "A whole-family family-gathering destination in Krabi (Andaman coast).",
+    "summary": "A whole-family intentional community / eco-village in Krabi (Andaman coast).",
     "references": [
       [
         "Website",

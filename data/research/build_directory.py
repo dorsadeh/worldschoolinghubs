@@ -258,7 +258,7 @@ def categorize(name, typ, audience, country, notes, edu):
     cat = ""
     if any(t in n for t in TRAVELING): cat = "traveling"
     elif typ == "summer_camp": cat = "summer_camp"
-    elif typ == "base_city" or "destination" in blob: cat = "organic"
+    elif typ in ("base_city", "organic") or "destination" in blob: cat = "organic"
     elif typ == "recurring_event" or any(k in blob for k in ["pop-up","pop up","gathering","summit","conference","camp","retreat","cruise","sailing"]):
         cat = "popup"
     elif typ == "online_community": cat = "online"
