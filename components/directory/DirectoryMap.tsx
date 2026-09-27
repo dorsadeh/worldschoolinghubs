@@ -8,6 +8,7 @@ import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import { CATEGORY_META, DISPLAY_CATEGORIES, type DirectoryHub } from "@/lib/directory";
+import { BASEMAP_ATTRIBUTION, BASEMAP_MAX_ZOOM, BASEMAP_TILE_URL } from "@/lib/basemap";
 
 /** Plain-number viewport box reported on every pan/zoom. */
 export interface MapBounds {
@@ -69,10 +70,7 @@ export default function DirectoryMap({ hubs, selectedId, hoveredId, onSelect, on
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, { center: [20, 0], zoom: 2, minZoom: 2, worldCopyJump: true, scrollWheelZoom: true });
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-      maxZoom: 19,
-    }).addTo(map);
+    L.tileLayer(BASEMAP_TILE_URL, { attribution: BASEMAP_ATTRIBUTION, maxZoom: BASEMAP_MAX_ZOOM }).addTo(map);
     const cluster = L.markerClusterGroup({
       showCoverageOnHover: false,
       maxClusterRadius: 45,

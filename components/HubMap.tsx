@@ -7,6 +7,7 @@ import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import { hasCoordinates, TYPE_META, type Hub } from "@/lib/hub";
+import { BASEMAP_ATTRIBUTION, BASEMAP_MAX_ZOOM, BASEMAP_TILE_URL } from "@/lib/basemap";
 
 interface HubMapProps {
   hubs: Hub[];
@@ -53,10 +54,7 @@ export default function HubMap({ hubs, selectedId, onSelect }: HubMapProps) {
       worldCopyJump: true,
       scrollWheelZoom: true,
     });
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-      maxZoom: 19,
-    }).addTo(map);
+    L.tileLayer(BASEMAP_TILE_URL, { attribution: BASEMAP_ATTRIBUTION, maxZoom: BASEMAP_MAX_ZOOM }).addTo(map);
     const cluster = L.markerClusterGroup({
       showCoverageOnHover: false,
       maxClusterRadius: 45,
